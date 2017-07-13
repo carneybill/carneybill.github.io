@@ -1,0 +1,42 @@
+{{ partial "header.html" . }}
+
+<div class="container">
+<main>
+{{if not .IsHome }}
+<h1>{{ .Title }}</h1>
+{{ end }}
+
+{{ .Content }}
+
+{{ range (where .Paginator.Pages "Section" "post") }}
+<section class="article-list">
+  {{ with .Params.categories }}
+  {{ range first 1 . }}
+  <div class="categories">
+    <a href="{{ relURL (print "/categories/" . | urlize) }}">{{ . }}</a>
+  </div>
+  {{ end }}
+  {{ end }}
+  <h1><a href="{{ .URL }}">{{ .Title }}</a></h1>
+  <div>
+    <span>{{ .Date.Format "2006-01-02" }}</span>
+    {{ with .Params.author }}<span>{{ . }}</span>{{ end }}
+  </div>
+  <div class="summary">
+    {{ $img := findRE "<img src=\"[^\"]+\"" .Content 1 }}
+    {{ range $img }}
+    <div class="thumbnail">{{ (print . " alt=\"Thumbnail\" />") | safeHTML }}</div>
+    {{ end }}
+    {{ default .Summary .Description }}
+    <a href="{{ .URL }}" class="more" title="Read More...">Read more &rarr;</a>
+  </div>
+</section>
+{{ end }}
+
+{{ template "_internal/pagination.html" . }}
+</main>
+
+{{ partial "sidebar.html" . }}
+</div>
+
+{{ partial "footer.html" . }}

@@ -1,0 +1,83 @@
+baseurl = "http://carneybill.github.io/"
+languageCode = "en-us"
+title = "Carney Blog"
+theme = "hugo-xmin"
+googleAnalytics = "UA-102325748-1"
+disqusShortname = "blog-carney"
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+footnotereturnlinkcontents = "↩"
+preserveTaxonomyNames = true
+[author]
+  email = "bill@carney.wiki"
+  name = "Carney"
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.logo]]
+    name = "RStudio Blog"
+    pre = "/icons/rstudio-circle.svg"
+    url = "/"
+    weight = 1
+[[menu.logo]]
+    name = "Blog"
+    pre = "/icons/rstudio-blog.svg"
+    url = "/"
+    weight = 2
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+[[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 3
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 4
+[[menu.main]]
+    name = "Archives"
+    url = "/archives/"
+    weight = 5
+    identifier = "archives"
+
+[[menu.icons]]
+    name = "Github"
+    post = "github"
+    url = "https://github.com/carneybill"
+    weight = 1
+[[menu.icons]]
+    name = "Twitter"
+    post = "twitter"
+    url = "https://twitter.com/_billc"
+    weight = 2
+[[menu.icons]]
+    name = "RSS"
+    post = "rss"
+    url = "/index.xml"
+    weight = 3
+
+[[menu.rstudio]]
+    name = "RStudio Home"
+    url = "https://www.rstudio.com"
+    weight = 1
+[[menu.rstudio]]
+    name = "RStudio Support"
+    url = "https://support.rstudio.com"
+    weight = 2
+[[menu.rstudio]]
+    name = "Contact Us"
+    url = "mailto:bill@carney.wiki"
+    weight = 3
+
+[params]
+    description = "A website built through Hugo and blogdown."
+    footer = "&copy; [RStudio, Inc.](https://www.rstudio.com) 2011 - 2017"
+    copyright = "RStudio, Inc. 2011 - 2017"
+    disqusURL = "https://blog.rstudio.com"

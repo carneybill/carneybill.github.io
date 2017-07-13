@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <link rel="icon" type="image/png" href="{{ "/icons/favicon.png" | relURL }}" />
+    <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}" />
+    <link rel="stylesheet" href="{{ "/css/fonts.css" | relURL }}" />
+    {{ partial "head_custom.html" . }}
+  </head>
+
+  <body>
+    <nav class="menu">
+    {{ partial "icons.html" . }}
+    <ul>
+      {{ range .Site.Menus.logo }}
+      <li class="icon left">
+        <a href="{{ .URL | relURL }}"><img src="{{ relURL .Pre }}" alt="{{ .Name }}" title="{{ .Name }}" />{{ if eq .Weight 1 }}<span>{{ .Name }}</span>{{ end }}</a>
+      </li>
+      {{ end }}
+      {{ range .Site.Menus.main }}
+      <li{{ if .Identifier }} class="optional"{{ end }}>
+        <a href="{{ .URL | relURL }}"{{ if eq .URL $.URL }} class="active"{{ end }}>{{ .Name }}</a>
+      </li>
+      {{ end }}
+      {{ range .Site.Menus.icons }}
+      <li class="icon right">
+        <a href="{{ .URL | relURL }}"><svg viewBox="0 0 16 16"><use xlink:href="#icon-{{ .Post }}"></use></svg></a>
+      </li>
+      {{ end }}
+    </ul>
+    </nav>

@@ -1,0 +1,18 @@
+https://blog.rstudio.org/*  https://blog.rstudio.com/:splat  301!
+http://blog.rstudio.org/*   https://blog.rstudio.com/:splat  301!
+
+https://rstudio-blog.netlify.com/*  https://blog.rstudio.com/:splat  301!
+http://rstudio-blog.netlify.com/*   https://blog.rstudio.com/:splat  301!
+
+/feed/            /index.xml
+/comments/feed/   https://blog-rstudio.disqus.com/latest.rss
+/author/*         /
+
+/tag/:slug/*         /tags/:slug
+/category/:slug/*    /categories/:slug
+
+/:year/:month/page/*  /archives/
+
+/:year/:month/    /archives/
+/:year/           /archives/
+
