@@ -1,1 +1,2 @@
-# carneybill-github.io
+# blog
+Carney Blog
