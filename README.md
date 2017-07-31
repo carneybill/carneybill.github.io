@@ -1,2 +1,0 @@
-# blog
-Bill Page Test
