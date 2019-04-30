@@ -1,6 +1,6 @@
 # Main config file for icon theme.
 theme = "hugo-icon"
-baseURL = "https://carney.netlify.com"
+baseURL = "https://carneybill.github.io/"
 languageCode = "en-AU"
 title = "Bill Carney"
 
