@@ -67,7 +67,7 @@ title = "Bill Carney"
   enable = true
   video = false
   vidlink = "https://vimeo.com/channels/staffpicks/93951774"
-  title = "Who is Bill?"
+  title = "Who am I?"
   description = "I’m just a marketing guy with experience in delivering innovative programs and campaigns that accelerate profitable growth, increase brand value, and expand market share. I use years of experience with various marketing technologies, content leverage techniques, and analytics to help companies grow quickly and achieve meaningful differentiation."
 
   [[params.services.item]]
