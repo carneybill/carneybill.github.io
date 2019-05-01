@@ -18,7 +18,7 @@ title = "Bill Carney"
 # Navigation section
 [params.nav]
   mission = "Tools"
-  services = "About"
+  services = "Blog"
   team = "About"
   contact = "Contact"
   # Include logo instead if HOME:
