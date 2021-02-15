@@ -3,8 +3,8 @@ title: "Test post"
 subtitle: "Testing"
 excerpt: "Testing is important"
 date: 2021-02-15
-author: "Bill"
-draft: false
+author: "Bill Carney"
+draft: true
 images:
   - /blog/assets/tachyons-thumbnail.png
   - /blog/assets/tachyons-logo-script-feature.png
@@ -13,7 +13,7 @@ series:
 tags:
   - hugo-site
 categories:
-  - Theme Features
+  - Testing
 # layout options: single or single-sidebar
 layout: single
 ---
