@@ -126,3 +126,6 @@ form [type=submit] {
 opacity: .87;
 transition: background-color .15s ease-in-out;
 }
+.dark-pink, .f-headline-ns, .f-headline-m, .f-headline-l, .f-subheadline-ns, .f-subheadline-m, .f-subheadline-l, .f-headline, .f-subheadline {
+    color: #4287c7;
+}
