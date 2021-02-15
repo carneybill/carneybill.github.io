@@ -4,7 +4,7 @@ subtitle: "Testing"
 excerpt: "Testing is important"
 date: 2021-02-15
 author: "Bill Carney"
-draft: true
+draft: false
 images:
   - /blog/assets/tachyons-thumbnail.png
   - /blog/assets/tachyons-logo-script-feature.png
