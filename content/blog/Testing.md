@@ -2,7 +2,7 @@
 title: "Test post"
 subtitle: "Testing"
 excerpt: "Testing is important"
-date: 2021-15-02
+date: 2021-02-15
 author: "Bill"
 draft: false
 images:
