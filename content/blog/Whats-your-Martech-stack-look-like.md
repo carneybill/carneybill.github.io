@@ -18,13 +18,14 @@ categories:
 layout: single
 ---
 
-<div style=";text-align:center; class="mh4-l w-third-l">
-    <img style="max-width: 400px;" src="/blog/assets/stacks.png"></div>
+![Stacks](/blog/assets/stacks.png)
+
+---
 
 ### The Standardized Martech Stack
 Whats your standardized Martech stack? 
 
-The purpose of documenting the stack is to consolidate for continuity and control. Some of the vendors we use may collect PII (Personal Identifiable Information) on our behalf or may not integrate into our databases of record for subscription management. All Marketing Technology used must include links to privacy policies to understand what they do – We will not standardize on software that does not automatically integrate or is not GDPR compliant to SoftwareAG’s standard.  In some of these applications we may need Administrative rights to enable the integration.  I’ve tried to keep the tech stack in 4 categories:
+The purpose of documenting the stack is to consolidate for continuity and control. Some of the vendors we use may collect PII (Personal Identifiable Information) on our behalf or may not integrate into our databases of record for subscription management. All Marketing Technology used must include links to privacy policies to understand what they do – We will not standardize on software that does not automatically integrate or is not GDPR compliant to our standard.  In some of these applications we may need Administrative rights to enable the integration.  I’ve tried to keep the tech stack in 4 categories:
 
 - **Attraction** – Unknown, Dark, Net New
 - **Engagement** – Customers & prospects, Community, Education
