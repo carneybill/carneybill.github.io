@@ -18,7 +18,7 @@ categories:
 layout: single
 ---
 
-![Stacks](/blog/assets/stacks.png = 200)
+![Stacks](/blog/assets/stacks.png =200x)
 
 ---
 
