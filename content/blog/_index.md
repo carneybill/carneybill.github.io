@@ -1,5 +1,5 @@
 ---
-title: A Blog For the Rest of Us
+title: Just some thoughts
 description: "This is a fully featured blog that supports categories, tags, series, and pagination."
 author: The Team at Formspree
 images:
