@@ -6,8 +6,7 @@ date: 2021-02-15
 author: "Bill Carney"
 draft: false
 images:
-  - /blog/assets/tachyons-thumbnail.png
-  - /blog/assets/tachyons-logo-script-feature.png
+  - /static/img/stacks.jpeg
 series:
   - Getting Started
 tags:
@@ -18,7 +17,7 @@ categories:
 layout: single
 ---
 
-![Tachyons Logo Script](/blog/assets/tachyons-logo-script-feature.png)
+![Tachyons Logo Script](/static/img/stacks.jpeg)
 
 ---
 
