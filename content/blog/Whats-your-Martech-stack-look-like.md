@@ -20,6 +20,8 @@ layout: single
 
 ![Stacks](/blog/assets/stacks.png){:height="36px"}
 
+<img src="/blog/assets/stacks.png" alt="stacks" width="200"/>
+
 ---
 
 ### The Standardized Martech Stack
