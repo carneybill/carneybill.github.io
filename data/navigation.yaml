@@ -1,9 +1,6 @@
 header:
-  - name: Home
-    title: Home Page
-    url: /
   - name: About
-    title: About Blogophonic
+    title: About Bill
     url: /about/
   - name: Blog
     title: Blog
@@ -16,12 +13,6 @@ header:
 footer:
   - name: Help
     title: Visit Help Site
-    url: https://help.formspree.io
-  - name: Privacy
-    title: Privacy Policy
-    url: https://help.formspree.io
-  - name: Terms of Use
-    title: Terms and Conditions
     url: https://help.formspree.io
   - name: RSS
     title: RSS Feed
