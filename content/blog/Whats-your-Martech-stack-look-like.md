@@ -18,7 +18,7 @@ categories:
 layout: single
 ---
 
-![Stacks](/blog/assets/stacks.png =200x)
+![Stacks](/blog/assets/stacks.png){ width=50% }
 
 ---
 
