@@ -27,10 +27,12 @@ Whats your standardized Martech stack?
 
 The purpose of documenting the stack is to consolidate for continuity and control. Some of the vendors we use may collect PII (Personal Identifiable Information) on our behalf or may not integrate into our databases of record for subscription management. All Marketing Technology used must include links to privacy policies to understand what they do – We will not standardize on software that does not automatically integrate or is not GDPR compliant to SoftwareAG’s standard.  In some of these applications we may need Administrative rights to enable the integration.  I’ve tried to keep the tech stack in 4 categories:
 
- - Attraction – Unknown, Dark, Net New
- - Engagement – Customers & prospects, Community, Education
- - Conversion – Right time targeting, Free trial & evaluations
- - Optimization – Data driven decision making, Standardized reporting
+    <ul class="measure lh-title">
+      <li>Attraction – Unknown, Dark, Net New</li>
+      <li>Engagement – Customers & prospects, Community, Education</li>
+      <li>Conversion – Right time targeting, Free trial & evaluations</li>
+      <li>Optimization – Data driven decision making, Standardized reporting</li>
+    </ul>
 
 ## Standardized Rules:
 Integration – our tools must work well together and integrate with existing technology. 
