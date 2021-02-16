@@ -18,7 +18,7 @@ categories:
 layout: single
 ---
 
-![Stacks](/blog/assets/stacks.png){ width=50% }
+![Stacks](/blog/assets/stacks.png){:height="36px"}
 
 ---
 
