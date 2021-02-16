@@ -1,8 +1,8 @@
 ---
 title: "Bill Carney"
-subtitle: "Not just another marketing guy"
+subtitle: "The marketing guy"
 description: "The best marketing is iterative with the right mix of innovative strategic thinking, creative campaign design, and data-driven decision-making."
-date: 2019-02-18T12:27:33-06:00
+date: 2021-02-15T12:27:33-06:00
 images:
   - img/lightbulb.png
 show_action_link: true
