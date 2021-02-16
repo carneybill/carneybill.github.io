@@ -2,7 +2,7 @@ blog: # must match the slug of your blog
   single_sidebar: # for single-sidebar layout
     image:
     title: Just some thoughts
-    description:  "This is a personal blog. Any views or opinions represented in this blog are personal and belong solely to the blog owner and do not represent those of people, institutions or organizations that the owner may or may not be associated with in professional or personal capacity, unless explicitly stated. All content provided on this blog is for informational purposes only. The owner of this blog makes no representations as to the accuracy or completeness of any information on this site or found by following any link on this site. The owner will not be liable for any errors or omissions in this information nor for the availability of this information. The owner will not be liable for any losses, injuries, or damages from the display or use of this information."
+    description:  "This is a personal blog. Any views or opinions represented in this blog are personal and belong solely to me and do not represent those of people, institutions or organizations that I may or may not be associated with in professional or personal capacity, unless explicitly stated. All content provided on this blog is for informational purposes only. I make no representations as to the accuracy or completeness of any information on this site or found by following any link on this site. I am not liable for any errors or omissions in this information nor for the availability of this information. I am not liable for any losses, injuries, or damages from the display or use of this information."
     author: 
     text_link_label: View Recent Posts
     text_link_url: /blog
@@ -10,7 +10,7 @@ blog: # must match the slug of your blog
   list_sidebar: # for list-sidebar layout
     image:
     title: Just some thoughts
-    description: "This is a personal blog. Any views or opinions represented in this blog are personal and belong solely to the blog owner and do not represent those of people, institutions or organizations that the owner may or may not be associated with in professional or personal capacity, unless explicitly stated. All content provided on this blog is for informational purposes only. The owner of this blog makes no representations as to the accuracy or completeness of any information on this site or found by following any link on this site. The owner will not be liable for any errors or omissions in this information nor for the availability of this information. The owner will not be liable for any losses, injuries, or damages from the display or use of this information."
+    description: "This is a personal blog. Any views or opinions represented in this blog are personal and belong solely to me and do not represent those of people, institutions or organizations that I may or may not be associated with in professional or personal capacity, unless explicitly stated. All content provided on this blog is for informational purposes only. I make no representations as to the accuracy or completeness of any information on this site or found by following any link on this site. I am not liable for any errors or omissions in this information nor for the availability of this information. I am not liable for any losses, injuries, or damages from the display or use of this information."
     author: Bill
     text_link_label: Subscribe via RSS
     text_link_url: /index.xml
