@@ -18,8 +18,8 @@ categories:
 layout: single
 ---
 
-![Stacks](/blog/assets/stacks-thumbnail.png)
-
+<center>![Stacks](/blog/assets/stacks-thumbnail.png)
+</center>
 ---
 
 ### The Standardized Martech Stack
