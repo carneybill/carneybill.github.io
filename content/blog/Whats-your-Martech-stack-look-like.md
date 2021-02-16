@@ -18,9 +18,7 @@ categories:
 layout: single
 ---
 
-![Stacks](/blog/assets/stacks.png =200x200)
-
-<img src="/blog/assets/stacks.png" alt="stacks" width="200"/>
+![Stacks](/blog/assets/stacks-thumbnail.png)
 
 ---
 
