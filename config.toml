@@ -48,7 +48,7 @@ preserveTaxonomyNames = true
 
 [social]
   # social accounts (username only)
-  linkedin = "bcarney"
+  linkedin = "in/bcarney"
   facebook = "carney.bill"
   facebook_admin = "" # Facebook Page Admin ID for Domain Insights
   instagram = "_billc"
