@@ -18,6 +18,9 @@ categories:
 layout: single
 ---
 
+<div style=";text-align:center; class="mh4-l w-third-l">
+    <img style="max-width: 400px;" src="/blog/assets/stacks.png"></div>
+
 ### The Standardized Martech Stack
 Whats your standardized Martech stack? 
 
