@@ -6,19 +6,16 @@ date: 2021-02-15
 author: "Bill Carney"
 draft: false
 images:
-  - /static/img/stacks.jpeg
+- /blog/assets/stacks-thumbnail.png
+- /blog/assets/stacks.png
 series:
-  - Getting Started
+  - Machines
 tags:
-  - hugo-site
+  - MarTech
 categories:
-  - Testing
+  - Process
 # layout options: single or single-sidebar
 layout: single
----
-
-![Tachyons Logo Script](/static/img/stacks.jpeg)
-
 ---
 
 ### The Standardized Martech Stack
