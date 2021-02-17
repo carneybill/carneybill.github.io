@@ -27,18 +27,25 @@ So, we can use this as a rule of thumb…the deeper into the buyer journey a pro
 
 Gated | Ungated 
 ------ | ------|
-a      | 4     |
-       | 365   |
-b      |       |
+eBooks| Blog|
+Paid papers| Position Papers|
+Templates|Infographics|
+Templates|Infographics|
+Templates|Infographics|
+Templates|Infographics|
+Templates|Infographics|
+Templates|Infographics|
+Templates|Infographics|
+Templates|Infographics|
 
 
 
-eBooks
-Blog
-Paid papers 
-Position Papers
-Templates
-Infographics
+
+
+ 
+
+
+
 Online tools
 Short videos
 Training videos (Product)
