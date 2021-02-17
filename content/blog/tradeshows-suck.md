@@ -1,7 +1,7 @@
 ---
 title: "I hate tradeshows"
 subtitle: "They don't deliver value"
-excerpt: "You might think it's not important to document the Martech you use but I'd suggest that shoud you choose not to you'll eventually run into overlap as well as compliance concerns. In this post we'll focus on the why take the time to do it and what benefit's it'll have."
+excerpt: "Tradeshows are expensive: between the booth, travel, marketing, and sponsorships, showcasing your products at trade show exhibits can put a SERIOUS dent into your marketing budget. Why do I keep going?"
 date: 2020-12-01
 author: "Bill Carney"
 draft: false
