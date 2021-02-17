@@ -2,12 +2,12 @@
 title: "Operational Efficiencies in Marketing"
 subtitle: ""
 excerpt: "You might think it's not important to document the Martech you use but I'd suggest that shoud you chhose not to you'll eventually run into overlap as well as compliance concerns. In this post we'll focus on the why take the time to do it and"
-date: 2021-02-15
+date: 2020-11-08
 author: "Bill Carney"
 draft: false
 images:
-- /blog/assets/gate-thumbnail.png
-- /blog/assets/gate.png
+- /blog/assets/css-grid-thumbnail.png
+- /blog/assets/css-grid-cover.png
 series:
   - Machines
 tags:
