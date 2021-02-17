@@ -4,7 +4,7 @@ subtitle: ""
 excerpt: "You might think it's not important to document the Martech you use but I'd suggest that shoud you chhose not to you'll eventually run into overlap as well as compliance concerns. In this post we'll focus on the why take the time to do it and"
 date: 2021-02-15
 author: "Bill Carney"
-draft: true
+draft: false
 images:
 - /blog/assets/gate-thumbnail.png
 - /blog/assets/gate.png
