@@ -40,7 +40,41 @@ Templates|Infographics|
 
 
 
-
+<h6 class="ttu tracked black-30 pv3 mt5 bt b--black-10">Sample Table</h6>
+    <table class="collapse ba bw1 b--moon-gray mv4 w-100">
+      <thead>
+        <tr>
+          <th class="f6 fw6 tl ttu pa3">Name</th>
+          <th class="f6 fw6 tl ttu pa3">Rating</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="stripe-dark">
+          <td class="pa3">The Big Lebowski</td>
+          <td class="pa3">&starf;&starf;&starf;&starf;&starf;</td>
+        </tr>
+        <tr class="stripe-dark">
+          <td class="pa3">Pulp Fiction</td>
+          <td class="pa3">&starf;&starf;&starf;&starf;&starf;</td>
+        </tr>
+        <tr class="stripe-dark">
+          <td class="pa3">Fargo</td>
+          <td class="pa3">&starf;&starf;&starf;&starf;&starf;</td>
+        </tr>
+        <tr class="stripe-dark">
+          <td class="pa3">Intersellar</td>
+          <td class="pa3">&starf;&starf;&starf;&starf;&star;</td>
+        </tr>
+        <tr class="stripe-dark">
+          <td class="pa3">Dumb &amp; Dumber</td>
+          <td class="pa3">&starf;&starf;&starf;&starf;&star;</td>
+        </tr>
+        <tr class="stripe-dark">
+          <td class="pa3">The Big White</td>
+          <td class="pa3">&starf;&starf;&starf;&starf;&star;</td>
+        </tr>
+      </tbody>
+</table>
 
  
 
