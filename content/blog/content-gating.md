@@ -1,7 +1,7 @@
 ---
 title: "Content Gating"
 subtitle: "Is your content even valuable"
-excerpt: "You might think it's not important to document the Martech you use but I'd suggest that shoud you chhose not to you'll eventually run into overlap as well as compliance concerns. In this post we'll focus on the why take the time to do it and"
+excerpt: "We want personal data in exchange for content we kill ourselves to create. We also want to establish ourselves as thought leader and have a degree of authority in our space. There has always been a need to balance these objectives while we earn some trust. If prospects don’t trust us, we won’t see results no matter how fine-tuned our gated content strategy is. So how far do you go?  What are the rules?"
 date: 2021-02-15
 author: "Bill Carney"
 draft: false
@@ -19,7 +19,7 @@ layout: single
 ---
 
 ## Content Gating Policies 
-We want personal data in exchange for content we work so hard to create. We also want to establish ourselves as thought leader.  Arguably there has always been a need to balance objectives for marketing while we earn reputation and trust. If prospects don’t trust us, we won’t see results no matter how fine-tuned our gated content strategy is.
+We want personal data in exchange for content we kill ourselves to create. We also want to establish ourselves as thought leader and have a degree of authority in our space. There has always been a need to balance these objectives while we earn some trust. If prospects don’t trust us, we won’t see results no matter how fine-tuned our gated content strategy is.
 
 Gated content will target prospects in the middle to later stages of our buyer’s journey. These prospects may still be exploring their pain points, and they are seeking content that’s more in-depth and more specific than the ungated content they’ve already consumed. We need to use our content mapping and aligning our gate strategy to the later stages of the buyer’s journey
 
