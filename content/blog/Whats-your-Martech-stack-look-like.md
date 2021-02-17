@@ -1,13 +1,14 @@
 ---
 title: "Building the machine"
 subtitle: "Martech Stacks"
-excerpt: "You might think it's not important to document the Martech you use but I'd suggest that shoud you chhose not to you'll eventually run into overlap as well as compliance concerns. In this post we'll focus on the why take the time to do it and"
+excerpt: "You might think it's not important to document the Martech you use but I'd suggest that shoud you choose not to you'll eventually run into overlap as well as compliance concerns. In this post we'll focus on the why take the time to do it and what benefit's it'll have."
 date: 2021-02-15
 author: "Bill Carney"
 draft: false
 images:
 - /blog/assets/stacks-thumbnail.png
 - /blog/assets/stacks.png
+- /blog/assets/martech-stack-example.png
 series:
   - Machines
 tags:
@@ -20,7 +21,7 @@ layout: single
 
 ![stack](/blog/assets/martech-stack-example.png)
 
-### Document you Martech Stack
+### Documenting your Martech stack
 What's your standardized Martech stack? Do you know what's running? Do you know the overlaps and are you willing to accept them?
 
 The purpose of documenting the stack is to consolidate for continuity and control. Some of the vendors you work with may collect PII (Personal Identifiable Information) on your behalf or may not integrate into our databases of record for subscription management. All Marketing technology used must include links to privacy policies to understand what they do – you should not standardize on software that does not automatically integrate or is not GDPR compliant.  I’ve tried to keep the tech stack to 6 journey categories:

@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en"
-title = "Bill Carney"
+title = "BC"
 author = "Bill"
 description = "A modern, beautiful, and easily configurable blog theme for Hugo."
 copyright = "" # set to override the auto generated copyright using org info and now year
