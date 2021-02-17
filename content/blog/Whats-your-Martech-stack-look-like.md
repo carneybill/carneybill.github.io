@@ -18,7 +18,10 @@ categories:
 layout: single
 ---
 
-![](/blog/assets/martech-stack-examplae.png)
+![stack](/blog/assets/martech-stack-examplae.png)
+
+
+![Tachyons Logo Script](/blog/assets/tachyons-logo-script-feature.png)
 
 ### The Standardized Martech Stack
 What's your standardized Martech stack? Do you know what's running? Do you know the overlaps and are you willing to accept them?
