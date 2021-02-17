@@ -35,49 +35,7 @@ Training videos (Product)|Training videos (Awareness)|
 Live or Paid webinars with Q&A |Recorded webinars without Q&A (Fluffy-er)|
 Community Sites|Customer stories|
 Evaluations & Trials|Product cheat sheets|
-
-
-```
-<div>
-<h6 class="ttu tracked black-30 pv3 mt5 bt b--black-10">Sample Table</h6>
-<table class="collapse ba bw1 b--moon-gray mv4 w-100">
-   <thead>
-        <tr>
-          <th class="f6 fw6 tl ttu pa3">Product</th>
-          <th class="f6 fw6 tl ttu pa3">Rating</th>
-        </tr>
-   </thead>
-   <tbody>
-        <tr class="stripe-dark">
-          <td class="pa3">Marketo</td>
-          <td class="pa3">&starf;&starf;&starf;&starf;&starf;</td>
-        </tr>
-        <tr class="stripe-dark">
-          <td class="pa3">Pardot</td>
-          <td class="pa3">&starf;&starf;&starf;&starf;&starf;</td>
-        </tr>
-        <tr class="stripe-dark">
-          <td class="pa3">Eloqua</td>
-          <td class="pa3">&starf;&starf;&starf;&starf;&starf;</td>
-        </tr>
-        <tr class="stripe-dark">
-          <td class="pa3">Vspout</td>
-          <td class="pa3">&starf;&starf;&starf;&starf;&star;</td>
-        </tr>
-        <tr class="stripe-dark">
-          <td class="pa3">Hubspot</td>
-          <td class="pa3">&starf;&starf;&starf;&starf;&star;</td>
-        </tr>
-        <tr class="stripe-dark">
-          <td class="pa3">Zoho</td>
-          <td class="pa3">&starf;&starf;&starf;&starf;&star;</td>
-        </tr>
-   </tbody>
-</table>
-</div>
- ```
-
-
+name|&starf;&starf;&starf;&starf;&star;|
 
 
 
