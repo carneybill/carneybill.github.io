@@ -21,7 +21,7 @@ layout: single
 ![](/blog/assets/martech-stack-examplae.png)
 
 ### The Standardized Martech Stack
-Whats your standardized Martech stack? Do you know whats running?
+What's your standardized Martech stack? Do you know what's running? Do you know the overlaps and are you willing to accept them?
 
 The purpose of documenting the stack is to consolidate for continuity and control. Some of the vendors you work with may collect PII (Personal Identifiable Information) on your behalf or may not integrate into our databases of record for subscription management. All Marketing technology used must include links to privacy policies to understand what they do – you should not standardize on software that does not automatically integrate or is not GDPR compliant.  I’ve tried to keep the tech stack to 4 journey categories:
 
