@@ -2,7 +2,7 @@
 title: "I hate tradeshows"
 subtitle: "They don't deliver value"
 excerpt: "You might think it's not important to document the Martech you use but I'd suggest that shoud you choose not to you'll eventually run into overlap as well as compliance concerns. In this post we'll focus on the why take the time to do it and what benefit's it'll have."
-date: 2021-02-15
+date: 2020-12-01
 author: "Bill Carney"
 draft: false
 images:
@@ -19,29 +19,33 @@ categories:
 layout: single
 ---
 
-## So why do I keep going?
+## Who forced the shift to digital
 
-Trade shows are expensive: between the booth, travel, marketing, and sponsorships, showcasing your products at trade show exhibits can put a SERIOUS dent into your marketing budget. Thank god we can accurately measure the return on investment of the show and know exactly whether it was worth the expenses and effort.
+Thanks COVID! It's a bit weird to think of it this way but without COVID and the cancelation of all tradeshows in 2020 I couldn't have proven the mitigation of all MQL risk with a complete shift to digital. The lead flow we generated without tradeshows demonstrated a much more cost effective spend of marketing dollars. 
 
-> What's that?  Your not sure you can?
+Tradeshows are expensive: between the booth, travel, marketing, and sponsorships, showcasing your products at trade show exhibits can put a SERIOUS dent into your marketing budget. 
+
+## So why will I keep going back?
+
+Tradeshow can have value you just need to make sure you capture it.
 
 ## ROI – The Challenge of Calculating Revenues
 Calculating ROI is easy enough: just plug the numbers into this formula and you have your answer: (Revenue – Investment) / Investment The problem, of course, is calculating “revenue”, that is the revenue that can be directly attributed to trade show attendance.
 
-This might be doable in industries with relative short sales cycles but if you are selling scientific instrumentation with long sales cycles and buying decision processes that last months and involve many people you might never get a reliable answer. After all, imaging systems, automated workstations or high content screening platforms are rarely sold to somebody who walked by your booth, saw your product for the first time and sent you a PO a week later.
+This might be doable in industries with relative short sales cycles but if you are selling products with long sales cycles and buying decision processes that last months/quarters and involve many people you might never get a reliable answer. You will never sell your products to somebody who walked by your booth, saw your demo for the first time and signed a PO.
 
-When that PO finally hits your inbox, the trade show contact was only one of many contacts during that customer’s purchasing journey. Given those multiple touchpoints, what portion of that revenue gets attributed to the trade show, to the ad in the trade magazine, the testimonial on your website, the tweet about a big pharma company buying several units and to your sales professional who followed up with the lead umpteen times? At this point calculating the ROI of your trade show becomes more art than science which is why many companies are using additional metrices to answer the question “Was it worth it?” Here we take a look at them.
+Typically the trade show contact was only one of many contacts during that customer’s purchasing journey. Given those multiple touchpoints, what portion of that revenue gets attributed to the trade show, to the ad in the trade magazine, the testimonial on your website, the tweet about a big deal, or to your sales professional who followed up with the lead umpteen times? At this point calculating the ROI of your trade show becomes more art than science which is why many companies use additional metrices to answer the question **“Was it worth it?”** Let's look at 2 other metrics.
 
 ## ROO - Return on Objectives
 Return on objectives is the most popular alternative metric used to assess trade show success based on marketing rather than sales objectives. ROO captures harder to quantify goals and objectives such as product and brand awareness and favourability. Unlike ROI, there is no mathematical formula for calculating ROO but a list of objectives which generally include:
 
-Generate x qualified leads
-Meet with x prospects
-Build brand awareness measured in number of social media followers/likes/mentions
-Increased traffic on your website
-Grow the number of attendees visiting the booth
-Attract x participants to a product launch, talk, poster presentation, instrument demonstration, or networking event
-Planning and preparation are critical to calculating a meaningful ROO. Identifying relevant objectives and defining realistic success criteria is just the beginning, you also have to have tools to capture and analyse the data.
+- Generate x qualified leads
+- Meet with x prospects
+- Build brand awareness measured in number of social media followers/likes/mentions
+- Increased traffic on your website
+- Grow the number of attendees visiting the booth
+- Attract x participants to a product launch, talk, poster presentation, instrument demonstration, or networking event
+- Planning and preparation are critical to calculating a meaningful ROO. Identifying relevant objectives and defining realistic success criteria is just the beginning, you also have to have tools to capture and analyse the data.
 
 Scanners help you keep track of the visitors to your booth that were interested enough to want to be added to your mailing list, analytics tools let you assess the impact the show had on website traffic and social media footprint, attendees at a product demo or workshop can simply be counted and their contact information recorded.
 
