@@ -6,10 +6,8 @@ date: 2020-12-01
 author: "Bill Carney"
 draft: false
 images:
-- /blog/assets/stacks-thumbnail.png
-- /blog/assets/stacks.png
-- /blog/assets/martech-stack-example.png
-series:
+- /blog/assets/circus-thumbnail.png
+- /blog/assets/circus.png
   - Machines
 tags:
   - MarTech
