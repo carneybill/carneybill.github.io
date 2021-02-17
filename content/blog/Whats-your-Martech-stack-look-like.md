@@ -18,7 +18,7 @@ categories:
 layout: single
 ---
 
-![stack](/blog/assets/martech-stack-examplae.png)
+![stack](/blog/assets/martech-stack-example.png)
 
 
 ![Tachyons Logo Script](/blog/assets/tachyons-logo-script-feature.png)
