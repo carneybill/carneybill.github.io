@@ -19,7 +19,7 @@ categories:
 layout: single
 ---
 
-## So why do I keep going
+## So why do I keep going?
 
 Trade shows are expensive: between the booth, travel, marketing, and sponsorships, showcasing your products at trade show exhibits can put a SERIOUS dent into your marketing budget. Thank god we can accurately measure the return on investment of the show and know exactly whether it was worth the expenses and effort.
 
