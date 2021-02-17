@@ -1,6 +1,6 @@
 ---
 title: "I hate tradeshows"
-subtitle: "They don't deliver value"
+subtitle: "Thanks COVID"
 excerpt: "Tradeshows are expensive: between the booth, travel, marketing, and sponsorships, showcasing your products at trade show exhibits can put a SERIOUS dent into your marketing budget. Why do I keep going?"
 date: 2020-12-01
 author: "Bill Carney"
@@ -19,13 +19,13 @@ layout: single
 
 ## Who forced the shift to digital
 
-Thanks COVID! It's a bit weird to think of it this way but without COVID and the cancelation of all tradeshows in 2020 I couldn't have proven the mitigation of all MQL risk with a complete shift to digital. The lead flow we generated without tradeshows demonstrated a much more cost effective spend of marketing dollars. 
+It's a bit weird to think of it this way but without COVID and the cancelation of all tradeshows in 2020 I could never have proven the value of a complete shift to digital. The lead flow we generated without tradeshows demonstrated a much more cost effective spend of marketing dollars. 
 
 Tradeshows are expensive: between the booth, travel, marketing, and sponsorships, showcasing your products at trade show exhibits can put a SERIOUS dent into your marketing budget. 
 
 ## So why will I keep going back?
 
-Tradeshow can have value you just need to make sure you capture it.
+Tradeshow can have value you just need to make sure you capture it and set the expectation of what your goals are very early on.
 
 ## ROI – The Challenge of Calculating Revenues
 Calculating ROI is easy enough: just plug the numbers into this formula and you have your answer: (Revenue – Investment) / Investment The problem, of course, is calculating “revenue”, that is the revenue that can be directly attributed to trade show attendance.
