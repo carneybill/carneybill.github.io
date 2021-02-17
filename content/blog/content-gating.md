@@ -26,7 +26,7 @@ Gated content will target prospects in the middle to later stages of our buyer�
 So, we can use this as a rule of thumb…the deeper into the buyer journey a prospect is as well as the deeper the content the more we ought to place a low friction gate in front of it. An additional rule of thumb we should use is be “friendly” gating everything is annoying and not appreciated. We don’t want to have to sift through “Fred Flintstone” as many people have junk email accounts anyway. 
 
 Gated | Ungated 
------- | ------|
+:------: | :------:|
 eBooks| Blog|
 Paid papers| Position Papers|
 Templates|Infographics|
