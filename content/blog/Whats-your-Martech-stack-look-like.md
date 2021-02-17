@@ -18,6 +18,8 @@ categories:
 layout: single
 ---
 
+![](/blog/assets/martech-stack-examplae.png)
+
 ### The Standardized Martech Stack
 Whats your standardized Martech stack? Do you know whats running?
 

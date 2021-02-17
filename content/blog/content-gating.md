@@ -37,11 +37,8 @@ Community Sites|Customer stories|
 Evaluations & Trials|Product cheat sheets|
 name|&starf;&starf;&starf;&starf;&star;|
 
-
-
 No matter if content is gated or not - every piece of material from us should offer a “Subscribe here (email only) to receive notification on when our next webinar becomes available” as well as “Click here to manage your subscription profile”. We should always have a backup mechanism ready as well which in every case will be the “Contact Us” form as well as chat on all of our sites.
 
 We are still trying to develop our thought leadership, so I believe it isn’t the right time to gate content liberally. We need to experiment over time by offering high-quality content on a consistent basis, to earn our audience’s trust.  Once trust is earned, we can then introduce more and more gated content through their journey.
 
 Bizible tracking is key to our success and limited gated content.   We need to ensure full UTM parameter support for robust reporting down to artifact attribution by company.  Bizible is currently setup and tracking all content on our site within Salesforce.  We can now create reporting on content effectiveness without having to gate everything. 
-
