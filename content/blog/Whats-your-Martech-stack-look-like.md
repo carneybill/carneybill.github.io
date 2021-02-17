@@ -35,7 +35,7 @@ The purpose of documenting the stack is to consolidate for continuity and contro
 
 Stack diagrams are great pictures to look at but there needs to be a detail document behind it where you'll have links to their privacy policies as well as their function for your organization.
 
-After the descritoption I typically list an opinion in a table for quick reference.  This way at a glance if you are in legal or IT you'll quickly communicate why you are using the product and what information they have provided on their privacy polcies.
+After the descritoption I typically list an opinion in a table for quick reference.  This way at a glance if you are in legal or IT you'll quickly communicate why you are using the product.
 
 **Category** | **Objective** | **Vendor** | **Rating** | **Cost**
 :------: | :------:| :------:| :------:| :------:
@@ -50,7 +50,7 @@ Conversion| Site audience comparison| Alexa |&starf;&starf;&starf;&starf;&star; 
 - **Real-time** – Optimal if we can count on real-time data updates.
 - **Compliant** – Any tools that you integrate must match your organizations defiinition of compliant for any regulatory questions.
 
-## Im not an attorney so involve your company attorney
+## Im not an attorney
 
 PII might be PD, but not all PD is PII - confused yet? This is a perfect use for counsel. Introduce the legal teams and let them talk.  I've had instances with products that are global in scope that didn't meet our requirements for protections on PD our attorneys couldn't live with.
 
