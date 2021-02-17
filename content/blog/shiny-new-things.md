@@ -21,5 +21,5 @@ layout: single
 
 **Category** | **Objective** | **Vendor** | **Rating** | **Cost**
 :------: | :------:| :------:| :------:| :------:
-Conversion| Site audience comparison| Alexa |&starf;&starf;&starf;&starf;&star; |&dollarf;&dollarf;&dollarf;&dollarf;&dollar;
+Conversion| Site audience comparison| Alexa |&starf;&starf;&starf;&starf;&star; |&moneyf;&moneyf;&moneyf;&moneyf;&money;
 
