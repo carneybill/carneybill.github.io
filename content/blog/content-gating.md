@@ -37,7 +37,7 @@ Community Sites|Customer stories|
 Evaluations & Trials|Product cheat sheets|
 
 
-
+```
 <div>
 <h6 class="ttu tracked black-30 pv3 mt5 bt b--black-10">Sample Table</h6>
 <table class="collapse ba bw1 b--moon-gray mv4 w-100">
@@ -75,7 +75,7 @@ Evaluations & Trials|Product cheat sheets|
    </tbody>
 </table>
 </div>
- 
+ ```
 
 
 
