@@ -25,18 +25,17 @@ Gated content will target prospects in the middle to later stages of our buyer�
 
 So, we can use this as a rule of thumb…the deeper into the buyer journey a prospect is as well as the deeper the content the more we ought to place a low friction gate in front of it. An additional rule of thumb we should use is be “friendly” gating everything is annoying and not appreciated. We don’t want to have to sift through “Fred Flintstone” as many people have junk email accounts anyway. 
 
-Gated | Ungated 
+**Gated** | **Ungated** 
 :------: | :------:|
 eBooks| Blog|
 Paid papers| Position Papers|
 Templates|Infographics|
-Templates|Infographics|
-Templates|Infographics|
-Templates|Infographics|
-Templates|Infographics|
-Templates|Infographics|
-Templates|Infographics|
-Templates|Infographics|
+Online tools|Short videos|
+Training videos (Product)|Training videos (Awareness)|
+Live or Paid webinars with Q&A |Recorded webinars without Q&A (Fluffy-er)|
+Community Sites|Customer stories|
+Evaluations & Trials|Product cheat sheets|
+
 
 
 
@@ -80,16 +79,7 @@ Templates|Infographics|
 
 
 
-Online tools
-Short videos
-Training videos (Product)
-Training videos (Awareness)
-Live or Paid webinars with Q&A 
-Recorded webinars without Q&A (Fluffy-er)
-Community Sites
-Customer stories
-Evaluations & Trials
-Product cheat sheets
+
 
 No matter if content is gated or not - every piece of material from us should offer a “Subscribe here (email only) to receive notification on when our next webinar becomes available” as well as “Click here to manage your subscription profile”. We should always have a backup mechanism ready as well which in every case will be the “Contact Us” form as well as chat on all of our sites.
 
