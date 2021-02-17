@@ -29,14 +29,14 @@ The purpose of documenting the stack is to consolidate for continuity and contro
 - **Attraction** – Unknown, Dark, Net New
 - **Engagement** – Customers & prospects, Community, Education
 - **Conversion** – Right time targeting, Free trial & evaluations
-- **Optimization** – Testing, Learnings
+- **Optimization** – Testing, Learnings, Modeling, Program Management
 - **Analysis** – Data driven decision making, Standardized reporting
-- **Retention** – Data driven decision making
+- **Retention** – NPS, Customer Satisfaction, Expansion, Churn
 
 Stack diagrams are great pictures to look at but there needs to be a detail document behind it where you'll have links to their privacy policies as well as their function for your organization.
 
 After the descritoption I typically list an opinion in a table for quick reference.  This way at a glance if you are in legal or IT you'll quickly communicate why you are using the product and what information they have provided on their privacy polcies.
- 
+
 **Category** | **Objective** | **Vendor** | **Rating** | **Cost**
 :------: | :------:| :------:| :------:| :------:
 Conversion| Site audience comparison| Alexa |&starf;&starf;&starf;&starf;&star; |&starf;&star;&star;&star;&star;
