@@ -6,8 +6,8 @@ date: 2021-02-15
 author: "Bill Carney"
 draft: false
 images:
-- /blog/assets/stacks-thumbnail.png
-- /blog/assets/stacks.png
+- /blog/assets/gate-thumbnail.png
+- /blog/assets/gate.png
 series:
   - Machines
 tags:
