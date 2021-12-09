@@ -24,7 +24,7 @@ layout: single
 ### Documenting your Martech stack
 What's your standardized Martech stack? Do you know what's running? Do you know the overlaps and are you willing to accept them?
 
-The purpose of documenting the stack is to consolidate for continuity and control. Some of the vendors you work with may collect PII (Personal Identifiable Information) or PD (Personal Data) on your behalf or may not integrate into your databases of record for subscription management. All Marketing technology used must meet your predefined GDPR and CDPA requirements.  Your role is to understand what they do – you should not standardize on software that does not automatically integrate or is not compliant to your rules.  I’ve tried to keep the tech stack to 6 journey categories listed in the image above:
+The purpose of documenting the stack is to consolidate for continuity and control. Some of the vendors you work with may collect PII (Personal Identifiable Information) or PD (Personal Data) on your behalf or may not integrate into your databases of record for subscription management. All Marketing technology used must meet your predefined GDPR and CCPA requirements.  Your role is to understand what they do – you should not standardize on software that does not automatically integrate or is not compliant to your rules.  I’ve tried to keep the tech stack to 6 journey categories listed in the image above:
 
 - **Attraction** – Unknown, Dark, Net New
 - **Engagement** – Customers & prospects, Community, Education
@@ -58,7 +58,7 @@ The GDPR definition of PD covers a broad scope of information. Twitter, LinkedIn
 
 PII however is narrower in its scope toward footprint items like your name, address, birth date, Social Security number, financial information etc.
 
-It's difficult even typing that out but there is some good news. There are so many companies in the MarTech space and youll have an alternative in short order that will meet the rules.
+It's difficult even typing that out but there is some good news. There are so many companies in the MarTech space and you'll have an alternative in short order that will meet the rules.
 
 
 

@@ -20,5 +20,5 @@ layout: single
 
 ![stack](/blog/assets/testing.png)
 
-### How can you learn of you don't test
+### How can you learn of you don't test?
 
