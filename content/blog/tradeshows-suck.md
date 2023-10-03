@@ -1,5 +1,5 @@
 ---
-title: "I hate tradeshows"
+title: "The tradeshow circus"
 subtitle: "Thanks COVID"
 excerpt: "Tradeshows are expensive: between the booth, travel, marketing, and sponsorships, showcasing your products at trade show exhibits can put a SERIOUS dent into your marketing budget. Why do I keep going?"
 date: 2020-12-01
