@@ -5,6 +5,9 @@ header:
   - name: Blog
     title: Blog
     url: /blog/
+  - name: Talk
+    title: Meet
+    url: https://calendly.com/billcarney/30min
 
 
 footer:
