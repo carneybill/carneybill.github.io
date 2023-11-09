@@ -2,7 +2,7 @@
 title: "Maximizing Content ROI: How to Turn One Piece into Five"
 subtitle: "Leverage"
 excerpt: "Repurposing content is a savvy strategy to maximize your content marketing efforts."
-date: 11-01-2023
+date: 2023-11-01
 author: "Bill Carney"
 draft: false
 images:
