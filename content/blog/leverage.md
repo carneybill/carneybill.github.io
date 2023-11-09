@@ -22,13 +22,16 @@ layout: single
 
 Content marketing is a potent strategy for engaging your audience and establishing authority in your industry. However, creating fresh content consistently can be resource-intensive. The solution? Repurpose your existing content. In this blog post, we'll explore how you can leverage one piece of content into five, and even more while diversifying the formats to reach a wider audience.
 
-A Case Study for example can be leveraged for all of the 6 below areas. All content created can populate your resources center on the website - The ultimate goal is driving traffic and conversions of that traffic into leads and subscribers.
-<ul><li>**Case Study** -> Can be used for an interview as well as all the below</li>
-<li>**Interview**-> Can set the stage for a White Paper or Technical Briefing as well as all the below</li>
-<li>**White Paper** -> Can be broken into a blog post series or Individual Blog Post as well as all the below</li>
-<li>**Blog Post Series or Individual Blog Post** -> Can be broken into a Webinar series or Individual Webinar as well as all the below</li>
-<li>**Webinars** -> Will be Recorded and produced into Videos which typically drive a 4X multiplier in registrations</li>
-<li>**Videos** -> Will be used to showcase knowledge Snippets for social and for Speaking Opportunities at Hosted or Industry Events </li></ul>
+A Case Study for example can be leveraged for all of the 6+ below areas - there isn't really a limit (other than quality). All content created can populate your resources center on the website - The ultimate goal is driving traffic and conversions of that traffic into leads and subscribers.
+
+<ul>
+<li>Case Study -> Can be used for an interview as well as all the below</li>
+<li>Interview -> Can set the stage for a White Paper or Technical Briefing as well as all the below</li>
+<li>White Paper -> Can be broken into a blog post series or Individual Blog Post as well as all the below</li>
+<li>Blog Post Series or Individual Blog Post -> Can be broken into a Webinar series or Individual Webinar as well as all the below</li>
+<li>Webinars -> Will be Recorded and produced into Videos which typically drive a 4X multiplier in registrations</li>
+<li>Videos -> Will be used to showcase knowledge Snippets for social and for Speaking Opportunities at Hosted or Industry Events </li>
+</ul>
 
 ## How to start
 
