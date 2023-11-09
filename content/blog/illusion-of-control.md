@@ -20,6 +20,8 @@ categories:
 layout: single
 ---
 
+![stack](/blog/assets/puppet.jpg)
+
 In the fast-paced realm of marketing, where strategies evolve rapidly and consumer behavior remains as unpredictable as ever, the desire for control often takes center stage. Marketers, fueled by the quest for optimal results, frequently pursue the illusion of control over their processes. However, the reality is stark: Control in marketing is, more often than not, a deceptive mirage. This blog post aims to explore why control proves elusive in marketing and advocates for embracing uncertainty as the key to success.
 
 ## Consumer Behavior: A Constantly Shifting Landscape:

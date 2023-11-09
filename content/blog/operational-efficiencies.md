@@ -18,6 +18,8 @@ categories:
 layout: single
 ---
 
+![stack](/blog/assets/css-grid-cover.png)
+
 ## Time to shine
 
 2021 must be focused on minimizing unnecessary and unproductive expenses and delivering sales qualified leads that convert to opportunities - it’s really that simple. The marketing pendulum must dramatically shift towards an Agile but deliberate approach (scrappy) focused on Net New and away from branding exercises and vanity metrics. This is supported by the fact that many companies truly don’t have a branding budget, nor should they be allowed one until they have their story completed and vetted with a mapped execution strategy.

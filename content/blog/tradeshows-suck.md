@@ -17,6 +17,8 @@ categories:
 layout: single
 ---
 
+![stack](/blog/assets/circus.png)
+
 ## Who forced the shift to digital?
 
 It's a bit weird to think of it this way but without COVID and the cancelation of all tradeshows in 2020 I could never have proven the value of a complete shift to digital. The lead flow we generated without tradeshows demonstrated a much more cost effective spend of marketing dollars. 

@@ -18,6 +18,8 @@ categories:
 layout: single
 ---
 
+![stack](/blog/assets/seesaw.jpg)
+
 Content marketing is a potent strategy for engaging your audience and establishing authority in your industry. However, creating fresh content consistently can be resource-intensive. The solution? Repurpose your existing content. In this blog post, we'll explore how you can leverage one piece of content into five, and even more while diversifying the formats to reach a wider audience.
 
 **1. The Hub: Start with a Comprehensive Piece**

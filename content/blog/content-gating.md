@@ -18,6 +18,8 @@ categories:
 layout: single
 ---
 
+![stack](/blog/assets/gate.png)
+
 ## Content Gating Policies 
 We want personal data in exchange for content we kill ourselves to create. We also want to establish ourselves as thought leader and have a degree of authority in our space. There has always been a need to balance these objectives while we earn some trust. If prospects don’t trust us, we won’t see results no matter how fine-tuned our gated content strategy is.
 
