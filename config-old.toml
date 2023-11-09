@@ -13,7 +13,7 @@ title = "Bill Carney"
 [params.hero]
   img = "/images/lightbulb.jpg"
   title = "Not just another marketing guy"
-  description = "The best marketing is iterative with the right mix of innovative strategic thinking, creative campaign design, and data-driven decision-making."
+  description = "The best marketing is sgile and iterative with the right mix of innovative strategic thinking, creative campaign design, and data-driven decision-making."
 
 # Navigation section
 [params.nav]
