@@ -2,7 +2,7 @@
 title: "Building the machine"
 subtitle: "Martech Stack Documentation"
 excerpt: "You might think it's not important to document the Martech you use but I'd suggest that shoud you choose not to you'll eventually run into overlap as well as compliance concerns. In this post we'll focus on the why take the time to do it and what benefit's it'll have."
-date: 2022-02-15
+date: 2023-02-15
 author: "Bill Carney"
 draft: false
 images:

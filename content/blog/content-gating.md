@@ -2,7 +2,7 @@
 title: "Content Gating"
 subtitle: "Is your content even valuable"
 excerpt: "We want personal data in exchange for content we kill ourselves to create. We also want to establish ourselves as thought leader and have a degree of authority in our space. There has always been a need to balance these objectives while we earn some trust. If prospects don’t trust us, we won’t see results no matter how fine-tuned our gated content strategy is. So how far do you go?  What are the rules?"
-date: 2021-01-10
+date: 2023-01-10
 author: "Bill Carney"
 draft: false
 images:
