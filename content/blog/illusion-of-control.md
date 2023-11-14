@@ -1,8 +1,6 @@
 ---
 title: "Navigating Uncertainty: The Art of Marketing in a Dynamic World"
 subtitle: "The illusion of control"
-excerpt: "Successful marketers are learning to adapt, staying nimble, and embracing the unpredictability inherent in their field."
-date: 
 excerpt: "In the ever-evolving landscape of marketing, the illusion of control can prove to be a hindrance. Successful marketers are learning to adapt, staying nimble, and embracing the unpredictability inherent in their field."
 date: 2023-11-09
 author: "Bill Carney"
