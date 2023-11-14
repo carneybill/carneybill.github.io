@@ -1,7 +1,7 @@
 ---
 title: "Building and Managing Your Marketing Database in a Cookie-Less World"
 subtitle: "It always comes back to the data"
-excerpt: "There's a fine line between offering users valuable insights and crossing into the realm of creepy and intrusive practices. In this blog post, we'll explore the world of in-product marketing and how to employ it effectively without making your users feel uncomfortable or creeped out."
+excerpt: "One thing remains constant in Marketing: the importance of a robust and well-maintained contact database. Your database is the lifeblood of your marketing efforts, and how you build and manage it can make or break your campaigns."
 date: 2023-11-14
 author: "Bill Carney"
 draft: false
