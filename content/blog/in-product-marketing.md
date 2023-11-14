@@ -6,8 +6,8 @@ date: 2023-11-14
 author: "Bill Carney"
 draft: false
 images:
-- /blog/assets/in-product-thumbnail.png
-- /blog/assets/in-product.png
+- /blog/assets/in-product-thumbnail.jpg
+- /blog/assets/in-product.jpg
 series:
   - Machines
 tags:
