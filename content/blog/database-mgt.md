@@ -25,7 +25,7 @@ One thing remains constant in Marketing: the importance of a robust and well-mai
 ## Step 1: Start with a Strong Foundation
 1. *Prioritize Quality Over Quantity:* When building your contact database, resist the temptation to collect as many contacts as possible. Instead, focus on quality leads who are genuinely interested in your products or services.
 2. *Use Ungated Forms:* In a cookie-less world, consider using ungated forms on your website. This means not requiring visitors to provide their information before accessing your content. This approach can attract more 
-visitors and potentially convert them into leads later.
+visitors and potentially convert them into leads later.  <a href="http://carney.wiki/blog/content-gating/">See the write up on To Gate or Not to Gate.</a>a>
 
 ## Step 2: What Information Do You Need?
 3. *Simplify Data Collection:* In a digital world, often, all you need is a business email to establish initial contact. Free emails like Gmail or Yahoo can count, but keep an eye out for patterns of abuse. Be cautious about collecting phone numbers unless it's essential for your communication strategy.
