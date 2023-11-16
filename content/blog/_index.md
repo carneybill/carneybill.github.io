@@ -6,7 +6,7 @@ images:
   - https://via.placeholder.com/960x480?text=SECTION+IMAGE
 date: 2019-02-20
 publishDate: 2019-02-20
-layout: list-sidebar # list, list-sidebar, list-grid
+layout: list-grid # list, list-sidebar, list-grid
 show_post_thumbnail: true
 show_author_byline: false
 show_post_date: false
