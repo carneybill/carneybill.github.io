@@ -1,6 +1,6 @@
 ---
 title: Just some thoughts
-description: "This is a fully featured blog that supports categories, tags, series, and pagination."
+description: "This blog supports categories, tags, series, and pagination."
 author: The Team at Formspree
 images:
   - https://via.placeholder.com/960x480?text=SECTION+IMAGE
@@ -8,8 +8,8 @@ date: 2019-02-20
 publishDate: 2019-02-20
 layout: list-sidebar # list, list-sidebar, list-grid
 show_post_thumbnail: true
-show_author_byline: true
-show_post_date: true
+show_author_byline: false
+show_post_date: false
 show_disqus_comments: false # see disqusShortname in site config
 ---
 
