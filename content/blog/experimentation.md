@@ -2,7 +2,7 @@
 title: "Establish a culture of experimentation"
 subtitle: "Always Be Testing Everything"
 excerpt: "The Marketer's Guide to Continuous Learning - Testing is an often overlooked aspect of Marketing.  There's usually not a great amount of support for failing and given the pressures of Marketing most are risk adverse. This is exactly the opposit attitude you need for a progressive group.  You want to push boundries, you need to push boundries!"
-date: 2023-10-17
+date: 2023-06-17
 author: "Bill Carney"
 draft: false
 images:

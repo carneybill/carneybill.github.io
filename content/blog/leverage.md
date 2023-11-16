@@ -2,7 +2,7 @@
 title: "Maximizing Content ROI: How to Leverage an Artifact"
 subtitle: "Leverage"
 excerpt: "Repurposing content is a savvy strategy to maximize your content marketing efforts."
-date: 2023-11-01
+date: 2023-07-01
 author: "Bill Carney"
 draft: false
 images:

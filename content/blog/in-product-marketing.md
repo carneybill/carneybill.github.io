@@ -2,7 +2,7 @@
 title: "The Art of In-Product Marketing: Adding Value, Not Creepiness"
 subtitle: "Using your best asset to market"
 excerpt: "There's a fine line between offering users valuable insights and crossing into the realm of creepy and intrusive practices. In this blog post, we'll explore the world of in-product marketing and how to employ it effectively without making your users feel uncomfortable or creeped out."
-date: 2023-11-14
+date: 2023-10-14
 author: "Bill Carney"
 draft: false
 images:

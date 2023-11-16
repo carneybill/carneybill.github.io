@@ -2,7 +2,7 @@
 title: "Exploring Intent Data's Significance in Business Strategy"
 subtitle: "Follow the footprints"
 excerpt: "Understanding various intent data types is pivotal in today's digital landscape, where prospects leave crucial digital footprints during product and service research. "
-date: 2023-06-10
+date: 2023-05-10
 author: "Bill Carney"
 draft: false
 images:

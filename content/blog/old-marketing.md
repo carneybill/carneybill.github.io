@@ -2,7 +2,7 @@
 title: "Why Old Isn't Always Wrong"
 subtitle: "Sometimes you just need a fresh take"
 excerpt: "In marketing, where trends evolve at the speed of light, it's easy to dismiss old methods as outdated. But are they wrong/outdated, or just waiting for a fresh perspective?"
-date: 2023-4-10
+date: 2023-04-10
 author: "Bill Carney"
 draft: false
 images:
