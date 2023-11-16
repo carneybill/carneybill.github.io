@@ -42,23 +42,19 @@ Starting with first-party data is better than nothing. Combining data sources be
 
 ## Ways Intent Data Enhances Strategy
 
-- Tracking Relevant Topics: Monitor industry-specific terms and keywords in real-time, enabling targeted efforts towards interested accounts.
+- Tracking Topics: Monitor industry-specific terms and keywords in real-time, enabling targeted efforts towards interested accounts.
 
-- Building Prospecting Lists: Combine intent data with a robust B2B database to receive recommended contacts for informed outreach.
+- Building Target Lists: Combine intent data with a robust B2B database to receive recommended contacts for outreach.
 
-- Personalizing Outreach: Tailor marketing pitches based on prospect needs, using intent data to understand their buyer's journey.
+- Personalizing: Tailor marketing pitches based on prospect needs/research, using intent data to understand their buyer's journey.
 
 - Competition: Gain a competitive advantage by engaging with prospects early in their research, positioning yourself as the trusted expert.
 
 - Shortening the Sales Cycle: Use real-time intent data to create campaigns that warm up prospects, resulting in better sales engagement and shorter cycles.
 
-- Tracking Champion Moves: Unique to ZoomInfo, champion moves data helps coordinate smoother transitions when key influencers change roles.
+- Retargeting: Utilize intent insights to retarget ads and tailor email campaigns to address the target audience's unique needs.
 
-- Retargeting Audiences: Utilize intent insights to retarget ads and tailor email campaigns to address the target audience's unique needs.
-
-- Abandoned Form Tracking: Leverage tools like FormComplete to capture crucial details even if prospects abandon forms on the website.
-
-- Lookalike Intent: Analyze closed-won accounts to understand the intent topics that preceded successful opportunities, refining future strategies.
+- Look=alike Intent: Analyze closed-won accounts to understand the intent topics that preceded successful opportunities, refining future strategies.
 
 - Alignment: Ensure alignment between sales and marketing teams by using intent data to target best-fit accounts and prioritize efforts.
 
