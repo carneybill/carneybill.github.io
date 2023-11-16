@@ -14,7 +14,7 @@ tags:
   - hugo-site
 categories:
   - Theme Features
-layout: single
+layout: single-sidebar
 ---
 
 ![Formspree Logo](/blog/assets/formspree-logo.png)
