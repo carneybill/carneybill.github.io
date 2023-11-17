@@ -1,6 +1,6 @@
 ---
 title: Just some thoughts
-description: "This blog supports categories, tags, series, and pagination."
+description: "Any views or opinions represented in this blog are personal and belong solely to me and do not represent those of people, institutions or organizations that I may or may not be associated with in professional or personal capacity, unless explicitly stated."
 author: Bill Carney
 images:
   - https://via.placeholder.com/960x480?text=SECTION+IMAGE
