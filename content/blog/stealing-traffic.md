@@ -9,11 +9,11 @@ images:
 - /blog/assets/stealing-seo-thumbnail.jpg
 - /blog/assets/stealing-seo.jpg
 series:
-  - Operational
+  - Ethics
 tags:
-  - Database
+  - SEO
 categories:
-  - Data
+  - Web Traffic
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---
