@@ -25,8 +25,8 @@ In the world of digital marketing, ethical practices are the cornerstone of sust
 ## Here's a breakdown of the operation:
 
 ### The Scheme
-Sitemap Pilfering: The culprits exported a competitor's sitemap, a bold move into ethically murky territory.
-Automated Content Creation: Turning the stolen URLs into article titles, they unleashed the power of AI to generate a staggering 1,800 articles at scale.
+#### Sitemap Pilfering: The culprits exported a competitor's sitemap, a bold move into ethically murky territory.
+#### Automated Content Creation: Turning the stolen URLs into article titles, they unleashed the power of AI to generate a staggering 1,800 articles at scale.
 
 ### The Outcome
 After 18 months, the illicit operation boasted impressive, yet ill-gotten gains:
