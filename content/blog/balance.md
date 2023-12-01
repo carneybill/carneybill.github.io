@@ -2,7 +2,7 @@
 title: "Striking the Balance: The Art of Just Enough Automation in Marketing"
 subtitle: "Shameful"
 excerpt: "The tech community is grappling with the revelation that the DevTernity conference knowingly deceived attendees by fabricating speaker profiles. The audacious act involved creating imaginary personas, including the prominent figures Anna Boyko, Alina Prokhoda, Natalie Stadler, and Julia Kirsina."
-date: 20222-12-15
+date: 2022-12-15
 author: "Bill Carney"
 draft: false
 images:

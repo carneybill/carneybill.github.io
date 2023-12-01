@@ -2,7 +2,7 @@
 title: "Shameful Deception: Exposing the Scandal of Fake Speakers"
 subtitle: "Shameful"
 excerpt: "The tech community is grappling with the revelation that the DevTernity conference knowingly deceived attendees by fabricating speaker profiles. The audacious act involved creating imaginary personas, including the prominent figures Anna Boyko, Alina Prokhoda, Natalie Stadler, and Julia Kirsina."
-date: 20223-12-15
+date: 2023-12-15
 author: "Bill Carney"
 draft: false
 images:
