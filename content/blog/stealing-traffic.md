@@ -25,14 +25,13 @@ In the world of digital marketing, ethical practices are the cornerstone of sust
 ## Here's a breakdown of the operation:
 
 ### The Scheme
-#### Sitemap Pilfering: The culprits exported a competitor's sitemap, a bold move into ethically murky territory.
-#### Automated Content Creation: Turning the stolen URLs into article titles, they unleashed the power of AI to generate a staggering 1,800 articles at scale.
+1. Sitemap Pilfering: The culprits exported a competitor's sitemap, a bold move into ethically murky territory.
+2. Automated Content Creation: Turning the stolen URLs into article titles, they unleashed the power of AI to generate a staggering 1,800 articles at scale.
 
 ### The Outcome
 After 18 months, the illicit operation boasted impressive, yet ill-gotten gains:
-
-Total Traffic Heist: 3.6 million unsuspecting visitors redirected to their site.
-Monthly Traffic Loot: A staggering 490,000 monthly visitors, a testament to the scale of the operation.
+- Total Traffic Heist: 3.6 million unsuspecting visitors redirected to their site.
+- Monthly Traffic Loot: A staggering 490,000 monthly visitors, a testament to the scale of the operation.
 
 ### Google's Response
 However, the heist did not go unnoticed. Google, the gatekeeper of the digital realm, responded decisively. The ill-gotten gains were swiftly taken back, leaving the perpetrators with empty hands.
