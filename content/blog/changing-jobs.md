@@ -8,11 +8,12 @@ images:
 - /blog/assets/changing-jobs-thumbnail.jpg
 - /blog/assets/changing-jobs.jpg
 series:
-  - ?
+  - Growth
 tags:
-  - ?
+  - Jobs
+  - MarTech
 categories:
-  - ?
+  -  Operational
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---
