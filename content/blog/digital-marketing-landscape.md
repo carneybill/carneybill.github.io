@@ -6,8 +6,8 @@ date: 2021-01-10
 author: "Bill Carney"
 draft: false
 images:
-- /blog/assets/gate-thumbnail.png
-- /blog/assets/gate.png
+- /blog/assets/temp-thumbnail.jpg
+- /blog/assets/temp.jpg
 series:
   - Machines
 tags:
@@ -17,7 +17,7 @@ categories:
 # layout options: single or single-sidebar
 layout: single
 ---
-![stack](/blog/assets/gate-thumbnail.png)
+![stack](/blog/assets/temp-thumbnail.jpg)
 
 ## The Shift in Work Dynamics
 Since the onset of COVID-19, the workload in many sectors, particularly in digital marketing, has dramatically increased. Budgets previously allocated for physical events have been redirected into digital spaces, leading to a burgeoning demand for online marketing strategies. This change represents both a challenge and an opportunity for digital marketing professionals and B2B marketers to prove the efficacy of digital strategies and garner further investment in these areas.
