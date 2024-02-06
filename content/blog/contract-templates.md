@@ -6,8 +6,8 @@ date: 2024-01-03
 author: "Bill Carney"
 draft: false
 images:
-- /blog/assets/Contract-cover-thumbnail.png
-- /blog/assets/Contract-cover.png
+- /blog/assets/contract-cover-thumbnail.png
+- /blog/assets/contract-cover.png
 series:
   - Proposals
 tags:
@@ -18,7 +18,7 @@ categories:
 layout: single-sidebar
 ---
 
-![stack](/blog/assets/Contract-cover.png)
+![stack](/blog/assets/contract-cover.png)
 
 # Crafting a Winning Marketing Consulting Proposal: Templates Are Fine, but Context Is Everything
 
