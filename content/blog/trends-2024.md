@@ -2,7 +2,7 @@
 title: "Marketing Trends for 2024"
 subtitle: "Cutting Edge Once Again"
 excerpt: "2024: Data-driven marketing revolution! Unified data, AI, privacy, UGC, sustainability—keys to success in a dynamic digital landscape."
-date: 2024-02-05
+date: 2024-02-03
 author: "Bill Carney"
 draft: false
 images:
