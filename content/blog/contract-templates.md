@@ -4,7 +4,7 @@ subtitle: "Key sections of a consulting contract"
 excerpt: "Understanding various intent data types is pivotal in today's digital landscape, where prospects leave crucial digital footprints during product and service research. "
 date: 2024-01-10
 author: "Bill Carney"
-draft: false
+draft: true
 images:
 - /blog/assets/Contract-cover-thumbnail.png
 - /blog/assets/Contract-cover.png
