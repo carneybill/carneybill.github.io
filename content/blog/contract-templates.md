@@ -6,8 +6,8 @@ date: 2024-01-10
 author: "Bill Carney"
 draft: false
 images:
-- /blog/assets/contract-cover-thumbnail.png
-- /blog/assets/contract-cover.png
+- /blog/assets/Contract-cover-thumbnail.png
+- /blog/assets/Contract-cover.png
 series:
   - Proposals
 tags:
@@ -18,7 +18,7 @@ categories:
 layout: single-sidebar
 ---
 
-![stack](/blog/assets/contract-cover.png)
+![stack](/blog/assets/Contract-cover.png)
 
 In the endeavor to secure a marketing consulting contract, it is imperative that the proposal stands as a comprehensive document, distinctly elucidating the key components such as scope, objectives, approach, deliverables, timeline, and terms of engagement. Below is a recommended structure for crafting a meticulous consulting contract project proposal. <a href="/blog/assets/proposal-template.pdf">Heres a template I recently used which won a contract</a>
 
