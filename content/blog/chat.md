@@ -6,7 +6,7 @@ date: 2024-03-01
 author: "Bill Carney"
 draft: false
 images:
-- /blog/assets/chat-thumbnail.jpg
+- /blog/assets/chat-thumbnail.png
 - /blog/assets/chat.jpg
 series:
   - Proposals
