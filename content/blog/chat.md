@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Chat: Is it Time for a More Automated Approach?"
 subtitle: "Generative AI to the rescue"
-excerpt: "Explore the future of digital communication with our insightful blog post on how generative AI is transforming live chat functionalities into dynamic, engaging platforms. Dive into the evolution from traditional support tools to innovative marketing strategies, leveraging Large Language Models (LLMs) for personalized interactions. Discover the potential of generative AI to enhance user experience, deepen engagement, and drive conversions, offering a glimpse into a new era of customer engagement where technology creates meaningful connections."
+excerpt: "The future of digital communication blog post on how generative AI is transforming live chat functionalities into dynamic, engaging platforms. Dive into the evolution from traditional support tools to innovative marketing strategies, leveraging Large Language Models (LLMs) for personalized interactions. Discover the potential of generative AI to enhance user experience, deepen engagement, and drive conversions, offering a glimpse into a new era of customer engagement where technology creates meaningful connections."
 date: 2024-03-01
 author: "Bill Carney"
 draft: false
