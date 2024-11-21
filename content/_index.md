@@ -1,7 +1,7 @@
 ---
 title: "Bill Carney"
-subtitle: "The marketing guy"
-description: "The best marketing is agile and iterative with the right mix of innovative strategic thinking, creative campaign design, and data-driven decision-making."
+subtitle: "The growth guy"
+description: "The best companies are agile and iterative with the right mix of innovative strategic thinking, creative thinking/design, & data-driven decision-making."
 date: 2021-02-15T12:27:33-06:00
 images:
   - img/lightbulb.png
