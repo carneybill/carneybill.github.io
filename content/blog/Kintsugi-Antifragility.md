@@ -6,7 +6,7 @@ date: 2024-11-15
 author: "Bill Carney"
 draft: false
 images:
-- /blog/assets/bowl-thumbnail.jpg
+- /blog/assets/bowl-thumbnail.jpeg
 - /blog/assets/bowl.jpg
 series:
   - Operation
