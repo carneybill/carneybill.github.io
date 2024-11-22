@@ -49,11 +49,6 @@ preserveTaxonomyNames = true
 [social]
   # social accounts (username only)
   linkedin = "in/bcarney"
-  facebook = "carney.bill"
-  facebook_admin = "" # Facebook Page Admin ID for Domain Insights
-  instagram = "_billc"
-  youtube = ""
-  twitter = "_billc"
   github = "carneybill"
   medium = ""
 
