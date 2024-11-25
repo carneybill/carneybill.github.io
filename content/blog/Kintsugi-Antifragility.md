@@ -1,6 +1,6 @@
 ---
-title: "Embracing Imperfections: Kintsugi and Antifragility + Leadership"
-subtitle: "Kintsugi"
+title: "Kintsugi + Antifragility + Leadership"
+subtitle: "Embracing Imperfections"
 excerpt: "The Japanese art of Kintsugi and the modern concept of antifragility offer lessons in leadership. Kintsugi transforms broken pottery into art by highlighting its cracks with golden lacquer, symbolizing beauty in imperfection and strength in repair. Similarly, antifragility, as coined by Nassim Nicholas Taleb, teaches us to thrive amid chaos, leveraging volatility and failure as opportunities for growth. For leaders, this means embracing challenges, fostering innovation, and building systems that don’t just endure disruption but grow stronger because of it."
 date: 2024-11-15
 author: "Bill Carney"

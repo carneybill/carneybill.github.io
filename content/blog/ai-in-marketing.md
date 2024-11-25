@@ -1,5 +1,5 @@
 ---
-title: "AI in Marketing: Transforming the Future of Marketing Strategies."
+title: "AI in Marketing"
 subtitle: "Redefining the Future of Engagement"
 excerpt: "AI is transforming marketing by enabling marketers to work smarter, faster, and more strategically. From analyzing vast datasets to predicting customer behavior and personalizing content, AI tools like ChatGPT and NotebookLM are revolutionizing how businesses engage their audiences. By automating repetitive tasks, optimizing ad placements, and delivering tailored customer experiences, AI not only improves efficiency but also boosts ROI."
 date: 2024-06-10
