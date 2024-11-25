@@ -1,6 +1,6 @@
 ---
 title: "The shiny new thing"
-subtitle: ""
+subtitle: "Return your investment"
 excerpt: "Marketing folks tend to get easily distracted by the shiny new piece of tech or process and it's for a good reason.  I believe that we are always looking for that next thing that makes us do the job better. the pressures to improve conversions or get coverage higher has us looking as evidenced by the 8,000 or so marketing technologies available.  In this post we'll explore just why we (I) keep an eye out with examples."
 date: 2024-10-15
 author: "Bill Carney"
@@ -9,14 +9,16 @@ images:
 - /blog/assets/8ball-thumbnail.png
 - /blog/assets/8ball.png
 series:
-  - Machines
+  - Automation
 tags:
   - MarTech
 categories:
   - Process
 # layout options: single or single-sidebar
-layout: single
+layout: single-sidebar
 ---
+
+![stack](/blog/assets/8ball.png)
 
 
 # The Shiny Object Syndrome: Why Marketers Chase the New and Forget the Basics  
@@ -90,7 +92,3 @@ Remember, the ultimate goal of marketing isn’t to use the coolest tool—it’
 There’s no shame in chasing the shiny new thing—it’s part of what makes marketers creative and forward-thinking. But the key is to pursue innovation with intent, ensuring that every tool or process we adopt serves our core mission.  
 
 The next time you’re tempted by the latest tech or trend, take a moment to reflect: **Does this enhance my ability to connect with my audience? Or is it just a distraction?** By balancing curiosity with strategy, we can innovate without losing sight of the basics that truly drive results.  
-
-**Category** | **Objective** | **Vendor** | **Rating** | **Cost**
-:------: | :------:| :------:| :------:| :------:
-Conversion| Site audience comparison| Alexa |&starf;&starf;&starf;&starf;&star; |&starf;&star;&star;&star;&star;
