@@ -2,12 +2,12 @@
 title: "You're Gonna Need a Voice Strategy"
 subtitle: "Talking Matters (Literally)"
 excerpt: "Optimizing content for voice search will rival traditional SEO in importance, enabling brands to connect with consumers through conversational, hands-free interactions. Voice technology opens the door to innovative opportunities like interactive voice ads, voice-activated shopping, and seamless customer engagement. With the rise of smart speakers and conversational AI, brands that adapt their messaging to natural language patterns and prioritize convenience will lead the way in this rapidly evolving landscape."
-date: 2024-12-20
+date: 2024-05-20
 author: "Bill Carney"
-draft: true
+draft: false
 images:
-- /blog/assets/balance-thumbnail.jpg
-- /blog/assets/balance.jpg
+- /blog/assets/voice-thumbnail.jpg
+- /blog/assets/voice.jpg
 series:
   - Automation
 tags:
@@ -17,7 +17,7 @@ categories:
 layout: single-sidebar
 ---
 
-![stack](/blog/assets/balance.jpg)
+![stack](/blog/assets/voice.jpg)
 
 # The Future is Talking: Why Your Brand Needs a Voice Strategy  
 
