@@ -1,5 +1,5 @@
 ---
-title: "The Rise of UGC"
+title: "User Generated Content"
 subtitle: "Turn Your Customers Into Your Marketing Team (Because They’re Cheaper)"
 excerpt: "Brands must foster collaborative relationships with their audiences, incentivizing customers to become active ambassadors through creative campaigns, exclusive rewards, and community recognition. This shift will transform marketing into a two-way conversation, making UGC an indispensable strategy for driving meaningful connections and long-term loyalty."
 date: 2024-07-15
