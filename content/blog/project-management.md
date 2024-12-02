@@ -2,7 +2,7 @@
 title: "Project Management"
 subtitle: "In marketing, organization is everything"
 excerpt: "Choosing the right project management tool can make or break your marketing campaigns. In this showdown between Monday.com, ClickUp, Jira, and even Excel, we explore how these platforms cater to marketing needs like collaboration, customization, and workflow automation. Cross-departmental content contributions are vital to campaign success. Which tool is best suited to streamline your marketing efforts and keep your team collaborating on all cylinders."
-date: 2024-12-01
+date: 2024-12-02
 author: "Bill Carney"
 draft: false
 images:
@@ -22,15 +22,15 @@ layout: single-sidebar
 
 ## The Role of Content Across the Entire Company  
 
-Regardless of which project management tool you choose, one thing remains constant: **successful marketing relies on contributions from the entire company**. Marketing is no longer a siloed function—it thrives when sales teams share insights, product teams provide technical details, and customer support highlights common pain points. Whether it’s updating a task in ClickUp, dropping feedback in Monday.com, or contributing to a shared Excel sheet, project management tools make it easier to gather and organize input from all departments. This cross-functional collaboration ensures your campaigns are informed, accurate, and resonate with your audience. After all, your best marketing content often comes from the people closest to your product and customers.
+Regardless of which project management tool you choose, one thing remains constant: **successful marketing relies on contributions from the entire company**. Marketing is no longer a siloed function (if it ever was). Marketing thrives when sales teams share insights, product teams provide technical details, and customer support highlights common pain points. Whether it’s updating a task in ClickUp, dropping feedback in Monday.com, or contributing to a shared Excel sheet, project management tools make it easier to gather and organize input from all departments. This cross-functional collaboration ensures your campaigns are informed, accurate, and resonate with your audience. After all, your best marketing content often comes from the people closest to your product and customers.
 
-# Project Management Showdown  
+# Project Management Options  
 
 In the fast-paced world of marketing, project management software is the backbone. From brainstorming sessions to executing multichannel strategies, marketers rely on tools to keep everything on track, on time, and on budget. But with so many options out there, choosing the right platform can feel like finding a needle in a haystack.  
 
-Here, we’re comparing three heavyweights in the project management space—**Monday.com**, **ClickUp**, and **Jira**—and throwing in an unexpected contender: good old **Excel**. Let’s see how they stack up for your marketing team.  
+Let's compare three heavyweights in the project management space—**Monday.com**, **ClickUp**, and **Jira**—and throwing in an unexpected contender: good old **Excel**. Let’s see how they stack up for your marketing team.  
 
-*Before we dive in, let me make one thing clear: this isn’t a comprehensive roundup of every project management tool out there. These are the platforms I’ve personally used and can speak to from experience, so consider this more of a “field-tested favorites” list than an exhaustive comparison.*
+*This isn’t a comprehensive roundup of every project management tool out there. These are the platforms I’ve personally used and can speak to from experience, so consider this more of a “field-tested favorites” list than an exhaustive comparison.*
 
 *Full disclosure: While I was at Software AG, I endorsed Monday.com as a key project management tool. This post tries to reflect a balanced comparison of all platforms, based on their strengths and use cases for marketers.*  
 
@@ -63,10 +63,10 @@ If Monday.com is the designer handbag, ClickUp is the Swiss Army knife—it has 
 - **All-in-One Platform**: ClickUp combines task management, goal tracking, time tracking, and even document storage into one platform.  
 - **Customization Galore**: Custom statuses, fields, and views make it easy to tailor ClickUp to your team’s needs.  
 - **Robust Automations**: ClickUp automates repetitive tasks like updating statuses or notifying stakeholders.  
-- **Affordable Pricing**: Its free plan offers generous features, and paid plans provide excellent value for money.  
+- **High Pricing**: Its free plan offers generous features, and paid plans provide excellent value. But again this gets really pricy for comprehensive teams.  
 
 ### Drawbacks:
-- **Steep Learning Curve**: The abundance of features can overwhelm new users, requiring a learning phase.  
+- **Steeper Learning Curve**: The abundance of features can overwhelm new users, requiring a learning phase.  
 - **Interface Overload**: Some users find the interface cluttered compared to Monday.com’s sleek design.  
 
 ### Ideal For:  
@@ -90,13 +90,13 @@ Jira is like the dependable workhorse of project management tools—less glamoro
 - **Costly for Small Teams**: While it excels for enterprises, smaller teams may find it overkill.  
 
 ### Ideal For:  
-Marketing teams within large organizations that need enterprise-level reporting, scalability, and agile workflow support.  
+Marketing teams within large organizations that need enterprise-level reporting, where emgineering has already purchased licenses.  
 
 ---
 
-## Excel: The Old Faithful  
+## Excel: The Old Faithful or Google Sheets 
 
-Yes, we’re throwing **Excel** into the ring. It may not be shiny or sophisticated, but it’s a tried-and-true tool for those who want simplicity and cost savings.  
+Yes, we’re throwing **spreadsheets** into the ring. They may not be shiny or sophisticated, but it’s a tried-and-true tool for those who want simplicity and cost savings.  
 
 ### Why Marketers Love It:
 - **Universally Known**: Everyone on your team has probably used Excel before—no learning curve needed.  
@@ -116,7 +116,7 @@ Small marketing teams or solo marketers managing straightforward campaigns on a 
 
 ## Feature Comparison  
 
-| Feature                   | Monday.com                     | ClickUp                       | Jira                        | Excel                       |
+| Feature                   | Monday.com                     | ClickUp                       | Jira                        | Excel / Google                       |
 |---------------------------|---------------------------------|-------------------------------|-----------------------------|-----------------------------|
 | **Ease of Use**           | ⭐⭐⭐⭐⭐                         | ⭐⭐⭐⭐                          | ⭐⭐⭐                         | ⭐⭐⭐⭐                        |
 | **Customization**         | ⭐⭐⭐⭐                          | ⭐⭐⭐⭐⭐                         | ⭐⭐⭐⭐                        | ⭐⭐⭐                         |
@@ -124,20 +124,23 @@ Small marketing teams or solo marketers managing straightforward campaigns on a 
 | **Collaboration**         | ⭐⭐⭐⭐                          | ⭐⭐⭐⭐                          | ⭐⭐⭐⭐                        | ⭐⭐                          |
 | **Automations**           | ⭐⭐⭐                           | ⭐⭐⭐⭐⭐                         | ⭐⭐⭐⭐                        | ⭐⭐                          |
 | **Integration Options**   | ⭐⭐⭐⭐                          | ⭐⭐⭐⭐                          | ⭐⭐⭐⭐⭐                       | ⭐⭐                          |
-| **Price Flexibility**     | ⭐⭐⭐⭐                          | ⭐⭐⭐⭐⭐                         | ⭐⭐⭐⭐                        | ⭐⭐⭐⭐⭐                       |
+| **Price Flexibility**     | ⭐⭐⭐⭐                          | ⭐⭐⭐⭐                         | ⭐⭐⭐                        | ⭐⭐⭐⭐⭐                       |
 
 ---
 
 ## Which One Should You Choose?  
 
-- **Go with Monday.com** if your team thrives on visual clarity, simplicity, and built-in marketing templates.  
+If your company already has access to a project management tool, use it! Any tool is better than winging it. I haven’t explored ProjectLibre in depth yet, but it’s well-regarded. While it’s not specifically designed for marketing, it may still outperform Excel or Google Sheets.
+
+Here are some options to consider:
+
+- **Go with Monday.com** if your team thrives on visual clarity, simplicity, and ready to use marketing templates.  
 - **Choose ClickUp** if you need a customizable, feature-rich platform for managing complex workflows.  
 - **Pick Jira** if your marketing team operates within a large organization or agile framework and needs enterprise-level scalability.  
-- **Stick with Excel** if you need a budget-friendly, no-frills solution for simple project tracking.  
+- **Stick with Excel or Google Sheets** if you need a budget-friendly, no-frills solution for simple project tracking.  
 
-At the end of the day, the right tool depends on your team’s size, complexity, and workflow preferences. Whether you need all the bells and whistles or just a basic solution, there’s a project management tool for every marketer.  
+Ultimately, the right tool depends on your team’s size, workflow complexity, and preferred style. Whether you want a fully loaded platform or a basic solution, there’s a tool to fit every marketer’s needs.
 
-**Now, which tool will you use to start your next great campaign?**
 
 ## References  
 
