@@ -20,7 +20,7 @@ layout: single-sidebar
 
 ![stack](/blog/assets/glue.jpg)
 
-# Marketing: It’s Not About Selling—It’s About Sticking  
+# Marketing: It’s Not Just About Selling—It’s About Sticking  
 
 Let’s be real for a second: marketing isn’t just about converting customers; it’s about *haunting* them. You know the drill—you need a solution, and the first brand that pops into your head isn’t necessarily the best one. It’s the one that’s been camping out in your brain rent-free, showing up over and over like your favorite meme.  
 
