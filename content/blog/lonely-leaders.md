@@ -45,7 +45,7 @@ One mistake I’ve made? Talking about a singular topic too much with the board.
 ### **4. Even Winning Can Feel Lonely**  
 Here’s the ironic part—success doesn’t always make it better. While your team is celebrating a big win, you’re already thinking about the next challenge. You’ve got that gap to make up, those bonuses to pay out. There’s no finish line, just another goal to chase, another crisis to manage. That constant forward motion? It can be exhausting. I have plans to get ahead of it, but I need time to make them happen.  
 
-## Combating CEO Loneliness: Connection Over Isolation  
+## Connection Over Isolation  
 
 But loneliness doesn’t have to be inevitable. Some of the most successful CEOs fight isolation by staying connected to the people who matter most: employees, customers, and peers.  
 
@@ -62,7 +62,7 @@ Ways to stay engaged:
 - **Listen More Than You Speak**: Create an environment where people feel comfortable giving you unfiltered feedback.
 - **Find Your Peer Network**: Join CEO roundtables or executive groups to discuss challenges without posturing.  Still Looking.
 
-## Beyond the Boardroom: Maintaining External Relationships  
+## External Relationships  
 
 Loneliness isn’t just an internal struggle—it also extends to external relationships. Many CEOs spend a significant amount of time networking, negotiating deals, and forging strategic partnerships. But what happens *after the handshake*?  
 
@@ -73,7 +73,7 @@ According to [Harvard Business Review](https://hbr.org/2016/12/after-the-handsha
 - **Treat Partnerships Like Customers**: Relationships require continuous effort, just like customer retention.
 - **Turn Transactions Into Collaborations**: Find ways to work together beyond the initial deal to build lasting rapport.  
 
-## Leading Doesn’t Have to Mean Going It Alone  
+## Don’t Go It Alone  
 
 Yes, leadership is isolating. Yes, the buck stops with you. But the best CEOs don’t just manage from the top—they stay engaged at every level of the company. The ones who break the cycle of loneliness are the ones who make **connection** a priority—whether with employees, customers, or trusted peers.  
 
