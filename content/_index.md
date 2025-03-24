@@ -1,7 +1,13 @@
 ---
 title: "Bill Carney"
 subtitle: "The growth guy"
-description: "The best companies are agile and iterative with the right mix of innovative strategic thinking, creative thinking/design, & data-driven decision-making."
+description: "With extensive experience in crafting programs that drive profitable growth, enhance brand value, and expand market share, Bill combines strategic thinking, creative design, and data-driven decision-making to help companies thrive.
+
+As a CEO, Bill focuses on building high-performing teams that align strategy with execution. He creates cultures of accountability, collaboration, and innovation—ensuring that teams not only deliver results but also drive sustainable growth.
+
+Explore insights on agile marketing strategies, the importance of share of voice (SOV), and the balance between adopting new technologies and focusing on foundational marketing principles.
+
+Discover how Bill’s expertise and leadership can accelerate your business’s growth journey."
 date: 2021-02-15T12:27:33-06:00
 images:
   - img/lightbulb.png
