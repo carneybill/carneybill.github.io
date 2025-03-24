@@ -52,7 +52,7 @@ But loneliness doesn’t have to be inevitable. Some of the most successful CEOs
 ### **How I Stay Connected**  
 To bridge the gap, one of the first things I've committed to hosting is virtual and in-person coffee chats with every employee. No agenda, no pressure—just real conversations. These sessions give me unfiltered insight into the company while helping employees see me as more than just “the CEO.” It feels like a good way to break down barriers and make myself approachable.  
 
-<img src="/blog/assets/CEO-tour.png" alt="Tour" class="center">
+<img src="content/blog/assets/CEO-tour.png" alt="Tour" class="center">
 
 According to a [Forbes article on customer-centric CEOs](https://www.forbes.com/sites/blakemorgan/2023/09/13/10-ceos-customer-experience-leaders-who-work-on-the-front-lines/), leaders like Brian Chesky (Airbnb) and Satya Nadella (Microsoft) prioritize direct engagement with customers and employees. Why? Because **staying involved at the ground level** prevents CEOs from becoming detached in their own bubble.  I love this as well!  I get more energy talking to customers and prospects than any other way.
 
