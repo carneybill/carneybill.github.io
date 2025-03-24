@@ -2,7 +2,7 @@
 title: "Lonely Leaders"
 subtitle: "Why Leadership Feels Isolating"
 excerpt: "Being a CEO comes with power and influence—but also a level of solitude few talk about. You’re no longer just part of the team; you’re the boss, making decisions that impact lives, futures, and the company’s trajectory. The higher you climb, the fewer people you can truly confide in. But leadership doesn’t have to mean isolation. The best CEOs stay connected—engaging with employees, customers, and peers to combat loneliness and lead more effectively. Because at the end of the day, the strongest leaders aren’t just at the top—they’re in the trenches, too."
-date: 2025-03-25
+date: 2025-03-20
 author: "Bill Carney"
 draft: false
 images:
