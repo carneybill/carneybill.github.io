@@ -4,7 +4,7 @@ subtitle: "Book Read"
 excerpt: "As I lounged under the Cancun sun with a breakfast smoothie (pina colada) in hand, Ben Horowitz’s words hit me like an unexpected wave: “There are no silver bullets for this, only a lot of lead bullets.” It was an oddly grounding moment—reading about the brutal realities of running a company while surrounded by palm trees and endless turquoise water. His stories of sleepless nights, impossible decisions, and gut-wrenching honesty stood in stark contrast to my lazy beach vibe, but that’s what made them stick. Even from a pre-pandemic world, his lessons on resilience and facing “The Struggle” head-on felt timeless, like the kind of advice you could apply anywhere—even when deciding between tacos or ceviche for dinner."
 date: 2025-02-5
 author: "Bill Carney"
-draft: false
+draft: true
 images:
 - /blog/assets/bowl-thumbnail.jpeg
 - /blog/assets/bowl.jpg
