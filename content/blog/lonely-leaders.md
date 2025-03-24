@@ -1,7 +1,7 @@
 ---
 title: "Lonely Leaders"
-subtitle: "Why Leadership Feels Isolating"
-excerpt: "Being a CEO comes with power and influence—but also a level of solitude few talk about. You’re no longer just part of the team; you’re the boss, making decisions that impact lives, futures, and the company’s trajectory. The higher you climb, the fewer people you can truly confide in. But leadership doesn’t have to mean isolation. The best CEOs stay connected—engaging with employees, customers, and peers to combat loneliness and lead more effectively. Because at the end of the day, the strongest leaders aren’t just at the top—they’re in the trenches, too."
+subtitle: "Leadership Feels Isolating"
+excerpt: "Being a CEO comes with a level of solitude few talk about. You’re no longer just part of the team; you’re the boss, making decisions that impact lives, futures, and the company’s trajectory. The higher you climb, the fewer people you can truly confide in. But leadership doesn’t have to mean isolation. The best CEOs stay connected—engaging with employees, customers, and peers to combat loneliness and lead more effectively. Because at the end of the day, the strongest leaders aren’t just at the top—they’re in the trenches, too."
 date: 2025-03-20
 author: "Bill Carney"
 draft: false
@@ -21,21 +21,21 @@ layout: single-sidebar
 
 # The Lonely CEO  
 
-They say it’s lonely at the top. Turns out, *they* weren’t kidding. Sure, being a CEO comes with the perks—power, influence, the ability to shape a company’s future. But it also comes with a level of solitude that’s tough to explain until you’ve lived it.  
+Someone said - it’s lonely at the top. Turns out, *they* weren’t kidding. Sure, being a CEO comes with the perks—power, influence, the ability to shape a company’s future. But it also comes with a level of solitude that’s tough to explain until you’ve lived it.  
 
 ## The Weight of Leadership  
 
 Being a CEO isn’t just about hitting growth targets and making bold moves. It’s about carrying the weight of an entire organization. Every decision—good, bad, or somewhere in between—lands squarely on your shoulders. And while you might have a great leadership team, the final call? That’s all you.  
 
 ### **1. You’re No Longer “One of the Team”**  
-Remember when you were part of the team, cracking jokes, sharing frustrations, and feeling like you truly belonged? That dynamic shifts the second you step into the CEO role. You’re no longer just a colleague—you’re *the boss*. And that changes everything.  
+Remember when you were part of the team, cracking jokes, closing the bar, sharing frustrations, and feeling like you truly belonged? That dynamic shifts the second you step into the CEO role. You’re no longer just a colleague—you’re *the boss*. And that changes everything.  
 
-You used to have a support system in your peers, but now? Employees filter what they say around you. Decisions you make—big or small—carry weight in ways they never did before. Even your closest colleagues may hesitate before giving you unfiltered feedback. It’s a weird, unsettling shift. I try to be myself—self-deprecating and approachable—but it’s a balancing act. You want to instill confidence while remaining accessible.  
+You used to have a support system in your peers, but now? Employees filter what they say around you. Decisions you make—big or small—carry weight in ways they never did before. Even your closest colleagues may hesitate before giving you unfiltered feedback. **It’s a weird, unsettling shift.** I try to be myself—self-deprecating and approachable—but it’s a balancing act. You want to instill confidence while remaining accessible. No one wants to work for a joke.  
 
 ### **2. Who Actually Gets It?**  
-Here’s the hard truth: the higher you climb, the lonelier it gets. You can’t vent to employees about boardroom pressure. You can’t share every uncertainty with investors. And even among peers, opening up can feel risky—because let’s be honest, some of them would love to take your seat if you slip.  
+Here’s the hard truth: the higher you climb, the lonelier it gets. You can’t vent to employees about boardroom pressure. You can’t share every uncertainty with investors. And even among peers, opening up can feel risky.  
 
-I’ve been lucky to find someone I can share almost everything with, someone who gives me unvarnished feedback. That person happens to be the chair of our board. He’s a straight talker, which helps immensely.  
+I’ve been lucky to find someone I can share almost everything with, someone who gives me unvarnished feedback. That person happens to be the chair of our board. He’s a straight talker, which helps immensely. But I can't share everything - see below. 
 
 ### **3. Decisions That Keep You Up at Night**  
 Being a CEO means making calls that impact people’s livelihoods, the company’s future, and your own sanity. Layoffs, restructuring, major pivots—none of it comes with a playbook. And no matter how many advisors you have, in the end, you’re the one who signs off on the tough choices.  
