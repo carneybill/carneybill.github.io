@@ -51,7 +51,10 @@ jobs:
       - name: Setup GitHub Pages
         id: pages
         uses: actions/configure-pages@v4
+<<<<<<< HEAD
 
+=======
+>>>>>>> a3554814f4cfacbaaa3460b51acd51e07b93a9f0
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
 
@@ -80,7 +83,11 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
+<<<<<<< HEAD
         uses: actions/deploy-pages@v3
         
       - name: Set deployment URL
         run: echo "Deployment URL: ${{ steps.deployment.outputs.page_url }}"
+=======
+        uses: actions/deploy-pages@v4
+>>>>>>> a3554814f4cfacbaaa3460b51acd51e07b93a9f0
