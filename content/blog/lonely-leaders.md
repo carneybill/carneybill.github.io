@@ -54,6 +54,10 @@ To bridge the gap, one of the first things I've committed to hosting is virtual 
 
 ![CEO Tour](carneybill.github.io/content/blog/assets/ceo-tour.png)
 
+<p align="center">
+  <img height="300" src="/content/blog/assets/ceo-tour.png">
+</p>
+
 According to a [Forbes article on customer-centric CEOs](https://www.forbes.com/sites/blakemorgan/2023/09/13/10-ceos-customer-experience-leaders-who-work-on-the-front-lines/), leaders like Brian Chesky (Airbnb) and Satya Nadella (Microsoft) prioritize direct engagement with customers and employees. Why? Because **staying involved at the ground level** prevents CEOs from becoming detached in their own bubble.  I love this as well!  I get more energy talking to customers and prospects than any other way.
 
 Ways to stay engaged:
