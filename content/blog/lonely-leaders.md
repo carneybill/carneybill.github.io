@@ -52,7 +52,7 @@ But loneliness doesn’t have to be inevitable. Some of the most successful CEOs
 ### **How I Stay Connected**  
 To bridge the gap, one of the first things I've committed to hosting is virtual and in-person coffee chats with every employee. No agenda, no pressure—just real conversations. These sessions give me unfiltered insight into the company while helping employees see me as more than just “the CEO.” It feels like a good way to break down barriers and make myself approachable.  
 
-![CEO Tour](carneybill.github.io/content/blog/assets/ceo-tour.png)
+![CEO Tour](/content/blog/assets/ceo-tour.png)
 
 <p align="center">
   <img height="300" src="/content/blog/assets/ceo-tour.png">
