@@ -35,7 +35,7 @@ You used to have a support system in your peers, but now? Employees filter what 
 ### **2. Who Actually Gets It?**  
 Here’s the hard truth: the higher you climb, the lonelier it gets. You can’t vent to employees about boardroom pressure. You can’t share every uncertainty with investors. And even among peers, opening up can feel risky.  
 
-I’ve been lucky to find someone I can share almost everything with, someone who gives me unvarnished feedback. That person happens to be the chair of our board. He’s a straight talker, which helps immensely. But I can't share everything - see below. 
+I’ve been lucky to find someone I can share almost everything with, someone who gives me unvarnished feedback. That person happens to be on our board. He’s a straight talker, which helps immensely. But I can't share everything - see below. 
 
 ### **3. Decisions That Keep You Up at Night**  
 Being a CEO means making calls that impact people’s livelihoods, the company’s future, and your own sanity. Layoffs, restructuring, major pivots—none of it comes with a playbook. And no matter how many advisors you have, in the end, you’re the one who signs off on the tough choices.  
