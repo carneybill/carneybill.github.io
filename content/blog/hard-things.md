@@ -1,5 +1,5 @@
 ---
-title: "The Hard thing about Breakfast Smoothies"
+title: "Breakfast Smoothies"
 subtitle: "Book Read"
 excerpt: "When I was contemplating becoming CEO, many people suggested I read this “old” book. So there I was, lounging under the Cancun sun with a breakfast smoothie (fine, a piña colada) in hand, when Ben Horowitz’s words hit me like an unexpected wave: “There are no silver bullets for this, only a lot of lead bullets. Leadership, I realized, isn’t about waiting for the perfect solution to appear—it’s about persistence, grit, and making tough calls, whether in the boardroom or at a street-side taqueria deciding between tacos and ceviche."
 date: 2025-02-01
