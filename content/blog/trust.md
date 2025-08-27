@@ -1,7 +1,7 @@
 ---
 title: "The Power of Vulnerability"
 subtitle: "Ask More, Pretend Less"
-excerpt: "Vulnerability isn’t weakness — it’s strength. I just finished *Getting Naked* by Patrick Lencioni and *Don’t Believe Everything You Think*. The lesson? Clients don’t want superheroes. They want real people who ask the tough questions, admit when they don’t know, and put the client first. That’s how trust is earned. That’s how partnerships grow. That’s how we lead.  
+excerpt: "Vulnerability isn’t weakness — it’s strength. I just finished *Getting Naked* by Patrick Lencioni and *Don’t Believe Everything You Think*. The lesson? Clients don’t want superheroes. They want real people who ask the tough questions, admit when they don’t know, and put the client first. That’s how trust is earned. That’s how partnerships grow. That’s how we lead. "
 date: 2025-07-05
 author: "Bill Carney"
 draft: false
