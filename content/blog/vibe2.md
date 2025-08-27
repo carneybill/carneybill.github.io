@@ -6,8 +6,8 @@ date: 2025-06-10
 author: "Bill Carney"
 draft: false
 images:
-- /blog/assets/good-news-thumbnail.jpg
-- /blog/assets/good-news.jpg
+- /blog/assets/good-vibes-thumbnail.jpg
+- /blog/assets/good-vibes.jpg
 series:
   - building
   - technology
@@ -73,3 +73,6 @@ I’ve come to think of vibe coding as a **bridge**:
 It’s not “done” yet. It’s clunky, it’s imperfect, and it can’t (yet) replace the hard parts of system design. But the direction is clear. What feels fragmented today will evolve into seamless, integrated workflows tomorrow.  
 
 And if you’re willing to persist, rebuild, and embrace the learning curve—it really does start to feel like fun.  
+
+Photo by <a href="https://unsplash.com/@markadriane?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">MARK ADRIANE</a> on <a href="https://unsplash.com/photos/good-vibes-only-text-muS2RraYRuQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
