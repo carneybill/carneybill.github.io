@@ -29,7 +29,7 @@ The second was *Don’t Believe Everything You Think*, which reminded me that so
 - “You’ll lose credibility if you don’t have the answer.”  
 - “Don’t say that — it’ll make you look weak.”  
 
-But those are just thoughts, not truths.  
+This book challenged me to notice how often my thoughts are assumptions rather than truths. Fear-driven thinking can hold us back from asking the right questions, admitting what we don’t know, or collaborating openly. Recognizing that these are just thoughts — not facts — frees us to take risks, engage authentically, and focus on what really matters: the client’s success and meaningful outcomes.  
 
 The truth is this: **vulnerability is strength.**
 

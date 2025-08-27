@@ -1,7 +1,7 @@
 ---
 title: "Bill Carney"
 subtitle: "The growth guy"
-description: "With extensive experience in crafting programs that drive profitable growth, enhance brand value, and expand market share, Bill combines strategic thinking, creative design, and data-driven decision-making to help companies thrive. Bill focuses on building high-performing teams that align strategy with execution. He creates cultures of accountability, collaboration, and innovation—ensuring that teams not only deliver results but also drive sustainable growth."
+description: "Bill combines strategic vision with hands-on execution, helping companies drive growth, elevate brand value, and expand market share. He builds high-performing teams that align strategy with results, fostering cultures of accountability, collaboration, and innovation. Bill doesn’t just plan—he rolls up his sleeves to ensure ideas translate into measurable impact and sustainable success."
 date: 2021-02-15T12:27:33-06:00
 images:
   - img/lightbulb.png
