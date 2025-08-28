@@ -23,7 +23,7 @@ tags:
   - Trust-Led
 layout: single-sidebar
 ---
-I recently finished two books that struck a chord with me. The first was *Getting Naked* by Patrick Lencioni (thanks to Kevin McKey for the recommendation). The title might raise eyebrows, but the message is simple: to earn trust, we have to strip away the need to appear perfect.  
+I recently finished two books that struck a chord with me. The first was *Getting Naked* by Patrick Lencioni (thanks to Kevin MacKey for the recommendation). The title might raise eyebrows, but the message is simple: to earn trust, we have to strip away the need to appear perfect.  
 
 The second was *Don’t Believe Everything You Think*, which reminded me that so much of our inner dialogue is shaped by fear:  
 - “You’ll lose credibility if you don’t have the answer.”  
