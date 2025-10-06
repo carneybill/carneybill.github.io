@@ -6,7 +6,7 @@ date: 2025-10-06
 author: "Bill Carney"
 draft: false
 images:
-- /blog/assets/leaves-thumbnail.jpg
+- /blog/assets/leaves-thumbnail.jpeg
 - /blog/assets/leaves.jpg
 series:
   - Vendors
@@ -14,7 +14,7 @@ tags:
   - ABM
 categories:
   - Process
-  - MarTech
+  - Growth
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---
@@ -26,15 +26,15 @@ A new pattern is emerging - teams that stop applying templates and start diagnos
 ## What’s Different: Why the Old SaaS Playbooks Don’t Map
 
 Let’s recap what’s shifted, so the stakes are clear.
-###	1.	Peer-influence & trust over mass channels
+1.	Peer-influence & trust over mass channels
 In AI / deep tech, decision makers (CIOs, CTOs, enterprise buyers) often talk to their peers first. They hear of new tools via private gatherings, events, word of mouth in their network. If your marketing doesn’t amplify or enable those signals, you miss the channel that actually moves revenue.
-###	2.	Narrative, founder & thought leadership as channels
+2.	Narrative, founder & thought leadership as channels
 Founders or technical leads becoming visible — speaking, writing, doing podcasts, being “nodes” of influence — are no longer optional. They are core to establishing trust. Customers buy not only the product, but who stands behind it, how they think, and what their reputation says.
-###	3.	Nonlinear, noisy buyer journeys
+3.	Nonlinear, noisy buyer journeys
 Buyers often see you via reputation, research, event exposure, or referrals before any inbound or demand-gen campaign kicks off. Attribution becomes messy; traditional funnels break.
-###	4.	Experimentation + measurement matter more than known “best” channels
+4.	Experimentation + measurement matter more than known “best” channels
 Because many of the high-leverage channels are less baked (peer events, community, thought leadership, influencer relationships in tech), leaders must act like scientists: try hypotheses, test early signals, double down, kill fast.
-###	5.	Risk & leadership exposure are high
+5.	Risk & leadership exposure are high
 With fast-moving AI markets, hyper-competition, and demands from investors, CMOs who cling too closely to old template thinking risk being seen as not responsive enough. Hence the feeling: “maybe I’ll be fired in 18 months.”
 
 ⸻
@@ -128,21 +128,21 @@ Budgeting for uncertainty & optionality| Keeping a portion of budget & talent fo
 ## Implications for Founders & CMOs: What to Do Next
 
 Here are concrete steps if you’re a founder or CMO in an AI / deep tech company and you want to build marketing that “gets it.”
-### 1.	Do a drift audit: Identify existing successful traction signals — maybe small ones — that came “outside the plan.” Interview customers: “How did you hear about us? Who referred you? What content or event did you see?” These are clues for high-leverage channels.
-###	2.	Map influence nodes: Where do your customers or buyers spend time? What are the conferences, Slack / Discord / private forums, podcasts, workshops where they talk? Who are the respected influencers or technical voices in your space?
-###	3.	Make your founder / technical team visible: Start small if needed (founder blog posts, guest appearances, speaking at niche podcasts, publishing technical insights). Use them to signal authenticity and domain expertise.
-###	4.	Run many small experiments: For example:
+1.	Do a drift audit: Identify existing successful traction signals — maybe small ones — that came “outside the plan.” Interview customers: “How did you hear about us? Who referred you? What content or event did you see?” These are clues for high-leverage channels.
+2.	Map influence nodes: Where do your customers or buyers spend time? What are the conferences, Slack / Discord / private forums, podcasts, workshops where they talk? Who are the respected influencers or technical voices in your space?
+3.	Make your founder / technical team visible: Start small if needed (founder blog posts, guest appearances, speaking at niche podcasts, publishing technical insights). Use them to signal authenticity and domain expertise.
+4.	Run many small experiments: For example:
 - Sponsor small dinners / workshops where peers can meet (CIO dinners, tech salons).
 - Run a creator / influencer campaign among technical creators.
 - Try alternate messaging hypotheses via content.
 - Run surveys to capture qualitative feedback on what messages/narratives resonated.
-###	5.	Track and measure leading indicators: Not just pipeline/closed deals, but:
+.	Track and measure leading indicators: Not just pipeline/closed deals, but:
 - Inbound mentions / referrals
 - Event leads after peer group or conference exposure
 - Content reach + engagement (especially among technical audience)
 - Survey data on “first touch” or “influencer exposure”
-###	6.	Be ready to kill fast: If something is not working, discard or pivot. Don’t throw budgets at legacy channels just because “everyone does ABM or demand gen.”
-###	7.	Hire differently: Look for marketing leaders with growth / product / experiment mindset. Who are comfortable operating in ambiguity, inventing where nothing is proven.
+6.	Be ready to kill fast: If something is not working, discard or pivot. Don’t throw budgets at legacy channels just because “everyone does ABM or demand gen.”
+7.	Hire differently: Look for marketing leaders with growth / product / experiment mindset. Who are comfortable operating in ambiguity, inventing where nothing is proven.
 
 ⸻
 
