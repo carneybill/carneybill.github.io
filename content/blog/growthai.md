@@ -37,8 +37,6 @@ Because many of the high-leverage channels are less baked (peer events, communit
 5.	Risk & leadership exposure are high
 With fast-moving AI markets, hyper-competition, and demands from investors, CMOs who cling too closely to old template thinking risk being seen as not responsive enough. Hence the feeling: “maybe I’ll be fired in 18 months.”
 
-⸻
-
 ## What “Diagnosing Before Prescribing” Looks Like in Action
 
 Here’s what the difference looks like in practice — founders + CMOs who succeed in AI / deep tech don’t immediately deploy ABM or demand-gen just because that’s what worked in SaaS. They start with discovery:
@@ -49,13 +47,9 @@ Here’s what the difference looks like in practice — founders + CMOs who succ
 
 Then build the motion around that instead of shoehorning old blueprints.
 
-⸻
-
 ## Case Studies / Examples: What Working Looks Like
 
 Here are several real (or close to real) examples that illustrate how some companies are doing this well — diagnosing, testing, leaning into influence / narrative / community — not just executing known demand-gen motions.
-
-⸻
 
 ### Case Study 1: Gradient AI + Enterprise Influencer Marketing
 
@@ -74,8 +68,6 @@ Results:
 
 Why it matters: This is diagnosing what credibility and peer exposure can produce. Instead of starting with ABM or demand-gen, they treated influencer / creator communities as levers relevant even for enterprise B2B.
 
-⸻
-
 ### Case Study 2: AI Founders + PUNKU.AI for Startup Scouting
 
 What they did:
@@ -90,8 +82,6 @@ Approach:
 Results: Between Batch 4 → 5 of the accelerator program, applications increased 179 %, with only a 50 % increase in outreach contacts. PUNKU.AI drove 43 % of total applications, and ~⅓ of accepted startups came through that channel.  ￼
 
 What this shows: Founders can invent new motions where none existed. They diagnosed that scouting/outreach was the bottleneck, then built around that insight; they didn’t force-fit a demand-gen or ABM tactic.
-
-⸻
 
 ### Case Study 3: Founder as Thought Leader / Viral Visibility
 
@@ -109,8 +99,6 @@ Results:
 
 Why it matters: This is classic thought leadership + narrative + founder voice. It’s not demand-gen in the sense of ABM or funnel metrics. But it pulls in visibility, credibility, trust — which feed the funnel in subtle but powerful ways. Also, it scales: one voice, one narrative, many reads.
 
-⸻
-
 ## Synthesizing: Deep Tech Marketing 
 
 From these case studies and what we see in the field, the leaders who are succeeding have some or all of:
@@ -122,8 +110,6 @@ Founder / technical leader visibility & influence| Founders create content, spea
 Peer / community network leverage| Influencers/creators in a domain, events, private forums, speaking at niche meetups, technical community content.| Buyers actually get recommendations here — low noise, high trust.|
 Measurement beyond last-click| Track inbound references, source of inspiration, surveys (“what made you first hear of us?”), leading indicators (referrals, event leads). Using cohort comparisons.| Funnel models mis-attribute peer influence or narrative; need qualitative + quantitative.|
 Budgeting for uncertainty & optionality| Keeping a portion of budget & talent for experiments; being willing to kill rather than scaling prematurely.| Because channels are newer, risk higher; but reward for early movers is also large.
-
- ⸻
 
 ## Implications & What to Do Next
 
@@ -144,8 +130,6 @@ Here are concrete steps if you’re a founder or CMO in an AI / deep tech compan
 6.	Be ready to kill fast: If something is not working, discard or pivot. Don’t throw budgets at legacy channels just because “everyone does ABM or demand gen.”
 7.	Hire differently: Look for marketing leaders with growth / product / experiment mindset. Who are comfortable operating in ambiguity, inventing where nothing is proven.
 
-⸻
-
 ## Moving from Operator → Inventor
 
 To sum up, the next generation of marketing leaders in AI / deep tech won’t be those who can flawlessly run demand-gen, SEO, ABM in template forms. They’ll be inventors:
@@ -155,8 +139,6 @@ To sum up, the next generation of marketing leaders in AI / deep tech won’t be
 - Build influence & trust as central parts of GTM (go-to-market), not as “nice extras.”
 
 Interestingly, this is what many growth teams have done historically (hacking, experimentation) — but now that narrative / influence / credibility channels are so potent in AI, growth mindset needs to lead marketing as a whole.
-
-⸻
 
 In today’s fragmented buyer landscape, where decisions are increasingly shaped by peer influence rather than predictable funnels, “template marketing” no longer works. The founders and CMOs who succeed are those who embrace uncertainty, lean into networks of influence, make the founder’s story visible, and approach growth as a series of disciplined experiments. We’re in the midst of an arms race for attention and trust—early movers who build influence, author the narrative, and intentionally map the ecosystems around them will capture outsized returns.
 
