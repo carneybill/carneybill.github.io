@@ -23,7 +23,7 @@ layout: single-sidebar
 
 A new pattern is emerging - teams that stop applying templates and start diagnosing where influence and credibility truly live are the ones winning. The next generation of marketing leaders won’t look like SaaS operators. They’ll be experimenters, inventors, and network-builders — people who turn curiosity into compound growth.
 
-## What’s Different: Why the Old SaaS Playbooks Don’t Map
+## The SaaS Playbooks Don’t Map
 
 Let’s recap what’s shifted, so the stakes are clear.
 1.	Peer-influence & trust over mass channels
@@ -111,7 +111,7 @@ Why it matters: This is classic thought leadership + narrative + founder voice. 
 
 ⸻
 
-## Synthesizing: What These Tell Us About What Good AI / Deep Tech Marketing Looks Like
+## Synthesizing: Deep Tech Marketing 
 
 From these case studies and what we see in the field, the leaders who are succeeding have some or all of:
 
@@ -125,28 +125,28 @@ Budgeting for uncertainty & optionality| Keeping a portion of budget & talent fo
 
  ⸻
 
-## Implications for Founders & CMOs: What to Do Next
+## Implications & What to Do Next
 
 Here are concrete steps if you’re a founder or CMO in an AI / deep tech company and you want to build marketing that “gets it.”
 1.	Do a drift audit: Identify existing successful traction signals — maybe small ones — that came “outside the plan.” Interview customers: “How did you hear about us? Who referred you? What content or event did you see?” These are clues for high-leverage channels.
 2.	Map influence nodes: Where do your customers or buyers spend time? What are the conferences, Slack / Discord / private forums, podcasts, workshops where they talk? Who are the respected influencers or technical voices in your space?
 3.	Make your founder / technical team visible: Start small if needed (founder blog posts, guest appearances, speaking at niche podcasts, publishing technical insights). Use them to signal authenticity and domain expertise.
 4.	Run many small experiments: For example:
-- Sponsor small dinners / workshops where peers can meet (CIO dinners, tech salons).
-- Run a creator / influencer campaign among technical creators.
-- Try alternate messaging hypotheses via content.
-- Run surveys to capture qualitative feedback on what messages/narratives resonated.
-.	Track and measure leading indicators: Not just pipeline/closed deals, but:
-- Inbound mentions / referrals
-- Event leads after peer group or conference exposure
-- Content reach + engagement (especially among technical audience)
-- Survey data on “first touch” or “influencer exposure”
+  - Sponsor small dinners / workshops where peers can meet (CIO dinners, tech salons).
+  - Run a creator / influencer campaign among technical creators.
+  - Try alternate messaging hypotheses via content.
+  - Run surveys to capture qualitative feedback on what messages/narratives resonated.
+5.	Track and measure leading indicators: Not just pipeline/closed deals, but:
+  - Inbound mentions / referrals
+  - Event leads after peer group or conference exposure
+  - Content reach + engagement (especially among technical audience)
+  - Survey data on “first touch” or “influencer exposure”
 6.	Be ready to kill fast: If something is not working, discard or pivot. Don’t throw budgets at legacy channels just because “everyone does ABM or demand gen.”
 7.	Hire differently: Look for marketing leaders with growth / product / experiment mindset. Who are comfortable operating in ambiguity, inventing where nothing is proven.
 
 ⸻
 
-## A New Mental Model: From Operator → Inventor
+## Moving from Operator → Inventor
 
 To sum up, the next generation of marketing leaders in AI / deep tech won’t be those who can flawlessly run demand-gen, SEO, ABM in template forms. They’ll be inventors:
 - Diagnose first: understand what is actually working, again and again, even if quietly.
