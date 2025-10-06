@@ -1,8 +1,7 @@
 ---
 title: "Reinventing Growth for the AI Era"
 subtitle: "AI—and deep tech more broadly—doesn’t play by the old rules"
-excerpt: "There are no proven levers, no predictable attribution models, and no map to follow. Growth now emerges from signals hiding in plain sight: who’s talking about you at private CIO dinners, which founders are shaping the narrative, what ideas are earning trust among peers. Lets explore what’s breaking in traditional marketing and what’s working instead. Case studies from Gradient AI, PUNKU.AI, and a fast-scaling AI SaaS company reveal a new pattern: teams that stop applying templates and start diagnosing where influence and credibility truly live are the ones winning. The next generation of marketing leaders won’t look like SaaS operators.
-They’ll be experimenters, inventors, and network-builders — people who turn curiosity into compound growth."
+excerpt: "There are no proven levers, no predictable attribution models, and no map to follow. Growth now emerges from signals hiding in plain sight: who’s talking about you at private CIO dinners, which founders are shaping the narrative, what ideas are earning trust among peers. Lets explore what’s breaking in traditional marketing and what’s working instead."
 date: 2025-10-06
 author: "Bill Carney"
 draft: false
@@ -22,6 +21,7 @@ layout: single-sidebar
 
 ![stack](/blog/assets/leaves.jpg)
 
+A new pattern is emerging - teams that stop applying templates and start diagnosing where influence and credibility truly live are the ones winning. The next generation of marketing leaders won’t look like SaaS operators. They’ll be experimenters, inventors, and network-builders — people who turn curiosity into compound growth.
 
 ## What’s Different: Why the Old SaaS Playbooks Don’t Map
 
