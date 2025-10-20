@@ -2,7 +2,7 @@
 title: "How to build real trust"
 subtitle: "building trust"
 excerpt: "In B2B, trust isn’t built with slogans or glossy decks. Buyers look for proof before they ever speak with sales. They read research, scan peer reviews, and check who else stands behind your brand. And with AI search now shaping first impressions in seconds, the bar for accuracy and credibility is higher than ever."
-date: 2025-08-22
+date: 2025-06-22
 author: "Bill Carney"
 draft: false
 images:

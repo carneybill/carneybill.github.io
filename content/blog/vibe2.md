@@ -2,7 +2,7 @@
 title: "Vibe Coding 2"
 subtitle: "Vibe Coding Is Evolving"
 excerpt: "Over the past few months I’ve tested Replit, Cursor, and now Kilo with Copilot and Claude. I’ve burned down and rebuilt instances, ripped out integrations that didn’t work, and wrestled with Docker, Digital Ocean, Spaces, and Stripe.  What I’ve learned is that vibe coding isn’t about instant deployment—it’s about learning, iterating, and staying in flow. For developers, it promises faster scaffolding and fewer headaches with boilerplate. For non-coders, it opens the door to building real applications without years of training. It’s still clunky, but the direction is clear: coding by describing is evolving fast, and persistence really does pay off - hopefully."
-date: 2025-06-10
+date: 2025-05-10
 author: "Bill Carney"
 draft: false
 images:
