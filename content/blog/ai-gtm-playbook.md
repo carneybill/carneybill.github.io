@@ -23,7 +23,7 @@ layout: single-sidebar
 
 ![stack](/blog/assets/network.gif)
 
-The rules of B2B buying are being rewritten. Not incrementally — structurally. Buyers today don’t move through a tidy funnel owned by sales and marketing; they navigate a **buying network** made up of internal stakeholders, external influencers, independent research, and increasingly, AI agents that summarize, shortlist, and recommend on their behalf.  
+The rules of B2B buying are being rewritten. Not incrementally — structurally. Buyers have never moved through a linear tidy funnel owned by sales and marketing; they navigate a **buying network** made up of internal stakeholders, external influencers, independent research, and increasingly, AI agents that summarize, shortlist, and recommend on their behalf.  
 
 If your go-to-market (GTM) playbook still targets a single buyer persona or relies on volume outreach, you’re invisible in the very places buyers now start their journeys.
 
