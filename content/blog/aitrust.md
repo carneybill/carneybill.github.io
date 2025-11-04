@@ -2,12 +2,12 @@
 title: "Reinventing Growth for the AI Era - Part 2"
 subtitle: "Trust, AI, and the Rise of Buying Networks: How B2B Growth Is Being Rewritten"
 excerpt: "B2B growth is being rewritten by the convergence of trust, AI, and data. Traditional funnels are collapsing under the weight of fragmented buyer behavior, giving rise to Buying Networks—dynamic ecosystems where intent, influence, and validation circulate freely."
-date: 2025-11-01
+date: 2025-08-06
 author: "Bill Carney"
 draft: false
 images:
-- /blog/assets/leaves-thumbnail.jpeg
-- /blog/assets/leaves.jpg
+- /blog/assets/leaves2.jpg
+- /blog/assets/leaves2.jpg
 series:
   - Vendors
 tags:
@@ -19,7 +19,7 @@ categories:
 layout: single-sidebar
 ---
 
-![stack](/blog/assets/leaves.jpg)
+![stack](/blog/assets/leaves2.jpg)
 
 
 In an era where B2B buying is increasingly complex, distributed, and AI-assisted, one constant remains: trust is the currency of growth. No longer a “soft” brand attribute, trust now directly accelerates sales velocity and conversion. As Forrester’s Buying Networks: Your Buyers’ New Reality (2025) report highlights, trusted providers gain “shortcuts to consideration,” enabling faster movement through decision cycles and broader endorsement within buyer ecosystems.
