@@ -2,7 +2,7 @@
 title: "Why AI, Trust, and Buying Networks Demand a New GTM Playbook"
 subtitle: "Trust, AI, and the Rise of a New GTM Playbook"
 excerpt: "Artificial intelligence isn’t just transforming how companies work — it’s redefining how they grow. As GTM leaders adapt to a world where data, content, and customer engagement are increasingly automated, the real differentiator becomes judgment. The future belongs to organizations that can integrate AI without losing the human insight that drives trust, creativity, and strategic decision-making."
-date: 2025-11-01
+date: 2025-11-07
 author: "Bill Carney"
 draft: false
 images:
