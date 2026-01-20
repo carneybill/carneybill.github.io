@@ -7,7 +7,6 @@ draft: false
 images:
 - /blog/assets/newyearresolution.jpg
 - /blog/assets/newyearresolution-thumbnail.jpg
-series: "Stop Doing Dumb Marketing"
 tags:
   - "B2B Marketing"
   - "AI in Marketing"
