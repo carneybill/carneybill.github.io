@@ -7,19 +7,19 @@ draft: false
 images:
 - /blog/assets/newyearresolution.jpg
 - /blog/assets/newyearresolution-thumbnail.jpg
-series: Stop Doing Dumb Marketing
+series: "Stop Doing Dumb Marketing"
 tags:
-  - B2B Marketing
-  - AI in Marketing
-  - Marketing Strategy
-  - Buyer Experience
-  - Personalization
-  - Marketing Trends 2026
+  - "B2B Marketing"
+  - "AI in Marketing"
+  - "Marketing Strategy"
+  - "Buyer Experience"
+  - "Personalization"
+  - "Marketing Trends 2026"
 categories:
-  - Marketing Insights
-  - Thought Leadership
-  - Digital Transformation
-# layout options: single or single-sidebar
+  - "Marketing Insights"
+  - "Thought Leadership"
+  - "Digital Transformation"
+  # layout options: single or single-sidebar
 layout: single-sidebar
 ---
 
