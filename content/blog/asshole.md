@@ -1,5 +1,5 @@
 ---
-title: "Don’t Be an Asshole — Because Empathy + Ownership Actually Unlocks Value"
+title: "Don’t Be an Asshole"
 subtitle: "Being an empathetic leader isn’t about being nice. It’s about unlocking value that command-and-control leadership never will."
 excerpt: "What private equity, Stanford researchers, and frontline workers all discovered is surprisingly simple: empathy isn’t soft — it’s a performance driver. Giving employees real equity only succeeded in about 60% of companies. The difference-maker wasn’t industry, revenue, or geography. It was the CEO. Specifically, the CEO’s empathy. When leaders listened, communicated transparently, and treated people with dignity, employee ownership transformed culture, improved engagement, and drove materially higher financial returns."
 date: 2026-01-07
