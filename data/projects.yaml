@@ -5,6 +5,12 @@ items:
     screenshot_alt: Homepage screenshot of PlaybookM
     summary: "PlaybookM presents itself as a marketing decision platform built to make marketing production visible. Its homepage focuses on helping teams find gaps quickly, align around strategy, and invest in the work that is actually moving performance."
     details: "It also reads like a workflow system for marketing teams, with dashboard, list, kanban, and calendar views tied to budget visibility, shared planning, and data-backed decisions."
+  - name: Operrai
+    url: https://www.operrai.com/
+    screenshot: /img/projects/operrai-mark.png
+    screenshot_alt: Workflow Models app icon for Operrai
+    summary: "Operrai currently presents Workflow Models, an operational workflow intelligence system for drafting workflows from a defined start and finish. Its homepage focuses on using AI to generate the middle of a process, validate the structure, and keep the resulting graph editable."
+    details: "The product reads like a workflow design and review workspace, with example-driven prompting, node editing, validation scoring, and PDF export for structured operational diagrams."
   - name: The Data Consulting Company
     url: https://www.thedataconsultingcompany.com/
     screenshot: /img/projects/tdcc-home.png
