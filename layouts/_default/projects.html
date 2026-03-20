@@ -1,0 +1,32 @@
+{{ define "main" }}
+<main class="page-main pa4" role="main">
+  <section class="page-content mw9 center">
+    <div class="projects-intro">
+      <h1 class="f2 f1-m f-headline-l fw5-ns mv3 lh-solid tracked-tight-ns">{{ .Title }}</h1>
+      {{ with .Description }}<p class="f5 f4-ns lh-copy black-60">{{ . }}</p>{{ end }}
+      {{ with .Content }}<div class="f6 f5-ns lh-copy black-50">{{ . }}</div>{{ end }}
+    </div>
+
+    <div class="projects-list">
+      {{ range $index, $project := site.Data.projects.items }}
+      <article class="project-showcase{{ if eq (mod $index 2) 1 }} project-showcase--reverse{{ end }}">
+        <div class="project-showcase__copy">
+          <span class="project-showcase__eyebrow">Project {{ add $index 1 }}</span>
+          <h2 class="project-showcase__title">
+            <a href="{{ $project.url }}" target="_blank" rel="noopener noreferrer">{{ $project.name }}</a>
+          </h2>
+          <p class="f4 lh-copy black-70">{{ $project.summary }}</p>
+          <p class="f5 lh-copy black-50">{{ $project.details }}</p>
+          <span class="project-showcase__meta">Homepage reference: {{ $project.url }}</span>
+        </div>
+        <figure class="project-showcase__media">
+          <a class="project-shot" href="{{ $project.url }}" target="_blank" rel="noopener noreferrer">
+            <img src="{{ $project.screenshot }}" alt="{{ $project.screenshot_alt }}" loading="lazy">
+          </a>
+        </figure>
+      </article>
+      {{ end }}
+    </div>
+  </section>
+</main>
+{{ end }}

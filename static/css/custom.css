@@ -129,3 +129,113 @@ transition: background-color .15s ease-in-out;
 .dark-pink, .f-headline-ns, .f-headline-m, .f-headline-l, .f-subheadline-ns, .f-subheadline-m, .f-subheadline-l, .f-headline, .f-subheadline {
     color: #1b5891;
 }
+
+.projects-intro {
+  margin: 0 auto 4rem;
+  max-width: 44rem;
+  text-align: center;
+}
+
+.projects-intro p {
+  margin: 1rem auto 0;
+  max-width: 40rem;
+}
+
+.projects-list {
+  display: grid;
+  gap: 3rem;
+}
+
+.project-showcase {
+  align-items: center;
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+}
+
+.project-showcase--reverse .project-showcase__copy {
+  order: 2;
+}
+
+.project-showcase--reverse .project-showcase__media {
+  order: 1;
+}
+
+.project-showcase__copy {
+  max-width: 33rem;
+}
+
+.project-showcase__eyebrow {
+  color: #1b5891;
+  display: inline-block;
+  font-size: .75rem;
+  font-weight: 700;
+  letter-spacing: .16em;
+  margin-bottom: .75rem;
+  text-transform: uppercase;
+}
+
+.project-showcase__title {
+  color: #111827;
+  font-size: 2rem;
+  line-height: 1.1;
+  margin: 0 0 1rem;
+}
+
+.project-showcase__title a {
+  border-bottom: 1px solid rgba(27, 88, 145, .25);
+  color: inherit;
+  text-decoration: none;
+}
+
+.project-showcase__title a:hover {
+  border-bottom-color: rgba(27, 88, 145, .7);
+  color: #1b5891;
+}
+
+.project-showcase__copy p {
+  margin: 0 0 1rem;
+}
+
+.project-showcase__copy p:last-of-type {
+  margin-bottom: 1.5rem;
+}
+
+.project-showcase__meta {
+  color: #6b7280;
+  display: block;
+  font-size: .85rem;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+}
+
+.project-shot {
+  background: #fff;
+  border: 1px solid #d6d6d6;
+  border-radius: 20px;
+  box-shadow: 0 24px 70px -38px rgba(15, 23, 42, .45);
+  display: block;
+  overflow: hidden;
+}
+
+.project-shot img {
+  display: block;
+  height: auto;
+  width: 100%;
+}
+
+@media (max-width: 60rem) {
+  .project-showcase {
+    gap: 1.5rem;
+    grid-template-columns: 1fr;
+  }
+
+  .project-showcase--reverse .project-showcase__copy,
+  .project-showcase--reverse .project-showcase__media {
+    order: initial;
+  }
+
+  .project-showcase__title {
+    font-size: 1.75rem;
+  }
+}

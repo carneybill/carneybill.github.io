@@ -2,6 +2,9 @@ header:
   - name: About
     title: About Bill
     url: /about/
+  - name: Projects
+    title: Current Projects
+    url: /projects/
   - name: Blog
     title: Blog
     url: /blog/
@@ -11,6 +14,9 @@ header:
 
 
 footer:
+  - name: Projects
+    title: Current Projects
+    url: /projects/
   - name: Help
     title: Help Site
     url: https://calendly.com/bill-carney-pfbu/30min

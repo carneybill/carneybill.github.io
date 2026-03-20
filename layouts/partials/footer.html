@@ -1,7 +1,7 @@
 <footer class="site-footer pa4 bt b--transparent" role="contentinfo">
   <nav class="db dt-l w-100">
     <p class="site-copyright f7 db dtc-l v-mid w-100 w-33-l tc tl-l pv2 pv0-l mv0 lh-copy">
-      {{ if ne .Site.Copyright "" }}{{ .Site.Copyright | safeHTML }}{{ else }}&copy; {{ now.Format "2006"}} Bill Carney, all rights reserved.
+      {{ if ne .Site.Copyright "" }}{{ .Site.Copyright | htmlUnescape }}{{ else }}&copy; {{ now.Format "2006"}} Bill Carney, all rights reserved.
       {{ end }}
     </p>
     {{ if .Site.Params.socialInFooter }}
