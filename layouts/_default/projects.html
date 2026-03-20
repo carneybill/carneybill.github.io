@@ -5,18 +5,18 @@
     <div class="projects-intro">
       <h1 class="f2 f1-m f-headline-l fw5-ns mv3 lh-solid tracked-tight-ns">{{ .Title }}</h1>
       {{ with .Description }}<p class="f5 f4-ns lh-copy black-60">{{ . }}</p>{{ end }}
-      {{ if $projects }}
-      <nav class="projects-toc" aria-label="Projects table of contents">
-        <p class="projects-toc__label">Jump to a project</p>
-        <ul class="projects-toc__list">
-          {{ range $project := $projects }}
-          {{ $anchor := printf "project-%s" ($project.name | anchorize) }}
-          <li><a href="#{{ $anchor }}">{{ $project.name }}</a></li>
-          {{ end }}
-        </ul>
-      </nav>
-      {{ end }}
     </div>
+    {{ if $projects }}
+    <nav class="projects-toc" aria-label="Projects table of contents">
+      <p class="projects-toc__label">Jump to a project</p>
+      <ul class="projects-toc__list">
+        {{ range $project := $projects }}
+        {{ $anchor := printf "project-%s" ($project.name | anchorize) }}
+        <li><a href="#{{ $anchor }}">{{ $project.name }}</a></li>
+        {{ end }}
+      </ul>
+    </nav>
+    {{ end }}
 
     <div class="projects-list">
       {{ range $index, $project := $projects }}
