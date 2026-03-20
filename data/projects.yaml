@@ -29,3 +29,9 @@ items:
     screenshot_alt: Homepage screenshot of Tickr
     summary: "Tickr is a live market ticker for Mac that keeps stocks, ETFs, Bitcoin, and headlines visible in an always-on strip. The homepage frames it as a Bloomberg-style market view for people who want persistent awareness without living in a browser tab all day."
     details: "Its pitch is intentionally simple: an always-visible ticker bar, clickable headlines, color-coded moves, and flexible placement at the top or bottom of the screen."
+  - name: JB Match AI
+    url: https://www.jbmatchai.com/
+    screenshot: /img/projects/jbmatchai-home.png
+    screenshot_alt: Homepage screenshot of JB Match AI
+    summary: "JB Match AI presents itself as an AI hiring platform built to predict candidate performance and help teams make more informed recruiting decisions. The homepage focuses on analyzing resumes against job descriptions, generating suitability scores, and reducing guesswork in early screening."
+    details: "Its positioning also leans into fixing ATS-era friction, using NLP and machine learning to improve stack ranking, highlight stronger fits, and streamline recruiting workflows with more consistent, data-backed evaluation."
