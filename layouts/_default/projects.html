@@ -1,15 +1,27 @@
 {{ define "main" }}
+{{ $projects := site.Data.projects.items }}
 <main class="page-main pa4" role="main">
   <section class="page-content mw8 center">
     <div class="projects-intro">
       <h1 class="f2 f1-m f-headline-l fw5-ns mv3 lh-solid tracked-tight-ns">{{ .Title }}</h1>
       {{ with .Description }}<p class="f5 f4-ns lh-copy black-60">{{ . }}</p>{{ end }}
-      {{ with .Content }}<div class="f6 f5-ns lh-copy black-50">{{ . }}</div>{{ end }}
+      {{ if $projects }}
+      <nav class="projects-toc" aria-label="Projects table of contents">
+        <p class="projects-toc__label">Jump to a project</p>
+        <ul class="projects-toc__list">
+          {{ range $project := $projects }}
+          {{ $anchor := printf "project-%s" ($project.name | anchorize) }}
+          <li><a href="#{{ $anchor }}">{{ $project.name }}</a></li>
+          {{ end }}
+        </ul>
+      </nav>
+      {{ end }}
     </div>
 
     <div class="projects-list">
-      {{ range $index, $project := site.Data.projects.items }}
-      <article class="project-showcase{{ if eq (mod $index 2) 1 }} project-showcase--reverse{{ end }}">
+      {{ range $index, $project := $projects }}
+      {{ $anchor := printf "project-%s" ($project.name | anchorize) }}
+      <article id="{{ $anchor }}" class="project-showcase{{ if eq (mod $index 2) 1 }} project-showcase--reverse{{ end }}">
         <div class="project-showcase__copy">
           <span class="project-showcase__eyebrow">Project {{ add $index 1 }}</span>
           <h2 class="project-showcase__title">

@@ -6,5 +6,3 @@ draft: false
 layout: projects
 url: /projects/
 ---
-
-A few recent projects, summarized from their live homepage copy as of March 20, 2026.
