@@ -8,7 +8,7 @@ items:
   - name: Operrai
     url: https://www.operrai.com/
     screenshot: /img/projects/operrai-home.png
-    screenshot_alt: Homepage screenshot of Operrai
+    screenshot_alt: Illustrated preview of the Operrai workflow design workspace
     summary: "Operrai currently presents Workflow Models, an operational workflow intelligence system for drafting workflows from a defined start and finish. Its homepage focuses on using AI to generate the middle of a process, validate the structure, and keep the resulting graph editable."
     details: "The product reads like a workflow design and review workspace, with example-driven prompting, node editing, validation scoring, and PDF export for structured operational diagrams."
   - name: The Data Consulting Company
