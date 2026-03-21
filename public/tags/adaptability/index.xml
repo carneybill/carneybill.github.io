@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adaptability on </title>
+    <link>https://carney.wiki/tags/adaptability/</link>
+    <description>Recent content in Adaptability on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carney.wiki/tags/adaptability/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Illusion of Control in Marketing</title>
+      <link>https://carney.wiki/blog/illusion-of-control/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/illusion-of-control/</guid>
+      <description>Marketers love dashboards, plans, forecasts, naming conventions, and the general feeling that everything is under control. Then the market does what it always does: it changes its mind, ignores the script, and reminds everyone that certainty was never part of the deal.
+Control in marketing is mostly a comforting story we tell ourselves. You can control effort, process, quality, and response time. You cannot control how people behave, what the market values next month, or which external event is about to bulldoze your neat quarterly plan.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lead Qualification on </title>
+    <link>https://carney.wiki/tags/lead-qualification/</link>
+    <description>Recent content in Lead Qualification on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carney.wiki/tags/lead-qualification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rethinking Live Chat: Is it Time for a More Focused Approach</title>
+      <link>https://carney.wiki/blog/live-chat/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/live-chat/</guid>
+      <description>Most live chat is either wasted or misused. It gets wasted when it sits on the site like a decorative paperweight. It gets misused when teams expect it to be support desk, SDR, concierge, and miracle conversion machine all at once.
+There is a better way to use it. Put chat where intent is high, narrow the use case, and use AI to make the interaction faster and smarter instead of louder and more annoying.</description>
+    </item>
+  </channel>
+</rss>

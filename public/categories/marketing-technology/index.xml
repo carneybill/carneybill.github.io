@@ -1,2 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Marketing Technology on</title><link>https://carney.wiki/categories/marketing-technology/</link><description>Recent content in Marketing Technology on</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/categories/marketing-technology/index.xml" rel="self" type="application/rss+xml"/><item><title>Vibe Coding 2</title><link>https://carney.wiki/blog/vibe2/</link><pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/vibe2/</guid><description>Vibe Coding: Still Learning, Still Vibing When I first wrote about vibe coding, I saw it as a fresh, almost playful way of thinking about development—coding less like grinding through syntax and more like shaping an idea in conversation with an AI. Since then, I’ve gone deeper: I’ve tried Replit, Cursor, and now Kilo inside Visual Studio with Copilot and Claude. Along the way, I’ve burned down and rebuilt multiple instances, hit roadblocks with authentication, ripped out Clerk when database connections got messy, and wrangled with Docker, Digital Ocean, Spaces, and Stripe.</description></item><item><title>Vibe Coding</title><link>https://carney.wiki/blog/vibe-coding/</link><pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/vibe-coding/</guid><description>Vibe Coding Is Coming — And I Might Have Just Tried It There’s a new term I’ve been hearing more and more lately: Vibe Coding.
-It&amp;rsquo;s not an official methodology or some new framework (yet), but rather a feeling—a zone developers enter where everything just clicks. You’re moving fast, building with intuition, and the tools aren’t fighting you—they’re helping. It’s creative momentum at full speed, and I think I may have just experienced it for the first time.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marketing Technology on </title>
+    <link>https://carney.wiki/categories/marketing-technology/</link>
+    <description>Recent content in Marketing Technology on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carney.wiki/categories/marketing-technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The shiny new thing</title>
+      <link>https://carney.wiki/blog/shiny-new-things/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/shiny-new-things/</guid>
+      <description>The Shiny Object Syndrome: Why Marketers Chase the New and Forget the Basics Marketing is a field of constant evolution, and for good reason. With over 8,000 marketing technologies available, the industry is brimming with tools promising to improve conversion rates, boost reach, and make our lives easier. As marketers, we’re always on the hunt for that next game-changer—the shiny new thing that could revolutionize how we do our jobs.</description>
+    </item>
+    <item>
+      <title>AI in Marketing</title>
+      <link>https://carney.wiki/blog/ai-in-marketing/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ai-in-marketing/</guid>
+      <description>Marketing is undergoing a seismic shift, driven by the rapid evolution of artificial intelligence (AI). From predictive analytics to lifelike (scary) automation, AI tools are revolutionizing how businesses engage with audiences, streamline workflows, and achieve measurable results.
+What is AI in Marketing? AI in marketing involves using artificial intelligence to optimize strategies through automation, data analysis, and personalized customer experiences. By leveraging machine learning, natural language processing, and predictive insights, marketers can improve efficiency, increase ROI, and craft meaningful connections with their audience.</description>
+    </item>
+    <item>
+      <title>Marketing Trends for 2024</title>
+      <link>https://carney.wiki/blog/trends/</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/trends/</guid>
+      <description>It&amp;rsquo;s been a month into 2024, and marketers are once again at the forefront of a technological revolution, where the strategic use of data is fundamental in sculpting experiences and steering business strategies. For marketers, the journey toward leveraging these trends is paved with strategic considerations. By integrating these strategies, companies can cultivate a resilient, authentic brand presence that resonates deeply with contemporary consumers. This approach positions organizations to thrive in the dynamic digital economy and aligns with evolving consumer values, ensuring sustained relevance and success in the marketing domain.</description>
+    </item>
+    <item>
+      <title>Building the machine</title>
+      <link>https://carney.wiki/blog/whats-your-martech-stack-look-like/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/whats-your-martech-stack-look-like/</guid>
+      <description>Documenting your Martech stack What&amp;rsquo;s your standardized Martech stack? Do you know what&amp;rsquo;s running? Do you know the overlaps and are you willing to accept them?
+The purpose of documenting the stack is to consolidate for continuity and control. Some of the vendors you work with may collect PII (Personal Identifiable Information) or PD (Personal Data) on your behalf or may not integrate into your databases of record for subscription management.</description>
+    </item>
+  </channel>
+</rss>
