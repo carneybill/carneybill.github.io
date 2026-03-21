@@ -3,6 +3,7 @@ title: "The Tradeshow Circus"
 subtitle: "Thanks COVID"
 excerpt: "Tradeshows are expensive: between the booth, travel, marketing, and sponsorships, showcasing your products at trade show exhibits can put a SERIOUS dent into your marketing budget. Why do I keep going?"
 date: 2020-12-01
+publishDate: 2020-12-01
 author: "Bill Carney"
 draft: false
 images:
@@ -10,9 +11,17 @@ images:
 - /blog/assets/circus.png
   - Machines
 tags:
-  - MarTech
+  - "Trade Shows"
+  - "Event Marketing"
+  - "Demand Generation"
+  - "ROI"
 categories:
-  - Process
+  - "B2B Marketing"
+  - "GTM Strategy"
+see_also:
+  - "blog/digital-marketing-landscape.md"
+  - "blog/playbook.md"
+  - "blog/roi-stats-marketful.md"
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---

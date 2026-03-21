@@ -3,6 +3,7 @@ title: "The Sticky Factor"
 subtitle: "Stop Whispering in a World That Rewards Shouting - quiet and cautious don't win"
 excerpt: "Marketing isn’t just about conversions—it’s about sticking in your customers’ minds. The brands we remember aren’t always the best; they’re the ones that show up consistently, dominating our thoughts through sheer visibility. By investing in share of voice (SOV) and creating unforgettable, omnipresent campaigns, brands can outpace their competitors and drive market share growth."
 date: 2025-01-04
+publishDate: 2025-01-04
 author: "Bill Carney"
 draft: false
 images:
@@ -11,9 +12,17 @@ images:
 series:
   - Automation
 tags:
-  - MarTech
+  - "Brand Recall"
+  - "Differentiation"
+  - "Messaging"
+  - "Positioning"
 categories:
-  - Process
+  - "Content Strategy"
+  - "Trust & Brand"
+see_also:
+  - "blog/old-marketing.md"
+  - "blog/build-trust.md"
+  - "blog/ugc.md"
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---

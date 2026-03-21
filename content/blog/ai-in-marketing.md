@@ -3,6 +3,7 @@ title: "AI in Marketing"
 subtitle: "Redefining the Future of Engagement"
 excerpt: "AI is transforming marketing by enabling marketers to work smarter, faster, and more strategically. From analyzing vast datasets to predicting customer behavior and personalizing content, AI tools like ChatGPT and NotebookLM are revolutionizing how businesses engage their audiences. By automating repetitive tasks, optimizing ad placements, and delivering tailored customer experiences, AI not only improves efficiency but also boosts ROI."
 date: 2024-06-10
+publishDate: 2024-06-10
 author: "Bill Carney"
 draft: false
 images:
@@ -11,9 +12,19 @@ images:
 series:
   - Technology
 tags:
-  - Automation
+  - "AI in Marketing"
+  - "Marketing Automation"
+  - "Personalization"
+  - "Predictive Analytics"
+  - "Digital Transformation"
 categories:
-  - Process
+  - "AI & Automation"
+  - "B2B Marketing"
+  - "Marketing Technology"
+see_also:
+  - "blog/2026dumbmarketing.md"
+  - "blog/trends-2024.md"
+  - "blog/video.md"
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---

@@ -3,6 +3,7 @@ title: "The Power of Vulnerability"
 subtitle: "Ask More, Pretend Less"
 excerpt: "Vulnerability isn’t weakness — it’s strength. I just finished *Getting Naked* by Patrick Lencioni and *Don’t Believe Everything You Think*. The lesson? Clients don’t want superheroes. They want real people who ask the tough questions, admit when they don’t know, and put the client first. That’s how trust is earned. That’s how partnerships grow. That’s how we lead. "
 date: 2025-07-05
+publishDate: 2025-07-05
 author: "Bill Carney"
 draft: false
 images:
@@ -12,15 +13,17 @@ series:
   - leadership
   - Vulnerability
 categories:
-  - Leadership
-  - SaaS & Startups
-  - Innovation
+  - "Trust & Brand"
+  - "Leadership & Career"
 tags:
-  - Mentor
-  - Experience
-  - Marketing Tools
-  - Developer Velocity
-  - Trust-Led
+  - "Vulnerability"
+  - "Trust Building"
+  - "Client Relationships"
+  - "Leadership"
+see_also:
+  - "blog/build-trust.md"
+  - "blog/lonely-leaders.md"
+  - "blog/kintsugi-antifragility.md"
 layout: single-sidebar
 ---
 I recently finished two books that struck a chord with me. The first was *Getting Naked* by Patrick Lencioni (thanks to Kevin MacKey for the recommendation). The title might raise eyebrows, but the message is simple: to earn trust, we have to strip away the need to appear perfect.  

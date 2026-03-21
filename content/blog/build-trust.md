@@ -3,6 +3,7 @@ title: "How to build real trust"
 subtitle: "building trust"
 excerpt: "In B2B, trust isn’t built with slogans or glossy decks. Buyers look for proof before they ever speak with sales. They read research, scan peer reviews, and check who else stands behind your brand. And with AI search now shaping first impressions in seconds, the bar for accuracy and credibility is higher than ever."
 date: 2025-06-22
+publishDate: 2025-06-22
 author: "Bill Carney"
 draft: false
 images:
@@ -11,10 +12,18 @@ series:
   - Relationships
   - Sales
 tags:
-  - Leverage
-  - Authority
+  - "Trust Building"
+  - "Thought Leadership"
+  - "Authority"
+  - "Social Proof"
+  - "Community"
 categories:
-  - Process
+  - "Trust & Brand"
+  - "B2B Marketing"
+see_also:
+  - "blog/trust.md"
+  - "blog/ai-gtm-playbook.md"
+  - "blog/when-your-prospect-knows-more-than-you.md"
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---

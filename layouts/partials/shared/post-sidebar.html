@@ -1,0 +1,16 @@
+{{ $toc := .TableOfContents }}
+{{ $hasTOC := gt (len (findRE "<a href=" $toc)) 0 }}
+
+<div class="post-sidebar-shell">
+  {{ if $hasTOC }}
+  <details open class="f6 fw7 input-reset post-sidebar-panel">
+    <summary>TOC</summary>
+    <div class="post-sidebar-toc">
+      {{ $toc }}
+    </div>
+  </details>
+  {{ end }}
+
+  {{ .Scratch.Set "details" "open" }}
+  {{ partial "shared/post-details.html" . }}
+</div>

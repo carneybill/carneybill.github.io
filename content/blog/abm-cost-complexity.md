@@ -3,6 +3,7 @@ title: "Navigating Account-Based Marketing"
 subtitle: "Navigating the Complexities & Costs of Account-Based Marketing"
 excerpt: "Account-Based Marketing (ABM) is a strategy that prioritizes personalization and precision targeting to cultivate high-value deals. This approach, while promising unparalleled ROI by focusing on a select group of target accounts, is often accompanied by significant costs and strategic challenges."
 date: 2024-04-01
+publishDate: 2024-04-01
 author: "Bill Carney"
 draft: false
 images:
@@ -11,10 +12,17 @@ images:
 series:
   - Vendors
 tags:
-  - ABM
+  - "Account-Based Marketing"
+  - "Personalization"
+  - "Sales Alignment"
+  - "Target Account Strategy"
 categories:
-  - Process
-  - MarTech
+  - "B2B Marketing"
+  - "GTM Strategy"
+see_also:
+  - "blog/ai-gtm-playbook.md"
+  - "blog/aitrust.md"
+  - "blog/intent-data.md"
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---

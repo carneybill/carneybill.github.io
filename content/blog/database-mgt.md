@@ -3,6 +3,7 @@ title: "Building & Managing Your Marketing Database in a Cookie-Less World"
 subtitle: "It always comes back to the data"
 excerpt: "One thing remains constant in Marketing: the importance of a robust and well-maintained contact database. Your database is the lifeblood of your marketing efforts, and how you build and manage it can make or break your campaigns."
 date: 2023-11-14
+publishDate: 2023-11-14
 author: "Bill Carney"
 draft: false
 images:
@@ -11,9 +12,17 @@ images:
 series:
   - Operational
 tags:
-  - Database
+  - "Database Management"
+  - "First-Party Data"
+  - "Data Hygiene"
+  - "Cookie-less Marketing"
 categories:
-  - Data
+  - "Data & Analytics"
+  - "Marketing Operations"
+see_also:
+  - "blog/intent-data.md"
+  - "blog/content-gating.md"
+  - "blog/digital-marketing-landscape.md"
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---

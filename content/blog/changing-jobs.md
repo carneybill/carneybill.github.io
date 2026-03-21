@@ -2,6 +2,7 @@
 title: "How to Grow Your Career by Leaving Jobs on Your Terms"
 subtitle: "One of the most important lessons I learned early in my career was to recognize my own value. It’s easy to get complacent and settle for less when you’re used to doing the same tasks and receiving the same feedback every day. However, I realized that I had more to offer than what my current job required or appreciated."
 date: 2023-01-03
+publishDate: 2023-01-03
 author: "Bill Carney"
 draft: false
 images:
@@ -10,10 +11,16 @@ images:
 series:
   - Growth
 tags:
-  - Jobs
-  - MarTech
+  - "Career Growth"
+  - "Job Search"
+  - "Professional Development"
+  - "Personal Brand"
 categories:
-  -  Operational
+  - "Leadership & Career"
+see_also:
+  - "blog/lonely-leaders.md"
+  - "blog/hard-things.md"
+  - "blog/trust.md"
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---

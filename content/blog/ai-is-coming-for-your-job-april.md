@@ -3,6 +3,7 @@ title: "AI Is Coming for Your Job"
 subtitle: "That's Not a Bad Thing."
 excerpt: "\"AI is coming for your job\" spreads because it lands on something real. But the more useful story is not simple replacement. It is the redesign of work itself -- with AI taking the repetitive, low-context, workflow-heavy tasks first, so people can spend more time on judgment, creativity, and decision-making."
 date: 2026-04-07
+publishDate: 2026-04-07T00:00:00-04:00
 author: "Bill Carney"
 draft: false
 images:
@@ -10,17 +11,20 @@ images:
   - /blog/assets/unbox.jpg
 tags:
   - "Future of Work"
-  - "AI & Automation"
-  - "Workflow"
+  - "Workflow Design"
   - "Productivity"
-  - "StaffOps"
+  - "AI Governance"
   - "NIST"
   - "OWASP"
+  - "StaffOps"
 categories:
   - "AI & Automation"
-  - "Thought Leadership"
-  - "Digital Transformation"
-  - "Process"
+  - "Leadership & Career"
+  - "Marketing Operations"
+see_also:
+  - "blog/custom-backend-myth-after-ai.md"
+  - "blog/balance.md"
+  - "blog/growthai.md"
 layout: single-sidebar
 ---
 

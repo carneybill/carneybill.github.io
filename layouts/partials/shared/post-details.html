@@ -1,4 +1,25 @@
-<details {{ .Scratch.Get "details" }} class="f6 fw7 input-reset">
+{{ $related := slice }}
+{{ with .Params.see_also }}
+  {{ range . }}
+    {{ with $.Site.GetPage . }}
+      {{ $related = $related | append . }}
+    {{ end }}
+  {{ end }}
+{{ else }}
+  {{ $others := where .Site.RegularPages.ByPublishDate.Reverse "Permalink" "!=" .Permalink }}
+  {{ $tagMatches := slice }}
+  {{ with .Params.tags }}
+    {{ $tagMatches = where $others ".Params.tags" "intersect" . }}
+  {{ end }}
+  {{ $categoryMatches := slice }}
+  {{ with .Params.categories }}
+    {{ $categoryMatches = where $others ".Params.categories" "intersect" . }}
+  {{ end }}
+  {{ $related = first 4 (union $tagMatches $categoryMatches) }}
+{{ end }}
+
+<details {{ .Scratch.Get "details" }} class="f6 fw7 input-reset post-sidebar-panel">
+  <summary>Details</summary>
   <dl class="f6 lh-copy">
     <dt class="fw7">Posted on:</dt>
     <dd class="fw5 ml0">{{ .PublishDate.Format "January 2, 2006" }}</dd>
@@ -25,10 +46,12 @@
     <dd class="fw5 ml0">{{ range . }} <a href="{{ "tags/" | absURL }}{{ . | urlize }}">{{ . }}</a> {{ end }}</dd>
   </dl>
   {{ end }}
+  {{ if gt (len $related) 0 }}
   <dl class="f6 lh-copy">
     <dt class="fw7">See Also:</dt>
-    {{ range first 3 ( where ( where .Site.Pages.ByDate.Reverse ".Params.tags" "intersect" .Params.tags ) "Permalink" "!=" .Permalink ) }}
+    {{ range $related }}
     <dd class="fw5 ml0"><a href="{{ .RelPermalink }}">{{ .Title }}</a></dd>
     {{ end }}
   </dl>
+  {{ end }}
 </details>

@@ -3,6 +3,7 @@ title: "Content Gating"
 subtitle: "Is your content even valuable"
 excerpt: "We want personal data in exchange for content we kill ourselves to create. We also want to establish ourselves as thought leader and have a degree of authority in our space. There has always been a need to balance these objectives while we earn some trust. If prospects don’t trust us, we won’t see results no matter how fine-tuned our gated content strategy is. So how far do you go?  What are the rules?"
 date: 2023-03-10
+publishDate: 2023-03-10
 author: "Bill Carney"
 draft: false
 images:
@@ -11,9 +12,18 @@ images:
 series:
   - Machines
 tags:
-  - MarTech
+  - "Content Gating"
+  - "Lead Generation"
+  - "Trust Building"
+  - "Conversion Strategy"
 categories:
-  - Process
+  - "Content Strategy"
+  - "B2B Marketing"
+  - "Trust & Brand"
+see_also:
+  - "blog/build-trust.md"
+  - "blog/leverage.md"
+  - "blog/growth-hacker.md"
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---

@@ -3,6 +3,7 @@ title: "The Role of a Content Marketing Growth Hacker"
 subtitle: "Fueling Business Growth through Strategic Content Introduction"
 excerpt: "Content marketing has become a linchpin in the success of businesses. Effective content not only engages audiences but also drives traffic, generates leads, and ultimately increases sales. However, to truly harness the power of content marketing, a specialized professional is often required - the Content Marketing Growth Hacker. "
 date: 2023-09-14
+publishDate: 2023-09-14
 author: "Bill Carney"
 draft: false
 images:
@@ -12,9 +13,17 @@ series:
   - Operational
   - Roles
 tags:
-  - Content
+  - "Content Marketing"
+  - "Growth Hacking"
+  - "Lead Generation"
+  - "SEO"
 categories:
-  - Hacking
+  - "Content Strategy"
+  - "GTM Strategy"
+see_also:
+  - "blog/leverage.md"
+  - "blog/content-gating.md"
+  - "blog/build-trust.md"
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---

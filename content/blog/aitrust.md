@@ -3,6 +3,7 @@ title: "Reinventing Growth for the AI Era - Part 2"
 subtitle: "Trust, AI, and the Rise of Buying Networks: How B2B Growth Is Being Rewritten"
 excerpt: "B2B growth is being rewritten by the convergence of trust, AI, and data. Traditional funnels are collapsing under the weight of fragmented buyer behavior, giving rise to Buying Networks—dynamic ecosystems where intent, influence, and validation circulate freely."
 date: 2025-10-06
+publishDate: 2025-10-06
 author: "Bill Carney"
 draft: false
 images:
@@ -11,10 +12,19 @@ images:
 series:
   - Vendors
 tags:
-  - ABM
+  - "Trust Building"
+  - "Buying Groups"
+  - "Account-Based Marketing"
+  - "AI-Assisted Buying"
+  - "Sales Velocity"
 categories:
-  - Process
-  - Growth
+  - "AI & Automation"
+  - "GTM Strategy"
+  - "Trust & Brand"
+see_also:
+  - "blog/ai-gtm-playbook.md"
+  - "blog/growthai.md"
+  - "blog/build-trust.md"
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---

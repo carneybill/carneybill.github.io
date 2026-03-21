@@ -3,6 +3,7 @@ title: "Exploring Intent Data's Significance in Business Strategy"
 subtitle: "Follow the footprints"
 excerpt: "Understanding various intent data types is pivotal in today's digital landscape, where prospects leave crucial digital footprints during product and service research. "
 date: 2023-05-10
+publishDate: 2023-05-10
 author: "Bill Carney"
 draft: false
 images:
@@ -11,9 +12,17 @@ images:
 series:
   - Machines
 tags:
-  - MarTech
+  - "Intent Data"
+  - "Buyer Signals"
+  - "Targeting"
+  - "Sales Alignment"
 categories:
-  - Process
+  - "Data & Analytics"
+  - "GTM Strategy"
+see_also:
+  - "blog/abm-cost-complexity.md"
+  - "blog/ai-gtm-playbook.md"
+  - "blog/database-mgt.md"
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---

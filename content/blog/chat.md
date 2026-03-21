@@ -3,6 +3,7 @@ title: "Rethinking chat - A better approach?"
 subtitle: "Generative AI to the rescue"
 excerpt: "Exploring the transformation of digital communication through generative AI, this post delves into the shift from basic support to advanced marketing with Large Language Models (LLMs). Learn how AI improves user experiences, boosts engagement, and increases conversions, ushering in a new era of meaningful technological connections."
 date: 2024-03-01
+publishDate: 2024-03-01
 author: "Bill Carney"
 draft: false
 images:
@@ -11,9 +12,19 @@ images:
 series:
   - Proposals
 tags:
-  - Contracts
+  - "Live Chat"
+  - "Conversational AI"
+  - "Customer Engagement"
+  - "Generative AI"
+  - "Website UX"
 categories:
-  - Process
+  - "AI & Automation"
+  - "Product & UX"
+  - "B2B Marketing"
+see_also:
+  - "blog/live-chat.md"
+  - "blog/ai-in-marketing.md"
+  - "blog/in-product-marketing.md"
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---

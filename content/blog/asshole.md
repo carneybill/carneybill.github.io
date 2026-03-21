@@ -3,6 +3,7 @@ title: "Don’t Be an Asshole"
 subtitle: "Being an empathetic leader isn’t about being nice. It’s about unlocking value that command-and-control leadership never will."
 excerpt: "What private equity, Stanford researchers, and frontline workers all discovered is surprisingly simple: empathy isn’t soft — it’s a performance driver. Giving employees real equity only succeeded in about 60% of companies. The difference-maker wasn’t industry, revenue, or geography. It was the CEO. Specifically, the CEO’s empathy. When leaders listened, communicated transparently, and treated people with dignity, employee ownership transformed culture, improved engagement, and drove materially higher financial returns."
 date: 2025-12-15
+publishDate: 2025-12-15
 author: "Bill Carney"
 draft: false
 images:
@@ -13,11 +14,18 @@ series:
   - Culture
   - Growth
 tags:
-  - CEO
-  - Management
+  - "Leadership"
+  - "Employee Ownership"
+  - "Empathy"
+  - "Culture"
+  - "Private Equity"
 categories:
-  - Process
-  - Growth
+  - "Leadership & Career"
+  - "Trust & Brand"
+see_also:
+  - "blog/lonely-leaders.md"
+  - "blog/hard-things.md"
+  - "blog/trust.md"
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---

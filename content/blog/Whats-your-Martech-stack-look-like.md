@@ -3,6 +3,7 @@ title: "Building the machine"
 subtitle: "Martech Stack Documentation"
 excerpt: "You might think it's not important to document the Martech you use but I'd suggest that shoud you choose not to you'll eventually run into overlap as well as compliance concerns. In this post we'll focus on the why take the time to do it and what benefit's it'll have."
 date: 2023-02-15
+publishDate: 2023-02-15
 author: "Bill Carney"
 draft: false
 images:
@@ -12,9 +13,17 @@ images:
 series:
   - Machines
 tags:
-  - MarTech
+  - "MarTech Stack"
+  - "Tool Governance"
+  - "Standardization"
+  - "Marketing Operations"
 categories:
-  - Process
+  - "Marketing Operations"
+  - "Marketing Technology"
+see_also:
+  - "blog/shiny-new-things.md"
+  - "blog/trends-2024.md"
+  - "blog/operational-efficiencies.md"
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---

@@ -3,6 +3,7 @@ title: "Marketing Project Management"
 subtitle: "In marketing, organization is everything"
 excerpt: "Choosing the right project management tool can make or break your marketing campaigns. In this showdown between Monday.com, ClickUp, Jira, and even Excel, we explore how these platforms cater to marketing needs like collaboration, customization, and workflow automation. Cross-departmental content contributions are vital to campaign success. Which tool is best suited to streamline your marketing efforts and keep your team collaborating on all cylinders."
 date: 2024-12-02
+publishDate: 2024-12-02
 author: "Bill Carney"
 draft: false
 images:
@@ -11,9 +12,16 @@ images:
 series:
   - Technology
 tags:
-  - Automation
+  - "Project Management"
+  - "Cross-Functional Collaboration"
+  - "Marketing Workflow"
+  - "Operational Discipline"
 categories:
-  - Process
+  - "Marketing Operations"
+see_also:
+  - "blog/operational-efficiencies.md"
+  - "blog/playbook.md"
+  - "blog/balance.md"
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---

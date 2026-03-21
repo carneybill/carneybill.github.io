@@ -3,6 +3,7 @@ title: "User Generated Content"
 subtitle: "Turn Your Customers Into Your Marketing Team (Because They’re Cheaper)"
 excerpt: "Brands must foster collaborative relationships with their audiences, incentivizing customers to become active ambassadors through creative campaigns, exclusive rewards, and community recognition. This shift will transform marketing into a two-way conversation, making UGC an indispensable strategy for driving meaningful connections and long-term loyalty."
 date: 2024-07-15
+publishDate: 2024-07-15
 author: "Bill Carney"
 draft: false
 images:
@@ -11,9 +12,17 @@ images:
 series:
   - Automation
 tags:
-  - MarTech
+  - "User-Generated Content"
+  - "Social Proof"
+  - "Community"
+  - "Content Strategy"
 categories:
-  - Process
+  - "Content Strategy"
+  - "B2B Marketing"
+see_also:
+  - "blog/build-trust.md"
+  - "blog/leverage.md"
+  - "blog/sticky.md"
 layout: single-sidebar
 ---
 

@@ -2,23 +2,27 @@
 title: "Stop doing dumb marketing"
 subtitle: "In 2026, B2B marketing must finally stop confusing activity with impact. Publishing more content, launching more campaigns, and adding more tools no longer impresses anyone—especially buyers who now rely on AI to filter out noise and surface only what’s credible and useful. Automation can scale execution, but it can’t manufacture judgment, trust, or relevance. The brands that win aren’t the busiest; they’re the clearest."
 date: 2026-01-20
+publishDate: 2026-01-20
 author: "Bill Carney"
 draft: false
 images:
 - /blog/assets/newyearresolution.jpg
 - /blog/assets/newyearresolution-thumbnail.jpg
 tags:
-  - "B2B Marketing"
-  - "AI in Marketing"
   - "Marketing Strategy"
+  - "AI in Marketing"
   - "Buyer Experience"
+  - "Demand Generation"
   - "Personalization"
-  - "Marketing Trends 2026"
 categories:
-  - "Marketing Insights"
-  - "Thought Leadership"
-  - "Digital Transformation"
+  - "AI & Automation"
+  - "B2B Marketing"
+  - "GTM Strategy"
   # layout options: single or single-sidebar
+see_also:
+  - "blog/ai-in-marketing.md"
+  - "blog/ai-gtm-playbook.md"
+  - "blog/trends-2024.md"
 layout: single-sidebar
 ---
 

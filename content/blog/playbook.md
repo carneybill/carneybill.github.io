@@ -2,6 +2,7 @@
 title: "Playbook Success with your budget"
 subtitle: "Bold strategies meet cold, hard numbers. Maybe you walked into that meeting armed with a killer 2025 plan, only to walk out wondering how to deliver on your goals with half the budget. If your budget took a hit, the key isn’t random cuts—it’s using a playbook methodology to strategically focus on high-impact themes that deliver results."
 date: 2024-01-03
+publishDate: 2024-01-03
 author: "Bill Carney"
 draft: false
 images:
@@ -10,10 +11,18 @@ images:
 series:
   - Growth
 tags:
-  - Jobs
-  - MarTech
+  - "Budget Planning"
+  - "Campaign Planning"
+  - "ROI"
+  - "Demand Generation"
+  - "Excess Share of Voice"
 categories:
-  -  Operational
+  - "GTM Strategy"
+  - "Marketing Operations"
+see_also:
+  - "blog/operational-efficiencies.md"
+  - "blog/project-management.md"
+  - "blog/experimentation.md"
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---

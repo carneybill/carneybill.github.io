@@ -3,6 +3,7 @@ title: "Operational Efficiencies in Marketing"
 subtitle: "2021 the year of Growth"
 excerpt: "2021 must be focused on minimizing unnecessary and unproductive expenses and delivering sales qualified leads that convert to opportunities - it’s really that simple. The marketing pendulum must dramatically shift towards an Agile but deliberate approach (scrappy) focused on Net New and away from branding exercises and vanity metrics. This is supported by the fact that many companies truly don’t have a branding budget, nor should they be allowed one until they have their story completed and vetted with a mapped execution strategy."
 date: 2020-11-08
+publishDate: 2020-11-08
 author: "Bill Carney"
 draft: false
 images:
@@ -11,9 +12,17 @@ images:
 series:
   - Machines
 tags:
-  - MarTech
+  - "Marketing Operations"
+  - "Operational Discipline"
+  - "Sales Alignment"
+  - "Resource Planning"
 categories:
-  - Process
+  - "Marketing Operations"
+  - "GTM Strategy"
+see_also:
+  - "blog/project-management.md"
+  - "blog/playbook.md"
+  - "blog/balance.md"
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---

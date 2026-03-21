@@ -3,6 +3,7 @@ title: "Unveiling the Unethical: How an AI-Powered SEO Heist Backfired"
 subtitle: "AI for bad - Sitemap Pilfering"
 excerpt: "Ethical practices are the cornerstone of sustainable success. Unfortunately, some individuals have taken a detour into the unethical, as revealed by this recent confession."
 date: 2023-12-01
+publishDate: 2023-12-01
 author: "Bill Carney"
 draft: false
 images:
@@ -11,9 +12,17 @@ images:
 series:
   - Ethics
 tags:
-  - SEO
+  - "SEO"
+  - "AI Content"
+  - "Content Ethics"
+  - "Search Traffic"
 categories:
-  - Web Traffic
+  - "Content Strategy"
+  - "Trust & Brand"
+see_also:
+  - "blog/growth-hacker.md"
+  - "blog/content-gating.md"
+  - "blog/custom-backend-myth-after-ai.md"
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---

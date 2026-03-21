@@ -3,6 +3,7 @@ title: "Digital Marketing ROI"
 subtitle: "Return your investment"
 excerpt: "Digital marketing ROI is more critical than ever, with strategies like livestreaming, AI-powered video advertising, and precision-targeted campaigns redefining success. As highlighted by Marketful, understanding and maximizing ROI isn’t just about tracking results—it’s about leveraging innovative tools and trends to drive measurable growth."
 date: 2024-09-01
+publishDate: 2024-09-01
 author: "Bill Carney"
 draft: false
 images:
@@ -11,9 +12,19 @@ images:
 series:
   - Automation
 tags:
-  - MarTech
+  - "Digital Marketing"
+  - "ROI"
+  - "Video Marketing"
+  - "Livestreaming"
+  - "AI in Marketing"
 categories:
-  - Process
+  - "B2B Marketing"
+  - "AI & Automation"
+  - "Content Strategy"
+see_also:
+  - "blog/video.md"
+  - "blog/ai-in-marketing.md"
+  - "blog/ugc.md"
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---

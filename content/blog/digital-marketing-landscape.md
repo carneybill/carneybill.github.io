@@ -3,6 +3,7 @@ title: "The Digital Marketing Landscape New Rules"
 subtitle: "Covid Impact to Your Workload: Navigating the Digital Marketing Landscape"
 excerpt: "We want personal data in exchange for content we kill ourselves to create. We also want to establish ourselves as thought leader and have a degree of authority in our space. There has always been a need to balance these objectives while we earn some trust. If prospects don’t trust us, we won’t see results no matter how fine-tuned our strategy. So how far do you go - and how has COVID impacted you?  What are the rules?"
 date: 2021-01-10
+publishDate: 2021-01-10
 author: "Bill Carney"
 draft: false
 images:
@@ -11,11 +12,21 @@ images:
 series:
   - Machines
 tags:
-  - MarTech
+  - "Digital Strategy"
+  - "COVID Marketing"
+  - "Account-Based Marketing"
+  - "Sales Alignment"
+  - "Demand Generation"
 categories:
-  - Process
+  - "B2B Marketing"
+  - "GTM Strategy"
+  - "Marketing Operations"
+see_also:
+  - "blog/tradeshows-suck.md"
+  - "blog/intent-data.md"
+  - "blog/operational-efficiencies.md"
 # layout options: single or single-sidebar
-layout: single
+layout: single-sidebar
 ---
 ![stack](/blog/assets/temp-thumbnail.jpg)
 

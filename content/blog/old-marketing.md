@@ -3,6 +3,7 @@ title: "Why Old Isn't Always Wrong"
 subtitle: "Sometimes you just need a fresh take"
 excerpt: "In marketing, where trends evolve at the speed of light, it's easy to dismiss old methods as outdated. But are they wrong/outdated, or just waiting for a fresh perspective?"
 date: 2023-04-10
+publishDate: 2023-04-10
 author: "Bill Carney"
 draft: false
 images:
@@ -11,9 +12,17 @@ images:
 series:
   - Machines
 tags:
-  - MarTech
+  - "Marketing Strategy"
+  - "Brand Building"
+  - "Trust Building"
+  - "Channel Mix"
 categories:
-  - Process
+  - "B2B Marketing"
+  - "Trust & Brand"
+see_also:
+  - "blog/sticky.md"
+  - "blog/build-trust.md"
+  - "blog/experimentation.md"
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---

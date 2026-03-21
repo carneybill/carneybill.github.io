@@ -3,22 +3,26 @@ title: "When Your Prospect Knows More Than You"
 subtitle: "A Cinco de Mayo Lesson in Humble Persuasion"
 excerpt: "Modern buyers do not wait for marketing to educate them anymore. Before they ever talk to your company, they have already read the docs, compared competitors, watched demos, asked peers, scanned communities, and used AI to do their homework. By the time you meet them, they may know your category, your claims, and your weak spots surprisingly well."
 date: 2026-05-05
+publishDate: 2026-05-05T00:00:00-04:00
 author: "Bill Carney"
 draft: false
 images:
   - /blog/assets/customers.jpg
   - /blog/assets/customers.jpg
 tags:
-  - "B2B Marketing"
   - "Buyer Experience"
   - "Buying Groups"
-  - "Trust"
   - "Sales Enablement"
   - "Customer Proof"
+  - "Trust Building"
 categories:
-  - "Marketing Insights"
-  - "Thought Leadership"
-  - "Process"
+  - "B2B Marketing"
+  - "GTM Strategy"
+  - "Trust & Brand"
+see_also:
+  - "blog/build-trust.md"
+  - "blog/ai-gtm-playbook.md"
+  - "blog/aitrust.md"
 layout: single-sidebar
 ---
 

@@ -3,6 +3,7 @@ title: "The Custom-Backend Myth After AI"
 subtitle: "Why Most Websites No Longer Need Bespoke Infrastructure"
 excerpt: "For years, businesses were told that a serious website needed a custom backend to be flexible, scalable, and credible. That made sense when publishing online required heavy engineering effort and every meaningful change depended on developers. That is no longer true for most business websites."
 date: 2026-02-20
+publishDate: 2026-02-20
 author: "Bill Carney"
 draft: false
 images:
@@ -10,6 +11,7 @@ images:
   - /blog/assets/snowflake.jpg
 tags:
   - "Website Architecture"
+  - "Static Sites"
   - "AI in Development"
   - "Vercel"
   - "Netlify"
@@ -17,12 +19,13 @@ tags:
   - "WordPress"
   - "HubSpot"
   - "SEO"
-  - "Static Sites"
 categories:
-  - "Engineering & Dev Tools"
+  - "Web & Development"
   - "AI & Automation"
-  - "Digital Transformation"
-  - "Thought Leadership"
+see_also:
+  - "blog/vibe-coding.md"
+  - "blog/vibe2.md"
+  - "blog/ai-is-coming-for-your-job.md"
 layout: single-sidebar
 ---
 

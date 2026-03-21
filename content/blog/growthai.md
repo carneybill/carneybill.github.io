@@ -3,6 +3,7 @@ title: "Reinventing Growth for the AI Era"
 subtitle: "AI—and deep tech more broadly—doesn’t play by the old rules"
 excerpt: "There are no proven levers, no predictable attribution models, and no map to follow. Growth now emerges from signals hiding in plain sight: who’s talking about you at private CIO dinners, which founders are shaping the narrative, what ideas are earning trust among peers. Lets explore what’s breaking in traditional marketing and what’s working instead."
 date: 2025-09-06
+publishDate: 2025-09-06
 author: "Bill Carney"
 draft: false
 images:
@@ -11,10 +12,19 @@ images:
 series:
   - Vendors
 tags:
-  - ABM
+  - "Trust Building"
+  - "AI-Assisted Buying"
+  - "Account-Based Marketing"
+  - "Buying Groups"
+  - "Demand Generation"
 categories:
-  - Process
-  - Growth
+  - "AI & Automation"
+  - "GTM Strategy"
+  - "Trust & Brand"
+see_also:
+  - "blog/ai-gtm-playbook.md"
+  - "blog/aitrust.md"
+  - "blog/when-your-prospect-knows-more-than-you.md"
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---

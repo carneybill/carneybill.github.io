@@ -3,6 +3,7 @@ title: "Using a proposal template"
 subtitle: "Key sections of a consulting contract"
 excerpt: "Discover the art of crafting a winning marketing consulting proposal. Templates provide structure, but it's the personal touch and context that truly make the difference. Learn how to tailor your proposals for success in this comprehensive guide."
 date: 2024-01-03
+publishDate: 2024-01-03
 author: "Bill Carney"
 draft: false
 images:
@@ -11,9 +12,17 @@ images:
 series:
   - Proposals
 tags:
-  - Contracts
+  - "Proposals"
+  - "Consulting"
+  - "Scope of Work"
+  - "Client Strategy"
 categories:
-  - Process
+  - "GTM Strategy"
+  - "Marketing Operations"
+see_also:
+  - "blog/playbook.md"
+  - "blog/changing-jobs.md"
+  - "blog/project-management.md"
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---

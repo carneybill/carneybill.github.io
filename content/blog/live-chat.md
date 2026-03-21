@@ -2,6 +2,7 @@
 title: "Rethinking Live Chat: Is it Time for a More Focused Approach"
 subtitle: "Live chat functionality has long been a popular feature on websites, providing users real-time assistance. However, this tool isn’t without its challenges. Often, live chat is perceived as a support tool, but what if it could be more than that? In this blog post, we explore the idea of a new live chat experiment that uses generative AI to boost engagement and conversions among a specific audience – those interested in downloading open-source or free products."
 date: 2023-01-10
+publishDate: 2023-01-10
 author: "Bill Carney"
 draft: false
 images:
@@ -10,9 +11,17 @@ images:
 series:
   - Machines
 tags:
-  - MarTech
+  - "Live Chat"
+  - "Customer Experience"
+  - "Lead Qualification"
+  - "Website UX"
 categories:
-  - Process
+  - "Product & UX"
+  - "B2B Marketing"
+see_also:
+  - "blog/chat.md"
+  - "blog/in-product-marketing.md"
+  - "blog/voice.md"
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---

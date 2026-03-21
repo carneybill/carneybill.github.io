@@ -3,6 +3,7 @@ title: "Marketing Trends for 2024"
 subtitle: "Cutting Edge Once Again"
 excerpt: "2024: Data-driven marketing revolution! Unified data, AI, privacy, UGC, sustainability—keys to success in a dynamic digital landscape."
 date: 2024-02-05
+publishDate: 2024-02-05
 author: "Bill Carney"
 draft: false
 images:
@@ -11,12 +12,18 @@ images:
 series:
   - Trends
 tags:
-  - MarketingTrends
-  - DataDrivenMarketing
-  - GenerativeAI 
-  - MartechStack
+  - "Marketing Trends"
+  - "AI in Marketing"
+  - "Data Strategy"
+  - "MarTech Stack"
 categories:
-  - Process
+  - "AI & Automation"
+  - "B2B Marketing"
+  - "Marketing Technology"
+see_also:
+  - "blog/ai-in-marketing.md"
+  - "blog/2026dumbmarketing.md"
+  - "blog/shiny-new-things.md"
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---

@@ -3,6 +3,7 @@ title: "Breakfast Smoothies"
 subtitle: "Book Read"
 excerpt: "When I was contemplating becoming CEO, many people suggested I read this “old” book. So there I was, lounging under the Cancun sun with a breakfast smoothie (fine, a piña colada) in hand, when Ben Horowitz’s words hit me like an unexpected wave: “There are no silver bullets for this, only a lot of lead bullets. Leadership, I realized, isn’t about waiting for the perfect solution to appear—it’s about persistence, grit, and making tough calls, whether in the boardroom or at a street-side taqueria deciding between tacos and ceviche."
 date: 2025-02-01
+publishDate: 2025-02-01
 author: "Bill Carney"
 draft: false
 images:
@@ -11,9 +12,16 @@ images:
 series:
   - Operation
 tags:
-  - Leadership
+  - "Leadership"
+  - "Management"
+  - "Resilience"
+  - "Book Review"
 categories:
-  - Process
+  - "Leadership & Career"
+see_also:
+  - "blog/lonely-leaders.md"
+  - "blog/kintsugi-antifragility.md"
+  - "blog/trust.md"
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---

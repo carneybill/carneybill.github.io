@@ -191,6 +191,137 @@ transition: background-color .15s ease-in-out;
   gap: 3rem;
 }
 
+.single-sidebar .page-sidebar {
+  align-self: start;
+  background: #ececec;
+  border-radius: 18px;
+  box-sizing: border-box;
+  margin: 1rem 1rem 0 0;
+  padding: 1rem;
+}
+
+.post-sidebar-shell {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 1.5rem;
+}
+
+.post-sidebar-panel {
+  background: transparent;
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.post-sidebar-panel + .post-sidebar-panel {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(0, 0, 0, .08);
+}
+
+.post-sidebar-panel > summary {
+  color: #111827;
+  cursor: pointer;
+  font-size: .8rem;
+  font-weight: 800;
+  letter-spacing: .14em;
+  list-style: none;
+  margin: 0 0 .85rem;
+  text-transform: uppercase;
+}
+
+.post-sidebar-panel > summary::-webkit-details-marker {
+  display: none;
+}
+
+.post-sidebar-panel > summary::after {
+  color: #6b7280;
+  content: "+";
+  float: right;
+  font-size: 1rem;
+  line-height: 1;
+}
+
+.post-sidebar-panel[open] > summary::after {
+  content: "\2212";
+}
+
+.post-sidebar-panel dl {
+  margin: 0 0 1rem;
+}
+
+.post-sidebar-panel dl:last-child {
+  margin-bottom: 0;
+}
+
+.post-sidebar-panel dt {
+  color: #111827;
+  font-size: .75rem;
+  font-weight: 700;
+  letter-spacing: .08em;
+  margin: 0 0 .35rem;
+  text-transform: uppercase;
+}
+
+.post-sidebar-panel dd {
+  margin: 0;
+}
+
+.post-sidebar-panel dd + dd {
+  margin-top: .4rem;
+}
+
+.post-sidebar-panel dd a {
+  border-bottom: 1px solid rgba(27, 88, 145, .2);
+  display: inline-block;
+  margin: 0 .4rem .35rem 0;
+  text-decoration: none;
+}
+
+.post-sidebar-panel dd a:hover {
+  border-bottom-color: rgba(27, 88, 145, .65);
+}
+
+.post-sidebar-toc nav,
+.post-sidebar-toc ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.post-sidebar-toc li {
+  font-size: 100%;
+  line-height: 1.45;
+  margin: 0 0 .65rem;
+}
+
+.post-sidebar-toc li:last-child {
+  margin-bottom: 0;
+}
+
+.post-sidebar-toc a {
+  border-bottom: 1px solid rgba(27, 88, 145, .2);
+  color: #1b5891;
+  display: inline-block;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.post-sidebar-toc a:hover {
+  border-bottom-color: rgba(27, 88, 145, .65);
+}
+
+@media screen and (max-width: 768px) {
+  .single-sidebar .page-sidebar {
+    margin: 0;
+    padding: 1rem 1rem 1.25rem;
+  }
+
+  .post-sidebar-shell {
+    position: static;
+  }
+}
+
 .project-showcase {
   align-items: center;
   display: flex;

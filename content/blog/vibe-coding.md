@@ -3,6 +3,7 @@ title: "Vibe Coding"
 subtitle: "Vibe Coding Is Coming — And I Might Have Just Tried It"
 excerpt: "What happens when years of domain expertise meet a frictionless dev stack like Vercel, Next.js, and Supabase? You build an MVP in a day—literally. In this post, I share how I created a full-featured marketing planning app from scratch in less than 24 hours, and what that experience taught me about the emerging concept of Vibe Coding. It’s not just about speed—it’s about alignment between tools, intuition, and deep problem knowledge. This is what the future of building feels like."
 date: 2025-04-10
+publishDate: 2025-04-10
 author: "Bill Carney"
 draft: false
 images:
@@ -12,24 +13,20 @@ series:
   - building
   - technology
 categories:
-  - Product Development
-  - Engineering & Dev Tools
-  - Marketing Technology
-  - AI & Automation
-  - SaaS & Startups
-  - UX/UI
-  - Software Innovation
+  - "Web & Development"
+  - "AI & Automation"
+  - "Product & UX"
 tags:
-  - Vibe Coding
-  - Developer Experience
-  - Next.js
-  - Vercel
-  - MVP
-  - AI in Development
-  - Modern Web Apps
-  - Marketing Tools
-  - Developer Velocity
-  - Product-Led Development
+  - "Vibe Coding"
+  - "AI in Development"
+  - "Developer Experience"
+  - "MVP"
+  - "Next.js"
+  - "Vercel"
+see_also:
+  - "blog/vibe2.md"
+  - "blog/custom-backend-myth-after-ai.md"
+  - "blog/tachyons-for-style.md"
 layout: single-sidebar
 ---
 
