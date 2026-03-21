@@ -1,43 +1,43 @@
 items:
   - name: PlaybookM
     url: https://www.playbookm.com/
-    screenshot: /img/projects/playbookm.png
+    screenshot: /img/projects/playbookm-home.png
     screenshot_alt: Homepage screenshot of PlaybookM
     summary: "PlaybookM presents itself as a marketing decision platform built to make marketing production visible. Its homepage focuses on helping teams find gaps quickly, align around strategy, and invest in the work that is actually moving performance."
     details: "It also reads like a workflow system for marketing teams, with dashboard, list, kanban, and calendar views tied to budget visibility, shared planning, and data-backed decisions."
   - name: Operrai
     url: https://www.operrai.com/
-    screenshot: /img/projects/operrai.png
-    screenshot_alt: Workflow Models app icon for Operrai
+    screenshot: /img/projects/operrai-home.png
+    screenshot_alt: Homepage screenshot of Operrai
     summary: "Operrai currently presents Workflow Models, an operational workflow intelligence system for drafting workflows from a defined start and finish. Its homepage focuses on using AI to generate the middle of a process, validate the structure, and keep the resulting graph editable."
     details: "The product reads like a workflow design and review workspace, with example-driven prompting, node editing, validation scoring, and PDF export for structured operational diagrams."
   - name: The Data Consulting Company
     url: https://www.thedataconsultingcompany.com/
-    screenshot: /img/projects/tdcc.png
+    screenshot: /img/projects/tdcc-home.png
     screenshot_alt: Homepage screenshot of The Data Consulting Company
     summary: "The Data Consulting Company positions itself around responsible AI, reliable insight, and stronger data foundations. The homepage emphasizes helping organizations use governance, engineering, and AI-ready infrastructure to drive smarter decisions and automate work."
     details: "Its messaging is aimed at companies that want AI adoption to be defensible and scalable, with attention on AI governance, data engineering for intelligent systems, and broader end-to-end data and AI solutions."
   - name: StaffOps
     url: https://www.staffops.ai/
-    screenshot: /img/projects/staffopsai.png
+    screenshot: /img/projects/staffops-home.png
     screenshot_alt: Homepage screenshot of StaffOps
     summary: "StaffOps is framed as a digital staffing hub for role-based digital employees. The homepage focuses on orchestrating cross-functional operations with controls, approvals, and measurable outcomes so AI systems can move beyond assistance and into accountable execution."
     details: "The product story is heavily operational: request-to-results workflows, meeting follow-through, human checkpoints, and a control plane for leaders, operations teams, and IT."
   - name: TrueCostEdu
     url: https://www.truecostedu.com/
-    screenshot: /img/projects/truecostedu.png
+    screenshot: /img/projects/truecostedu-home.png
     screenshot_alt: Homepage screenshot of TrueCostEdu
     summary: "TrueCostEdu is a college planning workspace built to help students understand the real cost of school before they commit. The homepage centers on organizing school options, validating cost assumptions, and comparing decisions with clearer recommendations."
     details: "It outlines a structured workflow for selecting schools, editing cost details, uploading award letters from PDFs or photos, inviting comments from parents or counselors, and ranking options by net cost and loan burden."
   - name: Tickr
     url: https://www.tickrtape.info/
-    screenshot: /img/projects/Tickrtape.png
+    screenshot: /img/projects/tickr-home.png
     screenshot_alt: Homepage screenshot of Tickr
     summary: "Tickr is a live market ticker for Mac that keeps stocks, ETFs, Bitcoin, and headlines visible in an always-on strip. The homepage frames it as a Bloomberg-style market view for people who want persistent awareness without living in a browser tab all day."
     details: "Its pitch is intentionally simple: an always-visible ticker bar, clickable headlines, color-coded moves, and flexible placement at the top or bottom of the screen."
   - name: JB Match AI
     url: https://www.jbmatchai.com/
-    screenshot: /img/projects/jbmatchai.png
+    screenshot: /img/projects/jbmatchai-home.png
     screenshot_alt: Homepage screenshot of JB Match AI
     summary: "JB Match AI presents itself as an AI hiring platform built to predict candidate performance and help teams make more informed recruiting decisions. The homepage focuses on analyzing resumes against job descriptions, generating suitability scores, and reducing guesswork in early screening."
     details: "Its positioning also leans into fixing ATS-era friction, using NLP and machine learning to improve stack ranking, highlight stronger fits, and streamline recruiting workflows with more consistent, data-backed evaluation."
