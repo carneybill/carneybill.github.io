@@ -29,7 +29,6 @@ see_also:
   - "blog/tachyons-for-style.md"
 layout: single-sidebar
 ---
-
 ![stack](/blog/assets/good-news.jpg)
 
 # Vibe Coding Is Coming — And I Might Have Just Tried It
@@ -42,66 +41,60 @@ Last week, I decided to test how quickly I could build and launch a new app idea
 
 By the end of the day, I had an MVP deployed and live.
 
----
-
 ## MarketActivitiesPlanner – Technical Overview
 
 The idea behind **MarketActivitiesPlanner** was to combine the best aspects of tools like Monday.com, ClickUp, and Excel, but tailor it specifically for marketing teams. The goal was to help them manage, schedule, and collaborate on their activities more intuitively.
 
 ### Tech Stack
 
-- **Frontend**: [Next.js (React)](https://nextjs.org/)  
-- **Hosting**: [Vercel](https://vercel.com/)  
-- **Backend**: Vercel Serverless Functions  
-- **Database**: [PostgreSQL](https://www.postgresql.org/), [Supabase](https://supabase.com/), or [Firebase](https://firebase.google.com/)  
-- **AI Features**: [Vercel AI SDK](https://vercel.com/blog/vercel-ai-sdk)  
-- **Calendar Sync**: iCalendar (.ics), with integrations to Google, Outlook, and Apple Calendars  
+- **Frontend**: [Next.js (React)](https://nextjs.org/)
+- **Hosting**: [Vercel](https://vercel.com/)
+- **Backend**: Vercel Serverless Functions
+- **Database**: [PostgreSQL](https://www.postgresql.org/), [Supabase](https://supabase.com/), or [Firebase](https://firebase.google.com/)
+- **AI Features**: [Vercel AI SDK](https://vercel.com/blog/vercel-ai-sdk)
+- **Calendar Sync**: iCalendar (.ics), with integrations to Google, Outlook, and Apple Calendars
 
 ### Core Features
-1. **Unified Marketing Activities**  
-2. **Unified Marketing Calendar**  
+1. **Unified Marketing Activities**
+2. **Unified Marketing Calendar**
 3. **Subscription Integration**
 4. **Proposals, Approvals, Commitments**
 5. **Account Summary Dashboard**
 
 ### Collaboration & Access Control
-- **Roles**: Admin, Editor, Viewer  
+- **Roles**: Admin, Editor, Viewer
 - **Real-time multi-user collaboration**
 
 ### AI-Enhanced Features (Stretch Goals)
-- Smart posting suggestions  
-- AI reminders  
-- Predictive conversion modeling  
-- Campaign health alerting  
+- Smart posting suggestions
+- AI reminders
+- Predictive conversion modeling
+- Campaign health alerting
 
 ### UI/UX
-- Clean, modern, responsive design  
-- Calendar, Gantt, Kanban, and List views  
-- Inline editing and task modals  
-- Optimized for mobile and desktop  
+- Clean, modern, responsive design
+- Calendar, Gantt, Kanban, and List views
+- Inline editing and task modals
+- Optimized for mobile and desktop
 
 ### Security & Authentication
-- Role-based access with secure login  
-- Company-specific data isolation  
-- Auth via Vercel Auth, Auth0, or Firebase Auth  
+- Role-based access with secure login
+- Company-specific data isolation
+- Auth via Vercel Auth, Auth0, or Firebase Auth
 
 ### Deliverables
-1. Live app on Vercel (production & preview)  
-2. Full marketing site with messaging  
-3. GitHub repo with source code  
-4. How-to documentation  
-5. Demo account with sample data  
-6. Admin portal for company settings  
-
----
+1. Live app on Vercel (production & preview)
+2. Full marketing site with messaging
+3. GitHub repo with source code
+4. How-to documentation
+5. Demo account with sample data
+6. Admin portal for company settings
 
 ## From Spec to MVP: How It Actually Happened
 
 With this spec in hand, I used Vercel to spin up a live environment almost instantly. I pulled in the necessary components from Next.js and started sketching out the architecture. Supabase gave me instant backend structure, auth, and a relational database, while the Vercel AI SDK added just enough intelligence to make features like predictive suggestions viable from day one.
 
 Drag-and-drop planning, Gantt view toggles, approval workflows, .ics calendar feeds—they all came together way faster than I expected. This wasn’t just a demo. It was a usable product.
-
----
 
 ## But Here’s the Catch…
 
@@ -111,23 +104,19 @@ That experience let me ask the right questions, prioritize the right features, a
 
 It’s not just about writing clean code or using the latest stack. It’s about combining your *domain knowledge* with a development environment that finally keeps up with your brain.
 
----
-
 ## So What *Is* Vibe Coding, Really?
 
 To me, Vibe Coding is what happens when:
 
-- You have a deep understanding of the problem you're solving  
-- You’re using tools that are frictionless and modern  
-- You’ve hit a rhythm where building feels more like *creating* than *coding*  
+- You have a deep understanding of the problem you're solving
+- You’re using tools that are frictionless and modern
+- You’ve hit a rhythm where building feels more like *creating* than *coding*
 
 It’s fast. It’s fun. And it’s not just about speed—it’s about alignment between your thinking, your tools, and your execution.
 
 This is closely related to what McKinsey describes as **developer velocity**, the notion that maximizing tools, culture, and practices can lead to 4–5x faster delivery and better business outcomes ([McKinsey & Company, 2020](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/developer-velocity-how-software-excellence-fuels-business-performance)).
 
 Frameworks like Next.js and platforms like Vercel are the infrastructure making this possible. Their focus on performance, developer experience, and AI integration is helping coders skip boilerplate and focus on product value ([Vercel Blog](https://vercel.com/blog)).
-
----
 
 ## What’s Next?
 
@@ -136,8 +125,6 @@ I’m convinced this isn’t a one-off experience. Tools like Vercel, Supabase, 
 **Vibe Coding may not be for everyone—yet.** But for domain experts with a vision, it’s a glimpse of what the future of software development could feel like: empowering, expressive, and friction-free.
 
 As I reflect on where this all leads, I believe the future lies in very specific applications—like what I built: project management software built for marketers, not just software that can be used by marketers. Too many platforms today—Jira, Monday, ClickUp—come loaded with tech debt, complex configurations, and bloated feature sets. They’re built to serve everyone, which often means they don’t serve anyone particularly well. On the flip side, tools like Excel and Google Sheets are too basic for collaborative, structured workflows. There’s a huge opportunity for lightweight, purpose-built tools—apps that solve a precise problem very well, rather than offering everything under the sun but delivering little that actually gets used. When you strip it down to what people really need to get work done, simplicity wins.
-
----
 
 ## References
 

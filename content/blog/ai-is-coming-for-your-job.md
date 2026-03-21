@@ -27,7 +27,6 @@ see_also:
   - "blog/growthai.md"
 layout: single-sidebar
 ---
-
 ![stack](/blog/assets/luck.jpg)
 
 # AI Is Coming for Your Job. That's Not a Bad Thing.

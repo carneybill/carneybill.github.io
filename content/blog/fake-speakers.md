@@ -26,7 +26,6 @@ see_also:
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---
-
 ![stack](/blog/assets/fake-people.jpg)
 
 ## The liars at DevTernity
@@ -41,5 +40,5 @@ The burning question is: Why would a supposedly reputable conference stoop to su
 
 This revelation marks a disgraceful low point in the history of tech conferences, as DevTernity's actions not only tarnish its own credibility but also cast a shadow over other events. Outraged  professionals are now calling for rigorous scrutiny when considering participation in conferences associated with these organizers.
 
-## Real People are Available 
+## Real People are Available
 For those genuinely seeking authentic and diverse voices in tech, alternative resources are strongly recommended. Initiatives like Diversify Tech provide a platform to post calls for papers, reaching 15,000 underrepresented individuals for free. Scott Hanselman's podcast, featuring a diverse array of guests, offers a pool of 920+ compelling profiles. As the tech community grapples with this scandal, organizers are urged to approach potential speakers with respect and offer fair compensation, recommitting to the values of diversity and authenticity in the tech conference landscape.

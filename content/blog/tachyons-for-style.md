@@ -25,12 +25,9 @@ see_also:
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---
-
 ![Tachyons Logo Script](/blog/assets/tachyons-logo-script-feature.png)
 
 ## [Tachyons](http://tachyons.io) is a design system that allows you to design gorgeous interfaces in the browser with little effort.
-
----
 
 ### Because Speed
 

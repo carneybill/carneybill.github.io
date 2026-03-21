@@ -1,7 +1,7 @@
 ---
 title: "Establish a culture of experimentation"
 subtitle: "Always Be Testing Everything"
-excerpt: "The Marketer's Guide to Continuous Learning - Testing is an often overlooked aspect of Marketing.  There's usually not a great amount of support for failing and given the pressures of Marketing most are risk adverse. This is exactly the opposit attitude you need for a progressive group.  You want to push boundries, you need to push boundries!"
+excerpt: "Most teams claim to be data-driven right up until the data threatens a favorite idea. Real progress comes from testing constantly, learning quickly, and not treating every failed experiment like a personal tragedy."
 date: 2023-06-17
 publishDate: 2023-06-17
 author: "Bill Carney"
@@ -26,20 +26,21 @@ see_also:
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---
-
 ![stack](/blog/assets/testing.png)
 
-In the dynamic world of marketing, one thing remains constant: change. What worked yesterday may not work tomorrow. To thrive in this ever-evolving landscape, marketers must adopt a mindset of continuous learning and adaptation. Enter ABTE - Always Be Testing Everything. In this blog post, we'll explore why testing is paramount in marketing and how it can drive growth, innovation, and success.
+Marketing teams love to say they are data-driven right up until the data might prove their favorite idea is dumb. Then suddenly everyone becomes very spiritual about "brand instincts."
 
-The Power of Testing in Marketing
+That is exactly why testing matters. Markets move. Channels decay. Audiences change their minds. The teams that keep learning keep winning. The ones that fall in love with their own assumptions usually end up defending last quarter's playbook like it is family heirloom silver. I prefer ABTE: Always Be Testing Everything.
+
+## The Power of Testing in Marketing
 ### 1. The Learning Process
-Testing isn't just about finding what works; it's about understanding why it works. When you test different strategies, channels, or messaging, you gain valuable insights into consumer behavior, preferences, and trends. This knowledge is the cornerstone of effective marketing.
+Testing is not just about finding a winner. It is about learning why something worked, for whom, under what conditions, and whether it is repeatable. That is how you stop guessing and start building an actual marketing system.
 
 ### 2. Optimizing ROI
-Testing allows you to optimize your return on investment (ROI). By constantly evaluating the performance of your campaigns, you can allocate resources where they have the most significant impact, whether that's in paid advertising, content marketing, or social media.
+Testing protects budget from politics. When you know which campaigns, messages, and channels are driving results, you can move money with confidence instead of letting the loudest person in the room decide.
 
 ### 3. Staying Ahead of Trends
-Marketing trends change rapidly. What's in vogue today might be passé tomorrow. Testing keeps you ahead of the curve. It enables you to identify emerging trends and capitalize on them before your competitors do.
+Trends move fast, and most of them are overrated until they are not. Testing helps you tell the difference before you spend six months chasing a fad that belonged on someone else's roadmap.
 
 ## ABTE in Action: What to Test
 ### 1. Ad Campaigns
@@ -57,19 +58,18 @@ Your website is often the first point of contact with customers. Test design cha
 ### 5. Content Types
 Content is a cornerstone of modern marketing. Test different formats like blog posts, videos, infographics, and podcasts to see what resonates best with your audience.
 
-
 ## Implementing an ABTE Strategy
 ### 1. Set Clear Objectives
-Define specific goals for your tests. Are you aiming to increase click-through rates, conversion rates, or revenue? Having clear objectives will guide your testing efforts.
+Define specific goals for each test. Are you trying to improve click-through rate, lift conversion, shorten cycle time, or increase revenue? If you cannot answer that, you are not testing. You are just fiddling.
 
 ### 2. Choose the Right Tools
-Leverage marketing tools and platforms that offer testing capabilities. A/B testing software, email marketing platforms, and analytics tools can provide valuable insights.
+Use tools that make experimentation easier, not more ceremonial. A/B testing, analytics, email platforms, landing-page tools, and decent reporting are enough to get started. You do not need a giant innovation committee.
 
 ### 3. Write It Down!
 Don't rely solely on memory. Document your testing strategies, goals, and results. Writing it down ensures you have a record to reference, learn from, and share with your team.
 
 ### 4. Regular Review and Adjustment
-Don't treat testing as a one-time effort. Regularly review the data, draw insights, and adjust your marketing strategies accordingly. This iterative approach is the essence of ABTE.
+Do not treat testing like a quarterly ritual you trot out for the board. Review results regularly, share what you learned, and change course when the evidence says to. That loop is the whole point.
 
 ## Embrace the ABTE Mindset
-In marketing, stagnation is the enemy of success. To adapt to changing consumer behavior, evolving technologies, and shifting industry landscapes, you must embrace an ABTE mindset - Always Be Testing Everything. Through continuous learning and experimentation, you'll not only discover what works best but also stay ahead of the curve, ensuring your marketing efforts remain effective and relevant. Remember, in marketing, those who test, learn, document, and adapt are the ones who thrive.
+Stagnation kills more marketing teams than failure does. If you build a culture where people can test, learn, document, and adjust without treating every loss like a career-ending event, you get smarter faster than the market around you. That is the point. Not perfection. Momentum.

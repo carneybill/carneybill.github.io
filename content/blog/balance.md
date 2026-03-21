@@ -27,7 +27,6 @@ see_also:
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---
-
 ![stack](/blog/assets/balance.jpg)
 
 In the world of marketing, automation has emerged as a game-changer. It streamlines processes, increases efficiency, and helps reach prospects at the right time. However, like any tool, automation can be a double-edged sword. Use it judiciously, and it can enhance your marketing efforts; overdo it, and it may harm your relationship with prospects. Let's explore the delicate balance between "just enough" automation and the perils of "too much" from a marketing perspective, with a cautionary tale of websites using people's names excessively.

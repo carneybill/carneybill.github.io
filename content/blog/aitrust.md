@@ -28,9 +28,7 @@ see_also:
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---
-
 ![stack](/blog/assets/leaves2.jpg)
-
 
 In an era where B2B buying is increasingly complex, distributed, and AI-assisted, one constant remains: trust is the currency of growth. No longer a “soft” brand attribute, trust now directly accelerates sales velocity and conversion. As Forrester’s Buying Networks: Your Buyers’ New Reality (2025) report highlights, trusted providers gain “shortcuts to consideration,” enabling faster movement through decision cycles and broader endorsement within buyer ecosystems.
 
@@ -82,8 +80,8 @@ As Forrester’s analysis suggests, providers who embrace this model achieve 20%
 
 In this sense, trust isn’t merely a competitive advantage. It’s the infrastructure of growth.
 
-### References  
-- [Forrester Research (2025). *Buying Networks: Your Buyers’ New Reality.*](https://www.forrester.com/report/buying-networks-your-buyers-new-reality/RES182145)  
-- [Forrester Research (2025). *The Forrester Wave™: Intent Data Providers for B2B, Q1 2025.*](https://www.forrester.com/report/the-forrester-wave-tm-intent-data-providers-for-b2b-q1-2025/RES182002)  
-- [Forrester (2023). *Business Trust Survey.*](https://www.forrester.com/what-it-means/ep406-b2b-buying-networks/)  
-- [Forrester (2024). *Revenue Operations Survey.*](https://www.forrester.com/blogs/revenue-operations-hot-topics-from-b2b-summit-emea-2024/)  
+### References
+- [Forrester Research (2025). *Buying Networks: Your Buyers’ New Reality.*](https://www.forrester.com/report/buying-networks-your-buyers-new-reality/RES182145)
+- [Forrester Research (2025). *The Forrester Wave™: Intent Data Providers for B2B, Q1 2025.*](https://www.forrester.com/report/the-forrester-wave-tm-intent-data-providers-for-b2b-q1-2025/RES182002)
+- [Forrester (2023). *Business Trust Survey.*](https://www.forrester.com/what-it-means/ep406-b2b-buying-networks/)
+- [Forrester (2024). *Revenue Operations Survey.*](https://www.forrester.com/blogs/revenue-operations-hot-topics-from-b2b-summit-emea-2024/)

@@ -28,7 +28,6 @@ see_also:
   - "blog/ai-is-coming-for-your-job.md"
 layout: single-sidebar
 ---
-
 ![stack](/blog/assets/snowflake.jpg)
 
 # The Custom-Backend Myth After AI: Why Most Websites No Longer Need Bespoke Infrastructure
@@ -117,4 +116,4 @@ For most companies, the right principle is simple: build only what truly needs t
 - W3Techs CMS overview: https://w3techs.com/technologies/overview/content_management
 
 Photo by <a href="https://unsplash.com/@dariuscotoi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Darius Cotoi</a> on <a href="https://unsplash.com/photos/snow-flak-illustration-d8cKjamtQH4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-      
+

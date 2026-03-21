@@ -1,7 +1,7 @@
 ---
 title: "Why Old Isn't Always Wrong"
 subtitle: "Sometimes you just need a fresh take"
-excerpt: "In marketing, where trends evolve at the speed of light, it's easy to dismiss old methods as outdated. But are they wrong/outdated, or just waiting for a fresh perspective?"
+excerpt: "Marketing teams are great at worshipping whatever is new and dismissing whatever is old. That is usually a mistake. Old tactics are not automatically obsolete, and new ones are not automatically smart."
 date: 2023-04-10
 publishDate: 2023-04-10
 author: "Bill Carney"
@@ -26,25 +26,26 @@ see_also:
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---
-
 ![stack](/blog/assets/time.jpg)
 
-In marketing, where trends evolve at the speed of light, it's easy to dismiss old methods as outdated. But are they wrong/outdated, or just waiting for a fresh perspective? In this blog post, we'll explore the value of agility in marketing, the danger of getting stuck in routines, and why sometimes, revisiting old tactics with an open mind can lead to surprising success.
+Marketing people love to pretend anything older than six months belongs in a museum. New channel? Amazing. New acronym? Even better. Old tactic with proven economics? Apparently embarrassing unless a consultant rebrands it.
+
+That is a mistake. Old does not automatically mean wrong. Sometimes it just means neglected. The real job is not worshipping novelty. It is staying agile enough to know when a forgotten tactic deserves another look.
 
 ## The Pitfall of Stagnation
-It's human nature to stick with what we know. After all, if something has worked in the past, why change it? This mindset is a double-edged sword. While it's essential to have tried-and-true strategies, it's equally crucial to recognize when they no longer serve their purpose.
+It is human nature to hold on to what once worked. That instinct is understandable and dangerous. Some tactics keep delivering. Others quietly stop working while everyone keeps defending them in meetings out of habit and nostalgia.
 
 ### The Case for Agile Marketing
-This is where agile marketing comes into play. The essence of agility is the willingness to adapt, pivot, and experiment. In today's marketing landscape, where trends and consumer behaviors are in constant flux, taking a rigid approach is a recipe for obsolescence.
+This is where agility matters. Agile marketing is not about chaos or trend-chasing. It is about staying willing to adapt, test, and revise before the market forces the lesson on you the expensive way.
 
 ### The Need for Speed
-In agile marketing, speed is of the essence. The traditional month-long planning process might not cut it in a rapidly changing environment. By the time a campaign is ready, the moment might have passed. Agility means swift decision-making and implementation.
+Speed matters because markets move faster than planning cycles. If it takes a month to approve every test, you are not running a modern marketing function. You are preserving paperwork.
 
 ### Old Doesn't Equal Wrong
-But here's the crucial point: agility doesn't mean dismissing old tactics as wrong. They may have their time and place. Direct mail, for instance, was once a staple of marketing. In the age of digital dominance, it's largely fallen by the wayside. However, this doesn't mean it's obsolete. In the right context, with a fresh approach, direct mail can still yield remarkable results.
+But agility does not mean sneering at older tactics. Direct mail is a good example. In a world drowning in digital noise, a well-executed physical mail piece can be more memorable than the fiftieth nurture email no one opened. Context changes value.
 
 ### Embracing an Open Mind
-The heart of agile marketing is the willingness to keep an open mind. It's about recognizing that what worked yesterday might need a new spin today. Experimentation is encouraged, even if it means revisiting old, once-effective strategies.
+The best marketers stay open-minded enough to revisit what still works, even when it is unfashionable. Sometimes the edge is not a new tool. Sometimes it is a disciplined old move used in the right moment with the right message.
 
 ## Conclusion: The Agile Marketer's Mantra
-In marketing, agility is the name of the game. While old tactics may seem outdated, they should not be dismissed outright. Agility means constantly reassessing, experimenting, and adapting. So, the next time someone suggests trying something 'old,' don't be too quick to brush it aside. You might just find a new twist that brings remarkable results.
+The lesson is simple: do not confuse old with obsolete or new with smart. Good marketing is not a fashion contest. It is an effectiveness contest. The teams that win are the ones willing to reassess, adapt, and occasionally pull something useful back off the shelf while everyone else chases the next shiny object.

@@ -27,7 +27,6 @@ see_also:
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---
-
 ![stack](/blog/assets/martech-stack-example.png)
 
 ### Documenting your Martech stack
@@ -51,8 +50,8 @@ After the descritoption I typically list an opinion in a table for quick referen
 Conversion| Site audience comparison| Alexa |&starf;&starf;&starf;&starf;&star; |&starf;&star;&star;&star;&star;
 
 ## The Standardized Rules:
-- **Integration** – our tools must work well together and integrate with existing technology. 
-- **Centralized data** – tools cannot duplicate data or use different data sources for their operations. 
+- **Integration** – our tools must work well together and integrate with existing technology.
+- **Centralized data** – tools cannot duplicate data or use different data sources for their operations.
 - **Multi-channel** – We have a requirement to engage with prospects across multiple platforms with a series of interactions that are fully integrated together.
 - **Insight** – Data-driven insights though data analytics provided from our Martech stack is a requirement. Additionally, we need agreement on what KPIs to measure – see centralized data.
 - **Flexible** – Todays marketing strategy might be different in a couple of years. We’ll need to bear in mind the future in mind and consider how we can adapt and scale quickly.
@@ -68,9 +67,4 @@ The GDPR definition of PD covers a broad scope of information. Twitter, LinkedIn
 PII however is narrower in its scope toward footprint items like your name, address, birth date, Social Security number, financial information etc.
 
 It's difficult even typing that out but there is some good news. There are so many companies in the MarTech space and you'll have an alternative in short order that will meet the rules.
-
-
-
-
-
 

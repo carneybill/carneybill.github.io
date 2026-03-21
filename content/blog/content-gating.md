@@ -27,10 +27,9 @@ see_also:
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---
-
 ![stack](/blog/assets/gate.png)
 
-## Content Gating Policies 
+## Content Gating Policies
 
 You seek to exchange personal data for the valuable content meticulously created, all while endeavoring to establish yourselves as thought leaders with authority in your space . Striking a delicate balance between these goals is really crucial, recognizing that trust is the linchpin for success. Without trust from prospects, even the most finely tuned gated content strategy may yield subpar results.
 
@@ -38,7 +37,7 @@ All gated content strategies are carefully tailored to engage prospects in the m
 
 A rule of thumb emerges: the further a prospect advances in the buyer's journey, coupled with the depth of the content, warrants a low-friction gate. Additionally, a friendly approach is key—gating everything risks annoyance and is often unappreciated, given the prevalence of disposable email accounts.
 
-**Gated** | **Ungated** 
+**Gated** | **Ungated**
 :------: | :------:|
 eBooks| Blog|
 Paid papers| Position Papers|

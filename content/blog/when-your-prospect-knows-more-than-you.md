@@ -25,7 +25,6 @@ see_also:
   - "blog/aitrust.md"
 layout: single-sidebar
 ---
-
 ![stack](/blog/assets/customers.jpg)
 
 # When Your Prospect Knows More Than You: A Cinco de Mayo Lesson in Humble Persuasion

@@ -28,7 +28,6 @@ see_also:
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---
-
 ![stack](/blog/assets/ai.jpeg)
 
 Marketing is undergoing a seismic shift, driven by the rapid evolution of artificial intelligence (AI). From predictive analytics to lifelike (scary) automation, AI tools are revolutionizing how businesses engage with audiences, streamline workflows, and achieve measurable results.

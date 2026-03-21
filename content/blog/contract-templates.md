@@ -26,7 +26,6 @@ see_also:
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---
-
 ![stack](/blog/assets/contract-cover.png)
 
 # Crafting a Winning Marketing Consulting Proposal: Templates Are Fine, but Context Is Everything

@@ -26,9 +26,7 @@ see_also:
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---
-
 ![stack](/blog/assets/bowl.jpg)
-
 
 # Embracing Imperfections: What Kintsugi and Antifragility Teach Us About Leadership
 
@@ -50,19 +48,19 @@ Leadership in the AI age demands more than robustness; it requires antifragility
 
 ### Here’s how leaders can integrate the principles of antifragility into their approach:
 
-1. **Highlight the Breakage**  
+1. **Highlight the Breakage**
    Just as Kintsugi doesn’t hide cracks, leaders should acknowledge challenges openly. Transparency fosters trust and creates an environment where teams feel empowered to address issues head-on.
 
-2. **Turn Chaos into Opportunity**  
+2. **Turn Chaos into Opportunity**
    Volatility can be a crucible for innovation. Use disruptions—whether technological, market-based, or cultural—as springboards for new ideas and approaches.
 
-3. **Embrace Diversity of Thought**  
+3. **Embrace Diversity of Thought**
    Like the varied fragments in a broken bowl, diverse perspectives create a stronger whole. Encourage input from all levels of your organization to uncover solutions and foster creativity.
 
-4. **Foster Decentralization**  
+4. **Foster Decentralization**
    Centralized systems are often brittle, prone to failure when stress becomes too great. Decentralized decision-making builds resilience and enables teams to adapt swiftly to change.
 
-5. **Promote a Culture of Learning**  
+5. **Promote a Culture of Learning**
    Failure isn’t the opposite of success—it’s a step toward it. Encourage teams to experiment, learn from mistakes, and iterate quickly.
 
 ## Lessons for the Future

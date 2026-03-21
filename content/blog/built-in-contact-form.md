@@ -25,12 +25,9 @@ see_also:
   - "blog/custom-backend-myth-after-ai.md"
 layout: single-sidebar
 ---
-
 ![Formspree Logo](/blog/assets/formspree-logo.png)
 
 ## [Formspree](https://formspree.io) makes it easy to receive submissions from HTML forms on your static website.
-
----
 
 ### Functional Form
 

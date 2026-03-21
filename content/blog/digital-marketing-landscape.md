@@ -1,7 +1,7 @@
 ---
 title: "The Digital Marketing Landscape New Rules"
 subtitle: "Covid Impact to Your Workload: Navigating the Digital Marketing Landscape"
-excerpt: "We want personal data in exchange for content we kill ourselves to create. We also want to establish ourselves as thought leader and have a degree of authority in our space. There has always been a need to balance these objectives while we earn some trust. If prospects don’t trust us, we won’t see results no matter how fine-tuned our strategy. So how far do you go - and how has COVID impacted you?  What are the rules?"
+excerpt: "COVID shoved budget and attention online, which gave digital marketing more influence and a lot more work. The result was more channels, more pressure, and a much harsher spotlight on sales alignment, lead quality, and operational discipline."
 date: 2021-01-10
 publishDate: 2021-01-10
 author: "Bill Carney"
@@ -31,7 +31,9 @@ layout: single-sidebar
 ![stack](/blog/assets/temp-thumbnail.jpg)
 
 ## The Shift in Work Dynamics
-Since the onset of COVID-19, the workload in many sectors, particularly in digital marketing, has dramatically increased. Budgets previously allocated for physical events have been redirected into digital spaces, leading to a burgeoning demand for online marketing strategies. This change represents both a challenge and an opportunity for digital marketing professionals and B2B marketers to prove the efficacy of digital strategies and garner further investment in these areas.
+COVID did not create digital marketing. It did, however, throw gasoline on it. Budgets that used to disappear into flights, booths, hotels, and branded stress balls suddenly got shoved online. That meant more channels, more campaigns, more reporting, more content, and, naturally, more work for the same number of humans.
+
+For marketing teams, that shift was both an opportunity and a trap. Digital finally got taken seriously. It also inherited every expectation that used to sit on field marketing, events, and sales support. Congratulations, your workload now has a login.
 
 >
 >Interviewer: What prompted your shift to digital?
@@ -42,18 +44,18 @@ Since the onset of COVID-19, the workload in many sectors, particularly in digit
 >
 
 ### Identifying Customer Profiles
-The task of defining ideal customer profiles (ICPs) has become more complex with the diversification of products and services. Many businesses now adopt a more nuanced approach, creating multiple ICPs to cater to the varied use cases and demands within their business units. The challenge lies in the aggregation of these profiles into a coherent marketing strategy without losing the specificities that make each customer segment unique.
+Defining the ideal customer profile used to sound tidy in strategy sessions. Then companies added more products, more business units, more use cases, and more opinions. Suddenly one ICP became five, then ten, then a mural of rationalizations. The challenge is not creating segments. It is creating segments without turning your go-to-market plan into abstract art.
 
 ### The Array of Digital Marketing Tactics
-In adapting to the new normal, digital marketing teams have expanded their use of various channels and strategies. From leveraging paid media across platforms like LinkedIn to adopting Account-Based Marketing (ABM) with tools like 6sense, the tactics have become more sophisticated. These approaches, coupled with traditional strategies like PPC and SEO, have been integral in top-of-the-funnel marketing activities, while webinars and hybrid events have played a crucial role in mid-funnel strategies.
+As budgets moved online, the channel mix got a lot more crowded. Paid media on LinkedIn. ABM tools like 6sense. PPC. SEO. webinars. hybrid events. content syndication. nurture tracks. More tactics, more dashboards, more ways to look busy. The trick is not piling on channels. It is knowing which ones actually move a deal forward.
 
 ### Rethinking Marketing Incentives
-The conversation also delves into the pitfalls of incentivizing marketing teams solely based on Marketing Qualified Leads (MQLs). This single-focus metric often led to a quantity-over-quality issue, where the leads generated did not necessarily align with sales needs, leading to low conversion rates and strained resources. In response, many organizations have shifted towards more nuanced metrics like Sales Qualified Opportunities (SQOs) and goals, emphasizing the quality of leads and the alignment between marketing and sales objectives.
+This is also where the old MQL game started to show its age. If you pay marketing to produce form fills, you will get form fills. You may also get a sales team quietly wondering why it is being force-fed leads with the buying intent of a bored intern. Better organizations moved toward quality-based measures, shared goals, and actual alignment with sales.
 
 ### The Collaboration Between Marketing and Sales
-The integration of marketing and sales efforts has become more pronounced, with both departments working closely to align on strategies, goals, and metrics. This collaboration is crucial in ensuring that leads are not only generated but are also of high quality and fit the profiles that sales teams are equipped to convert into customers. Regular meetings, shared incentives, and joint planning sessions have become standard practice in fostering this collaboration.
+Once digital became central, marketing and sales had no choice but to work more closely. Good teams share definitions, review pipeline together, and argue about the right things. Bad teams still toss leads over the fence and then schedule another alignment meeting to discuss why nothing is aligned.
 
 ## Looking Ahead
-As the business landscape continues to evolve, so too does the digital marketing domain. The discussion points towards the future, hinting at the exploration of influencer marketing in the B2B space, the increasing importance of content syndication, and the need for businesses to adapt to a cookie-less world. The focus is on leveraging existing data more effectively and exploring new tools and platforms that can provide more targeted and personalized marketing strategies.
+As the market keeps shifting, the playbook keeps getting rewritten. B2B influencer programs, content syndication, first-party data strategy, cookie-less targeting, tighter sales alignment, and better operational discipline are all part of the modern mix. None of that is optional if you want digital to do more than generate reports.
 
-The shifting paradigms of digital marketing post-COVID are much more pronounced than the above. It reflects the ongoing journey of adaptation, innovation, and collaboration that businesses must undertake to thrive in an increasingly digital world. As we look forward to more insights and developments, the digital marketing community continues to push the boundaries, ensuring that businesses can effectively reach and engage their target audiences in meaningful and impactful ways.
+The post-COVID lesson is simple: digital is no longer the sidecar. It is the engine. If you are still running it like a support function while expecting it to carry growth, pipeline, and brand all at once, do not be surprised when the team looks tired and the results look fuzzy.

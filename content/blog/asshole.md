@@ -29,9 +29,7 @@ see_also:
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---
-
 ![stack](/blog/assets/greenlock.jpg)
-
 
 # Leadership Isn’t a Spreadsheet (And Being an Asshole Is a Terrible Business Strategy)
 
@@ -39,7 +37,7 @@ Leadership often gets reduced to spreadsheets, quarterly targets, and org charts
 
 **If you stop being an asshole — and actually treat people like humans — your business performs better.**
 
-Not “better vibes.”  
+Not “better vibes.”
 Better **returns**.
 
 This isn’t soft, touchy-feely nonsense. It’s a measurable, repeatable strategy that improves retention, productivity, valuation, and long-term stability. And no, your employees can’t be tricked into believing you care. They can smell performative empathy from three floors away.
@@ -48,13 +46,13 @@ This isn’t soft, touchy-feely nonsense. It’s a measurable, repeatable strate
 
 Take KKR — a firm historically known for being *extremely* good at extracting value and *extremely* bad at being confused with a therapy group.
 
-In a 2024 Axios article, KKR revealed something unexpected:  
+In a 2024 Axios article, KKR revealed something unexpected:
 their best-performing CEOs shared one trait.
 
 **Empathy.**
 
-Not intimidation.  
-Not “hard-driving leadership.”  
+Not intimidation.
+Not “hard-driving leadership.”
 Not inspirational LinkedIn posts written by comms teams.
 
 Actual empathy.
@@ -69,9 +67,9 @@ KKR didn’t shrug and move on. They built a *human-capital center* to study lea
 
 KKR also realized empathy alone isn’t enough. You can’t just say *“we’re a family”* and expect results — especially if the only people with equity live in corner offices.
 
-**Aside:**  
-> If a company says *“we’re a family here,”* **run away — don’t walk**.  
-> Families don’t fire you for missing a quarter, guilt you into unpaid overtime, or ask you to “sacrifice” while executives cash bonuses.  
+**Aside:**
+> If a company says *“we’re a family here,”* **run away — don’t walk**.
+> Families don’t fire you for missing a quarter, guilt you into unpaid overtime, or ask you to “sacrifice” while executives cash bonuses.
 > Healthy companies don’t need the family line — they have fairness, clarity, and ownership.
 
 Through their nonprofit **Ownership Works**, KKR pushed for broad-based employee ownership. Real equity. Not pizza parties. Not *“we’ll look into bonuses next year.”* Actual skin in the game.
@@ -81,23 +79,23 @@ And then something wild happened.
 ## Case Study: C.H.I. Overhead Doors
 
 **Before KKR:**
-- High turnover  
-- Low morale  
-- Distrust everywhere  
+- High turnover
+- Low morale
+- Distrust everywhere
 - Employees delaying deliveries out of spite (never a great KPI)
 
 **After everyone became an owner:**
-- Alignment replaced resentment  
-- Productivity jumped  
-- Culture flipped  
-- Financial performance exploded  
+- Alignment replaced resentment
+- Productivity jumped
+- Culture flipped
+- Financial performance exploded
 
 When KKR sold the company in 2022, the business returned **10× its equity**.
 
 Employees — many of them hourly workers — walked away with payouts ranging from **$20,000 to over $800,000**.
 
-Some paid off mortgages.  
-Some sent kids to college.  
+Some paid off mortgages.
+Some sent kids to college.
 Some changed their entire financial trajectory.
 
 Funny how people suddenly care more when leadership actually shares the upside.
@@ -116,8 +114,8 @@ Axios reported that shared ownership only delivered results when paired with *em
 
 *You can’t hand out equity with one hand and disrespect people with the other.*
 
-Employees aren’t stupid.  
-They know when *“we care”* is a slogan instead of a value.  
+Employees aren’t stupid.
+They know when *“we care”* is a slogan instead of a value.
 They know when empathy is a quarterly initiative instead of a daily behavior.
 
 Fake empathy is worse than none at all.
@@ -135,24 +133,24 @@ KKR partnered with empathy researchers (including Stanford experts) who literall
 Then they trained it.
 
 **How?**
-- Executives worked frontline shifts  
-- Opened bank accounts with zero balances  
-- Experienced financial stress simulations  
-- Shadowed hourly workers  
-- Lived the reality instead of PowerPoint summaries  
+- Executives worked frontline shifts
+- Opened bank accounts with zero balances
+- Experienced financial stress simulations
+- Shadowed hourly workers
+- Lived the reality instead of PowerPoint summaries
 
-Empathy isn’t a personality trait.  
-It’s a muscle.  
+Empathy isn’t a personality trait.
+It’s a muscle.
 And most leaders have simply never exercised it.
 
 ## The Math Is Simple: Being an Asshole Is Expensive
 
 Companies with broad-based employee ownership:
-- Sell at higher EBITDA multiples  
-- Experience lower turnover  
-- See fewer non-financial violations  
-- Innovate faster  
-- Integrate more smoothly post-acquisition  
+- Sell at higher EBITDA multiples
+- Experience lower turnover
+- See fewer non-financial violations
+- Innovate faster
+- Integrate more smoothly post-acquisition
 
 Why?
 
@@ -161,51 +159,51 @@ Because when people have ownership *and* feel respected, they protect the busine
 Because it **is** theirs.
 
 Meanwhile, asshole leadership destroys:
-- Trust  
-- Retention  
-- Innovation  
-- Reputation  
-- Valuation  
+- Trust
+- Retention
+- Innovation
+- Reputation
+- Valuation
 
-The cost isn’t theoretical.  
+The cost isn’t theoretical.
 It shows up on the balance sheet.
 
 ## The Leadership Playbook (Shockingly Simple)
 
-1. **Stop performative empathy**  
+1. **Stop performative empathy**
    If you don’t actually care, don’t pretend. Employees know.
 
-2. **Listen more than you talk**  
+2. **Listen more than you talk**
    Especially to people who don’t report to you.
 
-3. **Share real ownership**  
+3. **Share real ownership**
    Not perks. Not slogans. Equity.
 
-4. **Spend time on the front lines**  
+4. **Spend time on the front lines**
    You can’t lead a world you’ve never seen.
 
-5. **Treat people with dignity — always**  
+5. **Treat people with dignity — always**
    This alone puts you ahead of most leaders.
 
 ## Final Thought: “Don’t Be an Asshole” Is a Growth Strategy
 
-Empathy isn’t a weakness.  
-Ownership isn’t charity.  
+Empathy isn’t a weakness.
+Ownership isn’t charity.
 Respect isn’t optional.
 
 They’re all competitive advantages.
 
-The data is clear:  
+The data is clear:
 **Leaders who aren’t assholes build better companies.**
 
-Better culture.  
-Better performance.  
+Better culture.
+Better performance.
 Better exits.
 
 So if you want stronger results, higher valuations, and teams that actually give a damn — start here:
 
-Be real.  
-Share the upside.  
+Be real.
+Share the upside.
 And for the love of EBITDA…
 
 **Don’t be an asshole.**
