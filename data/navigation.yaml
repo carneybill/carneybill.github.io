@@ -14,6 +14,9 @@ header:
 
 
 footer:
+  - name: Book
+    title: Buy my Book
+    url: https://amzn.to/4bKdyte
   - name: Projects
     title: Current Projects
     url: /projects/
