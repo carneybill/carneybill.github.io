@@ -29,6 +29,20 @@ p {
   color: #4287c7;
 }
 
+.about-icon {
+  font-size: 3rem;
+  vertical-align: middle;
+  margin-right: 0.5rem;
+}
+
+.about-icon-pdf {
+  color: #e6402d;
+}
+
+.about-icon-book {
+  color: #007fc8;
+}
+
 .service .icon {
   text-align: center;
 }
