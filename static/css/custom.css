@@ -33,12 +33,12 @@ p {
   font-size: 3rem;
   vertical-align: middle;
   margin-right: 0.5rem;
-  color: #c00;
+  color: #007fc8;
 }
 
 .about-icon-pdf,
 .about-icon-book {
-  color: #c00 !important;
+  color: #007fc8 !important;
 }
 
 .service .icon {
