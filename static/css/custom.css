@@ -36,6 +36,14 @@ p {
   color: #007fc8;
 }
 
+.about-icon-img {
+  height: 2rem;
+  width: 2rem;
+  vertical-align: middle;
+  margin-right: 0.5rem;
+  display: inline-block;
+}
+
 .about-icon-pdf,
 .about-icon-book {
   color: #007fc8 !important;
