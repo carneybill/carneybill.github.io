@@ -29,24 +29,39 @@ p {
   color: #4287c7;
 }
 
-.about-icon {
-  font-size: 2rem;
-  vertical-align: middle;
-  margin-right: 0.5rem;
-  color: #007fc8;
+.about-social-links {
+  align-items: center;
+  display: flex;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.about-social-link,
+.about-link {
+  align-items: center;
+  color: #007fc8 !important;
+  display: inline-flex;
+  text-decoration: none;
+}
+
+.about-social-link {
+  justify-content: center;
+}
+
+.about-link {
+  gap: 0.75rem;
+}
+
+.about-social-link:hover,
+.about-link:hover {
+  opacity: 0.85;
 }
 
 .about-icon-img {
-  height: 2rem;
-  width: 2rem;
-  vertical-align: middle;
-  margin-right: 0.5rem;
-  display: inline-block;
-}
-
-.about-icon-pdf,
-.about-icon-book {
-  color: #007fc8 !important;
+  display: block;
+  flex: 0 0 3rem;
+  height: 3rem;
+  width: 3rem;
 }
 
 .service .icon {
