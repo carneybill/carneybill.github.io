@@ -52,6 +52,11 @@ p {
   gap: 0.75rem;
 }
 
+.about-link-list {
+  display: inline-block;
+  text-align: left;
+}
+
 .about-social-link:hover,
 .about-link:hover {
   opacity: 0.85;
