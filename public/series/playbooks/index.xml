@@ -1,20 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Playbooks on </title>
-    <link>https://carney.wiki/series/playbooks/</link>
-    <description>Recent content in Playbooks on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 07 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://carney.wiki/series/playbooks/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Why AI, Trust, and Buying Networks Demand a New GTM Playbook</title>
-      <link>https://carney.wiki/blog/ai-gtm-playbook/</link>
-      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/ai-gtm-playbook/</guid>
-      <description>The rules of B2B buying are being rewritten. Not incrementally — structurally. Buyers have never moved through a linear tidy funnel owned by sales and marketing; they navigate a buying network made up of internal stakeholders, external influencers, independent research, and increasingly, AI agents that summarize, shortlist, and recommend on their behalf.
-If your go-to-market (GTM) playbook still targets a single buyer persona or relies on volume outreach, you’re invisible in the very places buyers now start their journeys.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Playbooks on</title><link>https://carney.wiki/series/playbooks/</link><description>Recent content in Playbooks on</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 07 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/series/playbooks/index.xml" rel="self" type="application/rss+xml"/><item><title>Why AI, Trust, and Buying Networks Demand a New GTM Playbook</title><link>https://carney.wiki/blog/ai-gtm-playbook/</link><pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-gtm-playbook/</guid><description>The rules of B2B buying are being rewritten. Not incrementally — structurally. Buyers have never moved through a linear tidy funnel owned by sales and marketing; they navigate a buying network made up of internal stakeholders, external influencers, independent research, and increasingly, AI agents that summarize, shortlist, and recommend on their behalf.
+If your go-to-market (GTM) playbook still targets a single buyer persona or relies on volume outreach, you’re invisible in the very places buyers now start their journeys.</description></item></channel></rss>
