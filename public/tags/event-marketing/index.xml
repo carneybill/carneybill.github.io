@@ -1,2 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Event Marketing on</title><link>https://carney.wiki/tags/event-marketing/</link><description>Recent content in Event Marketing on</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/event-marketing/index.xml" rel="self" type="application/rss+xml"/><item><title>The Tradeshow Circus</title><link>https://carney.wiki/blog/tradeshows-suck/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/tradeshows-suck/</guid><description>Who forced the shift to digital? It&amp;rsquo;s a bit weird to think of it this way but without COVID and the cancelation of all tradeshows in 2020 I could never have proven the value of a complete shift to digital. The lead flow we generated without tradeshows demonstrated a much more cost effective spend of marketing dollars.
-Tradeshows are expensive: between the booth, travel, marketing, and sponsorships, showcasing your products at trade show exhibits can put a SERIOUS dent into your marketing budget.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Event Marketing on </title>
+    <link>https://carney.wiki/tags/event-marketing/</link>
+    <description>Recent content in Event Marketing on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carney.wiki/tags/event-marketing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Tradeshow Circus</title>
+      <link>https://carney.wiki/blog/tradeshows-suck/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/tradeshows-suck/</guid>
+      <description>Who forced the shift to digital? It&amp;rsquo;s a bit weird to think of it this way but without COVID and the cancelation of all tradeshows in 2020 I could never have proven the value of a complete shift to digital. The lead flow we generated without tradeshows demonstrated a much more cost effective spend of marketing dollars.
+Tradeshows are expensive: between the booth, travel, marketing, and sponsorships, showcasing your products at trade show exhibits can put a SERIOUS dent into your marketing budget.</description>
+    </item>
+  </channel>
+</rss>

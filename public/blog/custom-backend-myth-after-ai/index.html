@@ -1,12 +1,283 @@
-<!doctype html><html lang=en dir=ltr><head><meta charset=UTF-8><meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1"><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta http-equiv=Content-Security-Policy content="default-src 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' https://www.google-analytics.com https://www.googletagmanager.com; connect-src 'self' https://www.google-analytics.com; font-src 'self' data:; object-src 'none'; base-uri 'self'; form-action 'self' https://formspree.io;"><meta name=referrer content="strict-origin-when-cross-origin"><title>The Custom-Backend Myth After AI</title>
-<meta name=description content><meta property="og:title" content="The Custom-Backend Myth After AI"><meta property="og:description" content="The Custom-Backend Myth After AI: Why Most Websites No Longer Need Bespoke Infrastructure For years, businesses were told that a serious website needed a custom backend to be flexible, scalable, and credible. That made sense when publishing online required heavy engineering effort and every meaningful change depended on developers. That is no longer true for most business websites.
-Today, AI can generate a working site in minutes. Modern deployment platforms can put that site into production almost immediately."><meta property="og:type" content="article"><meta property="og:url" content="https://carney.wiki/blog/custom-backend-myth-after-ai/"><meta property="og:image" content="https://carney.wiki/blog/assets/snowflake.jpg"><meta property="og:image" content="https://carney.wiki/blog/assets/snowflake.jpg"><meta property="article:section" content="blog"><meta property="article:published_time" content="2026-02-20T00:00:00+00:00"><meta property="article:modified_time" content="2026-02-20T00:00:00+00:00"><meta itemprop=name content="The Custom-Backend Myth After AI"><meta itemprop=description content="The Custom-Backend Myth After AI: Why Most Websites No Longer Need Bespoke Infrastructure For years, businesses were told that a serious website needed a custom backend to be flexible, scalable, and credible. That made sense when publishing online required heavy engineering effort and every meaningful change depended on developers. That is no longer true for most business websites.
-Today, AI can generate a working site in minutes. Modern deployment platforms can put that site into production almost immediately."><meta itemprop=datePublished content="2026-02-20T00:00:00+00:00"><meta itemprop=dateModified content="2026-02-20T00:00:00+00:00"><meta itemprop=wordCount content="1492"><meta itemprop=image content="https://carney.wiki/blog/assets/snowflake.jpg"><meta itemprop=image content="https://carney.wiki/blog/assets/snowflake.jpg"><meta itemprop=keywords content="Website Architecture,Static Sites,AI in Development,Vercel,Netlify,Cloudflare,WordPress,HubSpot,SEO,"><meta name=twitter:card content="summary_large_image"><meta name=twitter:image content="https://carney.wiki/blog/assets/snowflake.jpg"><meta name=twitter:title content="The Custom-Backend Myth After AI"><meta name=twitter:description content="The Custom-Backend Myth After AI: Why Most Websites No Longer Need Bespoke Infrastructure For years, businesses were told that a serious website needed a custom backend to be flexible, scalable, and credible. That made sense when publishing online required heavy engineering effort and every meaningful change depended on developers. That is no longer true for most business websites.
-Today, AI can generate a working site in minutes. Modern deployment platforms can put that site into production almost immediately."><script async src="https://www.googletagmanager.com/gtag/js?id=G-861LVY2WMP"></script><script>var doNotTrack=!1;if(!doNotTrack){window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date),gtag("config","G-861LVY2WMP",{anonymize_ip:!1})}</script><link rel="shortcut icon" href="/img/favicon.ico?v=0" type=image/x-icon><link rel=icon href="/img/favicon.ico?v=0" type=image/x-icon><link rel=stylesheet href=https://carney.wiki/style.main.min.847b77f7c8b744c33baf46dab63af59aabafa8b199e5443169cad53a372dd654.css integrity="sha256-hHt398i3RMM7r0batjr1mquvqLGZ5UQxacrVOjct1lQ=" media=screen><link rel=stylesheet href=/css/icomoon.css><link rel=stylesheet href=/css/simple-line-icons.css><link rel=stylesheet href=/css/custom.css></head><body><div class="grid-container single-sidebar"><header class="site-header pa4 bb b--transparent" role=banner><nav class="site-nav db dt-l w-100" role=nav><a class="site-brand db dtc-l v-mid link no-underline w-100 w-33-l tc tl-l" href=https://carney.wiki/ title=Home><img src=/img/blogophonic-mark-dark.png class="dib db-l h2 w-auto" alt></a><div class="site-links db dtc-l v-mid w-100 w-47-l tc tr-l mt3 mt0-l"><a class="link f6 f5-l dib pv1 ph2" href=/about/ title="About Bill">About</a>
-<a class="link f6 f5-l dib pv1 ph2" href=/projects/ title="Current Projects">Projects</a>
-<a class="link f6 f5-l dib pv1 ph2" href=/blog/ title=Blog>Blog</a>
-<a class="link f6 f5-l dib pv1 ph2" href=https://calendly.com/bill-carney-pfbu/30min title=Meet>Talk</a></div></nav></header><main class="page-main pa4" role=main><section class="page-content mw7 center"><article class="post-content pa0 ph4-l"><header class=post-header><h1 class="f1 lh-solid measure-narrow mb3">The Custom-Backend Myth After AI</h1><h4 class="f4 mt0 mb4 lh-title measure">Why Most Websites No Longer Need Bespoke Infrastructure</h4><p class="f7 db mv0 ttu">February 20, 2026</p></header><section class="post-body pt5 pb4"><p><img src=/blog/assets/snowflake.jpg alt=stack></p><h1 id=the-custom-backend-myth-after-ai-why-most-websites-no-longer-need-bespoke-infrastructure>The Custom-Backend Myth After AI: Why Most Websites No Longer Need Bespoke Infrastructure</h1><p>For years, businesses were told that a serious website needed a custom backend to be flexible, scalable, and credible. That made sense when publishing online required heavy engineering effort and every meaningful change depended on developers. That is no longer true for most business websites.</p><p>Today, AI can generate a working site in minutes. Modern deployment platforms can put that site into production almost immediately. And many business websites do not need a traditional backend or database at all. Vercel now describes itself as &ldquo;the AI Cloud,&rdquo; while Netlify explicitly positions itself around creating with AI or code and deploying instantly. Cloudflare, Netlify, and Vercel now belong in the same modern deployment conversation because all three make it possible to ship fast without managing traditional infrastructure.</p><p>The old argument for custom infrastructure has weakened because most websites are not software products. They are commercial assets: marketing sites, company sites, landing pages, content hubs, and lead-generation properties. Their job is to communicate value clearly, load quickly, publish reliably, and support revenue. Google&rsquo;s SEO guidance still centers on fundamentals like crawlability, site structure, and useful content, not on bespoke backend engineering for its own sake.</p><h2 id=ai-changed-the-economics-of-building-websites>AI Changed the Economics of Building Websites</h2><p>The biggest shift is not that templates improved. It is that AI dramatically lowered the cost of producing front-end code. A founder, marketer, or operator can now describe a site, generate a strong starting point, refine the layout and messaging, and move to deployment quickly. That changes the question from &ldquo;Should we custom-code this?&rdquo; to &ldquo;What actually needs to exist beyond the front end?&rdquo; In many cases, the honest answer is: very little. Vercel&rsquo;s platform positioning and AI documentation both reinforce that the emphasis is now on shipping AI-powered web experiences faster.</p><p>This is why &ldquo;vibe coding&rdquo; matters. It does not mean architecture stopped mattering. It means writing the first version of the site is no longer the scarce or expensive step it once was. The harder work now is deciding what the site should say, how it should convert, how it should be structured, and how simple the architecture can be without sacrificing business outcomes. Netlify has moved in the same direction, with official positioning around AI-powered development and AI code tools deploying directly to production workflows.</p><h2 id=static-sites-often-win-because-many-websites-do-not-need-a-database>Static Sites Often Win Because Many Websites Do Not Need a Database</h2><p>A large percentage of business websites do not need authenticated user flows, complex server-side logic, or a live application database. They need pages, forms, analytics, search-friendly structure, and a manageable publishing workflow. For those sites, static or mostly static architecture is often the smarter default because it removes moving parts that create cost and risk without creating meaningful business value.</p><p>Cloudflare&rsquo;s documentation explicitly says static assets such as HTML, CSS, images, and other files can be uploaded as part of a Worker and served with caching handled by Cloudflare. Cloudflare also documents static-site deployment through Pages, while Netlify and Vercel both center fast deployment as a core part of their value proposition. That makes Cloudflare, Netlify, and Vercel a shared category in practice: modern platforms for shipping websites quickly, globally, and with far less infrastructure overhead than a traditional custom stack.</p><p>Security is one reason simpler architecture often wins. OWASP&rsquo;s Top 10 remains focused on risks such as broken access control, injection, security misconfiguration, and insecure design. Those risks become more relevant as applications grow more dynamic, stateful, and custom. A static site is not automatically secure, but reducing unnecessary backend logic, admin surface area, and database exposure can reduce attack surface materially.</p><h2 id=wordpress-and-hubspot-still-matter-but-for-a-different-reason>WordPress and HubSpot Still Matter, but for a Different Reason</h2><p>WordPress and HubSpot should still be part of this discussion, but not because building websites is hard. They matter because operating websites over time is still hard.</p><p>There is a difference between generating a site and running one. Teams still need publishing workflows, permissions, reusable modules, non-technical editing, analytics, approvals, forms, and CRM integration. That is where mature CMS platforms still earn their place.</p><p>WordPress remains relevant because it continues to dominate CMS usage. W3Techs reports that WordPress powers 42.5% of all websites and 59.8% of websites with a known CMS as of March 21, 2026. That level of adoption reflects ecosystem maturity and the fact that many organizations still need a practical publishing system more than they need a custom application stack.</p><p>So WordPress and HubSpot are no longer the only alternatives to custom development. They are now part of a broader reality: AI can generate the site, Cloudflare, Netlify, and Vercel can deploy it, and CMS tools can help teams actually operate it.</p><h2 id=ai-can-do-a-lot-of-seo-work-but-not-all-of-it>AI Can Do a Lot of SEO Work, but Not All of It</h2><p>AI also changes the SEO conversation. You can ask an AI tool to act like an SEO expert and get title tags, metadata, schema ideas, page outlines, internal-link suggestions, and draft copy in seconds. That compresses a large amount of routine production work.</p><p>But that does not mean expertise disappeared. Search performance still depends on judgment: choosing the right topics, matching real search intent, structuring the site properly, understanding competition, creating content that is genuinely useful, and improving it over time. The hard part is no longer just producing recommendations. The hard part is deciding which recommendations actually matter.</p><p>That is why the better claim is not that AI eliminates agencies altogether. It is that AI commoditizes a large share of routine web and SEO production work. Agencies still matter when they provide real leverage: positioning, conversion strategy, advanced technical execution, strong editorial judgment, original research, or specialized integrations. The weaker agencies are the ones still selling repetitive production work that AI now does cheaply and quickly. This last point is an inference from how official platform capabilities have evolved, rather than a direct statement from a single source.</p><h2 id=why-cloudflare-netlify-and-vercel-belong-together>Why Cloudflare, Netlify, and Vercel Belong Together</h2><p>Cloudflare, Netlify, and Vercel should be named together because they now sit in the same decision set for modern website deployment.</p><p>Vercel leans hardest into AI-native workflows and modern front-end deployment. Netlify emphasizes &ldquo;create with AI or code, deploy instantly&rdquo; and supports AI code tool workflows directly in its docs and product positioning. Cloudflare combines static delivery with the option to add edge logic through Workers and Pages. In other words, these three platforms give teams a practical way to go from prompt to production without defaulting to a traditional custom backend.</p><p>That means the practical menu for many businesses now looks like this: WordPress when flexible publishing and ecosystem depth matter; HubSpot when content, forms, and CRM workflows need to stay tightly connected; and Cloudflare, Netlify, or Vercel when the priority is fast deployment, modern workflows, and minimal infrastructure overhead.</p><h2 id=the-better-default-is-now-simplest-viable-architecture>The Better Default Is Now Simplest Viable Architecture</h2><p>The old default was often: build a custom backend unless there is a reason not to.</p><p>The better default now is the opposite: use the simplest architecture that meets the actual business need, and add complexity only when the use case clearly demands it. For most business websites, that means fewer systems, less backend logic, less custom code to maintain, and more attention on messaging, performance, structure, and execution.</p><p>The rise of AI-assisted creation and the maturity of Cloudflare, Netlify, and Vercel all point in the same direction: simpler systems are often good enough, and often better, for the actual jobs business websites need to do.</p><h2 id=when-custom-backends-still-make-sense>When Custom Backends Still Make Sense</h2><p>Custom backends still have a place. They make sense when the site is actually a product, when the experience depends on authenticated workflows, when the business needs highly specialized application logic, or when compliance and integration requirements go well beyond what a CMS or static architecture can handle cleanly.</p><p>But those are exceptions, not the default. In the AI era, the burden of proof has shifted. The question is no longer &ldquo;why not custom?&rdquo; It is &ldquo;what business value justifies owning more software?&rdquo; That is a strategic question, not a technical reflex.</p><h2 id=conclusion>Conclusion</h2><p>The myth is no longer just that custom backends are expensive. It is that they are still the default mark of a serious website. They are not.</p><p>AI can generate much of the site. Search fundamentals are widely understood. Static deployment is fast and mature. WordPress and HubSpot still solve the operational side of publishing. And Cloudflare, Netlify, and Vercel make it easier than ever to ship without unnecessary backend complexity.</p><p>For most companies, the right principle is simple: build only what truly needs to be built.</p><h2 id=sources>Sources</h2><ul><li>Vercel homepage: <a href=https://vercel.com/>https://vercel.com/</a></li><li>Vercel AI docs: <a href=https://vercel.com/ai>https://vercel.com/ai</a></li><li>Vercel docs: <a href=https://vercel.com/docs>https://vercel.com/docs</a></li><li>Netlify homepage: <a href=https://www.netlify.com/>https://www.netlify.com/</a></li><li>Netlify AI-powered development docs: <a href=https://docs.netlify.com/start/overview/>https://docs.netlify.com/start/overview/</a></li><li>Netlify deploys docs: <a href=https://docs.netlify.com/deploy/create-deploys/>https://docs.netlify.com/deploy/create-deploys/</a></li><li>Netlify code agents page: <a href=https://www.netlify.com/solutions/code-agents/>https://www.netlify.com/solutions/code-agents/</a></li><li>Cloudflare Pages docs: <a href=https://developers.cloudflare.com/pages/>https://developers.cloudflare.com/pages/</a></li><li>Cloudflare static HTML / Pages deployment docs: <a href=https://developers.cloudflare.com/pages/framework-guides/deploy-anything/>https://developers.cloudflare.com/pages/framework-guides/deploy-anything/</a></li><li>Cloudflare Workers static assets docs: <a href=https://developers.cloudflare.com/workers/static-assets/>https://developers.cloudflare.com/workers/static-assets/</a></li><li>W3Techs WordPress usage statistics: <a href=https://w3techs.com/technologies/details/cm-wordpress>https://w3techs.com/technologies/details/cm-wordpress</a></li><li>W3Techs CMS overview: <a href=https://w3techs.com/technologies/overview/content_management>https://w3techs.com/technologies/overview/content_management</a></li></ul><p>Photo by Darius Cotoi on Unsplash</p></section><footer class=post-footer><div class="post-pagination dt w-100 mt4 mb2"><a class="prev dtc pr2 tl v-top fw6" href=https://carney.wiki/blog/2026dumbmarketing/>&larr; Stop doing dumb marketing</a>
-<a class="next dtc pl2 tr v-top fw6" href=https://carney.wiki/blog/ai-is-coming-for-your-job/>AI Is Coming for Your Job &rarr;</a></div></footer></article></section></main><aside class=page-sidebar role=complementary><div class=post-sidebar-shell><details open class="f6 fw7 input-reset post-sidebar-panel"><summary>TOC</summary><div class=post-sidebar-toc><nav id=TableOfContents><ul><li><a href=#ai-changed-the-economics-of-building-websites>AI Changed the Economics of Building Websites</a></li><li><a href=#static-sites-often-win-because-many-websites-do-not-need-a-database>Static Sites Often Win Because Many Websites Do Not Need a Database</a></li><li><a href=#wordpress-and-hubspot-still-matter-but-for-a-different-reason>WordPress and HubSpot Still Matter, but for a Different Reason</a></li><li><a href=#ai-can-do-a-lot-of-seo-work-but-not-all-of-it>AI Can Do a Lot of SEO Work, but Not All of It</a></li><li><a href=#why-cloudflare-netlify-and-vercel-belong-together>Why Cloudflare, Netlify, and Vercel Belong Together</a></li><li><a href=#the-better-default-is-now-simplest-viable-architecture>The Better Default Is Now Simplest Viable Architecture</a></li><li><a href=#when-custom-backends-still-make-sense>When Custom Backends Still Make Sense</a></li><li><a href=#conclusion>Conclusion</a></li><li><a href=#sources>Sources</a></li></ul></nav></div></details><details open class="f6 fw7 input-reset post-sidebar-panel"><summary>Details</summary><dl class="f6 lh-copy"><dt class=fw7>Posted on:</dt><dd class="fw5 ml0">February 20, 2026</dd></dl><dl class="f6 lh-copy"><dt class=fw7>Length:</dt><dd class="fw5 ml0">8 minute read, 1492 words</dd></dl><dl class="f6 lh-copy"><dt class=fw7>Categories:</dt><dd class="fw5 ml0"><a href=https://carney.wiki/categories/web-development>Web & Development</a> <a href=https://carney.wiki/categories/ai-automation>AI & Automation</a></dd></dl><dl class="f6 lh-copy"><dt class=fw7>Tags:</dt><dd class="fw5 ml0"><a href=https://carney.wiki/tags/website-architecture>Website Architecture</a> <a href=https://carney.wiki/tags/static-sites>Static Sites</a> <a href=https://carney.wiki/tags/ai-in-development>AI in Development</a> <a href=https://carney.wiki/tags/vercel>Vercel</a> <a href=https://carney.wiki/tags/netlify>Netlify</a> <a href=https://carney.wiki/tags/cloudflare>Cloudflare</a> <a href=https://carney.wiki/tags/wordpress>WordPress</a> <a href=https://carney.wiki/tags/hubspot>HubSpot</a> <a href=https://carney.wiki/tags/seo>SEO</a></dd></dl><dl class="f6 lh-copy"><dt class=fw7>See Also:</dt><dd class="fw5 ml0"><a href=/blog/vibe-coding/>Vibe Coding</a></dd><dd class="fw5 ml0"><a href=/blog/vibe2/>Vibe Coding 2</a></dd><dd class="fw5 ml0"><a href=/blog/ai-is-coming-for-your-job/>AI Is Coming for Your Job</a></dd></dl></details></div></aside><footer class="site-footer pa4 bt b--transparent" role=contentinfo><nav class="db dt-l w-100"><p class="site-copyright f7 db dtc-l v-mid w-100 w-33-l tc tl-l pv2 pv0-l mv0 lh-copy">&copy; 2026 Bill Carney, all rights reserved.</p><div class="site-links f6 db dtc-l v-mid w-100 w-67-l tc tr-l pv2 pv0-l mv0"><a class="dib pv1 ph2 link" href=https://amzn.to/4bKdyte title="Buy my Book">Book</a>
-<a class="dib pv1 ph2 link" href=/projects/ title="Current Projects">Projects</a>
-<a class="dib pv1 ph2 link" href=https://calendly.com/bill-carney-pfbu/30min title="Help Site">Help</a>
-<a class="dib pv1 ph2 link" href=/index.xml title="RSS Feed">RSS</a></div></nav></footer></div></body></html>
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' https://www.google-analytics.com https://www.googletagmanager.com; connect-src 'self' https://www.google-analytics.com; font-src 'self' data:; object-src 'none'; base-uri 'self'; form-action 'self' https://formspree.io;">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <title>The Custom-Backend Myth After AI</title>
+  <meta name="description" content="" />
+  <meta property="og:title" content="The Custom-Backend Myth After AI" />
+<meta property="og:description" content="The Custom-Backend Myth After AI: Why Most Websites No Longer Need Bespoke Infrastructure For years, businesses were told that a serious website needed a custom backend to be flexible, scalable, and credible. That made sense when publishing online required heavy engineering effort and every meaningful change depended on developers. That is no longer true for most business websites.
+Today, AI can generate a working site in minutes. Modern deployment platforms can put that site into production almost immediately." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://carney.wiki/blog/custom-backend-myth-after-ai/" /><meta property="og:image" content="https://carney.wiki/blog/assets/snowflake.jpg" /><meta property="og:image" content="https://carney.wiki/blog/assets/snowflake.jpg" /><meta property="article:section" content="blog" />
+<meta property="article:published_time" content="2026-02-20T00:00:00+00:00" />
+<meta property="article:modified_time" content="2026-02-20T00:00:00+00:00" />
+
+
+
+  <meta itemprop="name" content="The Custom-Backend Myth After AI">
+<meta itemprop="description" content="The Custom-Backend Myth After AI: Why Most Websites No Longer Need Bespoke Infrastructure For years, businesses were told that a serious website needed a custom backend to be flexible, scalable, and credible. That made sense when publishing online required heavy engineering effort and every meaningful change depended on developers. That is no longer true for most business websites.
+Today, AI can generate a working site in minutes. Modern deployment platforms can put that site into production almost immediately."><meta itemprop="datePublished" content="2026-02-20T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2026-02-20T00:00:00+00:00" />
+<meta itemprop="wordCount" content="1492"><meta itemprop="image" content="https://carney.wiki/blog/assets/snowflake.jpg"><meta itemprop="image" content="https://carney.wiki/blog/assets/snowflake.jpg">
+<meta itemprop="keywords" content="Website Architecture,Static Sites,AI in Development,Vercel,Netlify,Cloudflare,WordPress,HubSpot,SEO," />
+  <meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://carney.wiki/blog/assets/snowflake.jpg"/>
+
+<meta name="twitter:title" content="The Custom-Backend Myth After AI"/>
+<meta name="twitter:description" content="The Custom-Backend Myth After AI: Why Most Websites No Longer Need Bespoke Infrastructure For years, businesses were told that a serious website needed a custom backend to be flexible, scalable, and credible. That made sense when publishing online required heavy engineering effort and every meaningful change depended on developers. That is no longer true for most business websites.
+Today, AI can generate a working site in minutes. Modern deployment platforms can put that site into production almost immediately."/>
+
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-861LVY2WMP"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-861LVY2WMP', { 'anonymize_ip': false });
+}
+</script>
+
+  <link rel="shortcut icon" href="/img/favicon.ico?v=0" type="image/x-icon">
+  <link rel="icon" href="/img/favicon.ico?v=0" type="image/x-icon">
+  
+  
+  <link rel="stylesheet" href="https://carney.wiki/style.main.min.133b2bb68ad97544f6d0dc5eb002963658e3bcfc7a2a4e6be0f9ff82f02bf165.css" integrity="sha256-EzsrtorZdUT20NxesAKWNljjvPx6Kk5r4Pn/gvAr8WU=" media="screen">
+  
+   <link rel="stylesheet" href="/css/icomoon.css"> 
+   <link rel="stylesheet" href="/css/simple-line-icons.css">
+   
+    
+  <link rel="stylesheet" href="/css/custom.css">
+</head>
+<body>
+      <div class="grid-container single-sidebar"><header class="site-header pa4 bb b--transparent" role="banner">
+  <nav class="site-nav db dt-l w-100" role="nav">
+    <a class="site-brand db dtc-l v-mid link no-underline w-100 w-33-l tc tl-l" href="https://carney.wiki/" title="Home">
+      <img src="/img/blogophonic-mark-dark.png" class="dib db-l h2 w-auto" alt="">
+    </a>
+    <div class="site-links db dtc-l v-mid w-100 w-47-l tc tr-l mt3 mt0-l">
+      
+      
+      <a class="link f6 f5-l dib pv1 ph2" href="/about/" title="About Bill">About</a>
+      
+      
+      
+      <a class="link f6 f5-l dib pv1 ph2" href="/projects/" title="Current Projects">Projects</a>
+      
+      
+      
+      <a class="link f6 f5-l dib pv1 ph2" href="/blog/" title="Blog">Blog</a>
+      
+      
+      
+      <div class="dropdown dib relative">
+        <a class="link f6 f5-l dib pv1 ph2 pointer">Connect</a>
+        <div class="dropdown-content absolute bg-white ba b--light-gray shadow-1 dn">
+          
+          <a class="link f6 f5-l db pv2 ph3 hover-bg-light-gray" href="https://cal.com/bill-carney/60min">Book a Conversation</a>
+          
+          <a class="link f6 f5-l db pv2 ph3 hover-bg-light-gray" href="https://cal.com/bill-carney/consulting">Book my Time</a>
+          
+        </div>
+      </div>
+      
+      
+      
+    </div>
+  </nav>
+</header>
+
+<main class="page-main pa4" role="main">
+  <section class="page-content mw7 center">
+    <article class="post-content pa0 ph4-l">
+      <header class="post-header">
+        <h1 class="f1 lh-solid measure-narrow mb3">The Custom-Backend Myth After AI</h1>
+        <h4 class="f4 mt0 mb4 lh-title measure">Why Most Websites No Longer Need Bespoke Infrastructure</h4>
+        
+        <p class="f7 db mv0 ttu">February 20, 2026</p>
+      </header>
+      <section class="post-body pt5 pb4">
+        <p><img src="/blog/assets/snowflake.jpg" alt="stack"></p>
+<h1 id="the-custom-backend-myth-after-ai-why-most-websites-no-longer-need-bespoke-infrastructure">The Custom-Backend Myth After AI: Why Most Websites No Longer Need Bespoke Infrastructure</h1>
+<p>For years, businesses were told that a serious website needed a custom backend to be flexible, scalable, and credible. That made sense when publishing online required heavy engineering effort and every meaningful change depended on developers. That is no longer true for most business websites.</p>
+<p>Today, AI can generate a working site in minutes. Modern deployment platforms can put that site into production almost immediately. And many business websites do not need a traditional backend or database at all. Vercel now describes itself as &ldquo;the AI Cloud,&rdquo; while Netlify explicitly positions itself around creating with AI or code and deploying instantly. Cloudflare, Netlify, and Vercel now belong in the same modern deployment conversation because all three make it possible to ship fast without managing traditional infrastructure.</p>
+<p>The old argument for custom infrastructure has weakened because most websites are not software products. They are commercial assets: marketing sites, company sites, landing pages, content hubs, and lead-generation properties. Their job is to communicate value clearly, load quickly, publish reliably, and support revenue. Google&rsquo;s SEO guidance still centers on fundamentals like crawlability, site structure, and useful content, not on bespoke backend engineering for its own sake.</p>
+<h2 id="ai-changed-the-economics-of-building-websites">AI Changed the Economics of Building Websites</h2>
+<p>The biggest shift is not that templates improved. It is that AI dramatically lowered the cost of producing front-end code. A founder, marketer, or operator can now describe a site, generate a strong starting point, refine the layout and messaging, and move to deployment quickly. That changes the question from &ldquo;Should we custom-code this?&rdquo; to &ldquo;What actually needs to exist beyond the front end?&rdquo; In many cases, the honest answer is: very little. Vercel&rsquo;s platform positioning and AI documentation both reinforce that the emphasis is now on shipping AI-powered web experiences faster.</p>
+<p>This is why &ldquo;vibe coding&rdquo; matters. It does not mean architecture stopped mattering. It means writing the first version of the site is no longer the scarce or expensive step it once was. The harder work now is deciding what the site should say, how it should convert, how it should be structured, and how simple the architecture can be without sacrificing business outcomes. Netlify has moved in the same direction, with official positioning around AI-powered development and AI code tools deploying directly to production workflows.</p>
+<h2 id="static-sites-often-win-because-many-websites-do-not-need-a-database">Static Sites Often Win Because Many Websites Do Not Need a Database</h2>
+<p>A large percentage of business websites do not need authenticated user flows, complex server-side logic, or a live application database. They need pages, forms, analytics, search-friendly structure, and a manageable publishing workflow. For those sites, static or mostly static architecture is often the smarter default because it removes moving parts that create cost and risk without creating meaningful business value.</p>
+<p>Cloudflare&rsquo;s documentation explicitly says static assets such as HTML, CSS, images, and other files can be uploaded as part of a Worker and served with caching handled by Cloudflare. Cloudflare also documents static-site deployment through Pages, while Netlify and Vercel both center fast deployment as a core part of their value proposition. That makes Cloudflare, Netlify, and Vercel a shared category in practice: modern platforms for shipping websites quickly, globally, and with far less infrastructure overhead than a traditional custom stack.</p>
+<p>Security is one reason simpler architecture often wins. OWASP&rsquo;s Top 10 remains focused on risks such as broken access control, injection, security misconfiguration, and insecure design. Those risks become more relevant as applications grow more dynamic, stateful, and custom. A static site is not automatically secure, but reducing unnecessary backend logic, admin surface area, and database exposure can reduce attack surface materially.</p>
+<h2 id="wordpress-and-hubspot-still-matter-but-for-a-different-reason">WordPress and HubSpot Still Matter, but for a Different Reason</h2>
+<p>WordPress and HubSpot should still be part of this discussion, but not because building websites is hard. They matter because operating websites over time is still hard.</p>
+<p>There is a difference between generating a site and running one. Teams still need publishing workflows, permissions, reusable modules, non-technical editing, analytics, approvals, forms, and CRM integration. That is where mature CMS platforms still earn their place.</p>
+<p>WordPress remains relevant because it continues to dominate CMS usage. W3Techs reports that WordPress powers 42.5% of all websites and 59.8% of websites with a known CMS as of March 21, 2026. That level of adoption reflects ecosystem maturity and the fact that many organizations still need a practical publishing system more than they need a custom application stack.</p>
+<p>So WordPress and HubSpot are no longer the only alternatives to custom development. They are now part of a broader reality: AI can generate the site, Cloudflare, Netlify, and Vercel can deploy it, and CMS tools can help teams actually operate it.</p>
+<h2 id="ai-can-do-a-lot-of-seo-work-but-not-all-of-it">AI Can Do a Lot of SEO Work, but Not All of It</h2>
+<p>AI also changes the SEO conversation. You can ask an AI tool to act like an SEO expert and get title tags, metadata, schema ideas, page outlines, internal-link suggestions, and draft copy in seconds. That compresses a large amount of routine production work.</p>
+<p>But that does not mean expertise disappeared. Search performance still depends on judgment: choosing the right topics, matching real search intent, structuring the site properly, understanding competition, creating content that is genuinely useful, and improving it over time. The hard part is no longer just producing recommendations. The hard part is deciding which recommendations actually matter.</p>
+<p>That is why the better claim is not that AI eliminates agencies altogether. It is that AI commoditizes a large share of routine web and SEO production work. Agencies still matter when they provide real leverage: positioning, conversion strategy, advanced technical execution, strong editorial judgment, original research, or specialized integrations. The weaker agencies are the ones still selling repetitive production work that AI now does cheaply and quickly. This last point is an inference from how official platform capabilities have evolved, rather than a direct statement from a single source.</p>
+<h2 id="why-cloudflare-netlify-and-vercel-belong-together">Why Cloudflare, Netlify, and Vercel Belong Together</h2>
+<p>Cloudflare, Netlify, and Vercel should be named together because they now sit in the same decision set for modern website deployment.</p>
+<p>Vercel leans hardest into AI-native workflows and modern front-end deployment. Netlify emphasizes &ldquo;create with AI or code, deploy instantly&rdquo; and supports AI code tool workflows directly in its docs and product positioning. Cloudflare combines static delivery with the option to add edge logic through Workers and Pages. In other words, these three platforms give teams a practical way to go from prompt to production without defaulting to a traditional custom backend.</p>
+<p>That means the practical menu for many businesses now looks like this: WordPress when flexible publishing and ecosystem depth matter; HubSpot when content, forms, and CRM workflows need to stay tightly connected; and Cloudflare, Netlify, or Vercel when the priority is fast deployment, modern workflows, and minimal infrastructure overhead.</p>
+<h2 id="the-better-default-is-now-simplest-viable-architecture">The Better Default Is Now Simplest Viable Architecture</h2>
+<p>The old default was often: build a custom backend unless there is a reason not to.</p>
+<p>The better default now is the opposite: use the simplest architecture that meets the actual business need, and add complexity only when the use case clearly demands it. For most business websites, that means fewer systems, less backend logic, less custom code to maintain, and more attention on messaging, performance, structure, and execution.</p>
+<p>The rise of AI-assisted creation and the maturity of Cloudflare, Netlify, and Vercel all point in the same direction: simpler systems are often good enough, and often better, for the actual jobs business websites need to do.</p>
+<h2 id="when-custom-backends-still-make-sense">When Custom Backends Still Make Sense</h2>
+<p>Custom backends still have a place. They make sense when the site is actually a product, when the experience depends on authenticated workflows, when the business needs highly specialized application logic, or when compliance and integration requirements go well beyond what a CMS or static architecture can handle cleanly.</p>
+<p>But those are exceptions, not the default. In the AI era, the burden of proof has shifted. The question is no longer &ldquo;why not custom?&rdquo; It is &ldquo;what business value justifies owning more software?&rdquo; That is a strategic question, not a technical reflex.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>The myth is no longer just that custom backends are expensive. It is that they are still the default mark of a serious website. They are not.</p>
+<p>AI can generate much of the site. Search fundamentals are widely understood. Static deployment is fast and mature. WordPress and HubSpot still solve the operational side of publishing. And Cloudflare, Netlify, and Vercel make it easier than ever to ship without unnecessary backend complexity.</p>
+<p>For most companies, the right principle is simple: build only what truly needs to be built.</p>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>Vercel homepage: <a href="https://vercel.com/">https://vercel.com/</a></li>
+<li>Vercel AI docs: <a href="https://vercel.com/ai">https://vercel.com/ai</a></li>
+<li>Vercel docs: <a href="https://vercel.com/docs">https://vercel.com/docs</a></li>
+<li>Netlify homepage: <a href="https://www.netlify.com/">https://www.netlify.com/</a></li>
+<li>Netlify AI-powered development docs: <a href="https://docs.netlify.com/start/overview/">https://docs.netlify.com/start/overview/</a></li>
+<li>Netlify deploys docs: <a href="https://docs.netlify.com/deploy/create-deploys/">https://docs.netlify.com/deploy/create-deploys/</a></li>
+<li>Netlify code agents page: <a href="https://www.netlify.com/solutions/code-agents/">https://www.netlify.com/solutions/code-agents/</a></li>
+<li>Cloudflare Pages docs: <a href="https://developers.cloudflare.com/pages/">https://developers.cloudflare.com/pages/</a></li>
+<li>Cloudflare static HTML / Pages deployment docs: <a href="https://developers.cloudflare.com/pages/framework-guides/deploy-anything/">https://developers.cloudflare.com/pages/framework-guides/deploy-anything/</a></li>
+<li>Cloudflare Workers static assets docs: <a href="https://developers.cloudflare.com/workers/static-assets/">https://developers.cloudflare.com/workers/static-assets/</a></li>
+<li>W3Techs WordPress usage statistics: <a href="https://w3techs.com/technologies/details/cm-wordpress">https://w3techs.com/technologies/details/cm-wordpress</a></li>
+<li>W3Techs CMS overview: <a href="https://w3techs.com/technologies/overview/content_management">https://w3techs.com/technologies/overview/content_management</a></li>
+</ul>
+<p>Photo by <!-- raw HTML omitted -->Darius Cotoi<!-- raw HTML omitted --> on <!-- raw HTML omitted -->Unsplash<!-- raw HTML omitted --></p>
+
+      </section>
+      <footer class="post-footer">
+        <div class="post-pagination dt w-100 mt4 mb2">
+  
+    <a class="prev dtc pr2 tl v-top fw6"
+    href="https://carney.wiki/blog/2026dumbmarketing/">&larr; Stop doing dumb marketing</a>
+  
+  
+    <a class="next dtc pl2 tr v-top fw6"
+    href="https://carney.wiki/blog/ai-is-coming-for-your-job/">AI Is Coming for Your Job &rarr;</a>
+  
+</div>
+
+      </footer>
+    </article>
+    
+  </section>
+</main>
+<aside class="page-sidebar" role="complementary">
+  
+
+
+<div class="post-sidebar-shell">
+  
+  <details open class="f6 fw7 input-reset post-sidebar-panel">
+    <summary>TOC</summary>
+    <div class="post-sidebar-toc">
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#ai-changed-the-economics-of-building-websites">AI Changed the Economics of Building Websites</a></li>
+    <li><a href="#static-sites-often-win-because-many-websites-do-not-need-a-database">Static Sites Often Win Because Many Websites Do Not Need a Database</a></li>
+    <li><a href="#wordpress-and-hubspot-still-matter-but-for-a-different-reason">WordPress and HubSpot Still Matter, but for a Different Reason</a></li>
+    <li><a href="#ai-can-do-a-lot-of-seo-work-but-not-all-of-it">AI Can Do a Lot of SEO Work, but Not All of It</a></li>
+    <li><a href="#why-cloudflare-netlify-and-vercel-belong-together">Why Cloudflare, Netlify, and Vercel Belong Together</a></li>
+    <li><a href="#the-better-default-is-now-simplest-viable-architecture">The Better Default Is Now Simplest Viable Architecture</a></li>
+    <li><a href="#when-custom-backends-still-make-sense">When Custom Backends Still Make Sense</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
+    <li><a href="#sources">Sources</a></li>
+  </ul>
+</nav>
+    </div>
+  </details>
+  
+
+  
+  
+
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+
+<details open class="f6 fw7 input-reset post-sidebar-panel">
+  <summary>Details</summary>
+  <dl class="f6 lh-copy">
+    <dt class="fw7">Posted on:</dt>
+    <dd class="fw5 ml0">February 20, 2026</dd>
+  </dl>
+  <dl class="f6 lh-copy">
+    <dt class="fw7">Length:</dt>
+    <dd class="fw5 ml0">8 minute read, 1492 words</dd>
+  </dl>
+  
+  <dl class="f6 lh-copy">
+    <dt class="fw7">Categories:</dt>
+    <dd class="fw5 ml0"> <a href="https://carney.wiki/categories/web-development">Web &amp; Development</a>  <a href="https://carney.wiki/categories/ai-automation">AI &amp; Automation</a> </dd>
+  </dl>
+  
+  
+  
+  <dl class="f6 lh-copy">
+    <dt class="fw7">Tags:</dt>
+    <dd class="fw5 ml0"> <a href="https://carney.wiki/tags/website-architecture">Website Architecture</a>  <a href="https://carney.wiki/tags/static-sites">Static Sites</a>  <a href="https://carney.wiki/tags/ai-in-development">AI in Development</a>  <a href="https://carney.wiki/tags/vercel">Vercel</a>  <a href="https://carney.wiki/tags/netlify">Netlify</a>  <a href="https://carney.wiki/tags/cloudflare">Cloudflare</a>  <a href="https://carney.wiki/tags/wordpress">WordPress</a>  <a href="https://carney.wiki/tags/hubspot">HubSpot</a>  <a href="https://carney.wiki/tags/seo">SEO</a> </dd>
+  </dl>
+  
+  
+  <dl class="f6 lh-copy">
+    <dt class="fw7">See Also:</dt>
+    
+    <dd class="fw5 ml0"><a href="/blog/vibe-coding/">Vibe Coding</a></dd>
+    
+    <dd class="fw5 ml0"><a href="/blog/vibe2/">Vibe Coding 2</a></dd>
+    
+    <dd class="fw5 ml0"><a href="/blog/ai-is-coming-for-your-job/">AI Is Coming for Your Job</a></dd>
+    
+  </dl>
+  
+</details>
+
+</div>
+
+</aside>
+<footer class="site-footer pa4 bt b--transparent" role="contentinfo">
+  <nav class="db dt-l w-100">
+    <p class="site-copyright f7 db dtc-l v-mid w-100 w-33-l tc tl-l pv2 pv0-l mv0 lh-copy">
+      &copy; 2026 Bill Carney, all rights reserved.
+      
+    </p>
+    
+    <div class="site-links f6 db dtc-l v-mid w-100 w-67-l tc tr-l pv2 pv0-l mv0">
+      
+      <a class="dib pv1 ph2 link" href="https://amzn.to/4bKdyte" title="Buy my Book">Book</a>
+      
+      <a class="dib pv1 ph2 link" href="/projects/" title="Current Projects">Projects</a>
+      
+      <a class="dib pv1 ph2 link" href="https://cal.com/bill-carney/60min" title="Help Site">Help</a>
+      
+      <a class="dib pv1 ph2 link" href="/index.xml" title="RSS Feed">RSS</a>
+      
+    </div>
+  </nav>
+</footer>
+
+      </div>
+    </body>
+</html>

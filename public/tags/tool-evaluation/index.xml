@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tool Evaluation on</title><link>https://carney.wiki/tags/tool-evaluation/</link><description>Recent content in Tool Evaluation on</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/tool-evaluation/index.xml" rel="self" type="application/rss+xml"/><item><title>The shiny new thing</title><link>https://carney.wiki/blog/shiny-new-things/</link><pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/shiny-new-things/</guid><description>The Shiny Object Syndrome: Why Marketers Chase the New and Forget the Basics Marketing is a field of constant evolution, and for good reason. With over 8,000 marketing technologies available, the industry is brimming with tools promising to improve conversion rates, boost reach, and make our lives easier. As marketers, we’re always on the hunt for that next game-changer—the shiny new thing that could revolutionize how we do our jobs.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tool Evaluation on </title>
+    <link>https://carney.wiki/tags/tool-evaluation/</link>
+    <description>Recent content in Tool Evaluation on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carney.wiki/tags/tool-evaluation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The shiny new thing</title>
+      <link>https://carney.wiki/blog/shiny-new-things/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/shiny-new-things/</guid>
+      <description>The Shiny Object Syndrome: Why Marketers Chase the New and Forget the Basics Marketing is a field of constant evolution, and for good reason. With over 8,000 marketing technologies available, the industry is brimming with tools promising to improve conversion rates, boost reach, and make our lives easier. As marketers, we’re always on the hunt for that next game-changer—the shiny new thing that could revolutionize how we do our jobs.</description>
+    </item>
+  </channel>
+</rss>

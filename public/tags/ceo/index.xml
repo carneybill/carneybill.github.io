@@ -1,2 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CEO on</title><link>https://carney.wiki/tags/ceo/</link><description>Recent content in CEO on</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/ceo/index.xml" rel="self" type="application/rss+xml"/><item><title>Lonely Leaders</title><link>https://carney.wiki/blog/lonely-leaders/</link><pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/lonely-leaders/</guid><description>The Lonely CEO Someone said - it’s lonely at the top. Turns out, they weren’t kidding. Sure, being a CEO comes with the perks—power, influence, the ability to shape a company’s future. But it also comes with a level of solitude that’s tough to explain until you’ve lived it.
-The Weight of Leadership Being a CEO isn’t just about hitting growth targets and making bold moves. It’s about carrying the weight of an entire organization.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CEO on </title>
+    <link>https://carney.wiki/tags/ceo/</link>
+    <description>Recent content in CEO on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carney.wiki/tags/ceo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lonely Leaders</title>
+      <link>https://carney.wiki/blog/lonely-leaders/</link>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/lonely-leaders/</guid>
+      <description>The Lonely CEO Someone said - it’s lonely at the top. Turns out, they weren’t kidding. Sure, being a CEO comes with the perks—power, influence, the ability to shape a company’s future. But it also comes with a level of solitude that’s tough to explain until you’ve lived it.
+The Weight of Leadership Being a CEO isn’t just about hitting growth targets and making bold moves. It’s about carrying the weight of an entire organization.</description>
+    </item>
+  </channel>
+</rss>

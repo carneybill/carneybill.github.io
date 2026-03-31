@@ -1,2 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project Management on</title><link>https://carney.wiki/tags/project-management/</link><description>Recent content in Project Management on</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/project-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Marketing Project Management</title><link>https://carney.wiki/blog/project-management/</link><pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/project-management/</guid><description>The Role of Content Across the Entire Company No matter which tool you choose, one fact does not change: good marketing depends on contributions from across the company. Sales hears objections first. Product knows what is real and what still lives in roadmap fantasy land. Support knows exactly where customers get frustrated. If marketing works without that input, it usually ends up polishing guesses.
-The right project-management tool makes that collaboration easier.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project Management on </title>
+    <link>https://carney.wiki/tags/project-management/</link>
+    <description>Recent content in Project Management on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carney.wiki/tags/project-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Marketing Project Management</title>
+      <link>https://carney.wiki/blog/project-management/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/project-management/</guid>
+      <description>The Role of Content Across the Entire Company No matter which tool you choose, one fact does not change: good marketing depends on contributions from across the company. Sales hears objections first. Product knows what is real and what still lives in roadmap fantasy land. Support knows exactly where customers get frustrated. If marketing works without that input, it usually ends up polishing guesses.
+The right project-management tool makes that collaboration easier.</description>
+    </item>
+  </channel>
+</rss>

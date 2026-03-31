@@ -199,7 +199,10 @@ form {
 .dropdown:hover .dropdown-content {
   display: block;
 }
-
+.dropdown-content {
+  min-width: 200px;
+  white-space: nowrap;
+}
 
 // CSS GRID SCAFFOLD
 .grid-container {

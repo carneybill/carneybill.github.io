@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Community on</title><link>https://carney.wiki/tags/community/</link><description>Recent content in Community on</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/community/index.xml" rel="self" type="application/rss+xml"/><item><title>How to build real trust</title><link>https://carney.wiki/blog/build-trust/</link><pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/build-trust/</guid><description>Why Trust Matters Buyers don’t just buy features. They buy confidence. Trusted brands get on shortlists faster. They close deals faster. They lower acquisition cost.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community on </title>
+    <link>https://carney.wiki/tags/community/</link>
+    <description>Recent content in Community on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carney.wiki/tags/community/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to build real trust</title>
+      <link>https://carney.wiki/blog/build-trust/</link>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/build-trust/</guid>
+      <description>Why Trust Matters Buyers don’t just buy features. They buy confidence. Trusted brands get on shortlists faster. They close deals faster. They lower acquisition cost.
 Research shows trust — things like competence, consistency, and dependability — is central to B2B buying decisions.
-And buyers do their homework before talking to sales. They read content and cross-check sources long before they reach out. That means your brand needs to earn trust before the first call.</description></item><item><title>User Generated Content</title><link>https://carney.wiki/blog/ugc/</link><pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ugc/</guid><description>User-Generated Content: Marketing’s Not-So-Secret Weapon Let’s face it: if marketing were a group project, user-generated content (UGC) would be that one overachiever who does all the work and makes the rest of us look good. Consumers are no longer impressed by glossy ads or overly curated posts—they want authenticity, and nothing screams “real deal” louder than content created by other customers.
-UGC is poised to take over the marketing world.</description></item></channel></rss>
+And buyers do their homework before talking to sales. They read content and cross-check sources long before they reach out. That means your brand needs to earn trust before the first call.</description>
+    </item>
+    <item>
+      <title>User Generated Content</title>
+      <link>https://carney.wiki/blog/ugc/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ugc/</guid>
+      <description>User-Generated Content: Marketing’s Not-So-Secret Weapon Let’s face it: if marketing were a group project, user-generated content (UGC) would be that one overachiever who does all the work and makes the rest of us look good. Consumers are no longer impressed by glossy ads or overly curated posts—they want authenticity, and nothing screams “real deal” louder than content created by other customers.
+UGC is poised to take over the marketing world.</description>
+    </item>
+  </channel>
+</rss>

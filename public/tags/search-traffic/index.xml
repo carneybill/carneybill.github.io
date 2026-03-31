@@ -1,2 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Search Traffic on</title><link>https://carney.wiki/tags/search-traffic/</link><description>Recent content in Search Traffic on</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/search-traffic/index.xml" rel="self" type="application/rss+xml"/><item><title>Unveiling the Unethical: How an AI-Powered SEO Heist Backfired</title><link>https://carney.wiki/blog/stealing-traffic/</link><pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/stealing-traffic/</guid><description>In the world of digital marketing, ethical practices are the cornerstone of sustainable success. Unfortunately, some individuals have taken a detour into the unethical, as revealed by a recent confession: &amp;ldquo;We pulled off an SEO heist using AI.&amp;rdquo;
-Here&amp;rsquo;s a breakdown of the operation: The Scheme Sitemap Pilfering: The culprits exported a competitor&amp;rsquo;s sitemap, a bold move into ethically murky territory. Automated Content Creation: Turning the stolen URLs into article titles, they unleashed the power of AI to generate a staggering 1,800 articles at scale.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Search Traffic on </title>
+    <link>https://carney.wiki/tags/search-traffic/</link>
+    <description>Recent content in Search Traffic on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carney.wiki/tags/search-traffic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unveiling the Unethical: How an AI-Powered SEO Heist Backfired</title>
+      <link>https://carney.wiki/blog/stealing-traffic/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/stealing-traffic/</guid>
+      <description>In the world of digital marketing, ethical practices are the cornerstone of sustainable success. Unfortunately, some individuals have taken a detour into the unethical, as revealed by a recent confession: &amp;ldquo;We pulled off an SEO heist using AI.&amp;rdquo;
+Here&amp;rsquo;s a breakdown of the operation: The Scheme Sitemap Pilfering: The culprits exported a competitor&amp;rsquo;s sitemap, a bold move into ethically murky territory. Automated Content Creation: Turning the stolen URLs into article titles, they unleashed the power of AI to generate a staggering 1,800 articles at scale.</description>
+    </item>
+  </channel>
+</rss>

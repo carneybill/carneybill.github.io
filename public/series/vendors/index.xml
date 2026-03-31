@@ -1,4 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vendors on</title><link>https://carney.wiki/series/vendors/</link><description>Recent content in Vendors on</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/series/vendors/index.xml" rel="self" type="application/rss+xml"/><item><title>Reinventing Growth for the AI Era - Part 2</title><link>https://carney.wiki/blog/aitrust/</link><pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/aitrust/</guid><description>In an era where B2B buying is increasingly complex, distributed, and AI-assisted, one constant remains: trust is the currency of growth. No longer a “soft” brand attribute, trust now directly accelerates sales velocity and conversion. As Forrester’s Buying Networks: Your Buyers’ New Reality (2025) report highlights, trusted providers gain “shortcuts to consideration,” enabling faster movement through decision cycles and broader endorsement within buyer ecosystems.
-The New Reality: Buying Networks, Not Buying Groups Forrester’s latest research signals a major shift in how organizations purchase technology.</description></item><item><title>Reinventing Growth for the AI Era</title><link>https://carney.wiki/blog/growthai/</link><pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/growthai/</guid><description>A new pattern is emerging: the teams winning in AI are not the ones copying the old SaaS playbook with fresher branding. They are the ones figuring out where influence, credibility, and trust actually live, then building around that reality instead of around habit.
-The next generation of marketing leaders in AI will look less like spreadsheet custodians and more like experimenters, operators, and network-builders. They will diagnose first, invent second, and leave a lot of tired template marketing where it belongs.</description></item><item><title>Navigating Account-Based Marketing</title><link>https://carney.wiki/blog/abm-cost-complexity/</link><pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/abm-cost-complexity/</guid><description>Navigating the Complexities and Costs of Account-Based Marketing for B2B ABM sounds fantastic in a board deck. Pick the right accounts. Personalize everything. Align sales and marketing. Win bigger deals. What usually gets left out of the presentation is the inconvenient part: ABM is expensive, operationally messy, and very easy to do badly with beautiful software and mediocre thinking.
-That does not mean ABM is a bad idea. It means it is not magic.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vendors on </title>
+    <link>https://carney.wiki/series/vendors/</link>
+    <description>Recent content in Vendors on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carney.wiki/series/vendors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reinventing Growth for the AI Era - Part 2</title>
+      <link>https://carney.wiki/blog/aitrust/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/aitrust/</guid>
+      <description>In an era where B2B buying is increasingly complex, distributed, and AI-assisted, one constant remains: trust is the currency of growth. No longer a “soft” brand attribute, trust now directly accelerates sales velocity and conversion. As Forrester’s Buying Networks: Your Buyers’ New Reality (2025) report highlights, trusted providers gain “shortcuts to consideration,” enabling faster movement through decision cycles and broader endorsement within buyer ecosystems.
+The New Reality: Buying Networks, Not Buying Groups Forrester’s latest research signals a major shift in how organizations purchase technology.</description>
+    </item>
+    <item>
+      <title>Reinventing Growth for the AI Era</title>
+      <link>https://carney.wiki/blog/growthai/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/growthai/</guid>
+      <description>A new pattern is emerging: the teams winning in AI are not the ones copying the old SaaS playbook with fresher branding. They are the ones figuring out where influence, credibility, and trust actually live, then building around that reality instead of around habit.
+The next generation of marketing leaders in AI will look less like spreadsheet custodians and more like experimenters, operators, and network-builders. They will diagnose first, invent second, and leave a lot of tired template marketing where it belongs.</description>
+    </item>
+    <item>
+      <title>Navigating Account-Based Marketing</title>
+      <link>https://carney.wiki/blog/abm-cost-complexity/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/abm-cost-complexity/</guid>
+      <description>Navigating the Complexities and Costs of Account-Based Marketing for B2B ABM sounds fantastic in a board deck. Pick the right accounts. Personalize everything. Align sales and marketing. Win bigger deals. What usually gets left out of the presentation is the inconvenient part: ABM is expensive, operationally messy, and very easy to do badly with beautiful software and mediocre thinking.
+That does not mean ABM is a bad idea. It means it is not magic.</description>
+    </item>
+  </channel>
+</rss>
