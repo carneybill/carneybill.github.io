@@ -195,6 +195,11 @@ form {
   }
 }
 
+// DROPDOWN MENU
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
 
 // CSS GRID SCAFFOLD
 .grid-container {

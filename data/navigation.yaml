@@ -8,12 +8,12 @@ header:
   - name: Blog
     title: Blog
     url: /blog/
-  - name: Talk
-    title: Meet
-    url: https://cal.com/bill-carney/60min
-  - name: Booking
-    title: Booking
-    url: https://cal.com/bill-carney/consulting
+  - name: Connect
+    children:
+      - name: Book a Conversation
+        url: https://cal.com/bill-carney/60min
+      - name: Book my Time
+        url: https://cal.com/bill-carney/consulting
 
 
 footer:
