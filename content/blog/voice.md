@@ -18,7 +18,7 @@ tags:
   - "Search Behavior"
 categories:
   - "Product & UX"
-  - "B2B Marketing"
+  - "Content Strategy"
 see_also:
   - "blog/live-chat.md"
   - "blog/in-product-marketing.md"

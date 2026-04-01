@@ -20,7 +20,7 @@ tags:
 categories:
   - "B2B Marketing"
   - "AI & Automation"
-  - "Content Strategy"
+  - "Data & Analytics"
 see_also:
   - "blog/video.md"
   - "blog/ai-in-marketing.md"

@@ -1,7 +1,14 @@
 {{ $toc := .TableOfContents }}
 {{ $hasTOC := gt (len (findRE "<a href=" $toc)) 0 }}
+{{ $sidebar := .Site.Data.sidebar_content.blog.single_sidebar }}
 
 <div class="post-sidebar-shell">
+  {{ with $sidebar }}
+  <div class="post-sidebar-intro">
+    {{ if .title }}<h2 class="post-sidebar-intro-title">{{ .title }}</h2>{{ end }}
+    {{ if .description }}<p class="post-sidebar-intro-copy">{{ .description | markdownify }}</p>{{ end }}
+  </div>
+  {{ end }}
   {{ if $hasTOC }}
   <details open class="f6 fw7 input-reset post-sidebar-panel">
     <summary>TOC</summary>

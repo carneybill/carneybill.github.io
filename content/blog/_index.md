@@ -7,6 +7,7 @@ images:
 date: 2019-02-20
 publishDate: 2019-02-20
 layout: list-grid # list, list-sidebar, list-grid
+show_intro: false
 show_post_thumbnail: true
 show_author_byline: false
 show_post_date: true
