@@ -1,23 +1,36 @@
 (function () {
-  const root = document.querySelector("[data-site-search-root]");
+  const overlayRoot = document.querySelector("[data-site-search-root]");
+  const inlineRoots = Array.from(document.querySelectorAll("[data-site-search-inline-root]"));
 
-  if (!root) {
+  if (!overlayRoot && !inlineRoots.length) {
     return;
   }
 
   const triggers = document.querySelectorAll("[data-site-search-open]");
-  const closeTargets = root.querySelectorAll("[data-site-search-close]");
-  const input = root.querySelector("[data-site-search-input]");
-  const status = root.querySelector("[data-site-search-status]");
-  const results = root.querySelector("[data-site-search-results]");
-  const indexUrl = root.getAttribute("data-site-search-index") || "/index.json";
   let lastActiveElement = null;
   let pages = [];
   let loadPromise = null;
 
+  function createContext(root) {
+    return {
+      root: root,
+      input: root.querySelector("[data-site-search-input]"),
+      status: root.querySelector("[data-site-search-status]"),
+      results: root.querySelector("[data-site-search-results]"),
+      section: normalize(root.getAttribute("data-site-search-section")),
+      idleMessage: root.getAttribute("data-site-search-idle") || "Start typing to search.",
+      emptyMessage: root.getAttribute("data-site-search-empty") || "No matches found for"
+    };
+  }
+
   function normalize(value) {
     return (value || "").toLowerCase().replace(/\s+/g, " ").trim();
   }
+
+  const overlay = overlayRoot ? createContext(overlayRoot) : null;
+  const closeTargets = overlayRoot ? overlayRoot.querySelectorAll("[data-site-search-close]") : [];
+  const indexUrl = overlayRoot ? (overlayRoot.getAttribute("data-site-search-index") || "/index.json") : "/index.json";
+  const inlineContexts = inlineRoots.map(createContext);
 
   function formatDate(value) {
     if (!value) {
@@ -37,20 +50,37 @@
     }).format(date);
   }
 
-  function setStatus(message, state) {
-    status.textContent = message;
-    status.setAttribute("data-state", state || "idle");
+  function setStatus(context, message, state) {
+    if (!context || !context.status) {
+      return;
+    }
+
+    context.status.textContent = message;
+    context.status.setAttribute("data-state", state || "idle");
   }
 
-  function clearResults() {
-    results.innerHTML = "";
+  function clearResults(context) {
+    if (!context || !context.results) {
+      return;
+    }
+
+    context.results.innerHTML = "";
   }
 
   function createEmptyResult(message) {
     const empty = document.createElement("div");
     empty.className = "site-search-empty";
     empty.textContent = message;
-    results.appendChild(empty);
+
+    return empty;
+  }
+
+  function appendResult(context, result) {
+    if (!context || !context.results) {
+      return;
+    }
+
+    context.results.appendChild(result);
   }
 
   function createResult(page) {
@@ -86,6 +116,16 @@
     link.appendChild(copy);
 
     return link;
+  }
+
+  function getScopedPages(index, context) {
+    if (!context || !context.section) {
+      return index;
+    }
+
+    return index.filter(function (page) {
+      return normalize(page.section) === context.section;
+    });
   }
 
   function scorePage(page, query, terms) {
@@ -143,8 +183,12 @@
   }
 
   function openSearch(trigger) {
+    if (!overlay) {
+      return;
+    }
+
     lastActiveElement = trigger || document.activeElement;
-    root.hidden = false;
+    overlay.root.hidden = false;
     document.body.classList.add("site-search-open");
 
     triggers.forEach(function (button) {
@@ -152,16 +196,20 @@
     });
 
     window.requestAnimationFrame(function () {
-      input.focus();
-      input.select();
+      overlay.input.focus();
+      overlay.input.select();
     });
 
     void loadIndex();
-    void renderResults(input.value);
+    void renderResults(overlay, overlay.input.value);
   }
 
   function closeSearch() {
-    root.hidden = true;
+    if (!overlay) {
+      return;
+    }
+
+    overlay.root.hidden = true;
     document.body.classList.remove("site-search-open");
 
     triggers.forEach(function (button) {
@@ -182,7 +230,9 @@
       return loadPromise;
     }
 
-    setStatus("Loading search index...", "loading");
+    if (overlay) {
+      setStatus(overlay, "Loading search index...", "loading");
+    }
 
     loadPromise = window.fetch(indexUrl, {
       headers: {
@@ -226,33 +276,47 @@
           };
         });
 
-        setStatus("Start typing to search.", "idle");
+        if (overlay) {
+          setStatus(overlay, overlay.idleMessage, "idle");
+        }
+
+        inlineContexts.forEach(function (context) {
+          setStatus(context, context.idleMessage, "idle");
+        });
+
         return pages;
       })
       .catch(function () {
-        setStatus("Search is unavailable right now.", "error");
+        if (overlay) {
+          setStatus(overlay, "Search is unavailable right now.", "error");
+        }
+
+        inlineContexts.forEach(function (context) {
+          setStatus(context, "Search is unavailable right now.", "error");
+        });
+
         return [];
       });
 
     return loadPromise;
   }
 
-  function renderResults(query) {
+  function renderResults(context, query) {
     const normalizedQuery = normalize(query);
 
-    clearResults();
+    clearResults(context);
 
     if (!normalizedQuery) {
-      setStatus("Start typing to search.", "idle");
+      setStatus(context, context.idleMessage, "idle");
       return loadIndex();
     }
 
     const terms = normalizedQuery.split(" ").filter(Boolean);
 
-    setStatus("Searching...", "loading");
+    setStatus(context, "Searching...", "loading");
 
     return loadIndex().then(function (index) {
-      const matches = index
+      const matches = getScopedPages(index, context)
         .map(function (page) {
           return {
             page: page,
@@ -272,16 +336,36 @@
         .slice(0, 8);
 
       if (!matches.length) {
-        setStatus("No results found.", "empty");
-        createEmptyResult('No matches found for "' + query + '".');
+        setStatus(context, "No results found.", "empty");
+        appendResult(context, createEmptyResult(context.emptyMessage + ' "' + query + '".'));
         return;
       }
 
-      setStatus(matches.length + (matches.length === 1 ? " result" : " results"), "ready");
+      setStatus(context, matches.length + (matches.length === 1 ? " result" : " results"), "ready");
 
       matches.forEach(function (entry) {
-        results.appendChild(createResult(entry.page));
+        appendResult(context, createResult(entry.page));
       });
+    });
+  }
+
+  function bindSearchInput(context) {
+    if (!context || !context.input) {
+      return;
+    }
+
+    context.input.addEventListener("input", function (event) {
+      void renderResults(context, event.target.value);
+    });
+
+    context.input.addEventListener("keydown", function (event) {
+      if (event.key === "Enter") {
+        const firstResult = context.results.querySelector(".site-search-result");
+
+        if (firstResult) {
+          window.location.href = firstResult.href;
+        }
+      }
     });
   }
 
@@ -295,22 +379,16 @@
     target.addEventListener("click", closeSearch);
   });
 
-  input.addEventListener("input", function (event) {
-    void renderResults(event.target.value);
-  });
+  if (overlay) {
+    bindSearchInput(overlay);
+  }
 
-  input.addEventListener("keydown", function (event) {
-    if (event.key === "Enter") {
-      const firstResult = results.querySelector(".site-search-result");
-
-      if (firstResult) {
-        window.location.href = firstResult.href;
-      }
-    }
+  inlineContexts.forEach(function (context) {
+    bindSearchInput(context);
   });
 
   document.addEventListener("keydown", function (event) {
-    if (event.key === "Escape" && !root.hidden) {
+    if (event.key === "Escape" && overlay && !overlay.root.hidden) {
       closeSearch();
     }
   });

@@ -3,34 +3,9 @@
   {{ $posts := (where .Pages "Type" "blog").ByPublishDate.Reverse }}
   {{ $remaining := $posts }}
   {{ $categories := .Site.Taxonomies.categories }}
+  {{ $categoryLimit := 12 }}
   {{ if eq (len $categories) 0 }}
     {{ $categories = .Site.Taxonomies.category }}
-  {{ end }}
-  {{ if gt (len $categories) 0 }}
-  <section class="blog-category-filter-wrap mw8 center mb4" aria-label="Browse blog categories">
-    <div class="blog-category-filter">
-      <label class="blog-category-filter-label" for="blog-category-select">Browse by category</label>
-      <div class="blog-category-filter-control">
-        <select
-          class="blog-category-select"
-          id="blog-category-select"
-          name="category"
-          onchange="if (this.value) { window.location.href = this.value; }"
-        >
-          <option value="">Select a category</option>
-          {{ range $categories.Alphabetical }}
-            {{ $termPage := site.GetPage (printf "/categories/%s" (.Name | urlize)) }}
-            {{ $label := .Name }}
-            {{ if $termPage }}
-              {{ $label = $termPage.Title }}
-            {{ end }}
-            {{ $count := len .Pages }}
-          <option value="{{ if $termPage }}{{ $termPage.RelPermalink }}{{ else }}{{ printf "/categories/%s/" (.Name | urlize) | relLangURL }}{{ end }}">{{ $label }} ({{ $count }})</option>
-          {{ end }}
-        </select>
-      </div>
-    </div>
-  </section>
   {{ end }}
   {{ if gt (len $posts) 0 }}
     {{ $featured := index $posts 0 }}
@@ -53,6 +28,56 @@
         </div>
       </div>
     </article>
+  </section>
+  {{ end }}
+  {{ if gt (len $posts) 0 }}
+  <section class="blog-search-wrap mw8 center mb4" aria-label="Search blog posts">
+    <div
+      class="blog-search-card"
+      data-site-search-inline-root
+      data-site-search-section="Blog"
+      data-site-search-idle="Search blog posts by title, excerpt, or tag."
+      data-site-search-empty="No blog posts matched"
+    >
+      <label class="clip" for="blog-inline-search-input">Search blog posts</label>
+      <div class="blog-search-field">
+        <span class="blog-search-icon icon-search" aria-hidden="true"></span>
+        <input
+          class="site-search-input blog-search-input"
+          id="blog-inline-search-input"
+          type="search"
+          name="blog-search"
+          placeholder="Search articles..."
+          autocomplete="off"
+          spellcheck="false"
+          data-site-search-input
+        >
+      </div>
+      <p class="site-search-status blog-search-status" data-site-search-status>Search blog posts by title, excerpt, or tag.</p>
+      <div class="site-search-results blog-search-results" data-site-search-results></div>
+    </div>
+  </section>
+  {{ end }}
+  {{ if gt (len $categories) 0 }}
+  <section class="blog-category-links-wrap mw8 center mb5" aria-label="Browse blog categories">
+    <div class="blog-category-links-card">
+      <div class="blog-category-links-head">
+        <p class="blog-category-links-label">Browse by category</p>
+        {{ if gt (len $categories) $categoryLimit }}
+        <a class="blog-category-links-all" href="{{ "/categories/" | relLangURL }}">All categories</a>
+        {{ end }}
+      </div>
+      <nav class="blog-category-links-grid" aria-label="Category links">
+        {{ range first $categoryLimit $categories.ByCount }}
+          {{ $termPage := site.GetPage (printf "/categories/%s" (.Name | urlize)) }}
+          {{ $label := .Name }}
+          {{ if $termPage }}
+            {{ $label = $termPage.Title }}
+          {{ end }}
+        <a class="blog-category-link" href="{{ if $termPage }}{{ $termPage.RelPermalink }}{{ else }}{{ printf "/categories/%s/" (.Name | urlize) | relLangURL }}{{ end }}">{{ $label }}</a>
+        {{ end }}
+      </nav>
+    </div>
   </section>
   {{ end }}
   <section class="blog-content db flex-ns flex-row-ns flex-wrap-ns items-start mw8 center">
