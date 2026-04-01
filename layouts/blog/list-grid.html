@@ -1,5 +1,7 @@
 {{ define "main" }}
 <main class="page-main pa4" role="main">
+  {{ $posts := (where .Pages "Type" "blog").ByPublishDate.Reverse }}
+  {{ $remaining := $posts }}
   {{ if ne .Params.show_intro false }}
   <section class="blog-intro mw8 center tc mb5">
     <h2 class="f2 f1-ns lh-solid center">{{ .Title }}</h2>
@@ -7,8 +9,31 @@
     {{ if .Params.show_author_byline }}<p class="f7 measure lh-copy tc center i">{{ if .Params.author }}Written by {{ .Params.author }}{{ end }}</p>{{ end }}
   </section>
   {{ end }}
+  {{ if gt (len $posts) 0 }}
+    {{ $featured := index $posts 0 }}
+    {{ $remaining = after 1 $posts }}
+  <section class="blog-featured mw8 center mb5">
+    <article class="blog-featured-card">
+      <div class="blog-featured-shell">
+        {{ with $featured.Param "images" }}
+        <a class="blog-featured-media" href="{{ $featured.Permalink }}" aria-label="Read featured post: {{ $featured.Title }}">
+          {{ range first 1 . }}
+          <div class="blog-featured-image" style="background-image: url('{{ . | absURL }}');"></div>
+          {{ end }}
+        </a>
+        {{ end }}
+        <div class="blog-featured-copy">
+          <p class="blog-featured-eyebrow">Featured</p>
+          <h3 class="blog-featured-title"><a href="{{ $featured.Permalink }}">{{ $featured.Title }}</a></h3>
+          <p class="blog-featured-excerpt">{{ if $featured.Params.Excerpt }}{{ $featured.Params.Excerpt }}{{ else }}{{ $featured.Summary }}{{ end }}</p>
+          {{ if $featured.CurrentSection.Params.show_post_date }}<p class="blog-featured-meta">{{ $featured.PublishDate.Format "January 2, 2006" }}</p>{{ end }}
+        </div>
+      </div>
+    </article>
+  </section>
+  {{ end }}
   <section class="blog-content db flex-ns flex-row-ns flex-wrap-ns items-start mw8 center">
-    {{ $paginator := .Paginate ((where .Pages "Type" "blog").ByPublishDate.Reverse) }}
+    {{ $paginator := .Paginate $remaining }}
     {{ range $paginator.Pages }}
       {{ .Render "summary-grid"}}
     {{ end }}

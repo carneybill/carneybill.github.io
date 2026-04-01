@@ -62,3 +62,6 @@ preserveTaxonomyNames = true
     startLevel = 2
     endLevel = 2
     ordered = false
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

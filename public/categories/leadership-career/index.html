@@ -79,9 +79,55 @@ if (!doNotTrack) {
       </div>
       
       
+      <button
+        class="site-search-trigger dib v-mid"
+        type="button"
+        aria-label="Search the site"
+        aria-haspopup="dialog"
+        aria-controls="site-search-dialog"
+        aria-expanded="false"
+        data-site-search-open
+      >
+        <span class="icon-search" aria-hidden="true"></span>
+      </button>
       
     </div>
   </nav>
+  <div
+  class="site-search-overlay"
+  id="site-search-dialog"
+  data-site-search-root
+  data-site-search-index="/index.json"
+  hidden
+>
+  <div class="site-search-backdrop" data-site-search-close></div>
+  <div class="site-search-panel" role="dialog" aria-modal="true" aria-labelledby="site-search-title">
+    <div class="site-search-panel-header">
+      <span class="site-search-panel-icon icon-search" aria-hidden="true"></span>
+      <div class="site-search-panel-copy">
+        <p class="site-search-title" id="site-search-title">Search the site</p>
+        <p class="site-search-hint">Search posts, pages, and projects.</p>
+      </div>
+      <button class="site-search-close" type="button" aria-label="Close search" data-site-search-close>
+        <span class="icon-close" aria-hidden="true"></span>
+      </button>
+    </div>
+    <label class="clip" for="site-search-input">Search the site</label>
+    <input
+      class="site-search-input"
+      id="site-search-input"
+      type="search"
+      name="search"
+      placeholder="Type to search..."
+      autocomplete="off"
+      spellcheck="false"
+      data-site-search-input
+    >
+    <p class="site-search-status" data-site-search-status>Start typing to search.</p>
+    <div class="site-search-results" data-site-search-results></div>
+  </div>
+</div>
+
 </header>
 
 <main class="page-main pa4" role="main">
@@ -303,5 +349,6 @@ if (!doNotTrack) {
 </footer>
 
       </div>
+      <script defer src="/js/site-search.js"></script>
     </body>
 </html>

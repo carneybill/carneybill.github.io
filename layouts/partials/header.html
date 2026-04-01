@@ -18,6 +18,17 @@
       <a class="link f6 f5-l dib pv1 ph2" href="{{ .url }}" title="{{ .title }}">{{ .name }}</a>
       {{ end }}
       {{ end }}
+      <button
+        class="site-search-trigger dib v-mid"
+        type="button"
+        aria-label="Search the site"
+        aria-haspopup="dialog"
+        aria-controls="site-search-dialog"
+        aria-expanded="false"
+        data-site-search-open
+      >
+        <span class="icon-search" aria-hidden="true"></span>
+      </button>
       {{ if .Site.Params.socialInHeader }}
       <div class="dib v-mid">
         {{ partial "shared/social-links.html" . }}
@@ -25,4 +36,5 @@
       {{ end }}
     </div>
   </nav>
+  {{ partial "search.html" . }}
 </header>

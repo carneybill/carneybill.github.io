@@ -81,12 +81,60 @@ if (!doNotTrack) {
       </div>
       
       
+      <button
+        class="site-search-trigger dib v-mid"
+        type="button"
+        aria-label="Search the site"
+        aria-haspopup="dialog"
+        aria-controls="site-search-dialog"
+        aria-expanded="false"
+        data-site-search-open
+      >
+        <span class="icon-search" aria-hidden="true"></span>
+      </button>
       
     </div>
   </nav>
+  <div
+  class="site-search-overlay"
+  id="site-search-dialog"
+  data-site-search-root
+  data-site-search-index="/index.json"
+  hidden
+>
+  <div class="site-search-backdrop" data-site-search-close></div>
+  <div class="site-search-panel" role="dialog" aria-modal="true" aria-labelledby="site-search-title">
+    <div class="site-search-panel-header">
+      <span class="site-search-panel-icon icon-search" aria-hidden="true"></span>
+      <div class="site-search-panel-copy">
+        <p class="site-search-title" id="site-search-title">Search the site</p>
+        <p class="site-search-hint">Search posts, pages, and projects.</p>
+      </div>
+      <button class="site-search-close" type="button" aria-label="Close search" data-site-search-close>
+        <span class="icon-close" aria-hidden="true"></span>
+      </button>
+    </div>
+    <label class="clip" for="site-search-input">Search the site</label>
+    <input
+      class="site-search-input"
+      id="site-search-input"
+      type="search"
+      name="search"
+      placeholder="Type to search..."
+      autocomplete="off"
+      spellcheck="false"
+      data-site-search-input
+    >
+    <p class="site-search-status" data-site-search-status>Start typing to search.</p>
+    <div class="site-search-results" data-site-search-results></div>
+  </div>
+</div>
+
 </header>
 
 <main class="page-main pa4" role="main">
+  
+  
   
   <section class="blog-intro mw8 center tc mb5">
     <h2 class="f2 f1-ns lh-solid center">Just some thoughts</h2>
@@ -94,23 +142,31 @@ if (!doNotTrack) {
     
   </section>
   
+  
+    
+    
+  <section class="blog-featured mw8 center mb5">
+    <article class="blog-featured-card">
+      <div class="blog-featured-shell">
+        
+        <a class="blog-featured-media" href="https://carney.wiki/blog/ai-is-coming-for-your-job/" aria-label="Read featured post: AI Is Coming for Your Job">
+          
+          <div class="blog-featured-image" style="background-image: url('https://carney.wiki/blog/assets/luck.jpg');"></div>
+          
+        </a>
+        
+        <div class="blog-featured-copy">
+          <p class="blog-featured-eyebrow">Featured</p>
+          <h3 class="blog-featured-title"><a href="https://carney.wiki/blog/ai-is-coming-for-your-job/">AI Is Coming for Your Job</a></h3>
+          <p class="blog-featured-excerpt">&#34;AI is coming for your job&#34; spreads because it lands on something real. But the more useful story is not simple replacement. It is the redesign of work itself -- with AI taking the repetitive, low-context, workflow-heavy tasks first, so people can spend more time on judgment, creativity, and decision-making.</p>
+          <p class="blog-featured-meta">March 17, 2026</p>
+        </div>
+      </div>
+    </article>
+  </section>
+  
   <section class="blog-content db flex-ns flex-row-ns flex-wrap-ns items-start mw8 center">
     
-    
-      <article class="w-100 w-50-m w-third-l mb4 pb4 bb bw1 bw0-ns pb0-ns">
-  
-  <div class="ph0 ph2-m ph3-l">
-    <div class="cover aspect-ratio aspect-ratio--1x1" style="background: url('https://carney.wiki/blog/assets/luck.jpg') center center no-repeat"><a href="https://carney.wiki/blog/ai-is-coming-for-your-job/" class="w-100 absolute top-0 bottom-0"></a></div>
-  </div>
-  
-  <div class="ph0 pa2-m pa3-l">
-    <h1 class="f3 f4-l mv2 lh-title"><a href="https://carney.wiki/blog/ai-is-coming-for-your-job/" class="db">AI Is Coming for Your Job</a></h1>
-    <p class="f6 lh-copy">&#34;AI is coming for your job&#34; spreads because it lands on something real. But the more useful story is not simple replacement. It is the redesign of work itself -- with AI taking the repetitive, low-context, workflow-heavy tasks first, so people can spend more time on judgment, creativity, and decision-making.</p>
-    
-    <p class="f7 db mv1">March 17, 2026</p>
-  </div>
-</article>
-
     
       <article class="w-100 w-50-m w-third-l mb4 pb4 bb bw1 bw0-ns pb0-ns">
   
@@ -234,6 +290,21 @@ This isn’t an article. This is your intervention.</p>
 </article>
 
     
+      <article class="w-100 w-50-m w-third-l mb4 pb4 bb bw1 bw0-ns pb0-ns">
+  
+  <div class="ph0 ph2-m ph3-l">
+    <div class="cover aspect-ratio aspect-ratio--1x1" style="background: url('https://carney.wiki/blog/assets/good-vibes-thumbnail.jpg') center center no-repeat"><a href="https://carney.wiki/blog/vibe2/" class="w-100 absolute top-0 bottom-0"></a></div>
+  </div>
+  
+  <div class="ph0 pa2-m pa3-l">
+    <h1 class="f3 f4-l mv2 lh-title"><a href="https://carney.wiki/blog/vibe2/" class="db">Vibe Coding 2</a></h1>
+    <p class="f6 lh-copy">Over the past few months I’ve tested Replit, Cursor, and now Kilo with Copilot and Claude. I’ve burned down and rebuilt instances, ripped out integrations that didn’t work, and wrestled with Docker, Digital Ocean, Spaces, and Stripe.  What I’ve learned is that vibe coding isn’t about instant deployment—it’s about learning, iterating, and staying in flow. For developers, it promises faster scaffolding and fewer headaches with boilerplate. For non-coders, it opens the door to building real applications without years of training. It’s still clunky, but the direction is clear: coding by describing is evolving fast, and persistence really does pay off - hopefully.</p>
+    
+    <p class="f7 db mv1">May 10, 2025</p>
+  </div>
+</article>
+
+    
     
 
 
@@ -281,5 +352,6 @@ This isn’t an article. This is your intervention.</p>
 </footer>
 
       </div>
+      <script defer src="/js/site-search.js"></script>
     </body>
 </html>
