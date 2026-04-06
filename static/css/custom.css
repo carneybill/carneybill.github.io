@@ -33,27 +33,16 @@ html {
   color: #4287c7;
 }
 
-.about-social-links {
-  align-items: center;
-  display: flex;
-  gap: 1rem;
-  margin-top: 1.5rem;
-}
-
-.about-social-link,
 .about-link {
   align-items: center;
   color: #007fc8 !important;
-  display: inline-flex;
+  display: flex;
   text-decoration: none;
-}
-
-.about-social-link {
-  justify-content: center;
 }
 
 .about-link {
   gap: 0.75rem;
+  width: 100%;
 }
 
 .about-link-list {
@@ -69,7 +58,6 @@ html {
   margin: 0;
 }
 
-.about-social-link:hover,
 .about-link:hover {
   opacity: 0.85;
 }
@@ -83,7 +71,7 @@ html {
 
 @media screen and (max-width: 40em) {
   .about-link-list {
-    grid-template-columns: minmax(0, 1fr);
+    gap: 0.85rem 1rem;
   }
 }
 
