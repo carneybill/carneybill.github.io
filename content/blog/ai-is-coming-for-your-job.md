@@ -29,8 +29,6 @@ layout: single-sidebar
 ---
 ![stack](/blog/assets/luck.jpg)
 
-# AI Is Coming for Your Job. That's Not a Bad Thing.
-
 If there is any Luck of the Irish in this story, it is not that AI magically saves everyone. It is that we may finally have a good excuse to hand the machines the worst parts of work first. Let the bots chase status updates, wrestle stale spreadsheets, and babysit workflow nonsense. Humans can keep the parts that actually require judgment and a pulse.
 
 "AI is coming for your job" is one of those phrases that spreads because it lands on something real.
