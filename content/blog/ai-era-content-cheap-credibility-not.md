@@ -25,6 +25,7 @@ see_also:
   - "blog/when-your-prospect-knows-more-than-you.md"
 layout: single-sidebar
 ---
+![stack](/blog/assets/content-is-cheap-credibility-is-not.jpg)
 
 AI made content cheap.
 

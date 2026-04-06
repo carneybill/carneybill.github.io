@@ -25,6 +25,7 @@ see_also:
   - "blog/why-ai-trust-and-buying-networks-demand-a-new-gtm-playbook.md"
 layout: single-sidebar
 ---
+![stack](/blog/assets/abm-without-theatre.jpg)
 
 ABM has had a weird run.
 

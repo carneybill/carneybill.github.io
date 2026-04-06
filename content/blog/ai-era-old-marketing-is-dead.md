@@ -25,6 +25,7 @@ see_also:
   - "blog/reinventing-growth-for-the-ai-era.md"
 layout: single-sidebar
 ---
+![stack](/blog/assets/old-marketing-is-dead.jpg)
 
 The world most B2B marketing playbooks were built for is gone.
 

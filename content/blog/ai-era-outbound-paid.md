@@ -25,6 +25,7 @@ see_also:
   - "blog/growthai.md"
 layout: single-sidebar
 ---
+![stack](/blog/assets/outbound-paid-in-ai-era.jpg)
 
 AI made it much easier to send more outbound.
 

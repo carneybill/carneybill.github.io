@@ -25,6 +25,7 @@ see_also:
   - "blog/why-ai-trust-and-buying-networks-demand-a-new-gtm-playbook.md"
 layout: single-sidebar
 ---
+![stack](/blog/assets/proof-as-inventory.jpg)
 
 Most B2B companies have proof.
 

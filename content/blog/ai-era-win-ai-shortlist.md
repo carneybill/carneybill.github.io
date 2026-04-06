@@ -25,6 +25,7 @@ see_also:
   - "blog/growthai.md"
 layout: single-sidebar
 ---
+![stack](/blog/assets/win-the-ai-shortlist.jpg)
 
 For a long time, B2B marketing treated discovery like a traffic problem.
 

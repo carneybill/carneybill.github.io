@@ -25,6 +25,7 @@ see_also:
   - "blog/aitrust.md"
 layout: single-sidebar
 ---
+![stack](/blog/assets/verification-beats-persuasion.jpg)
 
 Most B2B buyers do not buy the way your homepage wishes they did.
 

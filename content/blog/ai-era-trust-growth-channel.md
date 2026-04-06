@@ -25,6 +25,7 @@ see_also:
   - "blog/reinventing-growth-for-the-ai-era-part-2.md"
 layout: single-sidebar
 ---
+![stack](/blog/assets/trust-is-the-new-growth-channel.jpg)
 
 Most deals do not die because the product is bad.
 

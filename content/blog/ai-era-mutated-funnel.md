@@ -25,6 +25,7 @@ see_also:
   - "blog/reinventing-growth-for-the-ai-era-part-2.md"
 layout: single-sidebar
 ---
+![stack](/blog/assets/the-funnel-mutated.jpg)
 
 Most B2B funnel problems are not really funnel problems.
 

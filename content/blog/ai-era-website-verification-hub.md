@@ -25,6 +25,7 @@ see_also:
   - "blog/why-ai-trust-and-buying-networks-demand-a-new-gtm-playbook.md"
 layout: single-sidebar
 ---
+![stack](/blog/assets/website-verification-hub.jpg)
 
 For years, a lot of B2B teams treated the website like a brochure with a form attached.
 

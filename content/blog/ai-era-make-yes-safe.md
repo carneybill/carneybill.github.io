@@ -25,6 +25,7 @@ see_also:
   - "blog/reinventing-growth-for-the-ai-era-part-2.md"
 layout: single-sidebar
 ---
+![stack](/blog/assets/make-yes-safe.jpg)
 
 By the time a B2B deal gets serious, your buyer is not deciding whether they *like* you.
 
