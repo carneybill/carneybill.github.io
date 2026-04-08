@@ -58,6 +58,66 @@ html {
   margin: 0;
 }
 
+.about-link-item--full {
+  grid-column: 1 / -1;
+  position: relative;
+}
+
+.about-book-menu {
+  position: relative;
+}
+
+.about-book-trigger {
+  cursor: pointer;
+  list-style: none;
+}
+
+.about-book-trigger::-webkit-details-marker {
+  display: none;
+}
+
+.about-book-trigger::after {
+  color: #6b7280;
+  content: "+";
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1;
+  margin-left: auto;
+}
+
+.about-book-menu[open] .about-book-trigger::after {
+  content: "\2212";
+}
+
+.about-book-options {
+  background: #fff;
+  border: 1px solid rgba(0, 0, 0, .08);
+  border-radius: .75rem;
+  box-shadow: 0 18px 40px rgba(15, 23, 42, .12);
+  display: grid;
+  gap: .35rem;
+  left: 0;
+  margin-top: .65rem;
+  min-width: 100%;
+  padding: .5rem;
+  position: absolute;
+  text-align: left;
+  top: 100%;
+  z-index: 20;
+}
+
+.about-book-option {
+  border-radius: .5rem;
+  color: #007fc8 !important;
+  display: block;
+  padding: .45rem .65rem;
+  text-decoration: none;
+}
+
+.about-book-option:hover {
+  background: rgba(0, 127, 200, .08);
+}
+
 .about-link:hover {
   opacity: 0.85;
 }
@@ -79,6 +139,14 @@ html {
 @media screen and (max-width: 40em) {
   .about-link-list {
     gap: 0.85rem 1rem;
+  }
+
+  .about-link-item--full {
+    grid-column: auto;
+  }
+
+  .about-book-options {
+    position: static;
   }
 }
 
