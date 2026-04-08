@@ -74,55 +74,50 @@ html {
   position: relative;
 }
 
-.about-book-menu {
+.about-book-dropdown {
+  display: inline-block;
   position: relative;
 }
 
 .about-book-trigger {
-  cursor: pointer;
-  list-style: none;
+  width: max-content;
 }
 
-.about-book-trigger::-webkit-details-marker {
-  display: none;
-}
-
-.about-book-trigger::after {
-  color: #6b7280;
-  content: "+";
-  font-size: 1rem;
-  font-weight: 700;
-  line-height: 1;
-  margin-left: auto;
-}
-
-.about-book-menu[open] .about-book-trigger::after {
-  content: "\2212";
+.about-book-dropdown:hover .about-book-options,
+.about-book-dropdown:focus-within .about-book-options {
+  display: grid;
 }
 
 .about-book-options {
-  background: #fff;
-  border: 1px solid rgba(0, 0, 0, .08);
-  border-radius: .75rem;
-  box-shadow: 0 18px 40px rgba(15, 23, 42, .12);
-  display: grid;
   gap: .35rem;
   left: 0;
-  margin-top: .65rem;
-  min-width: 100%;
-  padding: .5rem;
-  position: absolute;
+  margin-top: .5rem;
+  min-width: max-content;
+  padding: .35rem;
   text-align: left;
-  top: 100%;
   z-index: 20;
+}
+
+.about-book-option-row {
+  align-items: center;
+  display: flex;
+  gap: .25rem;
 }
 
 .about-book-option {
   border-radius: .5rem;
   color: #007fc8 !important;
-  display: block;
-  padding: .45rem .65rem;
+  display: inline-flex;
+  padding: .45rem .75rem;
   text-decoration: none;
+  white-space: nowrap;
+}
+
+.about-book-option--full {
+  border-top: 1px solid rgba(0, 0, 0, .08);
+  display: flex;
+  padding-top: .6rem;
+  width: 100%;
 }
 
 .about-book-option:hover {
@@ -151,7 +146,12 @@ html {
   }
 
   .about-book-options {
-    position: static;
+    min-width: 100%;
+    right: auto;
+  }
+
+  .about-book-option-row {
+    flex-wrap: wrap;
   }
 }
 

@@ -53,17 +53,20 @@ show_title_as_headline: false
         </a>
       </div>
       <div class="about-link-item about-link-item--full">
-        <details class="about-book-menu">
-          <summary class="about-link about-book-trigger">
+        <div class="dropdown about-book-dropdown">
+          <div class="about-link about-book-trigger pointer" role="button" tabindex="0" aria-label="Book options">
             <img src="/img/about/file-book.svg" alt="" class="about-icon-img" aria-hidden="true">
             <span>Book</span>
-          </summary>
-          <div class="about-book-options">
-            <a class="about-book-option" href="https://amzn.to/4bKdyte" aria-label="Buy the Kindle edition" target="_blank" rel="noopener noreferrer">Kindle</a>
-            <a class="about-book-option" href="https://amzn.to/41FPq6q" aria-label="Buy the paperback" target="_blank" rel="noopener noreferrer">Paperback</a>
-            <a class="about-book-option" href="/img/projects/B2B-Marketing-in-the-AI-Era.epub" download="B2B-Marketing-in-the-AI-Era.epub" type="application/epub+zip" aria-label="Download B2B Marketing in the AI Era ePUB">ePUB</a>
           </div>
-        </details>
+          <div class="dropdown-content about-book-options absolute bg-white ba b--light-gray shadow-1 dn">
+            <div class="about-book-option-row">
+              <a class="about-book-option" href="https://amzn.to/4bKdyte" aria-label="Buy the Kindle edition" target="_blank" rel="noopener noreferrer">Kindle</a>
+              <a class="about-book-option" href="https://amzn.to/41FPq6q" aria-label="Buy the paperback" target="_blank" rel="noopener noreferrer">Paperback</a>
+              <a class="about-book-option" href="/img/projects/B2B-Marketing-in-the-AI-Era.epub" download="B2B-Marketing-in-the-AI-Era.epub" type="application/epub+zip" aria-label="Download B2B Marketing in the AI Era ePUB">ePUB</a>
+            </div>
+            <a class="about-book-option about-book-option--full" href="/img/projects/ai-marketing.pdf" download="Slides" type="application/pdf" aria-label="Download Slides PDF">Slides</a>
+          </div>
+        </div>
       </div>
     </div>
   </div>
