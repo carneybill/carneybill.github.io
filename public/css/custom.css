@@ -136,6 +136,18 @@ html {
   width: 1.92rem;
 }
 
+.about-photo {
+  aspect-ratio: 1 / 1;
+  border: 1px solid #d0d7de;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+  max-width: 18.75rem;
+  object-fit: cover;
+  object-position: center top;
+  width: 100%;
+}
+
 @media screen and (max-width: 40em) {
   .about-link-list {
     grid-template-columns: minmax(0, 1fr);
