@@ -33,14 +33,6 @@ html {
   color: #4287c7;
 }
 
-.about-social-links {
-  align-items: center;
-  display: flex;
-  gap: 1rem;
-  margin-top: 1.5rem;
-}
-
-.about-social-link,
 .about-link {
   align-items: center;
   color: #007fc8 !important;
@@ -48,20 +40,16 @@ html {
   text-decoration: none;
 }
 
-.about-social-link {
-  justify-content: center;
-}
-
 .about-link {
   gap: 0.75rem;
 }
 
 .about-link-list {
-  display: grid;
-  gap: 1rem 1.25rem;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  display: inline-grid;
+  gap: 1rem 2rem;
+  grid-template-columns: repeat(2, max-content);
   margin: 1.5rem auto 0;
-  max-width: 26rem;
+  justify-content: center;
   text-align: left;
 }
 
@@ -124,7 +112,6 @@ html {
   background: rgba(0, 127, 200, .08);
 }
 
-.about-social-link:hover,
 .about-link:hover {
   opacity: 0.85;
 }
@@ -150,7 +137,7 @@ html {
 
 @media screen and (max-width: 40em) {
   .about-link-list {
-    grid-template-columns: minmax(0, 1fr);
+    gap: 0.85rem 1.5rem;
   }
 
   .about-link-item--full {
@@ -265,6 +252,16 @@ transition: background-color .15s ease-in-out;
     color: #1b5891;
 }
 
+.home-hero-image,
+.post-body img,
+.post-list-thumb,
+.post-grid-thumb,
+.blog-featured-image,
+.project-shot {
+  border-radius: 22px;
+  overflow: hidden;
+}
+
 .site-search-trigger {
   align-items: center;
   background: transparent;
@@ -287,10 +284,22 @@ transition: background-color .15s ease-in-out;
   background: rgba(248, 248, 248, .94);
   backdrop-filter: blur(10px);
   box-shadow: 0 10px 24px rgba(15, 23, 42, .04);
+  box-sizing: border-box;
+  left: 50%;
+  margin-left: -50vw;
   position: -webkit-sticky;
   position: sticky;
   top: 0;
+  width: 100vw;
   z-index: 500;
+}
+
+.site-header-inner {
+  box-sizing: border-box;
+  margin: 0 auto;
+  max-width: 1440px;
+  padding: 2rem;
+  width: 100%;
 }
 
 .site-header .dropdown-content {
@@ -596,8 +605,8 @@ body.site-search-open {
   font-weight: 600;
   justify-content: center;
   max-width: 100%;
-  min-height: 4.5rem;
-  padding: 1rem;
+  min-height: 2.25rem;
+  padding: .5rem 1rem;
   text-align: center;
   text-decoration: none;
   transition: border-color .18s ease, box-shadow .18s ease, transform .18s ease;

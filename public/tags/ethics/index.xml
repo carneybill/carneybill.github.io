@@ -1,20 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ethics on </title>
-    <link>https://carney.wiki/tags/ethics/</link>
-    <description>Recent content in Ethics on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://carney.wiki/tags/ethics/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Shameful Deception: Exposing the Scandal of Fake Speakers</title>
-      <link>https://carney.wiki/blog/fake-speakers/</link>
-      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/fake-speakers/</guid>
-      <description>The liars at DevTernity Anna Boyko, touted as a featured speaker at DevTernity, was presented with an impressive profile that left attendees in awe. However, attempts to verify her existence were met with an unsettling silence from Coinbase employees and Ethereum core contributors. The truth emerged: Anna Boyko was a figment of the organizers&amp;rsquo; imagination, a deliberate fabrication.
-But Boyko wasn&amp;rsquo;t the sole victim of this deceit. Alina Prokhoda, claimed to be a &amp;ldquo;Senior Engineer at WhatsApp, Microsoft MVP,&amp;rdquo; was another product of the organizers&amp;rsquo; deception.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ethics on</title><link>https://carney.wiki/tags/ethics/</link><description>Recent content in Ethics on</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/ethics/index.xml" rel="self" type="application/rss+xml"/><item><title>Shameful Deception: Exposing the Scandal of Fake Speakers</title><link>https://carney.wiki/blog/fake-speakers/</link><pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/fake-speakers/</guid><description>The liars at DevTernity Anna Boyko, touted as a featured speaker at DevTernity, was presented with an impressive profile that left attendees in awe. However, attempts to verify her existence were met with an unsettling silence from Coinbase employees and Ethereum core contributors. The truth emerged: Anna Boyko was a figment of the organizers&amp;rsquo; imagination, a deliberate fabrication.
+But Boyko wasn&amp;rsquo;t the sole victim of this deceit. Alina Prokhoda, claimed to be a &amp;ldquo;Senior Engineer at WhatsApp, Microsoft MVP,&amp;rdquo; was another product of the organizers&amp;rsquo; deception.</description></item></channel></rss>

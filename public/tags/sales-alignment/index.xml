@@ -1,43 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Sales Alignment on </title>
-    <link>https://carney.wiki/tags/sales-alignment/</link>
-    <description>Recent content in Sales Alignment on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://carney.wiki/tags/sales-alignment/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Navigating Account-Based Marketing</title>
-      <link>https://carney.wiki/blog/abm-cost-complexity/</link>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/abm-cost-complexity/</guid>
-      <description>Navigating the Complexities and Costs of Account-Based Marketing for B2B ABM sounds fantastic in a board deck. Pick the right accounts. Personalize everything. Align sales and marketing. Win bigger deals. What usually gets left out of the presentation is the inconvenient part: ABM is expensive, operationally messy, and very easy to do badly with beautiful software and mediocre thinking.
-That does not mean ABM is a bad idea. It means it is not magic.</description>
-    </item>
-    <item>
-      <title>Exploring Intent Data&#39;s Significance in Business Strategy</title>
-      <link>https://carney.wiki/blog/intent-data/</link>
-      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/intent-data/</guid>
-      <description>Exploring the Significance of Intent Data in Business Strategy Intent data gets sold like a crystal ball. It is not. What it is can still be useful: a set of signals that helps you understand which accounts are showing interest, what topics they care about, and where sales and marketing should probably focus before they waste energy on the wrong people.
-The catch is that not all intent data means the same thing.</description>
-    </item>
-    <item>
-      <title>The Digital Marketing Landscape New Rules</title>
-      <link>https://carney.wiki/blog/digital-marketing-landscape/</link>
-      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/digital-marketing-landscape/</guid>
-      <description>The Shift in Work Dynamics COVID did not create digital marketing. It did, however, throw gasoline on it. Budgets that used to disappear into flights, booths, hotels, and branded stress balls suddenly got shoved online. That meant more channels, more campaigns, more reporting, more content, and, naturally, more work for the same number of humans.
-For marketing teams, that shift was both an opportunity and a trap. Digital finally got taken seriously.</description>
-    </item>
-    <item>
-      <title>Operational Efficiencies in Marketing</title>
-      <link>https://carney.wiki/blog/operational-efficiencies/</link>
-      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/operational-efficiencies/</guid>
-      <description>Time to shine 2021 must be focused on minimizing unnecessary and unproductive expenses and delivering sales qualified leads that convert to opportunities - it’s really that simple. The marketing pendulum must dramatically shift towards an Agile but deliberate approach (scrappy) focused on Net New and away from branding exercises and vanity metrics. This is supported by the fact that many companies truly don’t have a branding budget, nor should they be allowed one until they have their story completed and vetted with a mapped execution strategy.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sales Alignment on</title><link>https://carney.wiki/tags/sales-alignment/</link><description>Recent content in Sales Alignment on</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/sales-alignment/index.xml" rel="self" type="application/rss+xml"/><item><title>Navigating Account-Based Marketing</title><link>https://carney.wiki/blog/abm-cost-complexity/</link><pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/abm-cost-complexity/</guid><description>Navigating the Complexities and Costs of Account-Based Marketing for B2B ABM sounds fantastic in a board deck. Pick the right accounts. Personalize everything. Align sales and marketing. Win bigger deals. What usually gets left out of the presentation is the inconvenient part: ABM is expensive, operationally messy, and very easy to do badly with beautiful software and mediocre thinking.
+That does not mean ABM is a bad idea. It means it is not magic.</description></item><item><title>Exploring Intent Data's Significance in Business Strategy</title><link>https://carney.wiki/blog/intent-data/</link><pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/intent-data/</guid><description>Exploring the Significance of Intent Data in Business Strategy Intent data gets sold like a crystal ball. It is not. What it is can still be useful: a set of signals that helps you understand which accounts are showing interest, what topics they care about, and where sales and marketing should probably focus before they waste energy on the wrong people.
+The catch is that not all intent data means the same thing.</description></item><item><title>The Digital Marketing Landscape New Rules</title><link>https://carney.wiki/blog/digital-marketing-landscape/</link><pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/digital-marketing-landscape/</guid><description>The Shift in Work Dynamics COVID did not create digital marketing. It did, however, throw gasoline on it. Budgets that used to disappear into flights, booths, hotels, and branded stress balls suddenly got shoved online. That meant more channels, more campaigns, more reporting, more content, and, naturally, more work for the same number of humans.
+For marketing teams, that shift was both an opportunity and a trap. Digital finally got taken seriously.</description></item><item><title>Operational Efficiencies in Marketing</title><link>https://carney.wiki/blog/operational-efficiencies/</link><pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/operational-efficiencies/</guid><description>Time to shine 2021 must be focused on minimizing unnecessary and unproductive expenses and delivering sales qualified leads that convert to opportunities - it’s really that simple. The marketing pendulum must dramatically shift towards an Agile but deliberate approach (scrappy) focused on Net New and away from branding exercises and vanity metrics. This is supported by the fact that many companies truly don’t have a branding budget, nor should they be allowed one until they have their story completed and vetted with a mapped execution strategy.</description></item></channel></rss>

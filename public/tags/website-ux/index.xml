@@ -1,28 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Website UX on </title>
-    <link>https://carney.wiki/tags/website-ux/</link>
-    <description>Recent content in Website UX on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://carney.wiki/tags/website-ux/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Rethinking chat - A better approach?</title>
-      <link>https://carney.wiki/blog/chat/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/chat/</guid>
-      <description>The Evolution of Communication: From Phone Calls to Text Most people do not want to be ambushed by a phone call anymore. They want to text, message, skim, ask a question, disappear for a while, and come back when it suits them. That is not a generational flaw. It is just how modern communication works.
-That shift matters for marketing and support. If your website still acts like every visitor wants a scheduled demo and a cheerful sales ambush, you are solving yesterday&amp;rsquo;s problem.</description>
-    </item>
-    <item>
-      <title>Rethinking Live Chat: Is it Time for a More Focused Approach</title>
-      <link>https://carney.wiki/blog/live-chat/</link>
-      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/live-chat/</guid>
-      <description>Most live chat is either wasted or misused. It gets wasted when it sits on the site like a decorative paperweight. It gets misused when teams expect it to be support desk, SDR, concierge, and miracle conversion machine all at once.
-There is a better way to use it. Put chat where intent is high, narrow the use case, and use AI to make the interaction faster and smarter instead of louder and more annoying.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Website UX on</title><link>https://carney.wiki/tags/website-ux/</link><description>Recent content in Website UX on</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/website-ux/index.xml" rel="self" type="application/rss+xml"/><item><title>Rethinking chat - A better approach?</title><link>https://carney.wiki/blog/chat/</link><pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/chat/</guid><description>The Evolution of Communication: From Phone Calls to Text Most people do not want to be ambushed by a phone call anymore. They want to text, message, skim, ask a question, disappear for a while, and come back when it suits them. That is not a generational flaw. It is just how modern communication works.
+That shift matters for marketing and support. If your website still acts like every visitor wants a scheduled demo and a cheerful sales ambush, you are solving yesterday&amp;rsquo;s problem.</description></item><item><title>Rethinking Live Chat: Is it Time for a More Focused Approach</title><link>https://carney.wiki/blog/live-chat/</link><pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/live-chat/</guid><description>Most live chat is either wasted or misused. It gets wasted when it sits on the site like a decorative paperweight. It gets misused when teams expect it to be support desk, SDR, concierge, and miracle conversion machine all at once.
+There is a better way to use it. Put chat where intent is high, narrow the use case, and use AI to make the interaction faster and smarter instead of louder and more annoying.</description></item></channel></rss>

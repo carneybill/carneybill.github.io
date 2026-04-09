@@ -1,20 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Optimization on </title>
-    <link>https://carney.wiki/tags/optimization/</link>
-    <description>Recent content in Optimization on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 17 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://carney.wiki/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Establish a culture of experimentation</title>
-      <link>https://carney.wiki/blog/experimentation/</link>
-      <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/experimentation/</guid>
-      <description>Marketing teams love to say they are data-driven right up until the data might prove their favorite idea is dumb. Then suddenly everyone becomes very spiritual about &amp;ldquo;brand instincts.&amp;rdquo;
-That is exactly why testing matters. Markets move. Channels decay. Audiences change their minds. The teams that keep learning keep winning. The ones that fall in love with their own assumptions usually end up defending last quarter&amp;rsquo;s playbook like it is family heirloom silver.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Optimization on</title><link>https://carney.wiki/tags/optimization/</link><description>Recent content in Optimization on</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 17 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/optimization/index.xml" rel="self" type="application/rss+xml"/><item><title>Establish a culture of experimentation</title><link>https://carney.wiki/blog/experimentation/</link><pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/experimentation/</guid><description>Marketing teams love to say they are data-driven right up until the data might prove their favorite idea is dumb. Then suddenly everyone becomes very spiritual about &amp;ldquo;brand instincts.&amp;rdquo;
+That is exactly why testing matters. Markets move. Channels decay. Audiences change their minds. The teams that keep learning keep winning. The ones that fall in love with their own assumptions usually end up defending last quarter&amp;rsquo;s playbook like it is family heirloom silver.</description></item></channel></rss>

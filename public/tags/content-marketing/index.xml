@@ -1,27 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Content Marketing on </title>
-    <link>https://carney.wiki/tags/content-marketing/</link>
-    <description>Recent content in Content Marketing on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 14 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://carney.wiki/tags/content-marketing/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Role of a Content Marketing Growth Hacker</title>
-      <link>https://carney.wiki/blog/growth-hacker/</link>
-      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/growth-hacker/</guid>
-      <description>Content marketing has become a linchpin in the success of businesses. Effective content not only engages audiences but also drives traffic, generates leads, and ultimately increases sales. However, to truly harness the power of content marketing, a specialized professional is often required - the Content Marketing Growth Hacker. In this article, we&amp;rsquo;ll explore why having a Content Marketing Growth Hacker on your team is crucial for achieving exponential business growth.</description>
-    </item>
-    <item>
-      <title>Maximizing Content ROI: How to Leverage an Artifact</title>
-      <link>https://carney.wiki/blog/leverage/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/leverage/</guid>
-      <description>Most teams do not have a content shortage. They have a leverage shortage. They build one useful asset, publish it once, and then move on as if all that effort was meant for a single lap around the block.
-That is wasteful. If the underlying idea is strong, one asset should produce a lot more than one PDF, one post, or one webinar. A solid case study, for example, can fuel half your content calendar if you have the discipline to break it apart and repackage it well.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Content Marketing on</title><link>https://carney.wiki/tags/content-marketing/</link><description>Recent content in Content Marketing on</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 14 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/content-marketing/index.xml" rel="self" type="application/rss+xml"/><item><title>The Role of a Content Marketing Growth Hacker</title><link>https://carney.wiki/blog/growth-hacker/</link><pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/growth-hacker/</guid><description>Content marketing has become a linchpin in the success of businesses. Effective content not only engages audiences but also drives traffic, generates leads, and ultimately increases sales. However, to truly harness the power of content marketing, a specialized professional is often required - the Content Marketing Growth Hacker. In this article, we&amp;rsquo;ll explore why having a Content Marketing Growth Hacker on your team is crucial for achieving exponential business growth.</description></item><item><title>Maximizing Content ROI: How to Leverage an Artifact</title><link>https://carney.wiki/blog/leverage/</link><pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/leverage/</guid><description>Most teams do not have a content shortage. They have a leverage shortage. They build one useful asset, publish it once, and then move on as if all that effort was meant for a single lap around the block.
+That is wasteful. If the underlying idea is strong, one asset should produce a lot more than one PDF, one post, or one webinar. A solid case study, for example, can fuel half your content calendar if you have the discipline to break it apart and repackage it well.</description></item></channel></rss>
