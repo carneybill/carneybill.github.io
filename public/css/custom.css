@@ -91,6 +91,12 @@ html {
   gap: .25rem;
 }
 
+.about-book-option-row--divided {
+  border-top: 1px solid rgba(0, 0, 0, .08);
+  margin-top: .25rem;
+  padding-top: .35rem;
+}
+
 .about-book-option {
   border-radius: .5rem;
   color: #007fc8 !important;
