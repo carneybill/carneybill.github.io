@@ -45,7 +45,7 @@ It is also incomplete.
 
 The search page itself has changed. Visibility no longer guarantees traffic. Ranking does not always mean the click. And the buyer's first impression may now be formed by a summary, not a page visit.
 
-The newer challenge is bigger: users are increasingly comfortable asking AI systems for answers directly. ChatGPT, Gemini, Perplexity, Claude, and other AI-assisted experiences do not behave like traditional search engines. They summarize, compare, recommend, and often answer without sending the user anywhere.
+The newer challenge is bigger: discovery itself is becoming AI-mediated. As I argue in *B2B Marketing in the AI Era*, buyers increasingly learn through AI assistants and AI search layers that summarize, compare, and recommend before a prospect ever reaches your site.[^6] ChatGPT, Gemini, Perplexity, Claude, and other AI-assisted experiences do not behave like traditional search engines. They do not just retrieve links. They shape the first draft of the buyer's understanding.
 
 That does not mean SEO is dead. SEO has been declared dead more times than most B2B marketing dashboards have been "replatformed."
 
