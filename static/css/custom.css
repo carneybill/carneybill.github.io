@@ -1089,11 +1089,11 @@ body.site-search-open {
   width: 100%;
 }
 
-#project-tickr .project-shot {
+#project-tickrtape .project-shot {
   background: #000;
 }
 
-#project-tickr .project-shot img {
+#project-tickrtape .project-shot img {
   height: 100%;
   object-fit: contain;
 }

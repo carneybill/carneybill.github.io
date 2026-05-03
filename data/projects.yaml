@@ -29,12 +29,12 @@ items:
     screenshot_alt: Homepage screenshot of TrueCostEdu
     summary: "TrueCostEdu is a college planning workspace built to help students understand the real cost of school before they commit. The homepage centers on organizing school options, validating cost assumptions, and comparing decisions with clearer recommendations."
     details: "It outlines a structured workflow for selecting schools, editing cost details, uploading award letters from PDFs or photos, inviting comments from parents or counselors, and ranking options by net cost and loan burden."
-  - name: Tickr
+  - name: TickrTape
     url: https://www.tickrtape.info/
     screenshot: /img/projects/control-panel.png
     screenshot_alt: Tickr control panel screenshot
-    summary: "Tickr is a Bloomberg-style intelligence dashboard for free financial data. One data layer powered by OpenBB Platform (50+ providers, 270 endpoints), one amber-on-black terminal UI, and a built-in rules engine that turns numbers into signals so you don't stare at raw data trying to remember what matters."
-    details: "Built on OpenBB, Vite, React, TypeScript, and TradingView lightweight-charts."
+    summary: "TickrTape is a web-based, Bloomberg-style market window that gives users a fast, compact view of stocks, market movement, and financial signals in one browser-based dashboard. It is built for investors and market watchers who want a lightweight market terminal experience without the cost or complexity of enterprise trading software."
+    details: "One data layer powered by OpenBB Platform (50+ providers, 270 endpoints), an amber-on-black terminal UI, and a built-in rules engine that turns numbers into signals. Built on OpenBB, Vite, React, TypeScript, and TradingView lightweight-charts."
   - name: JB Match AI
     url: https://www.jbmatchai.com/
     screenshot: /img/projects/jbmatchai-home.png
