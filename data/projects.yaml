@@ -33,8 +33,8 @@ items:
     url: https://www.tickrtape.info/
     screenshot: /img/projects/control-panel.png
     screenshot_alt: Tickr control panel screenshot
-    summary: "Tickr is a live market ticker for Mac that keeps stocks, ETFs, Bitcoin, and headlines visible in an always-on strip. The homepage frames it as a Bloomberg-style market view for people who want persistent awareness without living in a browser tab all day."
-    details: "Its pitch is intentionally simple: an always-visible ticker bar, clickable headlines, color-coded moves, and flexible placement at the top or bottom of the screen."
+    summary: "Tickr is a Bloomberg-style intelligence dashboard for free financial data. One data layer powered by OpenBB Platform (50+ providers, 270 endpoints), one amber-on-black terminal UI, and a built-in rules engine that turns numbers into signals so you don't stare at raw data trying to remember what matters."
+    details: "Built on OpenBB, Vite, React, TypeScript, and TradingView lightweight-charts."
   - name: JB Match AI
     url: https://www.jbmatchai.com/
     screenshot: /img/projects/jbmatchai-home.png

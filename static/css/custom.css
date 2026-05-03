@@ -1089,6 +1089,15 @@ body.site-search-open {
   width: 100%;
 }
 
+#project-tickr .project-shot {
+  background: #000;
+}
+
+#project-tickr .project-shot img {
+  height: 100%;
+  object-fit: contain;
+}
+
 @media (max-width: 48rem) {
   .projects-toc {
     padding: .875rem 1rem;
