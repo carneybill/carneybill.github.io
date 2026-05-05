@@ -595,6 +595,11 @@ transition: background-color .15s ease-in-out;
   transform: translateY(-1px);
 }
 
+.offer-button--secondary {
+  background: #1b5891;
+  border-color: #1b5891;
+}
+
 .offer-secondary,
 .offer-link {
   color: #1b5891 !important;
@@ -664,8 +669,14 @@ transition: background-color .15s ease-in-out;
   padding-left: 1.15rem;
 }
 
-.offer-card .offer-link {
+.offer-card .offer-card-actions {
   margin-top: auto;
+}
+
+.offer-card-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .65rem 1rem;
 }
 
 .offer-two-col {
