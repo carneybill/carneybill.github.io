@@ -518,6 +518,255 @@ transition: background-color .15s ease-in-out;
   margin: 0;
 }
 
+.offer-hero {
+  border-bottom: 1px solid rgba(64, 64, 64, .14);
+  margin: 0 auto 3rem;
+  padding: 1rem 0 3rem;
+}
+
+.offer-hero--detail {
+  margin-bottom: 2.5rem;
+}
+
+.offer-kicker,
+.offer-eyebrow {
+  color: #1b5891;
+  font-size: .78rem;
+  font-weight: 700;
+  letter-spacing: .1em;
+  margin: 0 0 .75rem;
+  text-transform: uppercase;
+}
+
+.offer-hero h1 {
+  color: #111827;
+  font-size: clamp(2.15rem, 5vw, 4.25rem);
+  line-height: .98;
+  margin: 0;
+  max-width: 12em;
+}
+
+.offer-lede {
+  color: #4b5563;
+  font-size: 1.25rem;
+  line-height: 1.45;
+  margin: 1.5rem 0 0;
+  max-width: 42rem;
+}
+
+.offer-cta-row,
+.offer-meta-row {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: .85rem;
+  margin-top: 1.5rem;
+}
+
+.offer-meta-row span {
+  background: #fff;
+  border: 1px solid rgba(64, 64, 64, .14);
+  border-radius: 999px;
+  color: #374151;
+  font-size: .9rem;
+  font-weight: 700;
+  padding: .5rem .8rem;
+}
+
+.offer-button,
+.offer-secondary,
+.offer-link {
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.offer-button {
+  background: #404040;
+  border: 1px solid #404040;
+  color: #fff !important;
+  display: inline-flex;
+  padding: .9rem 1.15rem;
+  transition: opacity .15s ease-in-out, transform .15s ease-in-out;
+}
+
+.offer-button:hover,
+.offer-button:focus {
+  opacity: .88;
+  transform: translateY(-1px);
+}
+
+.offer-secondary,
+.offer-link {
+  color: #1b5891 !important;
+}
+
+.offer-grid,
+.offer-deliverable-grid {
+  display: grid;
+  gap: 1.25rem;
+}
+
+.offer-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin: 0 0 3rem;
+}
+
+.offer-card,
+.offer-deliverable-grid > div,
+.offer-band {
+  background: #fff;
+  border: 1px solid rgba(64, 64, 64, .14);
+  box-sizing: border-box;
+}
+
+.offer-card {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+  padding: 1.4rem;
+}
+
+.offer-card h2,
+.offer-deliverable-grid h3,
+.offer-two-col h2,
+.offer-process h2,
+.offer-band h2,
+.offer-final-cta h2 {
+  color: #111827;
+  line-height: 1.1;
+}
+
+.offer-card h2 {
+  font-size: 1.35rem;
+  margin: 0 0 .8rem;
+}
+
+.offer-price {
+  color: #111827;
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1;
+  margin: 0 0 1rem;
+}
+
+.offer-card p,
+.offer-card li,
+.offer-deliverable-grid p,
+.offer-two-col p,
+.offer-process li,
+.offer-band p {
+  color: #4b5563;
+  line-height: 1.5;
+}
+
+.offer-card ul {
+  margin: .25rem 0 1.25rem;
+  padding-left: 1.15rem;
+}
+
+.offer-card .offer-link {
+  margin-top: auto;
+}
+
+.offer-two-col {
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin-bottom: 3rem;
+}
+
+.offer-two-col h2,
+.offer-process h2,
+.offer-deliverables h2 {
+  font-size: 1.85rem;
+  margin: 0 0 .75rem;
+}
+
+.offer-deliverables {
+  margin-bottom: 3rem;
+}
+
+.offer-deliverable-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.offer-deliverable-grid > div {
+  padding: 1.2rem;
+}
+
+.offer-deliverable-grid h3 {
+  font-size: 1.05rem;
+  margin: 0 0 .6rem;
+}
+
+.offer-deliverable-grid p {
+  margin: 0;
+}
+
+.offer-process {
+  margin-bottom: 3rem;
+}
+
+.offer-process ol {
+  max-width: 48rem;
+  padding-left: 1.3rem;
+}
+
+.offer-process li + li {
+  margin-top: .75rem;
+}
+
+.offer-band {
+  margin: 0 0 3rem;
+  padding: 1.5rem;
+}
+
+.offer-band h2,
+.offer-final-cta h2 {
+  font-size: 1.6rem;
+  margin: 0 0 .8rem;
+}
+
+.offer-band p {
+  font-size: 1.1rem;
+  margin: 0;
+  max-width: 54rem;
+}
+
+.offer-final-cta {
+  border-top: 1px solid rgba(64, 64, 64, .14);
+  padding: 2rem 0 0;
+}
+
+@media screen and (max-width: 60em) {
+  .offer-grid,
+  .offer-deliverable-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media screen and (max-width: 40em) {
+  .offer-hero h1 {
+    font-size: 2.35rem;
+  }
+
+  .offer-lede {
+    font-size: 1.08rem;
+  }
+
+  .offer-grid,
+  .offer-deliverable-grid,
+  .offer-two-col {
+    grid-template-columns: 1fr;
+  }
+
+  .offer-card,
+  .offer-deliverable-grid > div,
+  .offer-band {
+    padding: 1rem;
+  }
+}
+
 .site-search-empty {
   padding: 1rem;
 }
@@ -1087,6 +1336,15 @@ body.site-search-open {
   height: auto;
   object-fit: cover;
   width: 100%;
+}
+
+#project-tickrtape .project-shot {
+  background: #000;
+}
+
+#project-tickrtape .project-shot img {
+  height: 100%;
+  object-fit: contain;
 }
 
 @media (max-width: 48rem) {

@@ -5,15 +5,17 @@ header:
   - name: Projects
     title: Current Projects
     url: /projects/
+  - name: Offers
+    title: AI-era marketing offers
+    url: /offers/
   - name: Blog
     title: Blog
     url: /blog/
   - name: Connect
-    children:
-      - name: Book a Conversation
-        url: https://cal.com/bill-carney/60min
-      - name: Book my Time
-        url: https://cal.com/bill-carney/consulting
+    title: Book a conversation
+    url: https://cal.com/bill-carney/60min
+    target: _blank
+    rel: noopener noreferrer
 
 
 footer:
