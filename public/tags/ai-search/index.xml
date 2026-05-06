@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI Search on</title><link>https://carney.wiki/tags/ai-search/</link><description>Recent content in AI Search on</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 27 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/ai-search/index.xml" rel="self" type="application/rss+xml"/><item><title>SEO Is Not Dead. It Just Has Two New Roommates: AEO and GEO</title><link>https://carney.wiki/blog/seo-aeo-geo/</link><pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/seo-aeo-geo/</guid><description>The SEO industry is facing new challenges.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Search on Carney</title>
+    <link>https://carney.wiki/tags/ai-search/</link>
+    <description>Recent content in AI Search on Carney</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 27 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carney.wiki/tags/ai-search/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SEO Is Not Dead. It Just Has Two New Roommates: AEO and GEO</title>
+      <link>https://carney.wiki/blog/seo-aeo-geo/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/seo-aeo-geo/</guid>
+      <description>The SEO industry is facing new challenges.
 Story of my life.
 Some of the challenge is not new at all. Google has been pushing organic results farther down the page for years. First it was more ads. Then came featured snippets, People Also Ask, knowledge panels, maps, shopping modules, video carousels, and enough SERP furniture to make the traditional &amp;ldquo;10 blue links&amp;rdquo; feel like a historical artifact.
-Now we have AI Overviews.</description></item></channel></rss>
+Now we have AI Overviews.</description>
+    </item>
+  </channel>
+</rss>

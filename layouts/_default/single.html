@@ -1,14 +1,22 @@
 {{ define "main" }}
-<main class="page-main pa4" role="main">
-  <section class="page-content mw7 center">
-    <article class="post-content pa0 ph4-l">
+{{ $related := slice }}
+{{ $others := where .Site.RegularPages.ByPublishDate.Reverse "Permalink" "!=" .Permalink }}
+{{ with .Params.tags }}{{ $related = where $others ".Params.tags" "intersect" . }}{{ end }}
+{{ if eq (len $related) 0 }}{{ with .Params.categories }}{{ $related = where $others ".Params.categories" "intersect" . }}{{ end }}{{ end }}
+<main class="page-main post-page" role="main">
+  <section class="post-shell">
+    <article class="post-content">
       <header class="post-header">
-        <h1 class="f1 lh-solid measure-narrow mb3">{{ .Title }}</h1>
-        {{ if .Params.subtitle }}<h4 class="f4 mt0 mb4 lh-title measure">{{ .Params.subtitle }}</h4>{{ end }}
-        {{ if .CurrentSection.Params.show_author_byline }}<p class="f6 measure lh-copy mv1">{{ if .Params.author }}By {{ .Params.author }}{{ end }}{{ with .Params.categories }} in{{ range . }} <a href="{{ "categories/" | absURL }}{{ . | urlize }}">{{ . }}</a> {{ end }}{{ end }}</p>{{ end }}
-        {{ if .CurrentSection.Params.show_post_date }}<p class="f7 db mv0 ttu">{{ .PublishDate.Format "January 2, 2006" }}</p>{{ end }}
+        <div class="post-meta-line">
+          {{ with .Params.categories }}{{ with index . 0 }}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}/">{{ . }}</a>{{ end }}{{ end }}
+          {{ if .CurrentSection.Params.show_post_date }}<time datetime="{{ .PublishDate.Format "2006-01-02" }}">{{ .PublishDate.Format "January 2, 2006" }}</time>{{ end }}
+          <span>{{ .ReadingTime }} min read</span>
+        </div>
+        <h1>{{ .Title }}</h1>
+        {{ if .Params.subtitle }}<p class="post-subtitle">{{ .Params.subtitle }}</p>{{ end }}
+        {{ partial "tag-list.html" .Params.tags }}
       </header>
-      <section class="post-body pt5 pb4">
+      <section class="post-body">
         {{ .Content }}
         {{ .Scratch.Set "details" "closed" }}
         {{ partial "shared/post-details.html" . }}
@@ -17,6 +25,14 @@
         {{ partial "shared/post-pagination.html" . }}
       </footer>
     </article>
+    {{ if gt (len $related) 0 }}
+    <aside class="related-insights" aria-label="Related insights">
+      <p class="section-eyebrow">Related insights</p>
+      {{ range first 3 $related }}
+        {{ partial "insight-card.html" (dict "page" .) }}
+      {{ end }}
+    </aside>
+    {{ end }}
     {{ if .CurrentSection.Params.show_disqus_comments }}
     <div class="post-comments pa0 pa4-l mt4">
       {{ template "_internal/disqus.html" . }}

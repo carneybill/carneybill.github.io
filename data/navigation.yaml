@@ -1,6 +1,6 @@
 header:
   - name: About
-    title: About Bill
+    title: About Carney
     url: /about/
   - name: Projects
     title: Current Projects
@@ -8,10 +8,10 @@ header:
   - name: Offers
     title: AI-era marketing offers
     url: /offers/
-  - name: Blog
-    title: Blog
+  - name: Insights
+    title: Insights
     url: /blog/
-  - name: Connect
+  - name: Contact
     title: Book a conversation
     url: https://cal.com/bill-carney/60min
     target: _blank
@@ -19,15 +19,21 @@ header:
 
 
 footer:
-  - name: Book
-    title: Buy my Book
-    url: https://amzn.to/4bKdyte
   - name: Projects
     title: Current Projects
     url: /projects/
-  - name: Help
-    title: Help Site
+  - name: Insights
+    title: Insights
+    url: /blog/
+  - name: Offers
+    title: AI-era marketing offers
+    url: /offers/
+  - name: Contact
+    title: Book a conversation
     url: https://cal.com/bill-carney/60min
   - name: RSS
     title: RSS Feed
     url: /index.xml
+  - name: Book
+    title: Buy my Book
+    url: https://amzn.to/4bKdyte

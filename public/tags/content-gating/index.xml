@@ -1,2 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Content Gating on</title><link>https://carney.wiki/tags/content-gating/</link><description>Recent content in Content Gating on</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/content-gating/index.xml" rel="self" type="application/rss+xml"/><item><title>Content Gating</title><link>https://carney.wiki/blog/content-gating/</link><pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/content-gating/</guid><description>Content Gating Policies You seek to exchange personal data for the valuable content meticulously created, all while endeavoring to establish yourselves as thought leaders with authority in your space . Striking a delicate balance between these goals is really crucial, recognizing that trust is the linchpin for success. Without trust from prospects, even the most finely tuned gated content strategy may yield subpar results.
-All gated content strategies are carefully tailored to engage prospects in the middle to later stages of their buyer&amp;rsquo;s journey.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Content Gating on Carney</title>
+    <link>https://carney.wiki/tags/content-gating/</link>
+    <description>Recent content in Content Gating on Carney</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carney.wiki/tags/content-gating/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Content Gating</title>
+      <link>https://carney.wiki/blog/content-gating/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/content-gating/</guid>
+      <description>Content Gating Policies You seek to exchange personal data for the valuable content meticulously created, all while endeavoring to establish yourselves as thought leaders with authority in your space . Striking a delicate balance between these goals is really crucial, recognizing that trust is the linchpin for success. Without trust from prospects, even the most finely tuned gated content strategy may yield subpar results.
+All gated content strategies are carefully tailored to engage prospects in the middle to later stages of their buyer&amp;rsquo;s journey.</description>
+    </item>
+  </channel>
+</rss>

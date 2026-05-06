@@ -1,2 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Hygiene on</title><link>https://carney.wiki/tags/data-hygiene/</link><description>Recent content in Data Hygiene on</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 14 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/data-hygiene/index.xml" rel="self" type="application/rss+xml"/><item><title>Building &amp; Managing Your Marketing Database in a Cookie-Less World</title><link>https://carney.wiki/blog/database-mgt/</link><pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/database-mgt/</guid><description>Your database is not glamorous. Nobody wins a standing ovation for good contact hygiene. But when it is a mess, the whole revenue engine starts coughing up hairballs.
-In a cookie-less world, the old lazy habits get expensive fast. If you want a database that actually helps marketing and sales instead of quietly sabotaging them, you need better inputs, better discipline, and a little less obsession with collecting every possible field like you are building a hostage dossier.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Hygiene on Carney</title>
+    <link>https://carney.wiki/tags/data-hygiene/</link>
+    <description>Recent content in Data Hygiene on Carney</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 14 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carney.wiki/tags/data-hygiene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building &amp; Managing Your Marketing Database in a Cookie-Less World</title>
+      <link>https://carney.wiki/blog/database-mgt/</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/database-mgt/</guid>
+      <description>Your database is not glamorous. Nobody wins a standing ovation for good contact hygiene. But when it is a mess, the whole revenue engine starts coughing up hairballs.
+In a cookie-less world, the old lazy habits get expensive fast. If you want a database that actually helps marketing and sales instead of quietly sabotaging them, you need better inputs, better discipline, and a little less obsession with collecting every possible field like you are building a hostage dossier.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,44 +1,34 @@
 {{ define "main" }}
 {{ $projects := site.Data.projects.items }}
-<main class="page-main pa4" role="main">
-  <section class="page-content mw8 center">
-    <div class="projects-intro">
-      <h1 class="f2 f1-m f-headline-l fw5-ns mv3 lh-solid tracked-tight-ns">{{ .Title }}</h1>
-      {{ with .Description }}<p class="f5 f4-ns lh-copy black-60">{{ . }}</p>{{ end }}
-    </div>
-    {{ if $projects }}
-    <nav class="projects-toc" aria-label="Projects table of contents">
-      <p class="projects-toc__label">Jump to a project</p>
-      <ul class="projects-toc__list">
-        {{ range $project := $projects }}
-        {{ $anchor := printf "project-%s" ($project.name | anchorize) }}
-        <li><a href="#{{ $anchor }}">{{ $project.name }}</a></li>
-        {{ end }}
-      </ul>
-    </nav>
-    {{ end }}
-
-    <div class="projects-list">
-      {{ range $index, $project := $projects }}
-      {{ $anchor := printf "project-%s" ($project.name | anchorize) }}
-      <article id="{{ $anchor }}" class="project-showcase{{ if eq (mod $index 2) 1 }} project-showcase--reverse{{ end }}">
-        <div class="project-showcase__copy">
-          <span class="project-showcase__eyebrow">Project {{ add $index 1 }}</span>
-          <h2 class="project-showcase__title">
-            <a href="{{ $project.url }}" target="_blank" rel="noopener noreferrer">{{ $project.name }}</a>
-          </h2>
-          <p class="f4 lh-copy black-70">{{ $project.summary }}</p>
-          <p class="f5 lh-copy black-50">{{ $project.details }}</p>
-          <span class="project-showcase__meta">Homepage reference: {{ $project.url }}</span>
-        </div>
-        <figure class="project-showcase__media">
-          <a class="project-shot" href="{{ $project.url }}" target="_blank" rel="noopener noreferrer">
-            <img src="{{ $project.screenshot }}" alt="{{ $project.screenshot_alt }}" loading="lazy">
-          </a>
-        </figure>
-      </article>
-      {{ end }}
-    </div>
+<main class="page-main projects-page" role="main">
+  <section class="page-hero">
+    <p class="section-eyebrow">Portfolio</p>
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}<p>{{ . }}</p>{{ end }}
   </section>
+  <section class="project-filter-band" aria-label="Project types">
+    <a href="#ai-automation">AI &amp; Automation</a>
+    <a href="#marketing-operations">Marketing Operations</a>
+    <a href="#data-consulting">Data &amp; Consulting</a>
+    <a href="#recruiting-career-tech">Recruiting / Career Tech</a>
+    <a href="#education-decision-support">Education / Decision Support</a>
+    <a href="#financial-information">Financial Information</a>
+  </section>
+  <section class="projects-list">
+    {{ $.Scratch.Set "seenProjectCategories" slice }}
+    {{ range $index, $project := $projects }}
+      {{ $category := $project.category | default "Operator portfolio" }}
+      {{ $categoryAnchor := replaceRE `\s*/\s*` " " $category | urlize }}
+      {{ $seen := $.Scratch.Get "seenProjectCategories" }}
+      {{ if not (in $seen $category) }}
+        <div id="{{ $categoryAnchor }}" class="project-group-anchor"></div>
+        {{ $.Scratch.Add "seenProjectCategories" (slice $category) }}
+      {{ end }}
+      {{ $anchor := printf "project-%s" ($project.name | anchorize) }}
+      <div id="{{ $anchor }}" class="project-anchor"></div>
+      {{ partial "project-card.html" (dict "project" $project "index" $index) }}
+    {{ end }}
+  </section>
+  {{ partial "cta-section.html" (dict "eyebrow" "Portfolio context" "title" "The point is not the screenshots. It is the operating pattern." "copy" "Each project is a way to pressure-test positioning, workflow design, decision support, data systems, or AI-era commercial infrastructure." "secondaryLabel" "Read insights" "secondaryUrl" "/blog/") }}
 </main>
 {{ end }}

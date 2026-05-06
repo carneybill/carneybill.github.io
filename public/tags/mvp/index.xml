@@ -1,2 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MVP on</title><link>https://carney.wiki/tags/mvp/</link><description>Recent content in MVP on</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/mvp/index.xml" rel="self" type="application/rss+xml"/><item><title>Vibe Coding</title><link>https://carney.wiki/blog/vibe-coding/</link><pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/vibe-coding/</guid><description>Vibe Coding Is Coming — And I Might Have Just Tried It There’s a new term I’ve been hearing more and more lately: Vibe Coding.
-It&amp;rsquo;s not an official methodology or some new framework (yet), but rather a feeling—a zone developers enter where everything just clicks. You’re moving fast, building with intuition, and the tools aren’t fighting you—they’re helping. It’s creative momentum at full speed, and I think I may have just experienced it for the first time.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MVP on Carney</title>
+    <link>https://carney.wiki/tags/mvp/</link>
+    <description>Recent content in MVP on Carney</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carney.wiki/tags/mvp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vibe Coding</title>
+      <link>https://carney.wiki/blog/vibe-coding/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/vibe-coding/</guid>
+      <description>Vibe Coding Is Coming — And I Might Have Just Tried It There’s a new term I’ve been hearing more and more lately: Vibe Coding.
+It&amp;rsquo;s not an official methodology or some new framework (yet), but rather a feeling—a zone developers enter where everything just clicks. You’re moving fast, building with intuition, and the tools aren’t fighting you—they’re helping. It’s creative momentum at full speed, and I think I may have just experienced it for the first time.</description>
+    </item>
+  </channel>
+</rss>

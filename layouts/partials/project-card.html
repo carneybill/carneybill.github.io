@@ -1,0 +1,31 @@
+{{ $project := .project }}
+{{ $index := .index | default 0 }}
+{{ $category := $project.category | default "Operator portfolio" }}
+{{ $problem := $project.problem | default $project.summary }}
+{{ $demonstrates := $project.demonstrates | default $project.details }}
+<article class="project-card" data-project-category="{{ $category }}">
+  <div class="project-card-media">
+    <a href="{{ $project.url }}" target="_blank" rel="noopener noreferrer" aria-label="Open {{ $project.name }}">
+      <img src="{{ $project.screenshot }}" alt="{{ $project.screenshot_alt }}" loading="lazy">
+    </a>
+  </div>
+  <div class="project-card-body">
+    <div class="project-card-topline">
+      <span>{{ $category }}</span>
+      <span>{{ printf "%02d" (add $index 1) }}</span>
+    </div>
+    <h2><a href="{{ $project.url }}" target="_blank" rel="noopener noreferrer">{{ $project.name }}</a></h2>
+    <p class="project-card-summary">{{ $project.summary }}</p>
+    <dl class="project-card-proof">
+      <div>
+        <dt>Strategic problem</dt>
+        <dd>{{ $problem }}</dd>
+      </div>
+      <div>
+        <dt>What it demonstrates</dt>
+        <dd>{{ $demonstrates }}</dd>
+      </div>
+    </dl>
+    <a class="text-link" href="{{ $project.url }}" target="_blank" rel="noopener noreferrer">View project</a>
+  </div>
+</article>

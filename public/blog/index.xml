@@ -1,60 +1,435 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Just some thoughts on</title><link>https://carney.wiki/blog/</link><description>Recent content in Just some thoughts on</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 20 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>When Your Prospect Knows More Than You</title><link>https://carney.wiki/blog/when-your-prospect-knows-more-than-you/</link><pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/when-your-prospect-knows-more-than-you/</guid><description>When Your Prospect Knows More Than You: A Cinco de Mayo Lesson in Humble Persuasion Modern buyers do not wait for marketing to educate them anymore.
-Before they ever talk to your company, they have already read the docs, compared competitors, watched demos, asked peers, scanned communities, and used AI to do their homework. By the time you meet them, they may know your category, your claims, and your weak spots surprisingly well.</description></item><item><title>Verification Beats Persuasion</title><link>https://carney.wiki/blog/ai-era-verification-beats-persuasion/</link><pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-era-verification-beats-persuasion/</guid><description>Most B2B buyers do not buy the way your homepage wishes they did.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Insights on Carney</title>
+    <link>https://carney.wiki/blog/</link>
+    <description>Recent content in Insights on Carney</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carney.wiki/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>When Your Prospect Knows More Than You</title>
+      <link>https://carney.wiki/blog/when-your-prospect-knows-more-than-you/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/when-your-prospect-knows-more-than-you/</guid>
+      <description>When Your Prospect Knows More Than You: A Cinco de Mayo Lesson in Humble Persuasion Modern buyers do not wait for marketing to educate them anymore.
+Before they ever talk to your company, they have already read the docs, compared competitors, watched demos, asked peers, scanned communities, and used AI to do their homework. By the time you meet them, they may know your category, your claims, and your weak spots surprisingly well.</description>
+    </item>
+    <item>
+      <title>Verification Beats Persuasion</title>
+      <link>https://carney.wiki/blog/ai-era-verification-beats-persuasion/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ai-era-verification-beats-persuasion/</guid>
+      <description>Most B2B buyers do not buy the way your homepage wishes they did.
 They do not move politely from awareness to interest to demo to proposal like a nice clean funnel diagram someone made in a keynote ten years ago and refuses to let die.
 They move in loops.
-Someone gets excited. Someone else gets skeptical. A champion forms. Security appears. Finance asks for assumptions. Operations asks how this will actually work in the real world, which is usually where a lot of “frictionless” stories go to die.</description></item><item><title>SEO Is Not Dead. It Just Has Two New Roommates: AEO and GEO</title><link>https://carney.wiki/blog/seo-aeo-geo/</link><pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/seo-aeo-geo/</guid><description>The SEO industry is facing new challenges.
+Someone gets excited. Someone else gets skeptical. A champion forms. Security appears. Finance asks for assumptions. Operations asks how this will actually work in the real world, which is usually where a lot of “frictionless” stories go to die.</description>
+    </item>
+    <item>
+      <title>SEO Is Not Dead. It Just Has Two New Roommates: AEO and GEO</title>
+      <link>https://carney.wiki/blog/seo-aeo-geo/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/seo-aeo-geo/</guid>
+      <description>The SEO industry is facing new challenges.
 Story of my life.
 Some of the challenge is not new at all. Google has been pushing organic results farther down the page for years. First it was more ads. Then came featured snippets, People Also Ask, knowledge panels, maps, shopping modules, video carousels, and enough SERP furniture to make the traditional &amp;ldquo;10 blue links&amp;rdquo; feel like a historical artifact.
-Now we have AI Overviews.</description></item><item><title>Trust Is the New Growth Channel</title><link>https://carney.wiki/blog/ai-era-trust-growth-channel/</link><pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-era-trust-growth-channel/</guid><description>Most deals do not die because the product is bad.
+Now we have AI Overviews.</description>
+    </item>
+    <item>
+      <title>Trust Is the New Growth Channel</title>
+      <link>https://carney.wiki/blog/ai-era-trust-growth-channel/</link>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ai-era-trust-growth-channel/</guid>
+      <description>Most deals do not die because the product is bad.
 They die because the decision feels risky, the path to success feels fuzzy, or the buyer cannot get internal alignment before momentum leaks out of the room.
 That is why trust is no longer a nice supporting asset. It is part of the growth engine.
-And that is also why offer design matters a lot more than most marketing teams treat it.</description></item><item><title>The Funnel Mutated</title><link>https://carney.wiki/blog/ai-era-mutated-funnel/</link><pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-era-mutated-funnel/</guid><description>Most B2B funnel problems are not really funnel problems.
+And that is also why offer design matters a lot more than most marketing teams treat it.</description>
+    </item>
+    <item>
+      <title>The Funnel Mutated</title>
+      <link>https://carney.wiki/blog/ai-era-mutated-funnel/</link>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ai-era-mutated-funnel/</guid>
+      <description>Most B2B funnel problems are not really funnel problems.
 They are focus problems wearing a funnel costume.
-Teams publish constantly. They run campaigns across five channels. They have dashboards. They have nurture flows. They have “air cover.” Everyone is busy enough to feel productive. And yet pipeline stays weirdly uneven, sales says the leads are “fine but not really,” and every quarter somehow becomes a fresh round of “maybe we just need more top of funnel.</description></item><item><title>Content Is Cheap. Credibility Is Not.</title><link>https://carney.wiki/blog/ai-era-content-cheap-credibility-not/</link><pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-era-content-cheap-credibility-not/</guid><description>AI made content cheap.
+Teams publish constantly. They run campaigns across five channels. They have dashboards. They have nurture flows. They have “air cover.” Everyone is busy enough to feel productive. And yet pipeline stays weirdly uneven, sales says the leads are “fine but not really,” and every quarter somehow becomes a fresh round of “maybe we just need more top of funnel.</description>
+    </item>
+    <item>
+      <title>Content Is Cheap. Credibility Is Not.</title>
+      <link>https://carney.wiki/blog/ai-era-content-cheap-credibility-not/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ai-era-content-cheap-credibility-not/</guid>
+      <description>AI made content cheap.
 That is not a hot take. That is just the weather now.
 A small team can generate blog posts, landing pages, nurture emails, ad variations, sales snippets, and enough “thought leadership” to make LinkedIn look like a machine accidentally discovered caffeine.
 That is the good news.
 The bad news is that when everyone can produce competent-sounding material, competent-sounding material stops being impressive.
-So the advantage moves.</description></item><item><title>Old Marketing Is Dead</title><link>https://carney.wiki/blog/ai-era-old-marketing-is-dead/</link><pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-era-old-marketing-is-dead/</guid><description>The world most B2B marketing playbooks were built for is gone.
+So the advantage moves.</description>
+    </item>
+    <item>
+      <title>Old Marketing Is Dead</title>
+      <link>https://carney.wiki/blog/ai-era-old-marketing-is-dead/</link>
+      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ai-era-old-marketing-is-dead/</guid>
+      <description>The world most B2B marketing playbooks were built for is gone.
 Not “changing.” Gone.
 For years, the formula was familiar. Publish enough content. Buy enough reach. Tune the funnel. Keep the machine fed. If the team worked hard enough and the dashboards looked healthy enough, growth was supposed to follow.
 And to be fair, sometimes it did.
-The constraints were mostly mechanical: time, budget, headcount, production capacity, and access to distribution.</description></item><item><title>AI Is Coming for Your Job</title><link>https://carney.wiki/blog/ai-is-coming-for-your-job/</link><pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-is-coming-for-your-job/</guid><description>If there is any Luck of the Irish in this story, it is not that AI magically saves everyone. It is that we may finally have a good excuse to hand the machines the worst parts of work first. Let the bots chase status updates, wrestle stale spreadsheets, and babysit workflow nonsense. Humans can keep the parts that actually require judgment and a pulse.
-&amp;ldquo;AI is coming for your job&amp;rdquo; is one of those phrases that spreads because it lands on something real.</description></item><item><title>The Custom-Backend Myth After AI</title><link>https://carney.wiki/blog/custom-backend-myth-after-ai/</link><pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/custom-backend-myth-after-ai/</guid><description>The Custom-Backend Myth After AI: Why Most Websites No Longer Need Bespoke Infrastructure For years, businesses were told that a serious website needed a custom backend to be flexible, scalable, and credible. That made sense when publishing online required heavy engineering effort and every meaningful change depended on developers. That is no longer true for most business websites.
-Today, AI can generate a working site in minutes. Modern deployment platforms can put that site into production almost immediately.</description></item><item><title>Stop doing dumb marketing</title><link>https://carney.wiki/blog/2026dumbmarketing/</link><pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/2026dumbmarketing/</guid><description>If you’re still running your 2023 marketing playbook in 2026—celebrating content volume, bragging about impressions, and pointing at a funnel diagram like it’s a historical artifact—you’re not behind. You’re just asleep.
+The constraints were mostly mechanical: time, budget, headcount, production capacity, and access to distribution.</description>
+    </item>
+    <item>
+      <title>AI Is Coming for Your Job</title>
+      <link>https://carney.wiki/blog/ai-is-coming-for-your-job/</link>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ai-is-coming-for-your-job/</guid>
+      <description>If there is any Luck of the Irish in this story, it is not that AI magically saves everyone. It is that we may finally have a good excuse to hand the machines the worst parts of work first. Let the bots chase status updates, wrestle stale spreadsheets, and babysit workflow nonsense. Humans can keep the parts that actually require judgment and a pulse.
+&amp;ldquo;AI is coming for your job&amp;rdquo; is one of those phrases that spreads because it lands on something real.</description>
+    </item>
+    <item>
+      <title>The Custom-Backend Myth After AI</title>
+      <link>https://carney.wiki/blog/custom-backend-myth-after-ai/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/custom-backend-myth-after-ai/</guid>
+      <description>The Custom-Backend Myth After AI: Why Most Websites No Longer Need Bespoke Infrastructure For years, businesses were told that a serious website needed a custom backend to be flexible, scalable, and credible. That made sense when publishing online required heavy engineering effort and every meaningful change depended on developers. That is no longer true for most business websites.
+Today, AI can generate a working site in minutes. Modern deployment platforms can put that site into production almost immediately.</description>
+    </item>
+    <item>
+      <title>Stop doing dumb marketing</title>
+      <link>https://carney.wiki/blog/2026dumbmarketing/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/2026dumbmarketing/</guid>
+      <description>If you’re still running your 2023 marketing playbook in 2026—celebrating content volume, bragging about impressions, and pointing at a funnel diagram like it’s a historical artifact—you’re not behind. You’re just asleep.
 Your buyers moved on. Your tech stack learned how to think. And AI is doing parts of your job now—just not the parts you should’ve been doing in the first place.
-This isn’t an article. This is your intervention.</description></item><item><title>Don’t Be an Asshole</title><link>https://carney.wiki/blog/asshole/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/asshole/</guid><description>Leadership Isn’t a Spreadsheet (And Being an Asshole Is a Terrible Business Strategy) Leadership often gets reduced to spreadsheets, quarterly targets, and org charts that look like subway maps no one understands. But a growing body of evidence from private equity, academia, and real-world companies suggests something radical:
+This isn’t an article. This is your intervention.</description>
+    </item>
+    <item>
+      <title>Don’t Be an Asshole</title>
+      <link>https://carney.wiki/blog/asshole/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/asshole/</guid>
+      <description>Leadership Isn’t a Spreadsheet (And Being an Asshole Is a Terrible Business Strategy) Leadership often gets reduced to spreadsheets, quarterly targets, and org charts that look like subway maps no one understands. But a growing body of evidence from private equity, academia, and real-world companies suggests something radical:
 If you stop being an asshole — and actually treat people like humans — your business performs better.
-Not “better vibes.” Better returns.</description></item><item><title>Why AI, Trust, and Buying Networks Demand a New GTM Playbook</title><link>https://carney.wiki/blog/ai-gtm-playbook/</link><pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-gtm-playbook/</guid><description>The rules of B2B buying are being rewritten. Not incrementally — structurally. Buyers have never moved through a linear tidy funnel owned by sales and marketing; they navigate a buying network made up of internal stakeholders, external influencers, independent research, and increasingly, AI agents that summarize, shortlist, and recommend on their behalf.
-If your go-to-market (GTM) playbook still targets a single buyer persona or relies on volume outreach, you’re invisible in the very places buyers now start their journeys.</description></item><item><title>Reinventing Growth for the AI Era - Part 2</title><link>https://carney.wiki/blog/aitrust/</link><pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/aitrust/</guid><description>In an era where B2B buying is increasingly complex, distributed, and AI-assisted, one constant remains: trust is the currency of growth. No longer a “soft” brand attribute, trust now directly accelerates sales velocity and conversion. As Forrester’s Buying Networks: Your Buyers’ New Reality (2025) report highlights, trusted providers gain “shortcuts to consideration,” enabling faster movement through decision cycles and broader endorsement within buyer ecosystems.
-The New Reality: Buying Networks, Not Buying Groups Forrester’s latest research signals a major shift in how organizations purchase technology.</description></item><item><title>Reinventing Growth for the AI Era</title><link>https://carney.wiki/blog/growthai/</link><pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/growthai/</guid><description>A new pattern is emerging: the teams winning in AI are not the ones copying the old SaaS playbook with fresher branding. They are the ones figuring out where influence, credibility, and trust actually live, then building around that reality instead of around habit.
-The next generation of marketing leaders in AI will look less like spreadsheet custodians and more like experimenters, operators, and network-builders. They will diagnose first, invent second, and leave a lot of tired template marketing where it belongs.</description></item><item><title>The Power of Vulnerability</title><link>https://carney.wiki/blog/trust/</link><pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/trust/</guid><description>I recently finished two books that struck a chord with me. The first was Getting Naked by Patrick Lencioni (thanks to Kevin MacKey for the recommendation). The title might raise eyebrows, but the message is simple: to earn trust, we have to strip away the need to appear perfect.
-The second was Don’t Believe Everything You Think, which reminded me that so much of our inner dialogue is shaped by fear:</description></item><item><title>How to build real trust</title><link>https://carney.wiki/blog/build-trust/</link><pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/build-trust/</guid><description>Why Trust Matters Buyers don’t just buy features. They buy confidence. Trusted brands get on shortlists faster. They close deals faster. They lower acquisition cost.
+Not “better vibes.” Better returns.</description>
+    </item>
+    <item>
+      <title>Why AI, Trust, and Buying Networks Demand a New GTM Playbook</title>
+      <link>https://carney.wiki/blog/ai-gtm-playbook/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ai-gtm-playbook/</guid>
+      <description>The rules of B2B buying are being rewritten. Not incrementally — structurally. Buyers have never moved through a linear tidy funnel owned by sales and marketing; they navigate a buying network made up of internal stakeholders, external influencers, independent research, and increasingly, AI agents that summarize, shortlist, and recommend on their behalf.
+If your go-to-market (GTM) playbook still targets a single buyer persona or relies on volume outreach, you’re invisible in the very places buyers now start their journeys.</description>
+    </item>
+    <item>
+      <title>Reinventing Growth for the AI Era - Part 2</title>
+      <link>https://carney.wiki/blog/aitrust/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/aitrust/</guid>
+      <description>In an era where B2B buying is increasingly complex, distributed, and AI-assisted, one constant remains: trust is the currency of growth. No longer a “soft” brand attribute, trust now directly accelerates sales velocity and conversion. As Forrester’s Buying Networks: Your Buyers’ New Reality (2025) report highlights, trusted providers gain “shortcuts to consideration,” enabling faster movement through decision cycles and broader endorsement within buyer ecosystems.
+The New Reality: Buying Networks, Not Buying Groups Forrester’s latest research signals a major shift in how organizations purchase technology.</description>
+    </item>
+    <item>
+      <title>Reinventing Growth for the AI Era</title>
+      <link>https://carney.wiki/blog/growthai/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/growthai/</guid>
+      <description>A new pattern is emerging: the teams winning in AI are not the ones copying the old SaaS playbook with fresher branding. They are the ones figuring out where influence, credibility, and trust actually live, then building around that reality instead of around habit.
+The next generation of marketing leaders in AI will look less like spreadsheet custodians and more like experimenters, operators, and network-builders. They will diagnose first, invent second, and leave a lot of tired template marketing where it belongs.</description>
+    </item>
+    <item>
+      <title>The Power of Vulnerability</title>
+      <link>https://carney.wiki/blog/trust/</link>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/trust/</guid>
+      <description>I recently finished two books that struck a chord with me. The first was Getting Naked by Patrick Lencioni (thanks to Kevin MacKey for the recommendation). The title might raise eyebrows, but the message is simple: to earn trust, we have to strip away the need to appear perfect.
+The second was Don’t Believe Everything You Think, which reminded me that so much of our inner dialogue is shaped by fear:</description>
+    </item>
+    <item>
+      <title>How to build real trust</title>
+      <link>https://carney.wiki/blog/build-trust/</link>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/build-trust/</guid>
+      <description>Why Trust Matters Buyers don’t just buy features. They buy confidence. Trusted brands get on shortlists faster. They close deals faster. They lower acquisition cost.
 Research shows trust — things like competence, consistency, and dependability — is central to B2B buying decisions.
-And buyers do their homework before talking to sales. They read content and cross-check sources long before they reach out. That means your brand needs to earn trust before the first call.</description></item><item><title>Vibe Coding 2</title><link>https://carney.wiki/blog/vibe2/</link><pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/vibe2/</guid><description>Vibe Coding: Still Learning, Still Vibing When I first wrote about vibe coding, I saw it as a fresh, almost playful way of thinking about development—coding less like grinding through syntax and more like shaping an idea in conversation with an AI. Since then, I’ve gone deeper: I’ve tried Replit, Cursor, and now Kilo inside Visual Studio with Copilot and Claude. Along the way, I’ve burned down and rebuilt multiple instances, hit roadblocks with authentication, ripped out Clerk when database connections got messy, and wrangled with Docker, Digital Ocean, Spaces, and Stripe.</description></item><item><title>Vibe Coding</title><link>https://carney.wiki/blog/vibe-coding/</link><pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/vibe-coding/</guid><description>Vibe Coding Is Coming — And I Might Have Just Tried It There’s a new term I’ve been hearing more and more lately: Vibe Coding.
-It&amp;rsquo;s not an official methodology or some new framework (yet), but rather a feeling—a zone developers enter where everything just clicks. You’re moving fast, building with intuition, and the tools aren’t fighting you—they’re helping. It’s creative momentum at full speed, and I think I may have just experienced it for the first time.</description></item><item><title>Lonely Leaders</title><link>https://carney.wiki/blog/lonely-leaders/</link><pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/lonely-leaders/</guid><description>The Lonely CEO Someone said - it’s lonely at the top. Turns out, they weren’t kidding. Sure, being a CEO comes with the perks—power, influence, the ability to shape a company’s future. But it also comes with a level of solitude that’s tough to explain until you’ve lived it.
-The Weight of Leadership Being a CEO isn’t just about hitting growth targets and making bold moves. It’s about carrying the weight of an entire organization.</description></item><item><title>Breakfast Smoothies</title><link>https://carney.wiki/blog/hard-things/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/hard-things/</guid><description>Vacation Thoughts on The Hard Thing About Hard Things I recently finished The Hard Thing About Hard Things by Ben Horowitz while sipping smoothies (okay, piña coladas) on a sunny beach in Cancun. Let me tell you—reading about layoffs, crisis management, and the emotional toll of leadership while surrounded by palm trees is a bit of a vibe clash. But somehow, it worked.
-Horowitz doesn’t sugarcoat anything. This isn’t your typical feel-good business book with vague buzzwords and “manifest your success” nonsense.</description></item><item><title>The Sticky Factor</title><link>https://carney.wiki/blog/sticky/</link><pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/sticky/</guid><description>Marketing: It’s Not Just About Selling—It’s About Sticking Let’s be real for a second: marketing isn’t just about converting customers; it’s about haunting them. You know the drill—you need a solution, and the first brand that pops into your head isn’t necessarily the best one. It’s the one that’s been camping out in your brain rent-free, showing up over and over like your favorite meme.
-That’s the game. Marketing isn’t just about moving people down a funnel; it’s about making sure you’re the brand they remember when it’s go-time.</description></item><item><title>Marketing Project Management</title><link>https://carney.wiki/blog/project-management/</link><pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/project-management/</guid><description>The Role of Content Across the Entire Company No matter which tool you choose, one fact does not change: good marketing depends on contributions from across the company. Sales hears objections first. Product knows what is real and what still lives in roadmap fantasy land. Support knows exactly where customers get frustrated. If marketing works without that input, it usually ends up polishing guesses.
-The right project-management tool makes that collaboration easier.</description></item><item><title>Kintsugi + Antifragility + Leadership</title><link>https://carney.wiki/blog/kintsugi-antifragility/</link><pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/kintsugi-antifragility/</guid><description>Embracing Imperfections: What Kintsugi and Antifragility Teach Us About Leadership In the cracks of broken pottery, the Japanese art of Kintsugi finds beauty. Fragments are rejoined with lacquer and dusted with gold, not to mask the damage but to celebrate it. This ancient practice transforms breakage into artistry, symbolizing the resilience of imperfection. Kintsugi reminds us to value what’s broken, embrace its history, and let its scars shine.
-This philosophy resonates deeply with the modern concept of antifragility, as introduced by Nassim Nicholas Taleb in his groundbreaking work Antifragile: Things That Gain from Disorder.</description></item><item><title>The shiny new thing</title><link>https://carney.wiki/blog/shiny-new-things/</link><pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/shiny-new-things/</guid><description>The Shiny Object Syndrome: Why Marketers Chase the New and Forget the Basics Marketing is a field of constant evolution, and for good reason. With over 8,000 marketing technologies available, the industry is brimming with tools promising to improve conversion rates, boost reach, and make our lives easier. As marketers, we’re always on the hunt for that next game-changer—the shiny new thing that could revolutionize how we do our jobs.</description></item><item><title>Digital Marketing ROI</title><link>https://carney.wiki/blog/roi-stats-marketful/</link><pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/roi-stats-marketful/</guid><description>The future of digital marketing lies in merging creativity with data-driven strategies to unlock unparalleled value. Digital marketing was never just a trend; it’s the cornerstone of business growth in the modern age. As highlighted in the Marketful blog on Digital Marketing ROI, companies investing in well-rounded strategies are reaping significant rewards. However, understanding and maximizing ROI (Return on Investment) remains critical for marketers to justify their budgets and enhance their campaigns.</description></item><item><title>Livestreaming and Video's with AI</title><link>https://carney.wiki/blog/video/</link><pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/video/</guid><description>Video is no longer the side dish in the marketing plan. For a lot of brands, it is the plan. Livestreaming, streaming platforms, short-form content, and AI-assisted production have all made video harder to ignore and easier to produce. That is great news if you have a strategy. It is less great if your current plan is &amp;ldquo;let&amp;rsquo;s upload the webinar replay and pray.&amp;rdquo;
-Looking to Livestreaming Livestreaming has become a serious commercial channel in markets like China, where entertainment and commerce are far less awkward about sharing the same room.</description></item><item><title>User Generated Content</title><link>https://carney.wiki/blog/ugc/</link><pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ugc/</guid><description>User-Generated Content: Marketing’s Not-So-Secret Weapon Let’s face it: if marketing were a group project, user-generated content (UGC) would be that one overachiever who does all the work and makes the rest of us look good. Consumers are no longer impressed by glossy ads or overly curated posts—they want authenticity, and nothing screams “real deal” louder than content created by other customers.
-UGC is poised to take over the marketing world.</description></item><item><title>AI in Marketing</title><link>https://carney.wiki/blog/ai-in-marketing/</link><pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-in-marketing/</guid><description>Marketing is undergoing a seismic shift, driven by the rapid evolution of artificial intelligence (AI). From predictive analytics to lifelike (scary) automation, AI tools are revolutionizing how businesses engage with audiences, streamline workflows, and achieve measurable results.
-What is AI in Marketing? AI in marketing involves using artificial intelligence to optimize strategies through automation, data analysis, and personalized customer experiences. By leveraging machine learning, natural language processing, and predictive insights, marketers can improve efficiency, increase ROI, and craft meaningful connections with their audience.</description></item><item><title>You're Gonna Need a Voice Strategy</title><link>https://carney.wiki/blog/voice/</link><pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/voice/</guid><description>The Future is Talking: Why Your Brand Needs a Voice Strategy Listen up, marketers—literally. If you’ve been ignoring the rise of voice search and the domination of mobile-first strategies, now’s the time to pay attention. In 2025, Alexa isn’t just going to help you with your grocery list—she’ll be selling those groceries for your competitors if you don’t step up your game.
-Voice technology is turning marketing into a conversation (literally), and smart brands will seize the opportunity to connect with their audience in more authentic, hands-free ways.</description></item><item><title>Navigating Account-Based Marketing</title><link>https://carney.wiki/blog/abm-cost-complexity/</link><pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/abm-cost-complexity/</guid><description>Navigating the Complexities and Costs of Account-Based Marketing for B2B ABM sounds fantastic in a board deck. Pick the right accounts. Personalize everything. Align sales and marketing. Win bigger deals. What usually gets left out of the presentation is the inconvenient part: ABM is expensive, operationally messy, and very easy to do badly with beautiful software and mediocre thinking.
-That does not mean ABM is a bad idea. It means it is not magic.</description></item><item><title>Rethinking chat - A better approach?</title><link>https://carney.wiki/blog/chat/</link><pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/chat/</guid><description>The Evolution of Communication: From Phone Calls to Text Most people do not want to be ambushed by a phone call anymore. They want to text, message, skim, ask a question, disappear for a while, and come back when it suits them. That is not a generational flaw. It is just how modern communication works.
-That shift matters for marketing and support. If your website still acts like every visitor wants a scheduled demo and a cheerful sales ambush, you are solving yesterday&amp;rsquo;s problem.</description></item><item><title>Marketing Trends for 2024</title><link>https://carney.wiki/blog/trends/</link><pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/trends/</guid><description>It&amp;rsquo;s been a month into 2024, and marketers are once again at the forefront of a technological revolution, where the strategic use of data is fundamental in sculpting experiences and steering business strategies. For marketers, the journey toward leveraging these trends is paved with strategic considerations. By integrating these strategies, companies can cultivate a resilient, authentic brand presence that resonates deeply with contemporary consumers. This approach positions organizations to thrive in the dynamic digital economy and aligns with evolving consumer values, ensuring sustained relevance and success in the marketing domain.</description></item><item><title>Playbook Success with your budget</title><link>https://carney.wiki/blog/playbook/</link><pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/playbook/</guid><description>As the books close on 2024 and budgets get finalized, marketing leaders everywhere are reviewing what’s been approved—and what didn’t make the cut. It’s that time of year when big ideas meet financial reality, and the wish list gets trimmed into a strategic plan. If you didn’t get everything you asked for, you’re not alone. The key question now is how to prioritize: do you spread thinner or go deeper?</description></item><item><title>Using a proposal template</title><link>https://carney.wiki/blog/contract-templates/</link><pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/contract-templates/</guid><description>Crafting a Winning Marketing Consulting Proposal: Templates Are Fine, but Context Is Everything When it comes to securing a marketing consulting contract, the proposal you submit can make or break the deal. It&amp;rsquo;s not just a formality; it&amp;rsquo;s a comprehensive document that needs to clearly convey essential components like scope, objectives, approach, deliverables, timeline, and terms of engagement. While templates can be helpful, it&amp;rsquo;s crucial to remember that context is everything in crafting a successful proposal.</description></item><item><title>Shameful Deception: Exposing the Scandal of Fake Speakers</title><link>https://carney.wiki/blog/fake-speakers/</link><pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/fake-speakers/</guid><description>The liars at DevTernity Anna Boyko, touted as a featured speaker at DevTernity, was presented with an impressive profile that left attendees in awe. However, attempts to verify her existence were met with an unsettling silence from Coinbase employees and Ethereum core contributors. The truth emerged: Anna Boyko was a figment of the organizers&amp;rsquo; imagination, a deliberate fabrication.
-But Boyko wasn&amp;rsquo;t the sole victim of this deceit. Alina Prokhoda, claimed to be a &amp;ldquo;Senior Engineer at WhatsApp, Microsoft MVP,&amp;rdquo; was another product of the organizers&amp;rsquo; deception.</description></item><item><title>Unveiling the Unethical: How an AI-Powered SEO Heist Backfired</title><link>https://carney.wiki/blog/stealing-traffic/</link><pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/stealing-traffic/</guid><description>In the world of digital marketing, ethical practices are the cornerstone of sustainable success. Unfortunately, some individuals have taken a detour into the unethical, as revealed by a recent confession: &amp;ldquo;We pulled off an SEO heist using AI.&amp;rdquo;
-Here&amp;rsquo;s a breakdown of the operation: The Scheme Sitemap Pilfering: The culprits exported a competitor&amp;rsquo;s sitemap, a bold move into ethically murky territory. Automated Content Creation: Turning the stolen URLs into article titles, they unleashed the power of AI to generate a staggering 1,800 articles at scale.</description></item><item><title>Building &amp; Managing Your Marketing Database in a Cookie-Less World</title><link>https://carney.wiki/blog/database-mgt/</link><pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/database-mgt/</guid><description>Your database is not glamorous. Nobody wins a standing ovation for good contact hygiene. But when it is a mess, the whole revenue engine starts coughing up hairballs.
-In a cookie-less world, the old lazy habits get expensive fast. If you want a database that actually helps marketing and sales instead of quietly sabotaging them, you need better inputs, better discipline, and a little less obsession with collecting every possible field like you are building a hostage dossier.</description></item><item><title>The Art of In-Product Marketing: Adding Value, Not Creepiness</title><link>https://carney.wiki/blog/in-product-marketing/</link><pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/in-product-marketing/</guid><description>In-product marketing works best when it feels like help, not surveillance. There is a big difference between a timely nudge and a product that makes the user wonder if it has been reading their diary.
-The line is not hard to understand. If the message is useful, relevant, and respectful, it adds value. If it feels manipulative, pushy, or weirdly overpersonalized, congratulations, you have built a growth tactic people will actively resent.</description></item><item><title>The Role of a Content Marketing Growth Hacker</title><link>https://carney.wiki/blog/growth-hacker/</link><pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/growth-hacker/</guid><description>Content marketing has become a linchpin in the success of businesses. Effective content not only engages audiences but also drives traffic, generates leads, and ultimately increases sales. However, to truly harness the power of content marketing, a specialized professional is often required - the Content Marketing Growth Hacker. In this article, we&amp;rsquo;ll explore why having a Content Marketing Growth Hacker on your team is crucial for achieving exponential business growth.</description></item><item><title>The Illusion of Control in Marketing</title><link>https://carney.wiki/blog/illusion-of-control/</link><pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/illusion-of-control/</guid><description>Marketers love dashboards, plans, forecasts, naming conventions, and the general feeling that everything is under control. Then the market does what it always does: it changes its mind, ignores the script, and reminds everyone that certainty was never part of the deal.
-Control in marketing is mostly a comforting story we tell ourselves. You can control effort, process, quality, and response time. You cannot control how people behave, what the market values next month, or which external event is about to bulldoze your neat quarterly plan.</description></item><item><title>Maximizing Content ROI: How to Leverage an Artifact</title><link>https://carney.wiki/blog/leverage/</link><pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/leverage/</guid><description>Most teams do not have a content shortage. They have a leverage shortage. They build one useful asset, publish it once, and then move on as if all that effort was meant for a single lap around the block.
-That is wasteful. If the underlying idea is strong, one asset should produce a lot more than one PDF, one post, or one webinar. A solid case study, for example, can fuel half your content calendar if you have the discipline to break it apart and repackage it well.</description></item><item><title>Establish a culture of experimentation</title><link>https://carney.wiki/blog/experimentation/</link><pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/experimentation/</guid><description>Marketing teams love to say they are data-driven right up until the data might prove their favorite idea is dumb. Then suddenly everyone becomes very spiritual about &amp;ldquo;brand instincts.&amp;rdquo;
-That is exactly why testing matters. Markets move. Channels decay. Audiences change their minds. The teams that keep learning keep winning. The ones that fall in love with their own assumptions usually end up defending last quarter&amp;rsquo;s playbook like it is family heirloom silver.</description></item><item><title>Exploring Intent Data's Significance in Business Strategy</title><link>https://carney.wiki/blog/intent-data/</link><pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/intent-data/</guid><description>Exploring the Significance of Intent Data in Business Strategy Intent data gets sold like a crystal ball. It is not. What it is can still be useful: a set of signals that helps you understand which accounts are showing interest, what topics they care about, and where sales and marketing should probably focus before they waste energy on the wrong people.
-The catch is that not all intent data means the same thing.</description></item><item><title>Why Old Isn't Always Wrong</title><link>https://carney.wiki/blog/old-marketing/</link><pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/old-marketing/</guid><description>Marketing people love to pretend anything older than six months belongs in a museum. New channel? Amazing. New acronym? Even better. Old tactic with proven economics? Apparently embarrassing unless a consultant rebrands it.
-That is a mistake. Old does not automatically mean wrong. Sometimes it just means neglected. The real job is not worshipping novelty. It is staying agile enough to know when a forgotten tactic deserves another look.</description></item><item><title>Content Gating</title><link>https://carney.wiki/blog/content-gating/</link><pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/content-gating/</guid><description>Content Gating Policies You seek to exchange personal data for the valuable content meticulously created, all while endeavoring to establish yourselves as thought leaders with authority in your space . Striking a delicate balance between these goals is really crucial, recognizing that trust is the linchpin for success. Without trust from prospects, even the most finely tuned gated content strategy may yield subpar results.
-All gated content strategies are carefully tailored to engage prospects in the middle to later stages of their buyer&amp;rsquo;s journey.</description></item><item><title>Building the machine</title><link>https://carney.wiki/blog/whats-your-martech-stack-look-like/</link><pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/whats-your-martech-stack-look-like/</guid><description>Documenting your Martech stack What&amp;rsquo;s your standardized Martech stack? Do you know what&amp;rsquo;s running? Do you know the overlaps and are you willing to accept them?
-The purpose of documenting the stack is to consolidate for continuity and control. Some of the vendors you work with may collect PII (Personal Identifiable Information) or PD (Personal Data) on your behalf or may not integrate into your databases of record for subscription management.</description></item><item><title>Rethinking Live Chat: Is it Time for a More Focused Approach</title><link>https://carney.wiki/blog/live-chat/</link><pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/live-chat/</guid><description>Most live chat is either wasted or misused. It gets wasted when it sits on the site like a decorative paperweight. It gets misused when teams expect it to be support desk, SDR, concierge, and miracle conversion machine all at once.
-There is a better way to use it. Put chat where intent is high, narrow the use case, and use AI to make the interaction faster and smarter instead of louder and more annoying.</description></item><item><title>How to Grow Your Career by Leaving Jobs on Your Terms</title><link>https://carney.wiki/blog/changing-jobs/</link><pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/changing-jobs/</guid><description>Have you ever felt stuck in a job that no longer challenges you or rewards you for your efforts? Have you ever wondered what it would be like to work in a different company or industry that values your skills and potential? Many professionals face the dilemma of whether to stay in their current role or seek new opportunities elsewhere. In this blog post, I’ll share my personal story of how I grew my career by leaving jobs on my terms, even when it meant giving up the comfort and security of my familiar workplace.</description></item><item><title>Just Enough Automation in Marketing</title><link>https://carney.wiki/blog/balance/</link><pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/balance/</guid><description>In the world of marketing, automation has emerged as a game-changer. It streamlines processes, increases efficiency, and helps reach prospects at the right time. However, like any tool, automation can be a double-edged sword. Use it judiciously, and it can enhance your marketing efforts; overdo it, and it may harm your relationship with prospects. Let&amp;rsquo;s explore the delicate balance between &amp;ldquo;just enough&amp;rdquo; automation and the perils of &amp;ldquo;too much&amp;rdquo; from a marketing perspective, with a cautionary tale of websites using people&amp;rsquo;s names excessively.</description></item><item><title>The Digital Marketing Landscape New Rules</title><link>https://carney.wiki/blog/digital-marketing-landscape/</link><pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/digital-marketing-landscape/</guid><description>The Shift in Work Dynamics COVID did not create digital marketing. It did, however, throw gasoline on it. Budgets that used to disappear into flights, booths, hotels, and branded stress balls suddenly got shoved online. That meant more channels, more campaigns, more reporting, more content, and, naturally, more work for the same number of humans.
-For marketing teams, that shift was both an opportunity and a trap. Digital finally got taken seriously.</description></item><item><title>The Tradeshow Circus</title><link>https://carney.wiki/blog/tradeshows-suck/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/tradeshows-suck/</guid><description>Who forced the shift to digital? It&amp;rsquo;s a bit weird to think of it this way but without COVID and the cancelation of all tradeshows in 2020 I could never have proven the value of a complete shift to digital. The lead flow we generated without tradeshows demonstrated a much more cost effective spend of marketing dollars.
-Tradeshows are expensive: between the booth, travel, marketing, and sponsorships, showcasing your products at trade show exhibits can put a SERIOUS dent into your marketing budget.</description></item><item><title>Operational Efficiencies in Marketing</title><link>https://carney.wiki/blog/operational-efficiencies/</link><pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/operational-efficiencies/</guid><description>Time to shine 2021 must be focused on minimizing unnecessary and unproductive expenses and delivering sales qualified leads that convert to opportunities - it’s really that simple. The marketing pendulum must dramatically shift towards an Agile but deliberate approach (scrappy) focused on Net New and away from branding exercises and vanity metrics. This is supported by the fact that many companies truly don’t have a branding budget, nor should they be allowed one until they have their story completed and vetted with a mapped execution strategy.</description></item></channel></rss>
+And buyers do their homework before talking to sales. They read content and cross-check sources long before they reach out. That means your brand needs to earn trust before the first call.</description>
+    </item>
+    <item>
+      <title>Vibe Coding 2</title>
+      <link>https://carney.wiki/blog/vibe2/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/vibe2/</guid>
+      <description>Vibe Coding: Still Learning, Still Vibing When I first wrote about vibe coding, I saw it as a fresh, almost playful way of thinking about development—coding less like grinding through syntax and more like shaping an idea in conversation with an AI. Since then, I’ve gone deeper: I’ve tried Replit, Cursor, and now Kilo inside Visual Studio with Copilot and Claude. Along the way, I’ve burned down and rebuilt multiple instances, hit roadblocks with authentication, ripped out Clerk when database connections got messy, and wrangled with Docker, Digital Ocean, Spaces, and Stripe.</description>
+    </item>
+    <item>
+      <title>Vibe Coding</title>
+      <link>https://carney.wiki/blog/vibe-coding/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/vibe-coding/</guid>
+      <description>Vibe Coding Is Coming — And I Might Have Just Tried It There’s a new term I’ve been hearing more and more lately: Vibe Coding.
+It&amp;rsquo;s not an official methodology or some new framework (yet), but rather a feeling—a zone developers enter where everything just clicks. You’re moving fast, building with intuition, and the tools aren’t fighting you—they’re helping. It’s creative momentum at full speed, and I think I may have just experienced it for the first time.</description>
+    </item>
+    <item>
+      <title>Lonely Leaders</title>
+      <link>https://carney.wiki/blog/lonely-leaders/</link>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/lonely-leaders/</guid>
+      <description>The Lonely CEO Someone said - it’s lonely at the top. Turns out, they weren’t kidding. Sure, being a CEO comes with the perks—power, influence, the ability to shape a company’s future. But it also comes with a level of solitude that’s tough to explain until you’ve lived it.
+The Weight of Leadership Being a CEO isn’t just about hitting growth targets and making bold moves. It’s about carrying the weight of an entire organization.</description>
+    </item>
+    <item>
+      <title>Breakfast Smoothies</title>
+      <link>https://carney.wiki/blog/hard-things/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/hard-things/</guid>
+      <description>Vacation Thoughts on The Hard Thing About Hard Things I recently finished The Hard Thing About Hard Things by Ben Horowitz while sipping smoothies (okay, piña coladas) on a sunny beach in Cancun. Let me tell you—reading about layoffs, crisis management, and the emotional toll of leadership while surrounded by palm trees is a bit of a vibe clash. But somehow, it worked.
+Horowitz doesn’t sugarcoat anything. This isn’t your typical feel-good business book with vague buzzwords and “manifest your success” nonsense.</description>
+    </item>
+    <item>
+      <title>The Sticky Factor</title>
+      <link>https://carney.wiki/blog/sticky/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/sticky/</guid>
+      <description>Marketing: It’s Not Just About Selling—It’s About Sticking Let’s be real for a second: marketing isn’t just about converting customers; it’s about haunting them. You know the drill—you need a solution, and the first brand that pops into your head isn’t necessarily the best one. It’s the one that’s been camping out in your brain rent-free, showing up over and over like your favorite meme.
+That’s the game. Marketing isn’t just about moving people down a funnel; it’s about making sure you’re the brand they remember when it’s go-time.</description>
+    </item>
+    <item>
+      <title>Marketing Project Management</title>
+      <link>https://carney.wiki/blog/project-management/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/project-management/</guid>
+      <description>The Role of Content Across the Entire Company No matter which tool you choose, one fact does not change: good marketing depends on contributions from across the company. Sales hears objections first. Product knows what is real and what still lives in roadmap fantasy land. Support knows exactly where customers get frustrated. If marketing works without that input, it usually ends up polishing guesses.
+The right project-management tool makes that collaboration easier.</description>
+    </item>
+    <item>
+      <title>Kintsugi &#43; Antifragility &#43; Leadership</title>
+      <link>https://carney.wiki/blog/kintsugi-antifragility/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/kintsugi-antifragility/</guid>
+      <description>Embracing Imperfections: What Kintsugi and Antifragility Teach Us About Leadership In the cracks of broken pottery, the Japanese art of Kintsugi finds beauty. Fragments are rejoined with lacquer and dusted with gold, not to mask the damage but to celebrate it. This ancient practice transforms breakage into artistry, symbolizing the resilience of imperfection. Kintsugi reminds us to value what’s broken, embrace its history, and let its scars shine.
+This philosophy resonates deeply with the modern concept of antifragility, as introduced by Nassim Nicholas Taleb in his groundbreaking work Antifragile: Things That Gain from Disorder.</description>
+    </item>
+    <item>
+      <title>The shiny new thing</title>
+      <link>https://carney.wiki/blog/shiny-new-things/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/shiny-new-things/</guid>
+      <description>The Shiny Object Syndrome: Why Marketers Chase the New and Forget the Basics Marketing is a field of constant evolution, and for good reason. With over 8,000 marketing technologies available, the industry is brimming with tools promising to improve conversion rates, boost reach, and make our lives easier. As marketers, we’re always on the hunt for that next game-changer—the shiny new thing that could revolutionize how we do our jobs.</description>
+    </item>
+    <item>
+      <title>Digital Marketing ROI</title>
+      <link>https://carney.wiki/blog/roi-stats-marketful/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/roi-stats-marketful/</guid>
+      <description>The future of digital marketing lies in merging creativity with data-driven strategies to unlock unparalleled value. Digital marketing was never just a trend; it’s the cornerstone of business growth in the modern age. As highlighted in the Marketful blog on Digital Marketing ROI, companies investing in well-rounded strategies are reaping significant rewards. However, understanding and maximizing ROI (Return on Investment) remains critical for marketers to justify their budgets and enhance their campaigns.</description>
+    </item>
+    <item>
+      <title>Livestreaming and Video&#39;s with AI</title>
+      <link>https://carney.wiki/blog/video/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/video/</guid>
+      <description>Video is no longer the side dish in the marketing plan. For a lot of brands, it is the plan. Livestreaming, streaming platforms, short-form content, and AI-assisted production have all made video harder to ignore and easier to produce. That is great news if you have a strategy. It is less great if your current plan is &amp;ldquo;let&amp;rsquo;s upload the webinar replay and pray.&amp;rdquo;
+Looking to Livestreaming Livestreaming has become a serious commercial channel in markets like China, where entertainment and commerce are far less awkward about sharing the same room.</description>
+    </item>
+    <item>
+      <title>User Generated Content</title>
+      <link>https://carney.wiki/blog/ugc/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ugc/</guid>
+      <description>User-Generated Content: Marketing’s Not-So-Secret Weapon Let’s face it: if marketing were a group project, user-generated content (UGC) would be that one overachiever who does all the work and makes the rest of us look good. Consumers are no longer impressed by glossy ads or overly curated posts—they want authenticity, and nothing screams “real deal” louder than content created by other customers.
+UGC is poised to take over the marketing world.</description>
+    </item>
+    <item>
+      <title>AI in Marketing</title>
+      <link>https://carney.wiki/blog/ai-in-marketing/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ai-in-marketing/</guid>
+      <description>Marketing is undergoing a seismic shift, driven by the rapid evolution of artificial intelligence (AI). From predictive analytics to lifelike (scary) automation, AI tools are revolutionizing how businesses engage with audiences, streamline workflows, and achieve measurable results.
+What is AI in Marketing? AI in marketing involves using artificial intelligence to optimize strategies through automation, data analysis, and personalized customer experiences. By leveraging machine learning, natural language processing, and predictive insights, marketers can improve efficiency, increase ROI, and craft meaningful connections with their audience.</description>
+    </item>
+    <item>
+      <title>You&#39;re Gonna Need a Voice Strategy</title>
+      <link>https://carney.wiki/blog/voice/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/voice/</guid>
+      <description>The Future is Talking: Why Your Brand Needs a Voice Strategy Listen up, marketers—literally. If you’ve been ignoring the rise of voice search and the domination of mobile-first strategies, now’s the time to pay attention. In 2025, Alexa isn’t just going to help you with your grocery list—she’ll be selling those groceries for your competitors if you don’t step up your game.
+Voice technology is turning marketing into a conversation (literally), and smart brands will seize the opportunity to connect with their audience in more authentic, hands-free ways.</description>
+    </item>
+    <item>
+      <title>Navigating Account-Based Marketing</title>
+      <link>https://carney.wiki/blog/abm-cost-complexity/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/abm-cost-complexity/</guid>
+      <description>Navigating the Complexities and Costs of Account-Based Marketing for B2B ABM sounds fantastic in a board deck. Pick the right accounts. Personalize everything. Align sales and marketing. Win bigger deals. What usually gets left out of the presentation is the inconvenient part: ABM is expensive, operationally messy, and very easy to do badly with beautiful software and mediocre thinking.
+That does not mean ABM is a bad idea. It means it is not magic.</description>
+    </item>
+    <item>
+      <title>Rethinking chat - A better approach?</title>
+      <link>https://carney.wiki/blog/chat/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/chat/</guid>
+      <description>The Evolution of Communication: From Phone Calls to Text Most people do not want to be ambushed by a phone call anymore. They want to text, message, skim, ask a question, disappear for a while, and come back when it suits them. That is not a generational flaw. It is just how modern communication works.
+That shift matters for marketing and support. If your website still acts like every visitor wants a scheduled demo and a cheerful sales ambush, you are solving yesterday&amp;rsquo;s problem.</description>
+    </item>
+    <item>
+      <title>Marketing Trends for 2024</title>
+      <link>https://carney.wiki/blog/trends/</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/trends/</guid>
+      <description>It&amp;rsquo;s been a month into 2024, and marketers are once again at the forefront of a technological revolution, where the strategic use of data is fundamental in sculpting experiences and steering business strategies. For marketers, the journey toward leveraging these trends is paved with strategic considerations. By integrating these strategies, companies can cultivate a resilient, authentic brand presence that resonates deeply with contemporary consumers. This approach positions organizations to thrive in the dynamic digital economy and aligns with evolving consumer values, ensuring sustained relevance and success in the marketing domain.</description>
+    </item>
+    <item>
+      <title>Playbook Success with your budget</title>
+      <link>https://carney.wiki/blog/playbook/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/playbook/</guid>
+      <description>As the books close on 2024 and budgets get finalized, marketing leaders everywhere are reviewing what’s been approved—and what didn’t make the cut. It’s that time of year when big ideas meet financial reality, and the wish list gets trimmed into a strategic plan. If you didn’t get everything you asked for, you’re not alone. The key question now is how to prioritize: do you spread thinner or go deeper?</description>
+    </item>
+    <item>
+      <title>Using a proposal template</title>
+      <link>https://carney.wiki/blog/contract-templates/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/contract-templates/</guid>
+      <description>Crafting a Winning Marketing Consulting Proposal: Templates Are Fine, but Context Is Everything When it comes to securing a marketing consulting contract, the proposal you submit can make or break the deal. It&amp;rsquo;s not just a formality; it&amp;rsquo;s a comprehensive document that needs to clearly convey essential components like scope, objectives, approach, deliverables, timeline, and terms of engagement. While templates can be helpful, it&amp;rsquo;s crucial to remember that context is everything in crafting a successful proposal.</description>
+    </item>
+    <item>
+      <title>Shameful Deception: Exposing the Scandal of Fake Speakers</title>
+      <link>https://carney.wiki/blog/fake-speakers/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/fake-speakers/</guid>
+      <description>The liars at DevTernity Anna Boyko, touted as a featured speaker at DevTernity, was presented with an impressive profile that left attendees in awe. However, attempts to verify her existence were met with an unsettling silence from Coinbase employees and Ethereum core contributors. The truth emerged: Anna Boyko was a figment of the organizers&amp;rsquo; imagination, a deliberate fabrication.
+But Boyko wasn&amp;rsquo;t the sole victim of this deceit. Alina Prokhoda, claimed to be a &amp;ldquo;Senior Engineer at WhatsApp, Microsoft MVP,&amp;rdquo; was another product of the organizers&amp;rsquo; deception.</description>
+    </item>
+    <item>
+      <title>Unveiling the Unethical: How an AI-Powered SEO Heist Backfired</title>
+      <link>https://carney.wiki/blog/stealing-traffic/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/stealing-traffic/</guid>
+      <description>In the world of digital marketing, ethical practices are the cornerstone of sustainable success. Unfortunately, some individuals have taken a detour into the unethical, as revealed by a recent confession: &amp;ldquo;We pulled off an SEO heist using AI.&amp;rdquo;
+Here&amp;rsquo;s a breakdown of the operation: The Scheme Sitemap Pilfering: The culprits exported a competitor&amp;rsquo;s sitemap, a bold move into ethically murky territory. Automated Content Creation: Turning the stolen URLs into article titles, they unleashed the power of AI to generate a staggering 1,800 articles at scale.</description>
+    </item>
+    <item>
+      <title>Building &amp; Managing Your Marketing Database in a Cookie-Less World</title>
+      <link>https://carney.wiki/blog/database-mgt/</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/database-mgt/</guid>
+      <description>Your database is not glamorous. Nobody wins a standing ovation for good contact hygiene. But when it is a mess, the whole revenue engine starts coughing up hairballs.
+In a cookie-less world, the old lazy habits get expensive fast. If you want a database that actually helps marketing and sales instead of quietly sabotaging them, you need better inputs, better discipline, and a little less obsession with collecting every possible field like you are building a hostage dossier.</description>
+    </item>
+    <item>
+      <title>The Art of In-Product Marketing: Adding Value, Not Creepiness</title>
+      <link>https://carney.wiki/blog/in-product-marketing/</link>
+      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/in-product-marketing/</guid>
+      <description>In-product marketing works best when it feels like help, not surveillance. There is a big difference between a timely nudge and a product that makes the user wonder if it has been reading their diary.
+The line is not hard to understand. If the message is useful, relevant, and respectful, it adds value. If it feels manipulative, pushy, or weirdly overpersonalized, congratulations, you have built a growth tactic people will actively resent.</description>
+    </item>
+    <item>
+      <title>The Role of a Content Marketing Growth Hacker</title>
+      <link>https://carney.wiki/blog/growth-hacker/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/growth-hacker/</guid>
+      <description>Content marketing has become a linchpin in the success of businesses. Effective content not only engages audiences but also drives traffic, generates leads, and ultimately increases sales. However, to truly harness the power of content marketing, a specialized professional is often required - the Content Marketing Growth Hacker. In this article, we&amp;rsquo;ll explore why having a Content Marketing Growth Hacker on your team is crucial for achieving exponential business growth.</description>
+    </item>
+    <item>
+      <title>The Illusion of Control in Marketing</title>
+      <link>https://carney.wiki/blog/illusion-of-control/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/illusion-of-control/</guid>
+      <description>Marketers love dashboards, plans, forecasts, naming conventions, and the general feeling that everything is under control. Then the market does what it always does: it changes its mind, ignores the script, and reminds everyone that certainty was never part of the deal.
+Control in marketing is mostly a comforting story we tell ourselves. You can control effort, process, quality, and response time. You cannot control how people behave, what the market values next month, or which external event is about to bulldoze your neat quarterly plan.</description>
+    </item>
+    <item>
+      <title>Maximizing Content ROI: How to Leverage an Artifact</title>
+      <link>https://carney.wiki/blog/leverage/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/leverage/</guid>
+      <description>Most teams do not have a content shortage. They have a leverage shortage. They build one useful asset, publish it once, and then move on as if all that effort was meant for a single lap around the block.
+That is wasteful. If the underlying idea is strong, one asset should produce a lot more than one PDF, one post, or one webinar. A solid case study, for example, can fuel half your content calendar if you have the discipline to break it apart and repackage it well.</description>
+    </item>
+    <item>
+      <title>Establish a culture of experimentation</title>
+      <link>https://carney.wiki/blog/experimentation/</link>
+      <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/experimentation/</guid>
+      <description>Marketing teams love to say they are data-driven right up until the data might prove their favorite idea is dumb. Then suddenly everyone becomes very spiritual about &amp;ldquo;brand instincts.&amp;rdquo;
+That is exactly why testing matters. Markets move. Channels decay. Audiences change their minds. The teams that keep learning keep winning. The ones that fall in love with their own assumptions usually end up defending last quarter&amp;rsquo;s playbook like it is family heirloom silver.</description>
+    </item>
+    <item>
+      <title>Exploring Intent Data&#39;s Significance in Business Strategy</title>
+      <link>https://carney.wiki/blog/intent-data/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/intent-data/</guid>
+      <description>Exploring the Significance of Intent Data in Business Strategy Intent data gets sold like a crystal ball. It is not. What it is can still be useful: a set of signals that helps you understand which accounts are showing interest, what topics they care about, and where sales and marketing should probably focus before they waste energy on the wrong people.
+The catch is that not all intent data means the same thing.</description>
+    </item>
+    <item>
+      <title>Why Old Isn&#39;t Always Wrong</title>
+      <link>https://carney.wiki/blog/old-marketing/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/old-marketing/</guid>
+      <description>Marketing people love to pretend anything older than six months belongs in a museum. New channel? Amazing. New acronym? Even better. Old tactic with proven economics? Apparently embarrassing unless a consultant rebrands it.
+That is a mistake. Old does not automatically mean wrong. Sometimes it just means neglected. The real job is not worshipping novelty. It is staying agile enough to know when a forgotten tactic deserves another look.</description>
+    </item>
+    <item>
+      <title>Content Gating</title>
+      <link>https://carney.wiki/blog/content-gating/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/content-gating/</guid>
+      <description>Content Gating Policies You seek to exchange personal data for the valuable content meticulously created, all while endeavoring to establish yourselves as thought leaders with authority in your space . Striking a delicate balance between these goals is really crucial, recognizing that trust is the linchpin for success. Without trust from prospects, even the most finely tuned gated content strategy may yield subpar results.
+All gated content strategies are carefully tailored to engage prospects in the middle to later stages of their buyer&amp;rsquo;s journey.</description>
+    </item>
+    <item>
+      <title>Building the machine</title>
+      <link>https://carney.wiki/blog/whats-your-martech-stack-look-like/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/whats-your-martech-stack-look-like/</guid>
+      <description>Documenting your Martech stack What&amp;rsquo;s your standardized Martech stack? Do you know what&amp;rsquo;s running? Do you know the overlaps and are you willing to accept them?
+The purpose of documenting the stack is to consolidate for continuity and control. Some of the vendors you work with may collect PII (Personal Identifiable Information) or PD (Personal Data) on your behalf or may not integrate into your databases of record for subscription management.</description>
+    </item>
+    <item>
+      <title>Rethinking Live Chat: Is it Time for a More Focused Approach</title>
+      <link>https://carney.wiki/blog/live-chat/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/live-chat/</guid>
+      <description>Most live chat is either wasted or misused. It gets wasted when it sits on the site like a decorative paperweight. It gets misused when teams expect it to be support desk, SDR, concierge, and miracle conversion machine all at once.
+There is a better way to use it. Put chat where intent is high, narrow the use case, and use AI to make the interaction faster and smarter instead of louder and more annoying.</description>
+    </item>
+    <item>
+      <title>How to Grow Your Career by Leaving Jobs on Your Terms</title>
+      <link>https://carney.wiki/blog/changing-jobs/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/changing-jobs/</guid>
+      <description>Have you ever felt stuck in a job that no longer challenges you or rewards you for your efforts? Have you ever wondered what it would be like to work in a different company or industry that values your skills and potential? Many professionals face the dilemma of whether to stay in their current role or seek new opportunities elsewhere. In this blog post, I’ll share my personal story of how I grew my career by leaving jobs on my terms, even when it meant giving up the comfort and security of my familiar workplace.</description>
+    </item>
+    <item>
+      <title>Just Enough Automation in Marketing</title>
+      <link>https://carney.wiki/blog/balance/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/balance/</guid>
+      <description>In the world of marketing, automation has emerged as a game-changer. It streamlines processes, increases efficiency, and helps reach prospects at the right time. However, like any tool, automation can be a double-edged sword. Use it judiciously, and it can enhance your marketing efforts; overdo it, and it may harm your relationship with prospects. Let&amp;rsquo;s explore the delicate balance between &amp;ldquo;just enough&amp;rdquo; automation and the perils of &amp;ldquo;too much&amp;rdquo; from a marketing perspective, with a cautionary tale of websites using people&amp;rsquo;s names excessively.</description>
+    </item>
+    <item>
+      <title>The Digital Marketing Landscape New Rules</title>
+      <link>https://carney.wiki/blog/digital-marketing-landscape/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/digital-marketing-landscape/</guid>
+      <description>The Shift in Work Dynamics COVID did not create digital marketing. It did, however, throw gasoline on it. Budgets that used to disappear into flights, booths, hotels, and branded stress balls suddenly got shoved online. That meant more channels, more campaigns, more reporting, more content, and, naturally, more work for the same number of humans.
+For marketing teams, that shift was both an opportunity and a trap. Digital finally got taken seriously.</description>
+    </item>
+    <item>
+      <title>The Tradeshow Circus</title>
+      <link>https://carney.wiki/blog/tradeshows-suck/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/tradeshows-suck/</guid>
+      <description>Who forced the shift to digital? It&amp;rsquo;s a bit weird to think of it this way but without COVID and the cancelation of all tradeshows in 2020 I could never have proven the value of a complete shift to digital. The lead flow we generated without tradeshows demonstrated a much more cost effective spend of marketing dollars.
+Tradeshows are expensive: between the booth, travel, marketing, and sponsorships, showcasing your products at trade show exhibits can put a SERIOUS dent into your marketing budget.</description>
+    </item>
+    <item>
+      <title>Operational Efficiencies in Marketing</title>
+      <link>https://carney.wiki/blog/operational-efficiencies/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/operational-efficiencies/</guid>
+      <description>Time to shine 2021 must be focused on minimizing unnecessary and unproductive expenses and delivering sales qualified leads that convert to opportunities - it’s really that simple. The marketing pendulum must dramatically shift towards an Agile but deliberate approach (scrappy) focused on Net New and away from branding exercises and vanity metrics. This is supported by the fact that many companies truly don’t have a branding budget, nor should they be allowed one until they have their story completed and vetted with a mapped execution strategy.</description>
+    </item>
+  </channel>
+</rss>

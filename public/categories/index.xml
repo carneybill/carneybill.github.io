@@ -1,1 +1,89 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on</title><link>https://carney.wiki/categories/</link><description>Recent content in Categories on</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 05 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>B2B Marketing</title><link>https://carney.wiki/categories/b2b-marketing/</link><pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/categories/b2b-marketing/</guid><description/></item><item><title>GTM Strategy</title><link>https://carney.wiki/categories/gtm-strategy/</link><pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/categories/gtm-strategy/</guid><description/></item><item><title>Trust &amp; Brand</title><link>https://carney.wiki/categories/trust-brand/</link><pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/categories/trust-brand/</guid><description/></item><item><title>AI &amp; Automation</title><link>https://carney.wiki/categories/ai-automation/</link><pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/categories/ai-automation/</guid><description/></item><item><title>Content Strategy</title><link>https://carney.wiki/categories/content-strategy/</link><pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/categories/content-strategy/</guid><description/></item><item><title>Marketing Technology</title><link>https://carney.wiki/categories/marketing-technology/</link><pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/categories/marketing-technology/</guid><description/></item><item><title>Data &amp; Analytics</title><link>https://carney.wiki/categories/data-analytics/</link><pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/categories/data-analytics/</guid><description/></item><item><title>Leadership &amp; Career</title><link>https://carney.wiki/categories/leadership-career/</link><pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/categories/leadership-career/</guid><description/></item><item><title>Marketing Operations</title><link>https://carney.wiki/categories/marketing-operations/</link><pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/categories/marketing-operations/</guid><description/></item><item><title>Web &amp; Development</title><link>https://carney.wiki/categories/web-development/</link><pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/categories/web-development/</guid><description/></item><item><title>Product &amp; UX</title><link>https://carney.wiki/categories/product-ux/</link><pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/categories/product-ux/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Carney</title>
+    <link>https://carney.wiki/categories/</link>
+    <description>Recent content in Categories on Carney</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carney.wiki/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>B2B Marketing</title>
+      <link>https://carney.wiki/categories/b2b-marketing/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/categories/b2b-marketing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GTM Strategy</title>
+      <link>https://carney.wiki/categories/gtm-strategy/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/categories/gtm-strategy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trust &amp; Brand</title>
+      <link>https://carney.wiki/categories/trust-brand/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/categories/trust-brand/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI &amp; Automation</title>
+      <link>https://carney.wiki/categories/ai-automation/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/categories/ai-automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content Strategy</title>
+      <link>https://carney.wiki/categories/content-strategy/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/categories/content-strategy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Marketing Technology</title>
+      <link>https://carney.wiki/categories/marketing-technology/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/categories/marketing-technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data &amp; Analytics</title>
+      <link>https://carney.wiki/categories/data-analytics/</link>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/categories/data-analytics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Leadership &amp; Career</title>
+      <link>https://carney.wiki/categories/leadership-career/</link>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/categories/leadership-career/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Marketing Operations</title>
+      <link>https://carney.wiki/categories/marketing-operations/</link>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/categories/marketing-operations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web &amp; Development</title>
+      <link>https://carney.wiki/categories/web-development/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/categories/web-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Product &amp; UX</title>
+      <link>https://carney.wiki/categories/product-ux/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/categories/product-ux/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

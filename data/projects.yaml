@@ -1,43 +1,64 @@
 items:
   - name: PlaybookM
+    category: Marketing Operations
     url: https://www.playbookm.com/
     screenshot: /img/projects/playbookm-home.png
     screenshot_alt: Homepage screenshot of PlaybookM
     summary: "PlaybookM presents itself as a marketing decision platform built to make marketing production visible. Its homepage focuses on helping teams find gaps quickly, align around strategy, and invest in the work that is actually moving performance."
     details: "It also reads like a workflow system for marketing teams, with dashboard, list, kanban, and calendar views tied to budget visibility, shared planning, and data-backed decisions."
+    problem: "Marketing teams need a clearer operating layer for strategy, work, budget, and evidence instead of disconnected planning artifacts."
+    demonstrates: "Positioning a complex marketing workflow product around visibility, decision quality, and accountable execution."
   - name: Operrai
+    category: AI & Automation
     url: https://www.operrai.com/
     screenshot: /img/projects/operrai-home.png
     screenshot_alt: Illustrated preview of the Operrai workflow design workspace
     summary: "Operrai currently presents Workflow Models, an operational workflow intelligence system for drafting workflows from a defined start and finish. Its homepage focuses on using AI to generate the middle of a process, validate the structure, and keep the resulting graph editable."
     details: "The product reads like a workflow design and review workspace, with example-driven prompting, node editing, validation scoring, and PDF export for structured operational diagrams."
+    problem: "Operators need AI to help structure repeatable work without losing human review, editability, and process control."
+    demonstrates: "An AI product narrative grounded in workflow intelligence, validation, and practical operating utility."
   - name: The Data Consulting Company
+    category: Data & Consulting
     url: https://www.thedataconsultingcompany.com/
     screenshot: /img/projects/tdcc-home.png
     screenshot_alt: Homepage screenshot of The Data Consulting Company
     summary: "The Data Consulting Company positions itself around responsible AI, reliable insight, and stronger data foundations. The homepage emphasizes helping organizations use governance, engineering, and AI-ready infrastructure to drive smarter decisions and automate work."
     details: "Its messaging is aimed at companies that want AI adoption to be defensible and scalable, with attention on AI governance, data engineering for intelligent systems, and broader end-to-end data and AI solutions."
+    problem: "AI adoption creates pressure for stronger data foundations, governance, and executive confidence."
+    demonstrates: "Consulting positioning that connects technical capability to responsible adoption and commercial decision-making."
   - name: StaffOps.AI
+    category: AI & Automation
     url: https://www.staffops.ai/
     screenshot: /img/projects/staffops-home.png
     screenshot_alt: Homepage screenshot of StaffOps.AI
     summary: "StaffOps is framed as a digital staffing hub for role-based digital employees. The homepage focuses on orchestrating cross-functional operations with controls, approvals, and measurable outcomes so AI systems can move beyond assistance and into accountable execution."
     details: "The product story is heavily operational: request-to-results workflows, meeting follow-through, human checkpoints, and a control plane for leaders, operations teams, and IT."
+    problem: "Companies want AI labor to produce accountable outcomes, not just chat outputs or isolated task assistance."
+    demonstrates: "A control-plane story for AI operations, approvals, role-based work, and measurable execution."
   - name: TrueCostEdu
+    category: Education / Decision Support
     url: https://www.truecostedu.com/
     screenshot: /img/projects/truecostedu-home.png
     screenshot_alt: Homepage screenshot of TrueCostEdu
     summary: "TrueCostEdu is a college planning workspace built to help students understand the real cost of school before they commit. The homepage centers on organizing school options, validating cost assumptions, and comparing decisions with clearer recommendations."
     details: "It outlines a structured workflow for selecting schools, editing cost details, uploading award letters from PDFs or photos, inviting comments from parents or counselors, and ranking options by net cost and loan burden."
+    problem: "Families need decision support that turns confusing college costs into comparable, defensible options."
+    demonstrates: "Product framing for high-stakes consumer decisions where clarity, collaboration, and risk reduction matter."
   - name: TickrTape
+    category: Financial Information
     url: https://www.tickrtape.info/
     screenshot: /img/projects/control-panel.png
     screenshot_alt: Tickr control panel screenshot
     summary: "TickrTape is a web-based, Bloomberg-style market window that gives users a fast, compact view of stocks, market movement, and financial signals in one browser-based dashboard. It is built for investors and market watchers who want a lightweight market terminal experience without the cost or complexity of enterprise trading software."
     details: "One data layer powered by OpenBB Platform (50+ providers, 270 endpoints), an amber-on-black terminal UI, and a built-in rules engine that turns numbers into signals. Built on OpenBB, Vite, React, TypeScript, and TradingView lightweight-charts."
+    problem: "Market watchers want fast signal and context without the overhead of enterprise-grade terminals."
+    demonstrates: "Information architecture for dense data, financial scanning, and lightweight decision support."
   - name: JB Match AI
+    category: Recruiting / Career Tech
     url: https://www.jbmatchai.com/
     screenshot: /img/projects/jbmatchai-home.png
     screenshot_alt: Homepage screenshot of JB Match AI
     summary: "JB Match AI presents itself as an AI hiring platform built to predict candidate performance and help teams make more informed recruiting decisions. The homepage focuses on analyzing resumes against job descriptions, generating suitability scores, and reducing guesswork in early screening."
     details: "Its positioning also leans into fixing ATS-era friction, using NLP and machine learning to improve stack ranking, highlight stronger fits, and streamline recruiting workflows with more consistent, data-backed evaluation."
+    problem: "Hiring teams need a more consistent way to compare role fit before human review time gets wasted."
+    demonstrates: "AI positioning in a trust-sensitive workflow where scoring, transparency, and decision quality matter."

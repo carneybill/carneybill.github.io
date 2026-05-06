@@ -1,8 +1,8 @@
 baseURL = "https://carney.wiki/"
 languageCode = "en"
-title = ""
-author = "Bill Carney"
-description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+title = "Carney"
+author = "Carney"
+description = "Bill Carney helps technical B2B companies turn complexity into clarity, credibility, and growth through positioning, AI-era trust, and growth systems."
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = "G-861LVY2WMP"
 disqusShortname = ""
@@ -17,14 +17,14 @@ paginate = 9
 preserveTaxonomyNames = true
 
 [params]
-  orgName = "Formspree"
+  orgName = "Carney"
   orgLocal = "Brooklyn, NY"
   favicon = "/img/favicon.ico?v=0"
   logo = "/img/blogophonic-mark-dark.png"
   # font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
   textFontFamily = "sans-serif"
-  headingFontFamily = "sans-serif"
+  headingFontFamily = "serif"
   # basic color options: use only color names as shown in the
   # "Color Palette" section of http://tachyons.io/docs/themes/skins/
   siteBgColor = "near-white"

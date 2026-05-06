@@ -1,13 +1,531 @@
-<!doctype html><html lang=en dir=ltr><head><meta charset=UTF-8><meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1"><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta http-equiv=Content-Security-Policy content="default-src 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' https://www.google-analytics.com https://www.googletagmanager.com; connect-src 'self' https://www.google-analytics.com; font-src 'self' data:; object-src 'none'; base-uri 'self'; form-action 'self' https://formspree.io;"><meta name=referrer content="strict-origin-when-cross-origin"><title>Series</title>
-<meta name=description content><meta property="og:title" content="Series"><meta property="og:description" content><meta property="og:type" content="website"><meta property="og:url" content="https://carney.wiki/series/"><meta itemprop=name content="Series"><meta itemprop=description content><meta name=twitter:card content="summary"><meta name=twitter:title content="Series"><meta name=twitter:description content><script async src="https://www.googletagmanager.com/gtag/js?id=G-861LVY2WMP"></script><script>var doNotTrack=!1;if(!doNotTrack){window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date),gtag("config","G-861LVY2WMP",{anonymize_ip:!1})}</script><link rel="shortcut icon" href="/img/favicon.ico?v=0" type=image/x-icon><link rel=icon href="/img/favicon.ico?v=0" type=image/x-icon><link rel=alternate type=application/rss+xml href=https://carney.wiki/series/index.xml title><link rel=stylesheet href=https://carney.wiki/style.main.min.133b2bb68ad97544f6d0dc5eb002963658e3bcfc7a2a4e6be0f9ff82f02bf165.css integrity="sha256-EzsrtorZdUT20NxesAKWNljjvPx6Kk5r4Pn/gvAr8WU=" media=screen><link rel=stylesheet href=/css/icomoon.css><link rel=stylesheet href=/css/simple-line-icons.css><link rel=stylesheet href=/css/custom.css></head><body><div class=grid-container><header class="site-header bb b--transparent" role=banner><div class=site-header-inner><nav class="site-nav db dt-l w-100" role=nav><a class="site-brand db dtc-l v-mid link no-underline w-100 w-33-l tc tl-l" href=https://carney.wiki/ title=Home><img src=/img/blogophonic-mark-dark.png class="dib db-l h2 w-auto" alt></a><div class="site-links db dtc-l v-mid w-100 w-47-l tc tr-l mt3 mt0-l"><a class="link f6 f5-l dib pv1 ph2" href=/about/ title="About Bill">About</a>
-<a class="link f6 f5-l dib pv1 ph2" href=/projects/ title="Current Projects">Projects</a>
-<a class="link f6 f5-l dib pv1 ph2" href=/offers/ title="AI-era marketing offers">Offers</a>
-<a class="link f6 f5-l dib pv1 ph2" href=/blog/ title=Blog>Blog</a>
-<a class="link f6 f5-l dib pv1 ph2" href=https://cal.com/bill-carney/60min title="Book a conversation" target=_blank rel="noopener noreferrer">Connect</a>
-<button class="site-search-trigger dib v-mid" type=button aria-label="Search the site" aria-haspopup=dialog aria-controls=site-search-dialog aria-expanded=false data-site-search-open>
-<span class=icon-search aria-hidden=true></span></button></div></nav></div><div class=site-search-overlay id=site-search-dialog data-site-search-root data-site-search-index=/index.json hidden><div class=site-search-backdrop data-site-search-close></div><div class=site-search-panel role=dialog aria-modal=true aria-labelledby=site-search-title><div class=site-search-panel-header><span class="site-search-panel-icon icon-search" aria-hidden=true></span><div class=site-search-panel-copy><p class=site-search-title id=site-search-title>Search the site</p><p class=site-search-hint>Search posts, pages, and projects.</p></div><button class=site-search-close type=button aria-label="Close search" data-site-search-close>
-<span class=icon-close aria-hidden=true></span></button></div><label class=clip for=site-search-input>Search the site</label>
-<input class=site-search-input id=site-search-input type=search name=search placeholder="Type to search..." autocomplete=off spellcheck=false data-site-search-input><p class=site-search-status data-site-search-status>Start typing to search.</p><div class=site-search-results data-site-search-results></div></div></div></header><main class="page-main pa4" role=main><section class="blog-intro mw7 center mb5"><h1 class="f2 f1-ns fw4 lh-solid tc center">Posts in <span class=i>Series</span></h1></section><section class="blog-content mw7 center"></section></main><footer class="site-footer pa4 bt b--transparent" role=contentinfo><nav class="db dt-l w-100"><p class="site-copyright f7 db dtc-l v-mid w-100 w-33-l tc tl-l pv2 pv0-l mv0 lh-copy">&copy; 2026 Bill Carney, all rights reserved.</p><div class="site-links f6 db dtc-l v-mid w-100 w-67-l tc tr-l pv2 pv0-l mv0"><a class="dib pv1 ph2 link" href=https://amzn.to/4bKdyte title="Buy my Book">Book</a>
-<a class="dib pv1 ph2 link" href=/projects/ title="Current Projects">Projects</a>
-<a class="dib pv1 ph2 link" href=https://cal.com/bill-carney/60min title="Help Site">Help</a>
-<a class="dib pv1 ph2 link" href=/index.xml title="RSS Feed">RSS</a></div></nav></footer></div><script defer src=/js/site-search.js></script></body></html>
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' https://www.google-analytics.com https://www.googletagmanager.com; connect-src 'self' https://www.google-analytics.com; font-src 'self' data:; object-src 'none'; base-uri 'self'; form-action 'self' https://formspree.io;">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <title>Series | Carney</title>
+  <meta name="description" content="" />
+  <meta property="og:title" content="Series" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://carney.wiki/series/" />
+
+
+
+  <meta itemprop="name" content="Series">
+<meta itemprop="description" content="">
+  <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Series"/>
+<meta name="twitter:description" content=""/>
+
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-861LVY2WMP"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-861LVY2WMP', { 'anonymize_ip': false });
+}
+</script>
+
+  <link rel="shortcut icon" href="/img/favicon.ico?v=0" type="image/x-icon">
+  <link rel="icon" href="/img/favicon.ico?v=0" type="image/x-icon">
+  
+    <link rel="alternate" type="application/rss+xml" href="https://carney.wiki/series/index.xml" title="Carney" />
+  
+  
+  <link rel="stylesheet" href="https://carney.wiki/style.main.min.9a89f9471255566694cf7a7b57b5ea7f2679e4b0a97f0560b9860ac7bc89810c.css" integrity="sha256-mon5RxJVVmaUz3p7V7XqfyZ55LCpfwVguYYKx7yJgQw=" media="screen">
+  
+   <link rel="stylesheet" href="/css/icomoon.css"> 
+   <link rel="stylesheet" href="/css/simple-line-icons.css">
+   
+    
+  <link rel="stylesheet" href="/css/custom.css">
+</head>
+<body>
+      <div class="grid-container"><header class="site-header" role="banner">
+  <div class="site-header-inner">
+    <nav class="site-nav" role="navigation" aria-label="Primary navigation">
+      <a class="site-brand" href="https://carney.wiki/" title="Home">
+        <span class="brand-lockup">
+          <span>Carney</span>
+          <span>&amp; Connections</span>
+        </span>
+      </a>
+      <div class="site-links">
+        
+        
+        <a href="/about/" title="About Carney">About</a>
+        
+        
+        
+        <a href="/projects/" title="Current Projects">Projects</a>
+        
+        
+        
+        <a href="/offers/" title="AI-era marketing offers">Offers</a>
+        
+        
+        
+        <a href="/blog/" title="Insights">Insights</a>
+        
+        
+        
+        <a href="https://cal.com/bill-carney/60min" title="Book a conversation" target="_blank" rel="noopener noreferrer" class="nav-cta">Book a conversation</a>
+        
+        
+        <button
+          class="site-search-trigger dib v-mid"
+          type="button"
+          aria-label="Search the site"
+          aria-haspopup="dialog"
+          aria-controls="site-search-dialog"
+          aria-expanded="false"
+          data-site-search-open
+        >
+          <span class="icon-search" aria-hidden="true"></span>
+        </button>
+        
+      </div>
+    </nav>
+  </div>
+  <div
+  class="site-search-overlay"
+  id="site-search-dialog"
+  data-site-search-root
+  data-site-search-index="/index.json"
+  hidden
+>
+  <div class="site-search-backdrop" data-site-search-close></div>
+  <div class="site-search-panel" role="dialog" aria-modal="true" aria-labelledby="site-search-title">
+    <div class="site-search-panel-header">
+      <span class="site-search-panel-icon icon-search" aria-hidden="true"></span>
+      <div class="site-search-panel-copy">
+        <p class="site-search-title" id="site-search-title">Search the site</p>
+        <p class="site-search-hint">Search posts, pages, and projects.</p>
+      </div>
+      <button class="site-search-close" type="button" aria-label="Close search" data-site-search-close>
+        <span class="icon-close" aria-hidden="true"></span>
+      </button>
+    </div>
+    <label class="clip" for="site-search-input">Search the site</label>
+    <input
+      class="site-search-input"
+      id="site-search-input"
+      type="search"
+      name="search"
+      placeholder="Type to search..."
+      autocomplete="off"
+      spellcheck="false"
+      data-site-search-input
+    >
+    <p class="site-search-status" data-site-search-status>Start typing to search.</p>
+    <div class="site-search-results" data-site-search-results></div>
+  </div>
+</div>
+
+</header>
+
+<main class="page-main taxonomy-page" role="main">
+  <section class="page-hero">
+    <p class="section-eyebrow">Topic</p>
+    <h1>Series</h1>
+    <p>Insights and notes grouped by this theme.</p>
+  </section>
+  <section class="blog-content insight-grid">
+    
+      
+
+<article class="insight-card">
+  <a class="insight-card-link" href="/series/the-ai-era-b2b-marketing-operator/" aria-label="Read The AI-Era B2B Marketing Operator">
+    
+    <div class="insight-card-meta">
+      
+      
+    </div>
+    <h3>The AI-Era B2B Marketing Operator</h3>
+    
+    <p></p>
+    <span class="card-button">Read insight</span>
+  </a>
+</article>
+
+    
+      
+
+<article class="insight-card">
+  <a class="insight-card-link" href="/series/culture/" aria-label="Read Culture">
+    
+    <div class="insight-card-meta">
+      
+      
+    </div>
+    <h3>Culture</h3>
+    
+    <p></p>
+    <span class="card-button">Read insight</span>
+  </a>
+</article>
+
+    
+      
+
+<article class="insight-card">
+  <a class="insight-card-link" href="/series/growth/" aria-label="Read Growth">
+    
+    <div class="insight-card-meta">
+      
+      
+    </div>
+    <h3>Growth</h3>
+    
+    <p></p>
+    <span class="card-button">Read insight</span>
+  </a>
+</article>
+
+    
+      
+
+<article class="insight-card">
+  <a class="insight-card-link" href="/series/process/" aria-label="Read Process">
+    
+    <div class="insight-card-meta">
+      
+      
+    </div>
+    <h3>Process</h3>
+    
+    <p></p>
+    <span class="card-button">Read insight</span>
+  </a>
+</article>
+
+    
+      
+
+<article class="insight-card">
+  <a class="insight-card-link" href="/series/ai/" aria-label="Read AI">
+    
+    <div class="insight-card-meta">
+      
+      
+    </div>
+    <h3>AI</h3>
+    
+    <p></p>
+    <span class="card-button">Read insight</span>
+  </a>
+</article>
+
+    
+      
+
+<article class="insight-card">
+  <a class="insight-card-link" href="/series/playbooks/" aria-label="Read Playbooks">
+    
+    <div class="insight-card-meta">
+      
+      
+    </div>
+    <h3>Playbooks</h3>
+    
+    <p></p>
+    <span class="card-button">Read insight</span>
+  </a>
+</article>
+
+    
+      
+
+<article class="insight-card">
+  <a class="insight-card-link" href="/series/vendors/" aria-label="Read Vendors">
+    
+    <div class="insight-card-meta">
+      
+      
+    </div>
+    <h3>Vendors</h3>
+    
+    <p></p>
+    <span class="card-button">Read insight</span>
+  </a>
+</article>
+
+    
+      
+
+<article class="insight-card">
+  <a class="insight-card-link" href="/series/leadership/" aria-label="Read leadership">
+    
+    <div class="insight-card-meta">
+      
+      
+    </div>
+    <h3>leadership</h3>
+    
+    <p></p>
+    <span class="card-button">Read insight</span>
+  </a>
+</article>
+
+    
+      
+
+<article class="insight-card">
+  <a class="insight-card-link" href="/series/vulnerability/" aria-label="Read Vulnerability">
+    
+    <div class="insight-card-meta">
+      
+      
+    </div>
+    <h3>Vulnerability</h3>
+    
+    <p></p>
+    <span class="card-button">Read insight</span>
+  </a>
+</article>
+
+    
+      
+
+<article class="insight-card">
+  <a class="insight-card-link" href="/series/relationships/" aria-label="Read Relationships">
+    
+    <div class="insight-card-meta">
+      
+      
+    </div>
+    <h3>Relationships</h3>
+    
+    <p></p>
+    <span class="card-button">Read insight</span>
+  </a>
+</article>
+
+    
+      
+
+<article class="insight-card">
+  <a class="insight-card-link" href="/series/sales/" aria-label="Read Sales">
+    
+    <div class="insight-card-meta">
+      
+      
+    </div>
+    <h3>Sales</h3>
+    
+    <p></p>
+    <span class="card-button">Read insight</span>
+  </a>
+</article>
+
+    
+      
+
+<article class="insight-card">
+  <a class="insight-card-link" href="/series/building/" aria-label="Read building">
+    
+    <div class="insight-card-meta">
+      
+      
+    </div>
+    <h3>building</h3>
+    
+    <p></p>
+    <span class="card-button">Read insight</span>
+  </a>
+</article>
+
+    
+      
+
+<article class="insight-card">
+  <a class="insight-card-link" href="/series/technology/" aria-label="Read Technology">
+    
+    <div class="insight-card-meta">
+      
+      
+    </div>
+    <h3>Technology</h3>
+    
+    <p></p>
+    <span class="card-button">Read insight</span>
+  </a>
+</article>
+
+    
+      
+
+<article class="insight-card">
+  <a class="insight-card-link" href="/series/operation/" aria-label="Read Operation">
+    
+    <div class="insight-card-meta">
+      
+      
+    </div>
+    <h3>Operation</h3>
+    
+    <p></p>
+    <span class="card-button">Read insight</span>
+  </a>
+</article>
+
+    
+      
+
+<article class="insight-card">
+  <a class="insight-card-link" href="/series/automation/" aria-label="Read Automation">
+    
+    <div class="insight-card-meta">
+      
+      
+    </div>
+    <h3>Automation</h3>
+    
+    <p></p>
+    <span class="card-button">Read insight</span>
+  </a>
+</article>
+
+    
+      
+
+<article class="insight-card">
+  <a class="insight-card-link" href="/series/proposals/" aria-label="Read Proposals">
+    
+    <div class="insight-card-meta">
+      
+      
+    </div>
+    <h3>Proposals</h3>
+    
+    <p></p>
+    <span class="card-button">Read insight</span>
+  </a>
+</article>
+
+    
+      
+
+<article class="insight-card">
+  <a class="insight-card-link" href="/series/trends/" aria-label="Read Trends">
+    
+    <div class="insight-card-meta">
+      
+      
+    </div>
+    <h3>Trends</h3>
+    
+    <p></p>
+    <span class="card-button">Read insight</span>
+  </a>
+</article>
+
+    
+      
+
+<article class="insight-card">
+  <a class="insight-card-link" href="/series/machines/" aria-label="Read Machines">
+    
+    <div class="insight-card-meta">
+      
+      
+    </div>
+    <h3>Machines</h3>
+    
+    <p></p>
+    <span class="card-button">Read insight</span>
+  </a>
+</article>
+
+    
+      
+
+<article class="insight-card">
+  <a class="insight-card-link" href="/series/ethics/" aria-label="Read Ethics">
+    
+    <div class="insight-card-meta">
+      
+      
+    </div>
+    <h3>Ethics</h3>
+    
+    <p></p>
+    <span class="card-button">Read insight</span>
+  </a>
+</article>
+
+    
+      
+
+<article class="insight-card">
+  <a class="insight-card-link" href="/series/operational/" aria-label="Read Operational">
+    
+    <div class="insight-card-meta">
+      
+      
+    </div>
+    <h3>Operational</h3>
+    
+    <p></p>
+    <span class="card-button">Read insight</span>
+  </a>
+</article>
+
+    
+      
+
+<article class="insight-card">
+  <a class="insight-card-link" href="/series/roles/" aria-label="Read Roles">
+    
+    <div class="insight-card-meta">
+      
+      
+    </div>
+    <h3>Roles</h3>
+    
+    <p></p>
+    <span class="card-button">Read insight</span>
+  </a>
+</article>
+
+    
+  </section>
+</main>
+<footer class="site-footer" role="contentinfo">
+  <div class="site-footer-positioning">
+    <p>Carney is the practice of Bill Carney — helping technical B2B companies turn complexity into clarity, credibility, and growth.</p>
+  </div>
+  <nav class="site-footer-nav" aria-label="Footer navigation">
+    <p class="site-copyright">
+      &copy; 2026 Carney, all rights reserved.
+      
+    </p>
+    
+    <div class="site-footer-links">
+      
+      <a href="/projects/" title="Current Projects">Projects</a>
+      
+      <a href="/blog/" title="Insights">Insights</a>
+      
+      <a href="/offers/" title="AI-era marketing offers">Offers</a>
+      
+      <a href="https://cal.com/bill-carney/60min" title="Book a conversation">Contact</a>
+      
+      <a href="/index.xml" title="RSS Feed">RSS</a>
+      
+      <a href="https://amzn.to/4bKdyte" title="Buy my Book">Book</a>
+      
+    </div>
+  </nav>
+</footer>
+
+      </div>
+      <script defer src="/js/site-search.js"></script>
+    </body>
+</html>

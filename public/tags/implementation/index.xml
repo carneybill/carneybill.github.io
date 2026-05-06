@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>implementation on</title><link>https://carney.wiki/tags/implementation/</link><description>Recent content in implementation on</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 02 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/implementation/index.xml" rel="self" type="application/rss+xml"/><item><title>Verification Beats Persuasion</title><link>https://carney.wiki/blog/ai-era-verification-beats-persuasion/</link><pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-era-verification-beats-persuasion/</guid><description>Most B2B buyers do not buy the way your homepage wishes they did.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>implementation on Carney</title>
+    <link>https://carney.wiki/tags/implementation/</link>
+    <description>Recent content in implementation on Carney</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 02 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carney.wiki/tags/implementation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Verification Beats Persuasion</title>
+      <link>https://carney.wiki/blog/ai-era-verification-beats-persuasion/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ai-era-verification-beats-persuasion/</guid>
+      <description>Most B2B buyers do not buy the way your homepage wishes they did.
 They do not move politely from awareness to interest to demo to proposal like a nice clean funnel diagram someone made in a keynote ten years ago and refuses to let die.
 They move in loops.
-Someone gets excited. Someone else gets skeptical. A champion forms. Security appears. Finance asks for assumptions. Operations asks how this will actually work in the real world, which is usually where a lot of “frictionless” stories go to die.</description></item></channel></rss>
+Someone gets excited. Someone else gets skeptical. A champion forms. Security appears. Finance asks for assumptions. Operations asks how this will actually work in the real world, which is usually where a lot of “frictionless” stories go to die.</description>
+    </item>
+  </channel>
+</rss>

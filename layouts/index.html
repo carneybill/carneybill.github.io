@@ -1,19 +1,84 @@
 {{ define "main" }}
-<main class="page-main pa4" role="main">
-  <section class="page-content mw9 center">
-    <div class="flex-l items-center">
-      <div class="mh5-l w-50-l">
-        {{ with .Params.title }}<h1 class="f2 f1-m f-subheadline-l fw5-ns mv4 lh-solid tracked-tight">{{ . }}</h1>{{ end }}
-        {{ with .Params.subtitle }}<h2 class="f7 fw7 measure mv0 ttu tracked">{{ . }}</h2>{{ end }}
-        {{ with .Params.description }}<p class="f4 measure mv4 lh-copy black-50">{{ . | markdownify }}</p>{{ end }}
-        {{ if .Params.show_action_link }}<a class="action {{ .Params.action_type }}" href="{{ .Params.action_link }}">{{ .Params.action_label | htmlUnescape }}</a>{{ end }}
-      </div>
-      <div class="tr w-50-l">
-      {{ with .Params.images }}
-        {{ range first 1 . }}<img class="home-hero-image mv0 w-70-m" src="{{ . }}"/>{{ end }}
-      {{ end }}
+{{ $projects := first 3 site.Data.projects.items }}
+{{ $posts := first 3 ((where site.RegularPages "Section" "blog").ByPublishDate.Reverse) }}
+<main class="page-main executive-home" role="main">
+  <section class="executive-hero">
+    <div class="executive-hero-copy">
+      <p class="section-eyebrow">Growth operator / AI-era B2B strategy</p>
+      <h1>I help technical B2B companies turn complexity into clarity, credibility, and growth.</h1>
+      <p class="hero-lede">I work across positioning, marketing systems, AI-era trust, and operator-level execution for teams that need sharper strategy and practical commercial momentum.</p>
+      <div class="hero-actions">
+        <a class="button button-primary" href="https://cal.com/bill-carney/60min" target="_blank" rel="noopener noreferrer">Book a conversation</a>
+        <a class="button button-secondary" href="/projects/">Explore projects</a>
       </div>
     </div>
+    <aside class="executive-hero-panel" aria-label="Operating thesis">
+      <p class="panel-kicker">Operating thesis</p>
+      <p>AI did not remove the need for strategy. It raised the cost of vague positioning, weak proof, and disconnected execution.</p>
+      <dl>
+        <div><dt>Focus</dt><dd>Technical B2B growth</dd></div>
+        <div><dt>Mode</dt><dd>Strategy plus hands-on build</dd></div>
+        <div><dt>Outcome</dt><dd>Clearer story, stronger trust, measurable motion</dd></div>
+      </dl>
+    </aside>
   </section>
+
+  <section class="section-band">
+    {{ partial "section-header.html" (dict "eyebrow" "What I do" "title" "Make complex markets easier to buy from." "copy" "The work sits where narrative, systems, proof, and execution meet.") }}
+    <div class="pillar-grid">
+      <article>
+        <span>01</span>
+        <h3>Positioning &amp; Narrative</h3>
+        <p>Clarify the market story, the buyer problem, and the proof points that make a technical product easier to understand, remember, and defend.</p>
+      </article>
+      <article>
+        <span>02</span>
+        <h3>Growth &amp; Go-to-Market Systems</h3>
+        <p>Turn strategy into repeatable campaigns, operating rhythms, measurement loops, and team workflows that can survive contact with the market.</p>
+      </article>
+      <article>
+        <span>03</span>
+        <h3>AI-Era Trust &amp; Proof</h3>
+        <p>Build credibility infrastructure for buyers, committees, and AI-mediated discovery: evidence, verification, decision support, and useful content.</p>
+      </article>
+    </div>
+  </section>
+
+  <section class="section-band section-band-ruled">
+    <div class="section-split">
+      {{ partial "section-header.html" (dict "eyebrow" "Selected projects" "title" "Products, platforms, and operating experiments." "copy" "A portfolio of real builds across marketing operations, AI automation, data, recruiting, education, and financial information.") }}
+      <a class="text-link" href="/projects/">View all projects</a>
+    </div>
+    <div class="compact-project-grid">
+      {{ range $index, $project := $projects }}
+        {{ partial "project-card.html" (dict "project" $project "index" $index) }}
+      {{ end }}
+    </div>
+  </section>
+
+  <section class="section-band">
+    <div class="section-split">
+      {{ partial "section-header.html" (dict "eyebrow" "Latest thinking" "title" "Practical notes on growth, trust, AI, and B2B buying." "copy" "Writing for operators who care less about noise and more about what helps buyers move.") }}
+      <a class="text-link" href="/blog/">Visit insights</a>
+    </div>
+    <div class="insight-grid">
+      {{ range $posts }}
+        {{ partial "insight-card.html" (dict "page" .) }}
+      {{ end }}
+    </div>
+  </section>
+
+  <section class="operator-section">
+    <div>
+      <p class="section-eyebrow">Operator credibility</p>
+      <h2>Strategy only matters when it changes execution.</h2>
+    </div>
+    <div>
+      <p>I am Bill Carney — an executive marketer with the habit of building: products, workflows, content systems, decision tools, and market experiments. The throughline is practical growth work for companies where the product is complex and the buyer needs confidence before momentum appears.</p>
+      <a class="text-link" href="/about/">More about Bill</a>
+    </div>
+  </section>
+
+  {{ partial "cta-section.html" (dict "title" "Clarify the story. Build the proof. Move the market." "copy" "For technical B2B companies, the growth problem is rarely just more content or more campaigns. It is making the right thing obvious, credible, and easier to act on.") }}
 </main>
 {{ end }}

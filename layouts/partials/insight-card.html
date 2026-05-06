@@ -1,0 +1,21 @@
+{{ $page := .page }}
+{{ $featured := .featured | default false }}
+<article class="insight-card{{ if $featured }} insight-card-featured{{ end }}">
+  <a class="insight-card-link" href="{{ $page.RelPermalink }}" aria-label="Read {{ $page.Title }}">
+    {{ with $page.Params.images }}
+    {{ range first 1 . }}
+    <span class="insight-card-media" aria-hidden="true">
+      <img src="{{ . }}" alt="" loading="lazy">
+    </span>
+    {{ end }}
+    {{ end }}
+    <div class="insight-card-meta">
+      {{ with $page.Params.categories }}{{ with index . 0 }}<span>{{ . }}</span>{{ end }}{{ end }}
+      {{ if not $page.PublishDate.IsZero }}<time datetime="{{ $page.PublishDate.Format "2006-01-02" }}">{{ $page.PublishDate.Format "Jan 2, 2006" }}</time>{{ end }}
+    </div>
+    <h3>{{ $page.Title }}</h3>
+    {{ with $page.Params.subtitle }}<p class="insight-card-subtitle">{{ . }}</p>{{ end }}
+    <p>{{ if $page.Params.excerpt }}{{ $page.Params.excerpt }}{{ else }}{{ $page.Summary | plainify | truncate 190 }}{{ end }}</p>
+    <span class="card-button">Read insight</span>
+  </a>
+</article>

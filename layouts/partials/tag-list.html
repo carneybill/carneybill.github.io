@@ -1,0 +1,7 @@
+{{ with . }}
+<ul class="tag-list" aria-label="Topics">
+  {{ range . }}
+  <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}/">{{ . }}</a></li>
+  {{ end }}
+</ul>
+{{ end }}

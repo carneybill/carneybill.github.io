@@ -1,2 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Channel Mix on</title><link>https://carney.wiki/tags/channel-mix/</link><description>Recent content in Channel Mix on</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 10 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/channel-mix/index.xml" rel="self" type="application/rss+xml"/><item><title>Why Old Isn't Always Wrong</title><link>https://carney.wiki/blog/old-marketing/</link><pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/old-marketing/</guid><description>Marketing people love to pretend anything older than six months belongs in a museum. New channel? Amazing. New acronym? Even better. Old tactic with proven economics? Apparently embarrassing unless a consultant rebrands it.
-That is a mistake. Old does not automatically mean wrong. Sometimes it just means neglected. The real job is not worshipping novelty. It is staying agile enough to know when a forgotten tactic deserves another look.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Channel Mix on Carney</title>
+    <link>https://carney.wiki/tags/channel-mix/</link>
+    <description>Recent content in Channel Mix on Carney</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carney.wiki/tags/channel-mix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Old Isn&#39;t Always Wrong</title>
+      <link>https://carney.wiki/blog/old-marketing/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/old-marketing/</guid>
+      <description>Marketing people love to pretend anything older than six months belongs in a museum. New channel? Amazing. New acronym? Even better. Old tactic with proven economics? Apparently embarrassing unless a consultant rebrands it.
+That is a mistake. Old does not automatically mean wrong. Sometimes it just means neglected. The real job is not worshipping novelty. It is staying agile enough to know when a forgotten tactic deserves another look.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,9 @@
+{{ $eyebrow := .eyebrow }}
+{{ $title := .title }}
+{{ $copy := .copy }}
+{{ $class := .class | default "" }}
+<div class="section-header {{ $class }}">
+  {{ with $eyebrow }}<p class="section-eyebrow">{{ . }}</p>{{ end }}
+  {{ with $title }}<h2>{{ . }}</h2>{{ end }}
+  {{ with $copy }}<p>{{ . }}</p>{{ end }}
+</div>

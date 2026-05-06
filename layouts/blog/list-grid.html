@@ -1,5 +1,5 @@
 {{ define "main" }}
-<main class="page-main pa4" role="main">
+<main class="page-main insights-page" role="main">
   {{ $posts := (where .Pages "Type" "blog").ByPublishDate.Reverse }}
   {{ $remaining := $posts }}
   {{ $categories := .Site.Taxonomies.categories }}
@@ -10,28 +10,17 @@
   {{ if gt (len $posts) 0 }}
     {{ $featured := index $posts 0 }}
     {{ $remaining = after 1 $posts }}
-  <section class="blog-featured mw8 center mb5">
-    <article class="blog-featured-card">
-      <div class="blog-featured-shell">
-        {{ with $featured.Param "images" }}
-        <a class="blog-featured-media" href="{{ $featured.Permalink }}" aria-label="Read featured post: {{ $featured.Title }}">
-          {{ range first 1 . }}
-          <div class="blog-featured-image" style="background-image: url('{{ . | absURL }}');"></div>
-          {{ end }}
-        </a>
-        {{ end }}
-        <div class="blog-featured-copy">
-          <p class="blog-featured-eyebrow">Featured</p>
-          <h3 class="blog-featured-title"><a href="{{ $featured.Permalink }}">{{ $featured.Title }}</a></h3>
-          <p class="blog-featured-excerpt">{{ if $featured.Params.Excerpt }}{{ $featured.Params.Excerpt }}{{ else }}{{ $featured.Summary }}{{ end }}</p>
-          {{ if $featured.CurrentSection.Params.show_post_date }}<p class="blog-featured-meta">{{ $featured.PublishDate.Format "January 2, 2006" }}</p>{{ end }}
-        </div>
-      </div>
-    </article>
+  <section class="page-hero insights-hero">
+    <p class="section-eyebrow">Insights</p>
+    <h1>Executive notes on AI-era B2B growth, trust, and marketing operations.</h1>
+    <p>Practical thinking for leaders who need clearer positioning, stronger proof, and commercial systems that buyers can believe.</p>
+  </section>
+  <section class="featured-insight">
+    {{ partial "insight-card.html" (dict "page" $featured "featured" true) }}
   </section>
   {{ end }}
   {{ if gt (len $posts) 0 }}
-  <section class="blog-search-wrap mw8 center mb4" aria-label="Search blog posts">
+  <section class="blog-search-wrap" aria-label="Search blog posts">
     <div
       class="blog-search-card"
       data-site-search-inline-root
@@ -58,8 +47,20 @@
     </div>
   </section>
   {{ end }}
+  <section class="theme-links-wrap" aria-label="Featured themes">
+    <p class="section-eyebrow">Key themes</p>
+    <nav class="theme-links-grid" aria-label="Insight themes">
+      <a href="/categories/ai-automation/">AI-Era B2B Marketing</a>
+      <a href="/tags/geo/">GEO / AEO / SEO</a>
+      <a href="/tags/proof-ops/">Proof Ops</a>
+      <a href="/categories/marketing-operations/">Marketing Operations</a>
+      <a href="/categories/trust-brand/">Trust &amp; Credibility</a>
+      <a href="/categories/gtm-strategy/">Growth Strategy</a>
+      <a href="/tags/vibe-coding/">Vibe Coding / AI Building</a>
+    </nav>
+  </section>
   {{ if gt (len $categories) 0 }}
-  <section class="blog-category-links-wrap mw8 center mb5" aria-label="Browse blog categories">
+  <section class="blog-category-links-wrap" aria-label="Browse blog categories">
     <div class="blog-category-links-card">
       <div class="blog-category-links-head">
         <p class="blog-category-links-label">Browse by category</p>
@@ -80,10 +81,10 @@
     </div>
   </section>
   {{ end }}
-  <section class="blog-content db flex-ns flex-row-ns flex-wrap-ns items-start mw8 center">
+  <section class="blog-content insight-grid">
     {{ $paginator := .Paginate $remaining }}
     {{ range $paginator.Pages }}
-      {{ .Render "summary-grid"}}
+      {{ partial "insight-card.html" (dict "page" .) }}
     {{ end }}
     {{ partial "shared/list-pagination.html" . }}
   </section>

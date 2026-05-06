@@ -1,22 +1,25 @@
-<header class="site-header bb b--transparent" role="banner">
+<header class="site-header" role="banner">
   <div class="site-header-inner">
-    <nav class="site-nav db dt-l w-100" role="nav">
-      <a class="site-brand db dtc-l v-mid link no-underline w-100 w-33-l tc tl-l" href="{{ .Site.BaseURL }}" title="Home">
-        {{ if .Site.Params.logo }}<img src="{{ .Site.Params.logo }}" class="dib db-l h2 w-auto" alt="{{ .Site.Title }}">{{ else }}<span class="f4 fw7">{{ .Site.Title }}</span>{{ end }}
+    <nav class="site-nav" role="navigation" aria-label="Primary navigation">
+      <a class="site-brand" href="{{ .Site.BaseURL }}" title="Home">
+        <span class="brand-lockup">
+          <span>Carney</span>
+          <span>&amp; Connections</span>
+        </span>
       </a>
-      <div class="site-links db dtc-l v-mid w-100 w-47-l tc tr-l mt3 mt0-l">
+      <div class="site-links">
         {{ range $.Site.Data.navigation.header }}
         {{ if .children }}
-        <div class="dropdown dib relative">
-          <a class="link f6 f5-l dib pv1 ph2 pointer">{{ .name }}</a>
-          <div class="dropdown-content absolute bg-white ba b--light-gray shadow-1 dn">
+        <div class="dropdown">
+          <a class="pointer">{{ .name }}</a>
+          <div class="dropdown-content">
             {{ range .children }}
-            <a class="link f6 f5-l db pv2 ph3 hover-bg-light-gray" href="{{ .url }}">{{ .name }}</a>
+            <a href="{{ .url }}">{{ .name }}</a>
             {{ end }}
           </div>
         </div>
         {{ else }}
-        <a class="link f6 f5-l dib pv1 ph2" href="{{ .url }}" title="{{ .title }}"{{ with .target }} target="{{ . }}"{{ end }}{{ with .rel }} rel="{{ . }}"{{ end }}>{{ .name }}</a>
+        <a href="{{ .url }}" title="{{ .title }}"{{ with .target }} target="{{ . }}"{{ end }}{{ with .rel }} rel="{{ . }}"{{ end }}{{ if eq .name "Contact" }} class="nav-cta"{{ end }}>{{ if eq .name "Contact" }}Book a conversation{{ else }}{{ .name }}{{ end }}</a>
         {{ end }}
         {{ end }}
         <button
@@ -31,7 +34,7 @@
           <span class="icon-search" aria-hidden="true"></span>
         </button>
         {{ if .Site.Params.socialInHeader }}
-        <div class="dib v-mid">
+        <div class="site-social-links">
           {{ partial "shared/social-links.html" . }}
         </div>
         {{ end }}

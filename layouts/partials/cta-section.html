@@ -1,0 +1,18 @@
+{{ $eyebrow := .eyebrow | default "Next step" }}
+{{ $title := .title | default "Bring sharper clarity to the work that has to grow." }}
+{{ $copy := .copy | default "A focused conversation is the fastest way to see where positioning, proof, and execution are helping the business, and where they are creating drag." }}
+{{ $primaryLabel := .primaryLabel | default "Book a conversation" }}
+{{ $primaryUrl := .primaryUrl | default "https://cal.com/bill-carney/60min" }}
+{{ $secondaryLabel := .secondaryLabel | default "Explore projects" }}
+{{ $secondaryUrl := .secondaryUrl | default "/projects/" }}
+<section class="cta-section" aria-label="{{ $eyebrow }}">
+  <div>
+    <p class="section-eyebrow">{{ $eyebrow }}</p>
+    <h2>{{ $title }}</h2>
+    <p>{{ $copy }}</p>
+  </div>
+  <div class="cta-actions">
+    <a class="button button-primary" href="{{ $primaryUrl }}" target="_blank" rel="noopener noreferrer">{{ $primaryLabel }}</a>
+    <a class="button button-secondary" href="{{ $secondaryUrl }}">{{ $secondaryLabel }}</a>
+  </div>
+</section>
