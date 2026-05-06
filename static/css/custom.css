@@ -150,15 +150,16 @@ img {
 
 .brand-suffix-line {
   align-items: baseline;
-  display: inline-flex;
+  display: inline-flex !important;
+  white-space: nowrap;
 }
 
 .brand-odometer {
   display: inline-block;
-  height: 1.1em;
+  height: 1em;
   line-height: 1;
   overflow: hidden;
-  vertical-align: bottom;
+  vertical-align: middle;
 }
 
 .brand-odometer-word {
@@ -2045,13 +2046,51 @@ transition: background-color .15s ease-in-out;
 }
 
 .offer-card .offer-card-actions {
-  margin-top: auto;
+  margin-top: 1rem;
 }
 
 .offer-card-actions {
   display: flex;
   flex-wrap: wrap;
-  gap: .65rem 1rem;
+  gap: .65rem;
+  justify-content: flex-start;
+}
+
+.offer-card-view {
+  color: var(--bc-accent);
+  display: block;
+  font-weight: 700;
+  margin-top: auto;
+  padding: 1rem 0 .85rem;
+  text-align: center;
+  text-decoration: none;
+}
+
+.offer-card-view:hover,
+.offer-card-view:focus {
+  color: var(--bc-ink);
+  text-decoration: underline;
+}
+
+.offer-buy {
+  background: transparent;
+  border: 1px solid var(--bc-accent);
+  color: var(--bc-accent);
+  display: inline-flex;
+  font-size: .82rem;
+  font-weight: 800;
+  letter-spacing: .07em;
+  padding: .7rem 1.05rem;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: background-color .15s ease, color .15s ease, border-color .15s ease;
+}
+
+.offer-buy:hover,
+.offer-buy:focus {
+  background: var(--bc-accent);
+  border-color: var(--bc-accent);
+  color: var(--bc-bg);
 }
 
 .offer-two-col {
