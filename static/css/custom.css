@@ -236,10 +236,10 @@ img {
 }
 
 .executive-hero-copy h1 {
-  font-size: clamp(2.25rem, 5vw, 4.25rem);
-  line-height: 1.05;
+  font-size: clamp(1.85rem, 3.6vw, 3.15rem);
+  line-height: 1.1;
   margin: 0;
-  max-width: 18em;
+  max-width: 22em;
 }
 
 .hero-lede {
@@ -1670,7 +1670,7 @@ transition: background-color .15s ease-in-out;
 }
 
 .offer-hero {
-  border-bottom: 1px solid rgba(64, 64, 64, .14);
+  border-bottom: 1px solid var(--bc-border);
   margin: 0 auto 3rem;
   padding: 1rem 0 3rem;
 }
@@ -1681,7 +1681,7 @@ transition: background-color .15s ease-in-out;
 
 .offer-kicker,
 .offer-eyebrow {
-  color: #1b5891;
+  color: var(--bc-accent);
   font-size: .78rem;
   font-weight: 700;
   letter-spacing: .1em;
@@ -1690,15 +1690,16 @@ transition: background-color .15s ease-in-out;
 }
 
 .offer-hero h1 {
-  color: #111827;
+  color: var(--bc-ink);
+  font-family: var(--bc-serif);
   font-size: clamp(2.15rem, 5vw, 4.25rem);
-  line-height: .98;
+  line-height: 1.05;
   margin: 0;
-  max-width: 12em;
+  max-width: 16em;
 }
 
 .offer-lede {
-  color: #4b5563;
+  color: var(--bc-muted);
   font-size: 1.25rem;
   line-height: 1.45;
   margin: 1.5rem 0 0;
@@ -1715,10 +1716,10 @@ transition: background-color .15s ease-in-out;
 }
 
 .offer-meta-row span {
-  background: #fff;
-  border: 1px solid rgba(64, 64, 64, .14);
+  background: var(--bc-surface);
+  border: 1px solid var(--bc-border);
   border-radius: 999px;
-  color: #374151;
+  color: var(--bc-ink);
   font-size: .9rem;
   font-weight: 700;
   padding: .5rem .8rem;
@@ -1747,13 +1748,14 @@ transition: background-color .15s ease-in-out;
 }
 
 .offer-button--secondary {
-  background: #1b5891;
-  border-color: #1b5891;
+  background: var(--bc-accent);
+  border-color: var(--bc-accent);
+  color: var(--bc-bg) !important;
 }
 
 .offer-secondary,
 .offer-link {
-  color: #1b5891 !important;
+  color: var(--bc-accent) !important;
 }
 
 .offer-grid,
@@ -1770,8 +1772,8 @@ transition: background-color .15s ease-in-out;
 .offer-card,
 .offer-deliverable-grid > div,
 .offer-band {
-  background: #fff;
-  border: 1px solid rgba(64, 64, 64, .14);
+  background: var(--bc-surface);
+  border: 1px solid var(--bc-border);
   box-sizing: border-box;
 }
 
@@ -1788,7 +1790,8 @@ transition: background-color .15s ease-in-out;
 .offer-process h2,
 .offer-band h2,
 .offer-final-cta h2 {
-  color: #111827;
+  color: var(--bc-ink);
+  font-family: var(--bc-serif);
   line-height: 1.1;
 }
 
@@ -1798,7 +1801,7 @@ transition: background-color .15s ease-in-out;
 }
 
 .offer-price {
-  color: #111827;
+  color: var(--bc-ink);
   font-size: 1.8rem;
   font-weight: 800;
   line-height: 1;
@@ -1811,7 +1814,7 @@ transition: background-color .15s ease-in-out;
 .offer-two-col p,
 .offer-process li,
 .offer-band p {
-  color: #4b5563;
+  color: var(--bc-muted);
   line-height: 1.5;
 }
 
@@ -1896,7 +1899,7 @@ transition: background-color .15s ease-in-out;
 }
 
 .offer-final-cta {
-  border-top: 1px solid rgba(64, 64, 64, .14);
+  border-top: 1px solid var(--bc-border);
   padding: 2rem 0 0;
 }
 
@@ -1942,9 +1945,9 @@ body.site-search-open {
 }
 
 .blog-search-card {
-  background: #fff;
-  border: 1px solid #d6d6d6;
-  border-radius: 22px;
+  background: var(--bc-surface);
+  border: 1px solid var(--bc-border);
+  border-radius: 0;
   box-shadow: 0 18px 40px rgba(15, 23, 42, .05);
   padding: 1.1rem 1.25rem 1.25rem;
 }
@@ -2835,9 +2838,9 @@ form [type=submit] {
 }
 
 .home .executive-hero-copy h1 {
-  font-size: clamp(2.85rem, 5.1vw, 4.75rem);
-  line-height: 1.04;
-  max-width: 10.8em;
+  font-size: clamp(1.85rem, 3.4vw, 3rem);
+  line-height: 1.12;
+  max-width: 22em;
 }
 
 .home .hero-lede {
