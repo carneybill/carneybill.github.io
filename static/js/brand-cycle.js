@@ -26,11 +26,14 @@
   function step() {
     var current = suffixes[i];
 
+    word.style.transition = 'none';
     word.classList.remove('is-out');
     word.classList.remove('is-in');
     word.textContent = current;
 
     void word.offsetWidth;
+
+    word.style.transition = '';
 
     requestAnimationFrame(function () {
       word.classList.add('is-in');
