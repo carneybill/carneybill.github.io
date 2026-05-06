@@ -1,6 +1,6 @@
 (function () {
-  var el = document.querySelector('[data-brand-suffix]');
-  if (!el) return;
+  var word = document.querySelector('[data-brand-word]');
+  if (!word) return;
 
   var suffixes = [
     'llaborators',
@@ -12,51 +12,43 @@
     ''
   ];
 
-  var TYPE_MS = 80;
-  var ERASE_MS = 38;
-  var HOLD_MS = 1400;
-  var BETWEEN_MS = 280;
+  var HOLD_MS = 1500;
+  var ANIM_MS = 470;
+  var BETWEEN_MS = 90;
 
   var i = 0;
-  var c = 0;
-  var typing = true;
 
-  function tick() {
-    var word = suffixes[i];
+  function step() {
+    var current = suffixes[i];
 
-    if (typing) {
-      if (c < word.length) {
-        c++;
-        el.textContent = word.slice(0, c);
-        setTimeout(tick, TYPE_MS);
-        return;
-      }
+    word.classList.remove('is-out');
+    word.classList.remove('is-in');
+    word.textContent = current;
+
+    void word.offsetWidth;
+
+    requestAnimationFrame(function () {
+      word.classList.add('is-in');
+    });
+
+    setTimeout(function () {
       if (i === suffixes.length - 1) {
-        el.textContent = '';
         return;
       }
+      word.classList.remove('is-in');
+      word.classList.add('is-out');
       setTimeout(function () {
-        typing = false;
-        tick();
-      }, HOLD_MS);
-      return;
-    }
-
-    if (c > 0) {
-      c--;
-      el.textContent = word.slice(0, c);
-      setTimeout(tick, ERASE_MS);
-      return;
-    }
-    i++;
-    typing = true;
-    setTimeout(tick, BETWEEN_MS);
+        i++;
+        step();
+      }, ANIM_MS + BETWEEN_MS);
+    }, HOLD_MS);
   }
 
   if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-    el.textContent = '';
+    word.textContent = '';
+    word.style.transform = 'translateY(0)';
     return;
   }
 
-  tick();
+  step();
 })();

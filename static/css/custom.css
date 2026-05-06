@@ -149,34 +149,38 @@ img {
 }
 
 .brand-suffix-line {
-  display: inline-flex;
   align-items: baseline;
+  display: inline-flex;
 }
 
-.brand-suffix {
+.brand-odometer {
   display: inline-block;
+  height: 1.1em;
+  line-height: 1;
+  overflow: hidden;
+  vertical-align: bottom;
+}
+
+.brand-odometer-word {
+  display: block;
+  transform: translateY(-110%);
+  transition: transform .45s cubic-bezier(.65, 0, .35, 1);
   white-space: pre;
+  will-change: transform;
 }
 
-.brand-suffix::after {
-  animation: brand-caret-blink 1s steps(1) infinite;
-  background: currentColor;
-  content: "";
-  display: inline-block;
-  height: .9em;
-  margin-left: .08em;
-  opacity: .65;
-  vertical-align: -.08em;
-  width: 1px;
+.brand-odometer-word.is-in {
+  transform: translateY(0);
 }
 
-@keyframes brand-caret-blink {
-  50% { opacity: 0; }
+.brand-odometer-word.is-out {
+  transform: translateY(110%);
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .brand-suffix::after {
-    animation: none;
+  .brand-odometer-word {
+    transform: translateY(0);
+    transition: none;
   }
 }
 
