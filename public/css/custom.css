@@ -140,12 +140,54 @@ img {
   line-height: .92;
 }
 
-.brand-lockup span {
+.brand-lockup > span {
   display: block;
 }
 
 .brand-lockup span:last-child {
   margin-left: 1.7em;
+}
+
+.brand-suffix-line {
+  display: inline-flex;
+  align-items: baseline;
+}
+
+.brand-suffix {
+  display: inline-block;
+  white-space: pre;
+}
+
+.brand-suffix::after {
+  animation: brand-caret-blink 1s steps(1) infinite;
+  background: currentColor;
+  content: "";
+  display: inline-block;
+  height: .9em;
+  margin-left: .08em;
+  opacity: .65;
+  vertical-align: -.08em;
+  width: 1px;
+}
+
+@keyframes brand-caret-blink {
+  50% { opacity: 0; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .brand-suffix::after {
+    animation: none;
+  }
+}
+
+.clip {
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
 }
 
 .site-links {
