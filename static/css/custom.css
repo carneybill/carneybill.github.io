@@ -591,8 +591,15 @@ img {
 .project-card h2 a,
 .insight-card h3,
 .insight-card h3 a {
-  color: var(--bc-ink);
+  color: var(--bc-ink) !important;
   text-decoration: none;
+}
+
+.project-card h2 a:hover,
+.project-card h2 a:focus-visible,
+.insight-card h3 a:hover,
+.insight-card h3 a:focus-visible {
+  color: var(--bc-accent) !important;
 }
 
 .project-card-summary {
