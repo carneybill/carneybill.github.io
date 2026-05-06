@@ -236,10 +236,10 @@ img {
 }
 
 .executive-hero-copy h1 {
-  font-size: clamp(3rem, 8vw, 6.9rem);
-  line-height: .94;
+  font-size: clamp(2.25rem, 5vw, 4.25rem);
+  line-height: 1.05;
   margin: 0;
-  max-width: 10.5em;
+  max-width: 18em;
 }
 
 .hero-lede {
@@ -2996,4 +2996,83 @@ form [type=submit] {
   font-size: .84rem;
   font-weight: 700;
   letter-spacing: .08em;
+}
+
+/* Dark-theme contrast overrides — neutralize legacy blue link/text colors that
+   render unreadable on var(--bc-bg). Keep at end so they win on source order. */
+body,
+.dark-gray {
+  color: var(--bc-ink);
+}
+
+.dark-pink,
+.f-headline-ns,
+.f-headline-m,
+.f-headline-l,
+.f-subheadline-ns,
+.f-subheadline-m,
+.f-subheadline-l,
+.f-headline,
+.f-subheadline {
+  color: var(--bc-ink);
+}
+
+.about-link,
+.about-book-option,
+.offer-link,
+.offer-secondary {
+  color: var(--bc-accent) !important;
+}
+
+.about-link:hover,
+.about-book-option:hover,
+.offer-link:hover,
+.offer-secondary:hover {
+  color: var(--bc-ink) !important;
+}
+
+.service .icon i {
+  color: var(--bc-accent);
+}
+
+.service h3 {
+  color: var(--bc-ink);
+}
+
+.about-book-option:hover {
+  background: rgba(216, 213, 202, .08);
+}
+
+.about-photo {
+  border-color: var(--bc-border);
+}
+
+.site-search-trigger {
+  color: var(--bc-muted);
+}
+
+.site-search-trigger:hover,
+.site-search-trigger:focus-visible {
+  background: rgba(216, 213, 202, .12);
+  color: var(--bc-accent);
+}
+
+.site-search-panel {
+  background: var(--bc-surface);
+  border-color: var(--bc-border);
+}
+
+.site-search-title,
+.site-search-input {
+  color: var(--bc-ink);
+}
+
+.site-search-hint,
+.site-search-status {
+  color: var(--bc-muted);
+}
+
+.site-search-panel-icon {
+  background: rgba(216, 213, 202, .12);
+  color: var(--bc-accent);
 }
