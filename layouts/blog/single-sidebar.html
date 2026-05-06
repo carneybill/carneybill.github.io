@@ -5,7 +5,7 @@
 {{ if eq (len $related) 0 }}{{ with .Params.categories }}{{ $related = where $others ".Params.categories" "intersect" . }}{{ end }}{{ end }}
 {{ $toc := .TableOfContents }}
 {{ $hasTOC := gt (len (findRE "<a href=" $toc)) 0 }}
-<main class="page-main post-page" role="main">
+<main class="post-main" role="main">
   <section class="post-shell post-shell--three-quarter">
     <article class="post-content">
       <header class="post-header">
