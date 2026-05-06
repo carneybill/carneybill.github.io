@@ -144,22 +144,35 @@ img {
   display: block;
 }
 
-.brand-lockup span:last-child {
+.brand-lockup > .brand-suffix-line {
+  white-space: nowrap;
+}
+
+.brand-lockup > span:last-child {
   margin-left: 1.7em;
 }
 
 .brand-suffix-line {
-  align-items: baseline;
-  display: inline-flex !important;
   white-space: nowrap;
 }
 
 .brand-odometer {
   display: inline-block;
+  font-feature-settings: inherit;
+  font-kerning: inherit;
   height: 1em;
-  line-height: 1;
+  letter-spacing: inherit;
+  line-height: inherit;
+  margin: 0;
   overflow: hidden;
-  vertical-align: middle;
+  padding: 0;
+  vertical-align: baseline;
+}
+
+.brand-odometer-word {
+  letter-spacing: inherit;
+  margin: 0;
+  padding: 0;
 }
 
 .brand-odometer-word {
@@ -1190,10 +1203,8 @@ img {
 }
 
 .site-footer-nav {
-  border-top: 1px solid var(--bc-border);
   justify-content: space-between;
   gap: 1rem;
-  padding-top: 1rem;
 }
 
 .site-copyright,
@@ -1854,8 +1865,8 @@ transition: background-color .15s ease-in-out;
 
 .offer-hero {
   border-bottom: 1px solid var(--bc-border);
-  margin: 0 auto 3rem;
-  padding: 1rem 0 3rem;
+  margin: 0 auto clamp(2.5rem, 5vw, 4rem);
+  padding: clamp(3.5rem, 7vw, 6rem) 0 clamp(3rem, 5vw, 4.5rem);
 }
 
 .offer-hero--detail {
