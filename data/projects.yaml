@@ -1,4 +1,13 @@
 items:
+  - name: B2B Marketing in the AI Era
+    category: Book
+    url: https://amzn.to/41FPq6q
+    screenshot: /img/book-cover.png
+    screenshot_alt: Cover of B2B Marketing in the AI Era — An Operator's Guide to Demand, Pipeline, and Trust by Bill Carney
+    summary: "B2B Marketing in the AI Era is an operator's guide to demand, pipeline, and trust — written for marketing leaders working through committees, complex products, and AI-mediated buyers. Available in paperback, Kindle, ePub, and PDF, with companion slides and a teaching guide."
+    details: "Practical chapters on positioning, AI-era proof, GTM systems, buying-committee navigation, and content discipline that hold up in front of real revenue teams."
+    problem: "Technical B2B marketing leaders need a current playbook for AI-mediated buyer behavior, evidence-driven trust, and operator-level execution."
+    demonstrates: "A long-form articulation of the same operating thesis applied across positioning, proof, and pipeline."
   - name: PlaybookM
     category: Marketing Operations
     url: https://www.playbookm.com/
@@ -8,15 +17,6 @@ items:
     details: "It also reads like a workflow system for marketing teams, with dashboard, list, kanban, and calendar views tied to budget visibility, shared planning, and data-backed decisions."
     problem: "Marketing teams need a clearer operating layer for strategy, work, budget, and evidence instead of disconnected planning artifacts."
     demonstrates: "Positioning a complex marketing workflow product around visibility, decision quality, and accountable execution."
-  - name: Operrai
-    category: AI & Automation
-    url: https://www.operrai.com/
-    screenshot: /img/projects/operrai-home.png
-    screenshot_alt: Illustrated preview of the Operrai workflow design workspace
-    summary: "Operrai currently presents Workflow Models, an operational workflow intelligence system for drafting workflows from a defined start and finish. Its homepage focuses on using AI to generate the middle of a process, validate the structure, and keep the resulting graph editable."
-    details: "The product reads like a workflow design and review workspace, with example-driven prompting, node editing, validation scoring, and PDF export for structured operational diagrams."
-    problem: "Operators need AI to help structure repeatable work without losing human review, editability, and process control."
-    demonstrates: "An AI product narrative grounded in workflow intelligence, validation, and practical operating utility."
   - name: The Data Consulting Company
     category: Data & Consulting
     url: https://www.thedataconsultingcompany.com/
@@ -26,6 +26,15 @@ items:
     details: "Its messaging is aimed at companies that want AI adoption to be defensible and scalable, with attention on AI governance, data engineering for intelligent systems, and broader end-to-end data and AI solutions."
     problem: "AI adoption creates pressure for stronger data foundations, governance, and executive confidence."
     demonstrates: "Consulting positioning that connects technical capability to responsible adoption and commercial decision-making."
+  - name: Operrai
+    category: AI & Automation
+    url: https://www.operrai.com/
+    screenshot: /img/projects/operrai-home.png
+    screenshot_alt: Illustrated preview of the Operrai workflow design workspace
+    summary: "Operrai currently presents Workflow Models, an operational workflow intelligence system for drafting workflows from a defined start and finish. Its homepage focuses on using AI to generate the middle of a process, validate the structure, and keep the resulting graph editable."
+    details: "The product reads like a workflow design and review workspace, with example-driven prompting, node editing, validation scoring, and PDF export for structured operational diagrams."
+    problem: "Operators need AI to help structure repeatable work without losing human review, editability, and process control."
+    demonstrates: "An AI product narrative grounded in workflow intelligence, validation, and practical operating utility."
   - name: StaffOps.AI
     category: AI & Automation
     url: https://www.staffops.ai/
