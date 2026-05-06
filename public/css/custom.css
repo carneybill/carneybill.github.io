@@ -17,7 +17,7 @@
   --bc-soft: #9f9c92;
   --bc-border: #34342f;
   --bc-border-strong: #5c594f;
-  --bc-accent: #d8d5ca;
+  --bc-accent: #86efac;
   --bc-accent-dark: #f7f7f4;
   --bc-max: 1180px;
   --bc-serif: Georgia, "Times New Roman", Times, serif;
@@ -846,11 +846,14 @@ img {
 
 main.post-page,
 .post-page.page-main,
-.page-main.post-page {
+.page-main.post-page,
+body main.page-main.post-page {
+  box-sizing: border-box !important;
+  margin: 0 !important;
   max-width: none !important;
   padding-left: clamp(1.5rem, 4vw, 4rem) !important;
   padding-right: clamp(1.5rem, 4vw, 4rem) !important;
-  width: 100%;
+  width: 100% !important;
 }
 
 .post-shell {
@@ -2112,7 +2115,7 @@ transition: background-color .15s ease-in-out;
 .offer-buy:focus {
   background: var(--bc-accent);
   border-color: var(--bc-accent);
-  color: var(--bc-bg);
+  color: var(--bc-bg) !important;
 }
 
 .offer-two-col {
