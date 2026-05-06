@@ -157,11 +157,11 @@ img {
 }
 
 .brand-odometer {
+  clip-path: inset(0);
   display: inline-block;
   font: inherit;
   letter-spacing: inherit;
   margin: 0;
-  overflow: hidden;
   padding: 0;
   vertical-align: baseline;
   white-space: nowrap;
@@ -841,6 +841,12 @@ img {
   grid-column: 1 / -1;
 }
 
+.post-page {
+  max-width: none;
+  padding-left: clamp(1.5rem, 4vw, 4rem);
+  padding-right: clamp(1.5rem, 4vw, 4rem);
+}
+
 .post-shell {
   display: grid;
   gap: clamp(2rem, 5vw, 4rem);
@@ -1392,46 +1398,41 @@ html {
 }
 
 .about-book-options {
-  gap: .35rem;
+  background: var(--bc-surface);
+  border: 1px solid var(--bc-border-strong);
+  display: none;
+  gap: 0;
   left: 0;
-  margin-top: .5rem;
-  min-width: max-content;
-  padding: .35rem;
+  min-width: 12rem;
+  padding: .35rem 0;
+  position: absolute;
   text-align: left;
+  top: calc(100% + .35rem);
   z-index: 20;
 }
 
-.about-book-option-row {
+.about-book-dropdown:hover .about-book-options,
+.about-book-dropdown:focus-within .about-book-options {
   display: grid;
-  gap: .25rem;
-}
-
-.about-book-option-row--divided {
-  border-top: 1px solid rgba(0, 0, 0, .08);
-  margin-top: .25rem;
-  padding-top: .35rem;
 }
 
 .about-book-option {
-  border-radius: .5rem;
-  color: #151515 !important;
+  color: var(--bc-ink) !important;
   display: flex;
-  padding: .45rem .75rem;
+  font-size: .82rem;
+  font-weight: 700;
+  letter-spacing: .07em;
+  padding: .55rem .9rem;
   text-decoration: none;
+  text-transform: uppercase;
   white-space: nowrap;
   width: 100%;
 }
 
-.about-book-option--full {
-  border-top: 1px solid rgba(0, 0, 0, .08);
-  display: flex;
-  padding-top: .6rem;
-  width: 100%;
-}
-
-.about-book-option:hover {
-  background: #ece9df;
-  color: #000 !important;
+.about-book-option:hover,
+.about-book-option:focus-visible {
+  background: rgba(216, 213, 202, .12);
+  color: var(--bc-accent) !important;
 }
 
 .about-link:hover {
