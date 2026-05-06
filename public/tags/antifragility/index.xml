@@ -1,20 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Antifragility on Carney</title>
-    <link>https://carney.wiki/tags/antifragility/</link>
-    <description>Recent content in Antifragility on Carney</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://carney.wiki/tags/antifragility/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Kintsugi &#43; Antifragility &#43; Leadership</title>
-      <link>https://carney.wiki/blog/kintsugi-antifragility/</link>
-      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/kintsugi-antifragility/</guid>
-      <description>Embracing Imperfections: What Kintsugi and Antifragility Teach Us About Leadership In the cracks of broken pottery, the Japanese art of Kintsugi finds beauty. Fragments are rejoined with lacquer and dusted with gold, not to mask the damage but to celebrate it. This ancient practice transforms breakage into artistry, symbolizing the resilience of imperfection. Kintsugi reminds us to value what’s broken, embrace its history, and let its scars shine.
-This philosophy resonates deeply with the modern concept of antifragility, as introduced by Nassim Nicholas Taleb in his groundbreaking work Antifragile: Things That Gain from Disorder.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Antifragility on Carney</title><link>https://carney.wiki/tags/antifragility/</link><description>Recent content in Antifragility on Carney</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/antifragility/index.xml" rel="self" type="application/rss+xml"/><item><title>Kintsugi + Antifragility + Leadership</title><link>https://carney.wiki/blog/kintsugi-antifragility/</link><pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/kintsugi-antifragility/</guid><description>Embracing Imperfections: What Kintsugi and Antifragility Teach Us About Leadership In the cracks of broken pottery, the Japanese art of Kintsugi finds beauty. Fragments are rejoined with lacquer and dusted with gold, not to mask the damage but to celebrate it. This ancient practice transforms breakage into artistry, symbolizing the resilience of imperfection. Kintsugi reminds us to value what’s broken, embrace its history, and let its scars shine.
+This philosophy resonates deeply with the modern concept of antifragility, as introduced by Nassim Nicholas Taleb in his groundbreaking work Antifragile: Things That Gain from Disorder.</description></item></channel></rss>

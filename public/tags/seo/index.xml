@@ -1,53 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>SEO on Carney</title>
-    <link>https://carney.wiki/tags/seo/</link>
-    <description>Recent content in SEO on Carney</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://carney.wiki/tags/seo/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>SEO Is Not Dead. It Just Has Two New Roommates: AEO and GEO</title>
-      <link>https://carney.wiki/blog/seo-aeo-geo/</link>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/seo-aeo-geo/</guid>
-      <description>The SEO industry is facing new challenges.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SEO on Carney</title><link>https://carney.wiki/tags/seo/</link><description>Recent content in SEO on Carney</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 27 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/seo/index.xml" rel="self" type="application/rss+xml"/><item><title>SEO Is Not Dead. It Just Has Two New Roommates: AEO and GEO</title><link>https://carney.wiki/blog/seo-aeo-geo/</link><pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/seo-aeo-geo/</guid><description>The SEO industry is facing new challenges.
 Story of my life.
 Some of the challenge is not new at all. Google has been pushing organic results farther down the page for years. First it was more ads. Then came featured snippets, People Also Ask, knowledge panels, maps, shopping modules, video carousels, and enough SERP furniture to make the traditional &amp;ldquo;10 blue links&amp;rdquo; feel like a historical artifact.
-Now we have AI Overviews.</description>
-    </item>
-    <item>
-      <title>The Custom-Backend Myth After AI</title>
-      <link>https://carney.wiki/blog/custom-backend-myth-after-ai/</link>
-      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/custom-backend-myth-after-ai/</guid>
-      <description>The Custom-Backend Myth After AI: Why Most Websites No Longer Need Bespoke Infrastructure For years, businesses were told that a serious website needed a custom backend to be flexible, scalable, and credible. That made sense when publishing online required heavy engineering effort and every meaningful change depended on developers. That is no longer true for most business websites.
-Today, AI can generate a working site in minutes. Modern deployment platforms can put that site into production almost immediately.</description>
-    </item>
-    <item>
-      <title>You&#39;re Gonna Need a Voice Strategy</title>
-      <link>https://carney.wiki/blog/voice/</link>
-      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/voice/</guid>
-      <description>The Future is Talking: Why Your Brand Needs a Voice Strategy Listen up, marketers—literally. If you’ve been ignoring the rise of voice search and the domination of mobile-first strategies, now’s the time to pay attention. In 2025, Alexa isn’t just going to help you with your grocery list—she’ll be selling those groceries for your competitors if you don’t step up your game.
-Voice technology is turning marketing into a conversation (literally), and smart brands will seize the opportunity to connect with their audience in more authentic, hands-free ways.</description>
-    </item>
-    <item>
-      <title>Unveiling the Unethical: How an AI-Powered SEO Heist Backfired</title>
-      <link>https://carney.wiki/blog/stealing-traffic/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/stealing-traffic/</guid>
-      <description>In the world of digital marketing, ethical practices are the cornerstone of sustainable success. Unfortunately, some individuals have taken a detour into the unethical, as revealed by a recent confession: &amp;ldquo;We pulled off an SEO heist using AI.&amp;rdquo;
-Here&amp;rsquo;s a breakdown of the operation: The Scheme Sitemap Pilfering: The culprits exported a competitor&amp;rsquo;s sitemap, a bold move into ethically murky territory. Automated Content Creation: Turning the stolen URLs into article titles, they unleashed the power of AI to generate a staggering 1,800 articles at scale.</description>
-    </item>
-    <item>
-      <title>The Role of a Content Marketing Growth Hacker</title>
-      <link>https://carney.wiki/blog/growth-hacker/</link>
-      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/growth-hacker/</guid>
-      <description>Content marketing has become a linchpin in the success of businesses. Effective content not only engages audiences but also drives traffic, generates leads, and ultimately increases sales. However, to truly harness the power of content marketing, a specialized professional is often required - the Content Marketing Growth Hacker. In this article, we&amp;rsquo;ll explore why having a Content Marketing Growth Hacker on your team is crucial for achieving exponential business growth.</description>
-    </item>
-  </channel>
-</rss>
+Now we have AI Overviews.</description></item><item><title>The Custom-Backend Myth After AI</title><link>https://carney.wiki/blog/custom-backend-myth-after-ai/</link><pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/custom-backend-myth-after-ai/</guid><description>The Custom-Backend Myth After AI: Why Most Websites No Longer Need Bespoke Infrastructure For years, businesses were told that a serious website needed a custom backend to be flexible, scalable, and credible. That made sense when publishing online required heavy engineering effort and every meaningful change depended on developers. That is no longer true for most business websites.
+Today, AI can generate a working site in minutes. Modern deployment platforms can put that site into production almost immediately.</description></item><item><title>You're Gonna Need a Voice Strategy</title><link>https://carney.wiki/blog/voice/</link><pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/voice/</guid><description>The Future is Talking: Why Your Brand Needs a Voice Strategy Listen up, marketers—literally. If you’ve been ignoring the rise of voice search and the domination of mobile-first strategies, now’s the time to pay attention. In 2025, Alexa isn’t just going to help you with your grocery list—she’ll be selling those groceries for your competitors if you don’t step up your game.
+Voice technology is turning marketing into a conversation (literally), and smart brands will seize the opportunity to connect with their audience in more authentic, hands-free ways.</description></item><item><title>Unveiling the Unethical: How an AI-Powered SEO Heist Backfired</title><link>https://carney.wiki/blog/stealing-traffic/</link><pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/stealing-traffic/</guid><description>In the world of digital marketing, ethical practices are the cornerstone of sustainable success. Unfortunately, some individuals have taken a detour into the unethical, as revealed by a recent confession: &amp;ldquo;We pulled off an SEO heist using AI.&amp;rdquo;
+Here&amp;rsquo;s a breakdown of the operation: The Scheme Sitemap Pilfering: The culprits exported a competitor&amp;rsquo;s sitemap, a bold move into ethically murky territory. Automated Content Creation: Turning the stolen URLs into article titles, they unleashed the power of AI to generate a staggering 1,800 articles at scale.</description></item><item><title>The Role of a Content Marketing Growth Hacker</title><link>https://carney.wiki/blog/growth-hacker/</link><pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/growth-hacker/</guid><description>Content marketing has become a linchpin in the success of businesses. Effective content not only engages audiences but also drives traffic, generates leads, and ultimately increases sales. However, to truly harness the power of content marketing, a specialized professional is often required - the Content Marketing Growth Hacker. In this article, we&amp;rsquo;ll explore why having a Content Marketing Growth Hacker on your team is crucial for achieving exponential business growth.</description></item></channel></rss>

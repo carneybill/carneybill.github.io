@@ -1,20 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Netlify on Carney</title>
-    <link>https://carney.wiki/tags/netlify/</link>
-    <description>Recent content in Netlify on Carney</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 20 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://carney.wiki/tags/netlify/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Custom-Backend Myth After AI</title>
-      <link>https://carney.wiki/blog/custom-backend-myth-after-ai/</link>
-      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/custom-backend-myth-after-ai/</guid>
-      <description>The Custom-Backend Myth After AI: Why Most Websites No Longer Need Bespoke Infrastructure For years, businesses were told that a serious website needed a custom backend to be flexible, scalable, and credible. That made sense when publishing online required heavy engineering effort and every meaningful change depended on developers. That is no longer true for most business websites.
-Today, AI can generate a working site in minutes. Modern deployment platforms can put that site into production almost immediately.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Netlify on Carney</title><link>https://carney.wiki/tags/netlify/</link><description>Recent content in Netlify on Carney</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 20 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/netlify/index.xml" rel="self" type="application/rss+xml"/><item><title>The Custom-Backend Myth After AI</title><link>https://carney.wiki/blog/custom-backend-myth-after-ai/</link><pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/custom-backend-myth-after-ai/</guid><description>The Custom-Backend Myth After AI: Why Most Websites No Longer Need Bespoke Infrastructure For years, businesses were told that a serious website needed a custom backend to be flexible, scalable, and credible. That made sense when publishing online required heavy engineering effort and every meaningful change depended on developers. That is no longer true for most business websites.
+Today, AI can generate a working site in minutes. Modern deployment platforms can put that site into production almost immediately.</description></item></channel></rss>

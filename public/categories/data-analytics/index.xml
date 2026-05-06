@@ -1,44 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Data &amp; Analytics on Carney</title>
-    <link>https://carney.wiki/categories/data-analytics/</link>
-    <description>Recent content in Data &amp; Analytics on Carney</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 18 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://carney.wiki/categories/data-analytics/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Funnel Mutated</title>
-      <link>https://carney.wiki/blog/ai-era-mutated-funnel/</link>
-      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/ai-era-mutated-funnel/</guid>
-      <description>Most B2B funnel problems are not really funnel problems.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data &amp; Analytics on Carney</title><link>https://carney.wiki/categories/data-analytics/</link><description>Recent content in Data &amp; Analytics on Carney</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 18 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/categories/data-analytics/index.xml" rel="self" type="application/rss+xml"/><item><title>The Funnel Mutated</title><link>https://carney.wiki/blog/ai-era-mutated-funnel/</link><pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-era-mutated-funnel/</guid><description>Most B2B funnel problems are not really funnel problems.
 They are focus problems wearing a funnel costume.
-Teams publish constantly. They run campaigns across five channels. They have dashboards. They have nurture flows. They have “air cover.” Everyone is busy enough to feel productive. And yet pipeline stays weirdly uneven, sales says the leads are “fine but not really,” and every quarter somehow becomes a fresh round of “maybe we just need more top of funnel.</description>
-    </item>
-    <item>
-      <title>Digital Marketing ROI</title>
-      <link>https://carney.wiki/blog/roi-stats-marketful/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/roi-stats-marketful/</guid>
-      <description>The future of digital marketing lies in merging creativity with data-driven strategies to unlock unparalleled value. Digital marketing was never just a trend; it’s the cornerstone of business growth in the modern age. As highlighted in the Marketful blog on Digital Marketing ROI, companies investing in well-rounded strategies are reaping significant rewards. However, understanding and maximizing ROI (Return on Investment) remains critical for marketers to justify their budgets and enhance their campaigns.</description>
-    </item>
-    <item>
-      <title>Building &amp; Managing Your Marketing Database in a Cookie-Less World</title>
-      <link>https://carney.wiki/blog/database-mgt/</link>
-      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/database-mgt/</guid>
-      <description>Your database is not glamorous. Nobody wins a standing ovation for good contact hygiene. But when it is a mess, the whole revenue engine starts coughing up hairballs.
-In a cookie-less world, the old lazy habits get expensive fast. If you want a database that actually helps marketing and sales instead of quietly sabotaging them, you need better inputs, better discipline, and a little less obsession with collecting every possible field like you are building a hostage dossier.</description>
-    </item>
-    <item>
-      <title>Exploring Intent Data&#39;s Significance in Business Strategy</title>
-      <link>https://carney.wiki/blog/intent-data/</link>
-      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/intent-data/</guid>
-      <description>Exploring the Significance of Intent Data in Business Strategy Intent data gets sold like a crystal ball. It is not. What it is can still be useful: a set of signals that helps you understand which accounts are showing interest, what topics they care about, and where sales and marketing should probably focus before they waste energy on the wrong people.
-The catch is that not all intent data means the same thing.</description>
-    </item>
-  </channel>
-</rss>
+Teams publish constantly. They run campaigns across five channels. They have dashboards. They have nurture flows. They have “air cover.” Everyone is busy enough to feel productive. And yet pipeline stays weirdly uneven, sales says the leads are “fine but not really,” and every quarter somehow becomes a fresh round of “maybe we just need more top of funnel.</description></item><item><title>Digital Marketing ROI</title><link>https://carney.wiki/blog/roi-stats-marketful/</link><pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/roi-stats-marketful/</guid><description>The future of digital marketing lies in merging creativity with data-driven strategies to unlock unparalleled value. Digital marketing was never just a trend; it’s the cornerstone of business growth in the modern age. As highlighted in the Marketful blog on Digital Marketing ROI, companies investing in well-rounded strategies are reaping significant rewards. However, understanding and maximizing ROI (Return on Investment) remains critical for marketers to justify their budgets and enhance their campaigns.</description></item><item><title>Building &amp; Managing Your Marketing Database in a Cookie-Less World</title><link>https://carney.wiki/blog/database-mgt/</link><pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/database-mgt/</guid><description>Your database is not glamorous. Nobody wins a standing ovation for good contact hygiene. But when it is a mess, the whole revenue engine starts coughing up hairballs.
+In a cookie-less world, the old lazy habits get expensive fast. If you want a database that actually helps marketing and sales instead of quietly sabotaging them, you need better inputs, better discipline, and a little less obsession with collecting every possible field like you are building a hostage dossier.</description></item><item><title>Exploring Intent Data's Significance in Business Strategy</title><link>https://carney.wiki/blog/intent-data/</link><pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/intent-data/</guid><description>Exploring the Significance of Intent Data in Business Strategy Intent data gets sold like a crystal ball. It is not. What it is can still be useful: a set of signals that helps you understand which accounts are showing interest, what topics they care about, and where sales and marketing should probably focus before they waste energy on the wrong people.
+The catch is that not all intent data means the same thing.</description></item></channel></rss>

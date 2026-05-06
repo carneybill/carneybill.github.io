@@ -1,27 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Marketing Operations on Carney</title>
-    <link>https://carney.wiki/tags/marketing-operations/</link>
-    <description>Recent content in Marketing Operations on Carney</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://carney.wiki/tags/marketing-operations/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Building the machine</title>
-      <link>https://carney.wiki/blog/whats-your-martech-stack-look-like/</link>
-      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/whats-your-martech-stack-look-like/</guid>
-      <description>Documenting your Martech stack What&amp;rsquo;s your standardized Martech stack? Do you know what&amp;rsquo;s running? Do you know the overlaps and are you willing to accept them?
-The purpose of documenting the stack is to consolidate for continuity and control. Some of the vendors you work with may collect PII (Personal Identifiable Information) or PD (Personal Data) on your behalf or may not integrate into your databases of record for subscription management.</description>
-    </item>
-    <item>
-      <title>Operational Efficiencies in Marketing</title>
-      <link>https://carney.wiki/blog/operational-efficiencies/</link>
-      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/operational-efficiencies/</guid>
-      <description>Time to shine 2021 must be focused on minimizing unnecessary and unproductive expenses and delivering sales qualified leads that convert to opportunities - it’s really that simple. The marketing pendulum must dramatically shift towards an Agile but deliberate approach (scrappy) focused on Net New and away from branding exercises and vanity metrics. This is supported by the fact that many companies truly don’t have a branding budget, nor should they be allowed one until they have their story completed and vetted with a mapped execution strategy.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Marketing Operations on Carney</title><link>https://carney.wiki/tags/marketing-operations/</link><description>Recent content in Marketing Operations on Carney</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/marketing-operations/index.xml" rel="self" type="application/rss+xml"/><item><title>Building the machine</title><link>https://carney.wiki/blog/whats-your-martech-stack-look-like/</link><pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/whats-your-martech-stack-look-like/</guid><description>Documenting your Martech stack What&amp;rsquo;s your standardized Martech stack? Do you know what&amp;rsquo;s running? Do you know the overlaps and are you willing to accept them?
+The purpose of documenting the stack is to consolidate for continuity and control. Some of the vendors you work with may collect PII (Personal Identifiable Information) or PD (Personal Data) on your behalf or may not integrate into your databases of record for subscription management.</description></item><item><title>Operational Efficiencies in Marketing</title><link>https://carney.wiki/blog/operational-efficiencies/</link><pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/operational-efficiencies/</guid><description>Time to shine 2021 must be focused on minimizing unnecessary and unproductive expenses and delivering sales qualified leads that convert to opportunities - it’s really that simple. The marketing pendulum must dramatically shift towards an Agile but deliberate approach (scrappy) focused on Net New and away from branding exercises and vanity metrics. This is supported by the fact that many companies truly don’t have a branding budget, nor should they be allowed one until they have their story completed and vetted with a mapped execution strategy.</description></item></channel></rss>

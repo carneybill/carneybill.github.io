@@ -1,20 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Buyer Signals on Carney</title>
-    <link>https://carney.wiki/tags/buyer-signals/</link>
-    <description>Recent content in Buyer Signals on Carney</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 10 May 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://carney.wiki/tags/buyer-signals/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Exploring Intent Data&#39;s Significance in Business Strategy</title>
-      <link>https://carney.wiki/blog/intent-data/</link>
-      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/intent-data/</guid>
-      <description>Exploring the Significance of Intent Data in Business Strategy Intent data gets sold like a crystal ball. It is not. What it is can still be useful: a set of signals that helps you understand which accounts are showing interest, what topics they care about, and where sales and marketing should probably focus before they waste energy on the wrong people.
-The catch is that not all intent data means the same thing.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Buyer Signals on Carney</title><link>https://carney.wiki/tags/buyer-signals/</link><description>Recent content in Buyer Signals on Carney</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 10 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/buyer-signals/index.xml" rel="self" type="application/rss+xml"/><item><title>Exploring Intent Data's Significance in Business Strategy</title><link>https://carney.wiki/blog/intent-data/</link><pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/intent-data/</guid><description>Exploring the Significance of Intent Data in Business Strategy Intent data gets sold like a crystal ball. It is not. What it is can still be useful: a set of signals that helps you understand which accounts are showing interest, what topics they care about, and where sales and marketing should probably focus before they waste energy on the wrong people.
+The catch is that not all intent data means the same thing.</description></item></channel></rss>

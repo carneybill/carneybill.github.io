@@ -1,28 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Vercel on Carney</title>
-    <link>https://carney.wiki/tags/vercel/</link>
-    <description>Recent content in Vercel on Carney</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 20 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://carney.wiki/tags/vercel/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Custom-Backend Myth After AI</title>
-      <link>https://carney.wiki/blog/custom-backend-myth-after-ai/</link>
-      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/custom-backend-myth-after-ai/</guid>
-      <description>The Custom-Backend Myth After AI: Why Most Websites No Longer Need Bespoke Infrastructure For years, businesses were told that a serious website needed a custom backend to be flexible, scalable, and credible. That made sense when publishing online required heavy engineering effort and every meaningful change depended on developers. That is no longer true for most business websites.
-Today, AI can generate a working site in minutes. Modern deployment platforms can put that site into production almost immediately.</description>
-    </item>
-    <item>
-      <title>Vibe Coding</title>
-      <link>https://carney.wiki/blog/vibe-coding/</link>
-      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/vibe-coding/</guid>
-      <description>Vibe Coding Is Coming — And I Might Have Just Tried It There’s a new term I’ve been hearing more and more lately: Vibe Coding.
-It&amp;rsquo;s not an official methodology or some new framework (yet), but rather a feeling—a zone developers enter where everything just clicks. You’re moving fast, building with intuition, and the tools aren’t fighting you—they’re helping. It’s creative momentum at full speed, and I think I may have just experienced it for the first time.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vercel on Carney</title><link>https://carney.wiki/tags/vercel/</link><description>Recent content in Vercel on Carney</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 20 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/vercel/index.xml" rel="self" type="application/rss+xml"/><item><title>The Custom-Backend Myth After AI</title><link>https://carney.wiki/blog/custom-backend-myth-after-ai/</link><pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/custom-backend-myth-after-ai/</guid><description>The Custom-Backend Myth After AI: Why Most Websites No Longer Need Bespoke Infrastructure For years, businesses were told that a serious website needed a custom backend to be flexible, scalable, and credible. That made sense when publishing online required heavy engineering effort and every meaningful change depended on developers. That is no longer true for most business websites.
+Today, AI can generate a working site in minutes. Modern deployment platforms can put that site into production almost immediately.</description></item><item><title>Vibe Coding</title><link>https://carney.wiki/blog/vibe-coding/</link><pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/vibe-coding/</guid><description>Vibe Coding Is Coming — And I Might Have Just Tried It There’s a new term I’ve been hearing more and more lately: Vibe Coding.
+It&amp;rsquo;s not an official methodology or some new framework (yet), but rather a feeling—a zone developers enter where everything just clicks. You’re moving fast, building with intuition, and the tools aren’t fighting you—they’re helping. It’s creative momentum at full speed, and I think I may have just experienced it for the first time.</description></item></channel></rss>

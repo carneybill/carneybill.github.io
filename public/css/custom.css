@@ -853,9 +853,10 @@ img {
 
 .post-main {
   box-sizing: border-box;
-  margin: 0;
-  max-width: none;
-  padding: 0 clamp(1.5rem, 4vw, 4rem) 5rem;
+  grid-column: 1 / -1;
+  margin: 0 auto;
+  max-width: calc(var(--bc-max) + 3rem);
+  padding: 0 1.5rem 5rem;
   width: 100%;
 }
 

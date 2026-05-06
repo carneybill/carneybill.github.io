@@ -1,21 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Sales on Carney</title>
-    <link>https://carney.wiki/series/sales/</link>
-    <description>Recent content in Sales on Carney</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://carney.wiki/series/sales/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How to build real trust</title>
-      <link>https://carney.wiki/blog/build-trust/</link>
-      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/build-trust/</guid>
-      <description>Why Trust Matters Buyers don’t just buy features. They buy confidence. Trusted brands get on shortlists faster. They close deals faster. They lower acquisition cost.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sales on Carney</title><link>https://carney.wiki/series/sales/</link><description>Recent content in Sales on Carney</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/series/sales/index.xml" rel="self" type="application/rss+xml"/><item><title>How to build real trust</title><link>https://carney.wiki/blog/build-trust/</link><pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/build-trust/</guid><description>Why Trust Matters Buyers don’t just buy features. They buy confidence. Trusted brands get on shortlists faster. They close deals faster. They lower acquisition cost.
 Research shows trust — things like competence, consistency, and dependability — is central to B2B buying decisions.
-And buyers do their homework before talking to sales. They read content and cross-check sources long before they reach out. That means your brand needs to earn trust before the first call.</description>
-    </item>
-  </channel>
-</rss>
+And buyers do their homework before talking to sales. They read content and cross-check sources long before they reach out. That means your brand needs to earn trust before the first call.</description></item></channel></rss>

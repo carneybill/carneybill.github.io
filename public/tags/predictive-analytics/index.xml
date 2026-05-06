@@ -1,20 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Predictive Analytics on Carney</title>
-    <link>https://carney.wiki/tags/predictive-analytics/</link>
-    <description>Recent content in Predictive Analytics on Carney</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 10 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://carney.wiki/tags/predictive-analytics/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AI in Marketing</title>
-      <link>https://carney.wiki/blog/ai-in-marketing/</link>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/ai-in-marketing/</guid>
-      <description>Marketing is undergoing a seismic shift, driven by the rapid evolution of artificial intelligence (AI). From predictive analytics to lifelike (scary) automation, AI tools are revolutionizing how businesses engage with audiences, streamline workflows, and achieve measurable results.
-What is AI in Marketing? AI in marketing involves using artificial intelligence to optimize strategies through automation, data analysis, and personalized customer experiences. By leveraging machine learning, natural language processing, and predictive insights, marketers can improve efficiency, increase ROI, and craft meaningful connections with their audience.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Predictive Analytics on Carney</title><link>https://carney.wiki/tags/predictive-analytics/</link><description>Recent content in Predictive Analytics on Carney</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 10 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/predictive-analytics/index.xml" rel="self" type="application/rss+xml"/><item><title>AI in Marketing</title><link>https://carney.wiki/blog/ai-in-marketing/</link><pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-in-marketing/</guid><description>Marketing is undergoing a seismic shift, driven by the rapid evolution of artificial intelligence (AI). From predictive analytics to lifelike (scary) automation, AI tools are revolutionizing how businesses engage with audiences, streamline workflows, and achieve measurable results.
+What is AI in Marketing? AI in marketing involves using artificial intelligence to optimize strategies through automation, data analysis, and personalized customer experiences. By leveraging machine learning, natural language processing, and predictive insights, marketers can improve efficiency, increase ROI, and craft meaningful connections with their audience.</description></item></channel></rss>
