@@ -843,7 +843,8 @@ img {
   grid-column: 1 / -1;
 }
 
-.post-page {
+main.post-page,
+.post-page.page-main {
   max-width: none;
   padding-left: clamp(1.5rem, 4vw, 4rem);
   padding-right: clamp(1.5rem, 4vw, 4rem);
