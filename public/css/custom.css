@@ -339,8 +339,9 @@ img {
 
 .button-secondary:hover,
 .button-secondary:focus-visible {
-  border-color: var(--bc-accent);
-  color: var(--bc-accent) !important;
+  background: var(--bc-ink);
+  border-color: var(--bc-ink);
+  color: var(--bc-bg) !important;
 }
 
 .text-link {
@@ -844,10 +845,12 @@ img {
 }
 
 main.post-page,
-.post-page.page-main {
-  max-width: none;
-  padding-left: clamp(1.5rem, 4vw, 4rem);
-  padding-right: clamp(1.5rem, 4vw, 4rem);
+.post-page.page-main,
+.page-main.post-page {
+  max-width: none !important;
+  padding-left: clamp(1.5rem, 4vw, 4rem) !important;
+  padding-right: clamp(1.5rem, 4vw, 4rem) !important;
+  width: 100%;
 }
 
 .post-shell {
@@ -1969,7 +1972,9 @@ transition: background-color .15s ease-in-out;
 
 .offer-button:hover,
 .offer-button:focus {
-  opacity: .88;
+  background: transparent;
+  border-color: var(--bc-ink);
+  color: var(--bc-ink) !important;
   transform: translateY(-1px);
 }
 
@@ -3282,6 +3287,10 @@ form [type=submit] {
 }
 
 /* About page final polish */
+.about-card-actions {
+  margin-top: 1.75rem;
+}
+
 .about-book-options {
   background: var(--bc-surface) !important;
   border-color: var(--bc-border-strong) !important;
