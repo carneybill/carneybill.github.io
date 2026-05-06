@@ -851,16 +851,12 @@ img {
   grid-column: 1 / -1;
 }
 
-main.post-page,
-.post-page.page-main,
-.page-main.post-page,
-body main.page-main.post-page {
-  box-sizing: border-box !important;
-  margin: 0 !important;
-  max-width: none !important;
-  padding-left: clamp(1.5rem, 4vw, 4rem) !important;
-  padding-right: clamp(1.5rem, 4vw, 4rem) !important;
-  width: 100% !important;
+.post-main {
+  box-sizing: border-box;
+  margin: 0;
+  max-width: none;
+  padding: 0 clamp(1.5rem, 4vw, 4rem) 5rem;
+  width: 100%;
 }
 
 .post-shell {
