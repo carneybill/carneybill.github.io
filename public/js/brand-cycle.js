@@ -8,6 +8,11 @@
     'mpanies',
     'mpanions',
     'mrades',
+    'nspirators',
+    'ntractors',
+    'nnoisseurs',
+    'operatives',
+    'creators',
     'lleagues',
     ''
   ];
