@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ $projects := first 3 site.Data.projects.items }}
+{{ $projects := first 2 site.Data.projects.items }}
 {{ $posts := first 3 ((where site.RegularPages "Section" "blog").ByPublishDate.Reverse) }}
 <main class="page-main executive-home" role="main">
   <section class="executive-hero">
@@ -52,7 +52,7 @@
       {{ partial "section-header.html" (dict "eyebrow" "Selected projects" "title" "Products, platforms, and operating experiments." "copy" "A portfolio of real builds across marketing operations, AI automation, data, recruiting, education, and financial information.") }}
       <a class="text-link" href="/projects/">View all projects</a>
     </div>
-    <div class="compact-project-grid">
+    <div class="compact-project-grid compact-project-grid--two">
       {{ range $index, $project := $projects }}
         {{ partial "project-card.html" (dict "project" $project "index" $index) }}
       {{ end }}

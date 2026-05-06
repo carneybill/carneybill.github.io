@@ -388,6 +388,11 @@ img {
   grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
+.compact-project-grid--two {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.5rem;
+}
+
 .pillar-grid article,
 .insight-card,
 .blog-category-links-card,
@@ -465,6 +470,21 @@ img {
   min-height: 15rem;
   object-fit: cover;
   object-position: top center;
+  width: 100%;
+}
+
+.compact-project-grid--two .project-card-media {
+  background: var(--bc-surface);
+  padding: 1.25rem;
+}
+
+.compact-project-grid--two .project-card-media img {
+  background: transparent;
+  height: auto;
+  max-height: 26rem;
+  min-height: 0;
+  object-fit: contain;
+  object-position: center;
   width: 100%;
 }
 
@@ -3112,7 +3132,8 @@ body,
 
 .project-card[data-project-category="Book"] .project-card-media img {
   filter: drop-shadow(0 22px 30px rgba(0, 0, 0, .55)) drop-shadow(0 6px 10px rgba(0, 0, 0, .35));
-  max-height: 16rem;
+  max-height: 26rem;
+  max-width: 100%;
   object-fit: contain;
   transform: rotate(-2deg);
   transition: transform .4s ease;
