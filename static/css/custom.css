@@ -849,7 +849,12 @@ img {
 }
 
 .post-shell--three-quarter {
-  grid-template-columns: minmax(0, 3fr) minmax(0, 1fr);
+  grid-template-columns: minmax(0, 720px) minmax(220px, 280px) minmax(0, 1fr);
+  justify-content: start;
+}
+
+.post-shell--three-quarter .post-sidebar {
+  grid-column: 2;
 }
 
 .post-content {
