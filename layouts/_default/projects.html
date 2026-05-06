@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ $projects := site.Data.projects.items }}
+{{ $projects := where site.Data.projects.items "category" "!=" "Book" }}
 <main class="page-main projects-page" role="main">
   <section class="page-hero">
     <p class="section-eyebrow">Portfolio</p>

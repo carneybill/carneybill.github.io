@@ -474,18 +474,33 @@ img {
 }
 
 .compact-project-grid--two .project-card-media {
+  align-items: center;
   background: var(--bc-surface);
+  display: flex;
+  flex: 0 0 auto;
+  height: 22rem;
+  justify-content: center;
+  min-height: 0;
   padding: 1.25rem;
+}
+
+.compact-project-grid--two .project-card-media a {
+  align-items: center;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  width: 100%;
 }
 
 .compact-project-grid--two .project-card-media img {
   background: transparent;
   height: auto;
-  max-height: 26rem;
+  max-height: 100%;
+  max-width: 100%;
   min-height: 0;
   object-fit: contain;
   object-position: center;
-  width: 100%;
+  width: auto;
 }
 
 .project-card-body {
@@ -999,11 +1014,11 @@ img {
 }
 
 .site-footer {
-  background: var(--bc-surface);
+  background: transparent;
   border-top: 1px solid var(--bc-border);
   margin: 4rem 0 0;
   max-width: none;
-  padding: 3rem clamp(1.5rem, 5vw, 4rem);
+  padding: 2.25rem clamp(1.5rem, 5vw, 4rem);
   width: 100%;
 }
 
@@ -1715,10 +1730,10 @@ transition: background-color .15s ease-in-out;
 
 .offer-hero--split .offer-hero-art img {
   display: block;
-  filter: drop-shadow(0 22px 36px rgba(0, 0, 0, .55));
+  filter: drop-shadow(0 28px 48px rgba(0, 0, 0, .65));
   height: auto;
   max-width: 100%;
-  width: clamp(14rem, 26vw, 22rem);
+  width: clamp(22rem, 38vw, 36rem);
 }
 
 @media (max-width: 60em) {
@@ -1729,7 +1744,7 @@ transition: background-color .15s ease-in-out;
     order: -1;
   }
   .offer-hero--split .offer-hero-art img {
-    width: clamp(12rem, 50vw, 18rem);
+    width: clamp(16rem, 70vw, 26rem);
   }
 }
 
@@ -1746,10 +1761,10 @@ transition: background-color .15s ease-in-out;
 .offer-hero h1 {
   color: var(--bc-ink);
   font-family: var(--bc-serif);
-  font-size: clamp(2.15rem, 5vw, 4.25rem);
-  line-height: 1.05;
+  font-size: clamp(1.6rem, 2.6vw, 2.4rem);
+  line-height: 1.15;
   margin: 0;
-  max-width: 16em;
+  max-width: 22em;
 }
 
 .offer-lede {
@@ -2834,11 +2849,11 @@ form [type=submit] {
 }
 
 .site-footer {
-  background: var(--bc-surface);
+  background: transparent;
   border-top: 1px solid var(--bc-border);
   margin: 4rem 0 0;
   max-width: none;
-  padding: 3rem clamp(1.5rem, 5vw, 4rem);
+  padding: 2.25rem clamp(1.5rem, 5vw, 4rem);
   width: 100%;
 }
 
@@ -3063,15 +3078,15 @@ form [type=submit] {
 }
 
 .standard-page .service .icon i {
-  color: var(--bc-soft);
-  font-size: 34px;
-  font-weight: 300;
+  color: var(--bc-accent);
+  font-size: 44px;
+  font-weight: 400;
 }
 
 .standard-page .service h3 {
-  color: var(--bc-muted);
-  font-size: .84rem;
-  font-weight: 700;
+  color: var(--bc-ink);
+  font-size: 1rem;
+  font-weight: 800;
   letter-spacing: .08em;
 }
 
@@ -3167,14 +3182,14 @@ body,
 
 .project-card[data-project-category="Book"] .project-card-media img {
   filter: drop-shadow(0 22px 30px rgba(0, 0, 0, .55)) drop-shadow(0 6px 10px rgba(0, 0, 0, .35));
-  max-height: 26rem;
+  max-height: 100%;
   max-width: 100%;
   object-fit: contain;
-  transform: rotate(-2deg);
+  transform: none;
   transition: transform .4s ease;
   width: auto;
 }
 
 .project-card[data-project-category="Book"]:hover .project-card-media img {
-  transform: rotate(-2deg) translateY(-4px);
+  transform: translateY(-4px);
 }
