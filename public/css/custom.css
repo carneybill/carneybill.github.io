@@ -158,42 +158,38 @@ img {
 
 .brand-odometer {
   display: inline-block;
-  font-feature-settings: inherit;
-  font-kerning: inherit;
-  height: 1em;
+  font: inherit;
   letter-spacing: inherit;
-  line-height: inherit;
   margin: 0;
   overflow: hidden;
   padding: 0;
   vertical-align: baseline;
+  white-space: nowrap;
 }
 
 .brand-odometer-word {
+  display: inline-block;
+  font: inherit;
   letter-spacing: inherit;
   margin: 0;
   padding: 0;
-}
-
-.brand-odometer-word {
-  display: block;
-  transform: translateY(-110%);
-  transition: transform .45s cubic-bezier(.65, 0, .35, 1);
+  transform: translateX(110%);
+  transition: transform .55s cubic-bezier(.65, 0, .35, 1);
   white-space: pre;
   will-change: transform;
 }
 
 .brand-odometer-word.is-in {
-  transform: translateY(0);
+  transform: translateX(0);
 }
 
 .brand-odometer-word.is-out {
-  transform: translateY(110%);
+  transform: translateX(-110%);
 }
 
 @media (prefers-reduced-motion: reduce) {
   .brand-odometer-word {
-    transform: translateY(0);
+    transform: translateX(0);
     transition: none;
   }
 }
