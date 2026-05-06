@@ -2059,6 +2059,7 @@ transition: background-color .15s ease-in-out;
 }
 
 .offer-card-actions {
+  align-items: center;
   display: flex;
   flex-wrap: wrap;
   gap: .65rem;
@@ -2082,13 +2083,19 @@ transition: background-color .15s ease-in-out;
 }
 
 .offer-buy {
+  align-items: center;
   background: transparent;
   border: 1px solid var(--bc-accent);
-  color: var(--bc-accent);
+  color: var(--bc-accent) !important;
+  cursor: pointer;
   display: inline-flex;
+  font-family: var(--bc-sans);
   font-size: .82rem;
   font-weight: 800;
+  height: auto;
+  justify-content: center;
   letter-spacing: .07em;
+  line-height: 1;
   padding: .7rem 1.05rem;
   text-decoration: none;
   text-transform: uppercase;
@@ -3275,15 +3282,21 @@ form [type=submit] {
 
 /* About page final polish */
 .about-book-options {
-  background: var(--bc-ink) !important;
+  background: var(--bc-surface) !important;
   border-color: var(--bc-border-strong) !important;
-  box-shadow: none;
+  box-shadow: 0 18px 36px rgba(0, 0, 0, .55);
 }
 
 .about-book-option {
   border-radius: 0;
-  color: var(--bc-bg) !important;
-  font-weight: 500;
+  color: var(--bc-ink) !important;
+  font-weight: 700;
+}
+
+.about-book-option:hover,
+.about-book-option:focus-visible {
+  background: rgba(216, 213, 202, .12) !important;
+  color: var(--bc-accent) !important;
 }
 
 .about-book-option:hover,
