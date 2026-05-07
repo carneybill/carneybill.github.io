@@ -971,6 +971,7 @@ img {
   line-height: 1.78;
 }
 
+.post-body h1,
 .post-body h2,
 .post-body h3,
 .post-body h4 {
@@ -980,6 +981,10 @@ img {
   letter-spacing: 0;
   line-height: 1.12;
   margin: 2.6rem 0 1rem;
+}
+
+.post-body h1 {
+  font-size: clamp(1.9rem, 3vw, 2.7rem);
 }
 
 .post-body h2 {

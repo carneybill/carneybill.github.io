@@ -27,8 +27,6 @@ layout: single-sidebar
 ---
 ![stack](/blog/assets/customers.jpg)
 
-# When Your Prospect Knows More Than You: A Cinco de Mayo Lesson in Humble Persuasion
-
 Modern buyers do not wait for marketing to educate them anymore.
 
 Before they ever talk to your company, they have already read the docs, compared competitors, watched demos, asked peers, scanned communities, and used AI to do their homework. By the time you meet them, they may know your category, your claims, and your weak spots surprisingly well.
