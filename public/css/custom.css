@@ -135,31 +135,9 @@ img {
 }
 
 .brand-lockup {
-  align-items: baseline;
-  display: inline-flex;
+  display: inline-block;
   line-height: 1;
   white-space: nowrap;
-}
-
-.brand-name,
-.brand-tld {
-  display: inline-block;
-}
-
-.brand-tld {
-  clip-path: inset(0 100% 0 0);
-  animation: brand-tld-reveal 900ms cubic-bezier(.65, 0, .35, 1) 250ms forwards;
-}
-
-@keyframes brand-tld-reveal {
-  to { clip-path: inset(0 0 0 0); }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .brand-tld {
-    animation: none;
-    clip-path: none;
-  }
 }
 
 .clip {
