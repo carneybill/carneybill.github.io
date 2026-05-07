@@ -1969,12 +1969,17 @@ transition: background-color .15s ease-in-out;
   flex-direction: column;
   min-height: 100%;
   padding: 1.75rem;
+  position: relative;
   transition: border-color .18s ease, transform .18s ease;
 }
 
 .offer-card:hover {
-  border-color: var(--bc-accent);
+  border-color: #38bdf8;
   transform: translateY(-2px);
+}
+
+.offer-card:hover .offer-card-view {
+  text-decoration: underline;
 }
 
 .offer-card h2,
@@ -2029,7 +2034,7 @@ transition: background-color .15s ease-in-out;
 }
 
 .offer-card-view {
-  color: var(--bc-accent);
+  color: #38bdf8 !important;
   display: block;
   font-weight: 700;
   margin-top: auto;
@@ -2040,15 +2045,22 @@ transition: background-color .15s ease-in-out;
 
 .offer-card-view:hover,
 .offer-card-view:focus {
-  color: var(--bc-ink);
+  color: #7dd3fc !important;
   text-decoration: underline;
+}
+
+.offer-card-view::after {
+  content: "";
+  inset: 0;
+  position: absolute;
+  z-index: 1;
 }
 
 .offer-buy {
   align-items: center;
   background: transparent;
-  border: 1px solid var(--bc-accent);
-  color: var(--bc-accent) !important;
+  border: 1px solid #38bdf8;
+  color: #38bdf8 !important;
   cursor: pointer;
   display: inline-flex;
   font-family: var(--bc-sans);
@@ -2059,16 +2071,23 @@ transition: background-color .15s ease-in-out;
   letter-spacing: .07em;
   line-height: 1;
   padding: .7rem 1.05rem;
+  position: relative;
   text-decoration: none;
   text-transform: uppercase;
   transition: background-color .15s ease, color .15s ease, border-color .15s ease;
+  z-index: 2;
 }
 
 .offer-buy:hover,
 .offer-buy:focus {
-  background: var(--bc-accent);
-  border-color: var(--bc-accent);
+  background: #38bdf8;
+  border-color: #38bdf8;
   color: var(--bc-bg) !important;
+}
+
+.offer-card-actions {
+  position: relative;
+  z-index: 2;
 }
 
 .offer-two-col {
@@ -3315,6 +3334,18 @@ body,
 .offer-link:hover,
 .offer-secondary:hover {
   color: var(--bc-ink) !important;
+}
+
+.offer-band a {
+  color: #38bdf8 !important;
+  text-decoration: underline;
+  text-decoration-color: rgba(56, 189, 248, .5);
+}
+
+.offer-band a:hover,
+.offer-band a:focus-visible {
+  color: #7dd3fc !important;
+  text-decoration-color: currentColor;
 }
 
 .service .icon i {
