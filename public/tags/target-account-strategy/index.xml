@@ -1,20 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Target Account Strategy on Carney</title>
-    <link>https://carney.wiki/tags/target-account-strategy/</link>
-    <description>Recent content in Target Account Strategy on Carney</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://carney.wiki/tags/target-account-strategy/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Navigating Account-Based Marketing</title>
-      <link>https://carney.wiki/blog/abm-cost-complexity/</link>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/abm-cost-complexity/</guid>
-      <description>Navigating the Complexities and Costs of Account-Based Marketing for B2B ABM sounds fantastic in a board deck. Pick the right accounts. Personalize everything. Align sales and marketing. Win bigger deals. What usually gets left out of the presentation is the inconvenient part: ABM is expensive, operationally messy, and very easy to do badly with beautiful software and mediocre thinking.
-That does not mean ABM is a bad idea. It means it is not magic.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Target Account Strategy on Carney</title><link>https://carney.wiki/tags/target-account-strategy/</link><description>Recent content in Target Account Strategy on Carney</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/target-account-strategy/index.xml" rel="self" type="application/rss+xml"/><item><title>Navigating Account-Based Marketing</title><link>https://carney.wiki/blog/abm-cost-complexity/</link><pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/abm-cost-complexity/</guid><description>Navigating the Complexities and Costs of Account-Based Marketing for B2B ABM sounds fantastic in a board deck. Pick the right accounts. Personalize everything. Align sales and marketing. Win bigger deals. What usually gets left out of the presentation is the inconvenient part: ABM is expensive, operationally messy, and very easy to do badly with beautiful software and mediocre thinking.
+That does not mean ABM is a bad idea. It means it is not magic.</description></item></channel></rss>

@@ -1,59 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Product &amp; UX on Carney</title>
-    <link>https://carney.wiki/categories/product-ux/</link>
-    <description>Recent content in Product &amp; UX on Carney</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://carney.wiki/categories/product-ux/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Vibe Coding 2</title>
-      <link>https://carney.wiki/blog/vibe2/</link>
-      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/vibe2/</guid>
-      <description>Vibe Coding: Still Learning, Still Vibing When I first wrote about vibe coding, I saw it as a fresh, almost playful way of thinking about development—coding less like grinding through syntax and more like shaping an idea in conversation with an AI. Since then, I’ve gone deeper: I’ve tried Replit, Cursor, and now Kilo inside Visual Studio with Copilot and Claude. Along the way, I’ve burned down and rebuilt multiple instances, hit roadblocks with authentication, ripped out Clerk when database connections got messy, and wrangled with Docker, Digital Ocean, Spaces, and Stripe.</description>
-    </item>
-    <item>
-      <title>Vibe Coding</title>
-      <link>https://carney.wiki/blog/vibe-coding/</link>
-      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/vibe-coding/</guid>
-      <description>Vibe Coding Is Coming — And I Might Have Just Tried It There’s a new term I’ve been hearing more and more lately: Vibe Coding.
-It&amp;rsquo;s not an official methodology or some new framework (yet), but rather a feeling—a zone developers enter where everything just clicks. You’re moving fast, building with intuition, and the tools aren’t fighting you—they’re helping. It’s creative momentum at full speed, and I think I may have just experienced it for the first time.</description>
-    </item>
-    <item>
-      <title>You&#39;re Gonna Need a Voice Strategy</title>
-      <link>https://carney.wiki/blog/voice/</link>
-      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/voice/</guid>
-      <description>The Future is Talking: Why Your Brand Needs a Voice Strategy Listen up, marketers—literally. If you’ve been ignoring the rise of voice search and the domination of mobile-first strategies, now’s the time to pay attention. In 2025, Alexa isn’t just going to help you with your grocery list—she’ll be selling those groceries for your competitors if you don’t step up your game.
-Voice technology is turning marketing into a conversation (literally), and smart brands will seize the opportunity to connect with their audience in more authentic, hands-free ways.</description>
-    </item>
-    <item>
-      <title>Rethinking chat - A better approach?</title>
-      <link>https://carney.wiki/blog/chat/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/chat/</guid>
-      <description>The Evolution of Communication: From Phone Calls to Text Most people do not want to be ambushed by a phone call anymore. They want to text, message, skim, ask a question, disappear for a while, and come back when it suits them. That is not a generational flaw. It is just how modern communication works.
-That shift matters for marketing and support. If your website still acts like every visitor wants a scheduled demo and a cheerful sales ambush, you are solving yesterday&amp;rsquo;s problem.</description>
-    </item>
-    <item>
-      <title>The Art of In-Product Marketing: Adding Value, Not Creepiness</title>
-      <link>https://carney.wiki/blog/in-product-marketing/</link>
-      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/in-product-marketing/</guid>
-      <description>In-product marketing works best when it feels like help, not surveillance. There is a big difference between a timely nudge and a product that makes the user wonder if it has been reading their diary.
-The line is not hard to understand. If the message is useful, relevant, and respectful, it adds value. If it feels manipulative, pushy, or weirdly overpersonalized, congratulations, you have built a growth tactic people will actively resent.</description>
-    </item>
-    <item>
-      <title>Rethinking Live Chat: Is it Time for a More Focused Approach</title>
-      <link>https://carney.wiki/blog/live-chat/</link>
-      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/live-chat/</guid>
-      <description>Most live chat is either wasted or misused. It gets wasted when it sits on the site like a decorative paperweight. It gets misused when teams expect it to be support desk, SDR, concierge, and miracle conversion machine all at once.
-There is a better way to use it. Put chat where intent is high, narrow the use case, and use AI to make the interaction faster and smarter instead of louder and more annoying.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Product &amp; UX on Carney</title><link>https://carney.wiki/categories/product-ux/</link><description>Recent content in Product &amp; UX on Carney</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/categories/product-ux/index.xml" rel="self" type="application/rss+xml"/><item><title>Vibe Coding 2</title><link>https://carney.wiki/blog/vibe2/</link><pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/vibe2/</guid><description>Vibe Coding: Still Learning, Still Vibing When I first wrote about vibe coding, I saw it as a fresh, almost playful way of thinking about development—coding less like grinding through syntax and more like shaping an idea in conversation with an AI. Since then, I’ve gone deeper: I’ve tried Replit, Cursor, and now Kilo inside Visual Studio with Copilot and Claude. Along the way, I’ve burned down and rebuilt multiple instances, hit roadblocks with authentication, ripped out Clerk when database connections got messy, and wrangled with Docker, Digital Ocean, Spaces, and Stripe.</description></item><item><title>Vibe Coding</title><link>https://carney.wiki/blog/vibe-coding/</link><pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/vibe-coding/</guid><description>Vibe Coding Is Coming — And I Might Have Just Tried It There’s a new term I’ve been hearing more and more lately: Vibe Coding.
+It&amp;rsquo;s not an official methodology or some new framework (yet), but rather a feeling—a zone developers enter where everything just clicks. You’re moving fast, building with intuition, and the tools aren’t fighting you—they’re helping. It’s creative momentum at full speed, and I think I may have just experienced it for the first time.</description></item><item><title>You're Gonna Need a Voice Strategy</title><link>https://carney.wiki/blog/voice/</link><pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/voice/</guid><description>The Future is Talking: Why Your Brand Needs a Voice Strategy Listen up, marketers—literally. If you’ve been ignoring the rise of voice search and the domination of mobile-first strategies, now’s the time to pay attention. In 2025, Alexa isn’t just going to help you with your grocery list—she’ll be selling those groceries for your competitors if you don’t step up your game.
+Voice technology is turning marketing into a conversation (literally), and smart brands will seize the opportunity to connect with their audience in more authentic, hands-free ways.</description></item><item><title>Rethinking chat - A better approach?</title><link>https://carney.wiki/blog/chat/</link><pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/chat/</guid><description>The Evolution of Communication: From Phone Calls to Text Most people do not want to be ambushed by a phone call anymore. They want to text, message, skim, ask a question, disappear for a while, and come back when it suits them. That is not a generational flaw. It is just how modern communication works.
+That shift matters for marketing and support. If your website still acts like every visitor wants a scheduled demo and a cheerful sales ambush, you are solving yesterday&amp;rsquo;s problem.</description></item><item><title>The Art of In-Product Marketing: Adding Value, Not Creepiness</title><link>https://carney.wiki/blog/in-product-marketing/</link><pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/in-product-marketing/</guid><description>In-product marketing works best when it feels like help, not surveillance. There is a big difference between a timely nudge and a product that makes the user wonder if it has been reading their diary.
+The line is not hard to understand. If the message is useful, relevant, and respectful, it adds value. If it feels manipulative, pushy, or weirdly overpersonalized, congratulations, you have built a growth tactic people will actively resent.</description></item><item><title>Rethinking Live Chat: Is it Time for a More Focused Approach</title><link>https://carney.wiki/blog/live-chat/</link><pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/live-chat/</guid><description>Most live chat is either wasted or misused. It gets wasted when it sits on the site like a decorative paperweight. It gets misused when teams expect it to be support desk, SDR, concierge, and miracle conversion machine all at once.
+There is a better way to use it. Put chat where intent is high, narrow the use case, and use AI to make the interaction faster and smarter instead of louder and more annoying.</description></item></channel></rss>

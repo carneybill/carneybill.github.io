@@ -1,51 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Technology on Carney</title>
-    <link>https://carney.wiki/series/technology/</link>
-    <description>Recent content in Technology on Carney</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://carney.wiki/series/technology/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Vibe Coding 2</title>
-      <link>https://carney.wiki/blog/vibe2/</link>
-      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/vibe2/</guid>
-      <description>Vibe Coding: Still Learning, Still Vibing When I first wrote about vibe coding, I saw it as a fresh, almost playful way of thinking about development—coding less like grinding through syntax and more like shaping an idea in conversation with an AI. Since then, I’ve gone deeper: I’ve tried Replit, Cursor, and now Kilo inside Visual Studio with Copilot and Claude. Along the way, I’ve burned down and rebuilt multiple instances, hit roadblocks with authentication, ripped out Clerk when database connections got messy, and wrangled with Docker, Digital Ocean, Spaces, and Stripe.</description>
-    </item>
-    <item>
-      <title>Vibe Coding</title>
-      <link>https://carney.wiki/blog/vibe-coding/</link>
-      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/vibe-coding/</guid>
-      <description>Vibe Coding Is Coming — And I Might Have Just Tried It There’s a new term I’ve been hearing more and more lately: Vibe Coding.
-It&amp;rsquo;s not an official methodology or some new framework (yet), but rather a feeling—a zone developers enter where everything just clicks. You’re moving fast, building with intuition, and the tools aren’t fighting you—they’re helping. It’s creative momentum at full speed, and I think I may have just experienced it for the first time.</description>
-    </item>
-    <item>
-      <title>Marketing Project Management</title>
-      <link>https://carney.wiki/blog/project-management/</link>
-      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/project-management/</guid>
-      <description>The Role of Content Across the Entire Company No matter which tool you choose, one fact does not change: good marketing depends on contributions from across the company. Sales hears objections first. Product knows what is real and what still lives in roadmap fantasy land. Support knows exactly where customers get frustrated. If marketing works without that input, it usually ends up polishing guesses.
-The right project-management tool makes that collaboration easier.</description>
-    </item>
-    <item>
-      <title>Livestreaming and Video&#39;s with AI</title>
-      <link>https://carney.wiki/blog/video/</link>
-      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/video/</guid>
-      <description>Video is no longer the side dish in the marketing plan. For a lot of brands, it is the plan. Livestreaming, streaming platforms, short-form content, and AI-assisted production have all made video harder to ignore and easier to produce. That is great news if you have a strategy. It is less great if your current plan is &amp;ldquo;let&amp;rsquo;s upload the webinar replay and pray.&amp;rdquo;
-Looking to Livestreaming Livestreaming has become a serious commercial channel in markets like China, where entertainment and commerce are far less awkward about sharing the same room.</description>
-    </item>
-    <item>
-      <title>AI in Marketing</title>
-      <link>https://carney.wiki/blog/ai-in-marketing/</link>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/ai-in-marketing/</guid>
-      <description>Marketing is undergoing a seismic shift, driven by the rapid evolution of artificial intelligence (AI). From predictive analytics to lifelike (scary) automation, AI tools are revolutionizing how businesses engage with audiences, streamline workflows, and achieve measurable results.
-What is AI in Marketing? AI in marketing involves using artificial intelligence to optimize strategies through automation, data analysis, and personalized customer experiences. By leveraging machine learning, natural language processing, and predictive insights, marketers can improve efficiency, increase ROI, and craft meaningful connections with their audience.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Technology on Carney</title><link>https://carney.wiki/series/technology/</link><description>Recent content in Technology on Carney</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/series/technology/index.xml" rel="self" type="application/rss+xml"/><item><title>Vibe Coding 2</title><link>https://carney.wiki/blog/vibe2/</link><pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/vibe2/</guid><description>Vibe Coding: Still Learning, Still Vibing When I first wrote about vibe coding, I saw it as a fresh, almost playful way of thinking about development—coding less like grinding through syntax and more like shaping an idea in conversation with an AI. Since then, I’ve gone deeper: I’ve tried Replit, Cursor, and now Kilo inside Visual Studio with Copilot and Claude. Along the way, I’ve burned down and rebuilt multiple instances, hit roadblocks with authentication, ripped out Clerk when database connections got messy, and wrangled with Docker, Digital Ocean, Spaces, and Stripe.</description></item><item><title>Vibe Coding</title><link>https://carney.wiki/blog/vibe-coding/</link><pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/vibe-coding/</guid><description>Vibe Coding Is Coming — And I Might Have Just Tried It There’s a new term I’ve been hearing more and more lately: Vibe Coding.
+It&amp;rsquo;s not an official methodology or some new framework (yet), but rather a feeling—a zone developers enter where everything just clicks. You’re moving fast, building with intuition, and the tools aren’t fighting you—they’re helping. It’s creative momentum at full speed, and I think I may have just experienced it for the first time.</description></item><item><title>Marketing Project Management</title><link>https://carney.wiki/blog/project-management/</link><pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/project-management/</guid><description>The Role of Content Across the Entire Company No matter which tool you choose, one fact does not change: good marketing depends on contributions from across the company. Sales hears objections first. Product knows what is real and what still lives in roadmap fantasy land. Support knows exactly where customers get frustrated. If marketing works without that input, it usually ends up polishing guesses.
+The right project-management tool makes that collaboration easier.</description></item><item><title>Livestreaming and Video's with AI</title><link>https://carney.wiki/blog/video/</link><pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/video/</guid><description>Video is no longer the side dish in the marketing plan. For a lot of brands, it is the plan. Livestreaming, streaming platforms, short-form content, and AI-assisted production have all made video harder to ignore and easier to produce. That is great news if you have a strategy. It is less great if your current plan is &amp;ldquo;let&amp;rsquo;s upload the webinar replay and pray.&amp;rdquo;
+Looking to Livestreaming Livestreaming has become a serious commercial channel in markets like China, where entertainment and commerce are far less awkward about sharing the same room.</description></item><item><title>AI in Marketing</title><link>https://carney.wiki/blog/ai-in-marketing/</link><pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-in-marketing/</guid><description>Marketing is undergoing a seismic shift, driven by the rapid evolution of artificial intelligence (AI). From predictive analytics to lifelike (scary) automation, AI tools are revolutionizing how businesses engage with audiences, streamline workflows, and achieve measurable results.
+What is AI in Marketing? AI in marketing involves using artificial intelligence to optimize strategies through automation, data analysis, and personalized customer experiences. By leveraging machine learning, natural language processing, and predictive insights, marketers can improve efficiency, increase ROI, and craft meaningful connections with their audience.</description></item></channel></rss>

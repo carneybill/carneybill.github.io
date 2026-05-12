@@ -1012,6 +1012,14 @@ img {
   display: block;
   height: auto;
   margin: 2rem 0;
+  max-width: 100%;
+}
+
+.post-body img.post-lead-image--portrait,
+.post-body .post-lead-image--portrait img {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: min(100%, 430px);
 }
 
 .post-body table {
@@ -2940,6 +2948,14 @@ li {
   display: block;
   height: auto;
   margin: 2rem 0;
+  max-width: 100%;
+}
+
+.post-body img.post-lead-image--portrait,
+.post-body .post-lead-image--portrait img {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: min(100%, 430px);
 }
 
 .blog-search-wrap,
@@ -3417,4 +3433,131 @@ body,
 
 .project-card[data-project-category="Book"]:hover .project-card-media img {
   transform: translateY(-4px);
+}
+
+/* Site content tables */
+.post-body table,
+main table {
+  background: rgba(216, 213, 202, .04);
+  border: 1px solid var(--bc-border);
+  border-collapse: separate;
+  border-spacing: 0;
+  display: table;
+  margin: 2rem 0;
+  overflow: hidden;
+  table-layout: fixed;
+  width: 100%;
+}
+
+.post-body th,
+.post-body td,
+main th,
+main td {
+  border: 0;
+  border-bottom: 1px solid var(--bc-border);
+  padding: 1rem 1.1rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.post-body th + th,
+.post-body td + td,
+main th + th,
+main td + td {
+  border-left: 1px solid var(--bc-border);
+}
+
+.post-body th,
+main th {
+  background: rgba(216, 213, 202, .1);
+  color: var(--bc-ink);
+  font-size: .78rem;
+  font-weight: 800;
+  letter-spacing: .08em;
+  line-height: 1.35;
+  text-transform: uppercase;
+}
+
+.post-body td,
+main td {
+  color: #ddd9ce;
+  font-size: 1rem;
+  line-height: 1.55;
+}
+
+.post-body tr:last-child td,
+main tr:last-child td {
+  border-bottom: 0;
+}
+
+@media screen and (max-width: 48em) {
+  .post-body table:not(.comparison-table),
+  main table:not(.comparison-table) {
+    display: block;
+    overflow-x: auto;
+    table-layout: auto;
+    width: 100%;
+  }
+
+  .post-body table:not(.comparison-table) th,
+  .post-body table:not(.comparison-table) td,
+  main table:not(.comparison-table) th,
+  main table:not(.comparison-table) td {
+    min-width: 11rem;
+  }
+}
+
+@media screen and (max-width: 40em) {
+  .post-body .comparison-table,
+  .post-body .comparison-table thead,
+  .post-body .comparison-table tbody,
+  .post-body .comparison-table tr,
+  .post-body .comparison-table th,
+  .post-body .comparison-table td {
+    display: block;
+  }
+
+  .post-body .comparison-table {
+    background: transparent;
+    border: 0;
+  }
+
+  .post-body .comparison-table thead {
+    display: none;
+  }
+
+  .post-body .comparison-table tr {
+    background: rgba(216, 213, 202, .04);
+    border: 1px solid var(--bc-border);
+    margin-bottom: .85rem;
+  }
+
+  .post-body .comparison-table td {
+    border: 0;
+    padding: .8rem .95rem;
+  }
+
+  .post-body .comparison-table td + td {
+    border-left: 0;
+    border-top: 1px solid var(--bc-border);
+  }
+
+  .post-body .seo-geo-table td:first-child::before {
+    content: "Classic SEO focus";
+  }
+
+  .post-body .seo-geo-table td:nth-child(2)::before {
+    content: "GEO focus";
+  }
+
+  .post-body .comparison-table td::before {
+    color: var(--bc-soft);
+    display: block;
+    font-size: .68rem;
+    font-weight: 800;
+    letter-spacing: .08em;
+    line-height: 1.2;
+    margin-bottom: .3rem;
+    text-transform: uppercase;
+  }
 }

@@ -25,7 +25,7 @@ see_also:
   - "blog/growthai.md"
 layout: single-sidebar
 ---
-![stack](/blog/assets/win-the-ai-shortlist.jpg)
+{{< figure src="/blog/assets/win-the-ai-shortlist.jpg" alt="Win the AI Shortlist" class="post-lead-image post-lead-image--portrait" >}}
 
 For a long time, B2B marketing treated discovery like a traffic problem.
 
@@ -152,14 +152,7 @@ Which is annoying if you were hoping a poetic hero headline would carry the quar
 
 ## SEO vs GEO
 
-| Classic SEO focus | GEO focus |
-|---|---|
-| Rank for keywords | Get framed correctly |
-| Earn clicks | Earn recommendation |
-| Grow traffic | Grow shortlist presence |
-| Publish more pages | Build better answer surfaces |
-| Optimize metadata | Optimize meaning and proof |
-| Capture attention | Reduce misclassification |
+{{< seo-geo-table >}}
 
 That is the shift.
 

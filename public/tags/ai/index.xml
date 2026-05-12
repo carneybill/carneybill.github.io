@@ -1,35 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>AI on Carney</title>
-    <link>https://carney.wiki/tags/ai/</link>
-    <description>Recent content in AI on Carney</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 11 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://carney.wiki/tags/ai/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Content Is Cheap. Credibility Is Not.</title>
-      <link>https://carney.wiki/blog/ai-era-content-cheap-credibility-not/</link>
-      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/ai-era-content-cheap-credibility-not/</guid>
-      <description>AI made content cheap.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI on Carney</title><link>https://carney.wiki/tags/ai/</link><description>Recent content in AI on Carney</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 11 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/ai/index.xml" rel="self" type="application/rss+xml"/><item><title>Content Is Cheap. Credibility Is Not.</title><link>https://carney.wiki/blog/ai-era-content-cheap-credibility-not/</link><pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-era-content-cheap-credibility-not/</guid><description>AI made content cheap.
 That is not a hot take. That is just the weather now.
 A small team can generate blog posts, landing pages, nurture emails, ad variations, sales snippets, and enough “thought leadership” to make LinkedIn look like a machine accidentally discovered caffeine.
 That is the good news.
 The bad news is that when everyone can produce competent-sounding material, competent-sounding material stops being impressive.
-So the advantage moves.</description>
-    </item>
-    <item>
-      <title>Old Marketing Is Dead</title>
-      <link>https://carney.wiki/blog/ai-era-old-marketing-is-dead/</link>
-      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://carney.wiki/blog/ai-era-old-marketing-is-dead/</guid>
-      <description>The world most B2B marketing playbooks were built for is gone.
+So the advantage moves.</description></item><item><title>Old Marketing Is Dead</title><link>https://carney.wiki/blog/ai-era-old-marketing-is-dead/</link><pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-era-old-marketing-is-dead/</guid><description>The world most B2B marketing playbooks were built for is gone.
 Not “changing.” Gone.
 For years, the formula was familiar. Publish enough content. Buy enough reach. Tune the funnel. Keep the machine fed. If the team worked hard enough and the dashboards looked healthy enough, growth was supposed to follow.
 And to be fair, sometimes it did.
-The constraints were mostly mechanical: time, budget, headcount, production capacity, and access to distribution.</description>
-    </item>
-  </channel>
-</rss>
+The constraints were mostly mechanical: time, budget, headcount, production capacity, and access to distribution.</description></item></channel></rss>
