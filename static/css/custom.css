@@ -1971,6 +1971,10 @@ transition: background-color .15s ease-in-out;
   margin: 0 0 3rem;
 }
 
+.standard-page .offer-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
 .offer-card,
 .offer-deliverable-grid > div,
 .offer-band {
@@ -2180,6 +2184,10 @@ transition: background-color .15s ease-in-out;
   .offer-deliverable-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
+
+  .standard-page .offer-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
 }
 
 @media screen and (max-width: 40em) {
@@ -2194,6 +2202,10 @@ transition: background-color .15s ease-in-out;
   .offer-grid,
   .offer-deliverable-grid,
   .offer-two-col {
+    grid-template-columns: 1fr;
+  }
+
+  .standard-page .offer-grid {
     grid-template-columns: 1fr;
   }
 
