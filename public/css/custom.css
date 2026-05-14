@@ -3881,7 +3881,7 @@ a:focus-visible,
 .offer-hero--split .offer-hero-art {
   align-self: center;
   justify-self: center;
-  max-width: min(100%, 32rem);
+  max-width: min(100%, 22rem);
 }
 
 .offer-hero--split .offer-hero-art img,
@@ -3896,7 +3896,18 @@ a:focus-visible,
   max-width: none;
   object-fit: cover;
   object-position: center top;
-  width: min(100%, 30rem);
+  width: min(100%, 20rem);
+}
+
+@media (max-width: 60em) {
+  .offer-hero--split .offer-hero-art {
+    max-width: min(100%, 18rem);
+  }
+
+  .offer-hero--split .offer-hero-art img,
+  .about-photo {
+    width: min(100%, 17rem);
+  }
 }
 
 .about-card-actions .offer-buy {
