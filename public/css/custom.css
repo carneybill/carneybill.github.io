@@ -3561,3 +3561,459 @@ main tr:last-child td {
     text-transform: uppercase;
   }
 }
+
+/* Brand board refresh: carney.wiki dark executive system */
+:root {
+  --bc-bg: #0A0A0A;
+  --bc-surface: #11161D;
+  --bc-surface-alt: #0D1218;
+  --bc-ink: #F5F7FB;
+  --bc-muted: #B7B9BD;
+  --bc-soft: #AFC8E8;
+  --bc-border: rgba(175, 200, 232, .18);
+  --bc-border-strong: rgba(175, 200, 232, .34);
+  --bc-accent: #2F5597;
+  --bc-accent-strong: #1E3D7A;
+  --bc-accent-light: #AFC8E8;
+  --bc-warm: #E6C5A9;
+  --bc-sans: "Inter", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --bc-headline: "Montserrat", var(--bc-sans);
+  --bc-serif: "Playfair Display", Georgia, "Times New Roman", Times, serif;
+}
+
+html,
+body,
+.grid-container,
+.bg-near-white {
+  background: var(--bc-bg) !important;
+  color: var(--bc-ink) !important;
+}
+
+body,
+p,
+li,
+input,
+textarea,
+select,
+button {
+  font-family: var(--bc-sans);
+}
+
+.site-brand,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.executive-hero-copy h1,
+.page-hero h1,
+.post-header h1,
+.operator-section h2,
+.cta-section h2,
+.section-header h2,
+.offer-hero h1,
+.offer-card h2,
+.offer-deliverable-grid h3,
+.offer-two-col h2,
+.offer-process h2,
+.offer-band h2,
+.offer-final-cta h2,
+.project-card h2,
+.insight-card h3,
+.blog-featured-title,
+.standard-page h1 {
+  color: var(--bc-ink) !important;
+  font-family: var(--bc-headline);
+  font-weight: 800;
+  letter-spacing: 0;
+}
+
+.site-brand {
+  font-size: clamp(1.35rem, 2.1vw, 1.85rem);
+  letter-spacing: 0;
+  text-transform: lowercase;
+}
+
+.brand-lockup {
+  color: var(--bc-ink);
+  font-weight: 800;
+}
+
+.brand-dot,
+.brand-accent {
+  color: var(--bc-accent);
+}
+
+.site-header {
+  background: rgba(10, 10, 10, .92) !important;
+  border-bottom: 1px solid var(--bc-border);
+  box-shadow: 0 16px 44px rgba(0, 0, 0, .28);
+}
+
+.site-header::before {
+  background: rgba(10, 10, 10, .88) !important;
+  border-bottom: 1px solid var(--bc-border);
+  box-shadow: none;
+}
+
+.site-links a,
+.site-footer-links a,
+.project-filter-band a,
+.theme-links-grid a,
+.blog-category-link,
+.tag-list a {
+  color: var(--bc-ink) !important;
+}
+
+.site-links a:hover,
+.site-links a:focus-visible,
+.site-footer-links a:hover,
+.site-footer-links a:focus-visible,
+.project-filter-band a:hover,
+.theme-links-grid a:hover,
+.blog-category-link:hover,
+.blog-category-link:focus,
+.tag-list a:hover {
+  border-color: var(--bc-accent-light);
+  color: var(--bc-accent-light) !important;
+}
+
+.site-links .nav-cta,
+.button-primary,
+.offer-button,
+.btn-primary,
+.btn-primary a,
+.bg-black,
+.home .action.button,
+form [type=button],
+form [type=reset],
+form [type=submit] {
+  background: var(--bc-accent) !important;
+  border-color: var(--bc-accent) !important;
+  color: var(--bc-ink) !important;
+}
+
+.site-links .nav-cta:hover,
+.site-links .nav-cta:focus-visible,
+.button-primary:hover,
+.button-primary:focus-visible,
+.offer-button:hover,
+.offer-button:focus,
+.btn-primary:hover,
+.btn-primary a:hover,
+form [type=button]:hover,
+form [type=reset]:hover,
+form [type=submit]:hover {
+  background: var(--bc-accent-strong) !important;
+  border-color: var(--bc-accent-light) !important;
+  color: var(--bc-ink) !important;
+}
+
+.button-secondary,
+.offer-buy,
+.card-button {
+  border-color: var(--bc-border-strong) !important;
+  color: var(--bc-ink) !important;
+}
+
+.button-secondary:hover,
+.button-secondary:focus-visible,
+.offer-buy:hover,
+.offer-buy:focus,
+.card-button:hover,
+.card-button:focus-visible {
+  background: var(--bc-accent) !important;
+  border-color: var(--bc-accent) !important;
+  color: var(--bc-ink) !important;
+}
+
+a,
+.text-link,
+.about-link,
+.about-book-option,
+.offer-link,
+.offer-secondary,
+.offer-card-view,
+.offer-band a,
+.post-meta-line a,
+.post-sidebar-list a,
+.blog-category-links-all,
+.project-showcase__title a:hover {
+  color: var(--bc-accent-light) !important;
+  text-decoration-color: rgba(175, 200, 232, .5);
+}
+
+a:hover,
+a:focus-visible,
+.text-link:hover,
+.text-link:focus-visible,
+.about-link:hover,
+.about-book-option:hover,
+.offer-link:hover,
+.offer-secondary:hover,
+.offer-card-view:hover,
+.offer-card-view:focus,
+.offer-band a:hover,
+.offer-band a:focus-visible,
+.post-sidebar-list a:hover,
+.post-sidebar-list a:focus-visible,
+.blog-category-links-all:hover {
+  color: var(--bc-ink) !important;
+  text-decoration-color: currentColor;
+}
+
+.section-eyebrow,
+.panel-kicker,
+.blog-featured-eyebrow,
+.blog-category-links-label,
+.offer-kicker,
+.offer-eyebrow,
+.pillar-grid span,
+.project-card-topline,
+.projects-toc__label,
+.project-showcase__eyebrow {
+  color: var(--bc-accent-light) !important;
+  font-family: var(--bc-sans);
+}
+
+.hero-lede,
+.section-header p:not(.section-eyebrow),
+.operator-section p,
+.cta-section p,
+.page-hero p:not(.section-eyebrow),
+.post-subtitle,
+.post-body p,
+.post-body li,
+.pillar-grid p,
+.insight-card p,
+.project-card p,
+.project-card dd,
+.offer-card p,
+.offer-card li,
+.offer-deliverable-grid p,
+.offer-two-col p,
+.offer-process li,
+.offer-band p,
+.project-showcase__copy p {
+  color: var(--bc-muted) !important;
+}
+
+.pillar-grid article,
+.insight-card,
+.blog-category-links-card,
+.blog-search-card,
+.project-card,
+.compact-project-grid .project-card,
+.project-card-media,
+.offer-card,
+.offer-deliverable-grid > div,
+.offer-band,
+.projects-toc,
+.blog-featured-card,
+.site-search-panel,
+.site-search-result,
+.site-search-empty,
+.single-sidebar .page-sidebar {
+  background: var(--bc-surface) !important;
+  border-color: var(--bc-border) !important;
+  border-radius: 0 !important;
+  box-shadow: none;
+}
+
+.executive-hero,
+.page-hero,
+.section-band-ruled,
+.operator-section,
+.offer-hero,
+.offer-final-cta,
+.post-header,
+.post-sidebar,
+.site-footer,
+.project-card-proof div,
+.executive-hero-panel dl div,
+.post-sidebar-block + .post-sidebar-block {
+  border-color: var(--bc-border) !important;
+}
+
+.executive-hero-panel,
+.cta-section {
+  border-top-color: var(--bc-accent) !important;
+}
+
+.executive-hero-panel > p:not(.panel-kicker) {
+  color: var(--bc-ink) !important;
+  font-family: var(--bc-serif);
+}
+
+.cta-section {
+  background: var(--bc-surface-alt) !important;
+  border: 1px solid var(--bc-border);
+  border-top-width: 4px;
+}
+
+.offer-card:hover,
+.insight-card:hover,
+.project-card:hover {
+  border-color: var(--bc-accent-light) !important;
+  box-shadow: 0 24px 60px rgba(0, 0, 0, .28);
+}
+
+.home-hero-image,
+.post-body img,
+.post-list-thumb,
+.post-grid-thumb,
+.blog-featured-image,
+.project-shot,
+.project-shot img,
+.insight-card-media,
+.insight-card-media img {
+  border-radius: 0 !important;
+}
+
+.offer-hero--split .offer-hero-art {
+  align-self: center;
+  justify-self: center;
+  max-width: min(100%, 32rem);
+}
+
+.offer-hero--split .offer-hero-art img,
+.about-photo {
+  aspect-ratio: 4 / 5;
+  border: 0 !important;
+  border-radius: 0 !important;
+  display: block;
+  filter: none;
+  height: auto;
+  margin: 0 auto;
+  max-width: none;
+  object-fit: cover;
+  object-position: center top;
+  width: min(100%, 30rem);
+}
+
+.about-card-actions .offer-buy {
+  border-color: var(--bc-border-strong) !important;
+}
+
+.about-book-options {
+  background: var(--bc-surface-alt) !important;
+  border-color: var(--bc-border-strong) !important;
+}
+
+.about-book-option:hover,
+.about-book-option:focus-visible {
+  background: rgba(47, 85, 151, .28) !important;
+}
+
+.site-search-trigger {
+  color: var(--bc-soft) !important;
+}
+
+.site-search-panel-icon,
+.site-search-close:hover,
+.site-search-close:focus-visible {
+  background: rgba(47, 85, 151, .28) !important;
+  color: var(--bc-accent-light) !important;
+}
+
+.site-search-title,
+.site-search-result-title,
+.site-search-input,
+.post-sidebar-intro-title,
+.post-sidebar-panel > summary,
+.post-sidebar-panel dt,
+.project-showcase__title {
+  color: var(--bc-ink) !important;
+}
+
+.site-search-hint,
+.site-search-status,
+.site-search-result-meta,
+.site-search-result-copy,
+.post-sidebar-intro-copy,
+.project-showcase__meta,
+.site-copyright {
+  color: var(--bc-muted) !important;
+}
+
+.site-search-input,
+.blog-search-input.site-search-input,
+form select,
+form textarea,
+form [type="text"],
+form [type="email"] {
+  background: rgba(175, 200, 232, .06) !important;
+  border-color: var(--bc-border) !important;
+  color: var(--bc-ink) !important;
+}
+
+.site-search-input:focus,
+form select:focus,
+form textarea:focus,
+form [type="text"]:focus,
+form [type="email"]:focus {
+  border-color: var(--bc-accent-light) !important;
+  box-shadow: 0 0 0 3px rgba(47, 85, 151, .32) !important;
+}
+
+.project-card[data-project-category="Book"] .project-card-media {
+  background:
+    linear-gradient(135deg, rgba(47, 85, 151, .2), rgba(10, 10, 10, 0) 48%),
+    var(--bc-surface-alt) !important;
+}
+
+.post-body blockquote {
+  border-left-color: var(--bc-accent) !important;
+  color: var(--bc-ink) !important;
+  font-family: var(--bc-serif);
+}
+
+.post-body table,
+main table,
+.post-body .comparison-table tr {
+  background: rgba(17, 22, 29, .92) !important;
+  border-color: var(--bc-border) !important;
+}
+
+.post-body th,
+main th {
+  background: rgba(47, 85, 151, .26) !important;
+  color: var(--bc-ink) !important;
+}
+
+.post-body td,
+main td {
+  color: var(--bc-muted) !important;
+}
+
+@media screen and (max-width: 48em) {
+  .site-header-inner {
+    padding: 1.05rem 1rem;
+  }
+
+  .site-links a,
+  .site-search-trigger {
+    min-height: 2.35rem;
+  }
+
+  .executive-hero-copy h1 {
+    font-size: clamp(2.25rem, 10.5vw, 3rem) !important;
+    line-height: 1.08;
+  }
+
+  .offer-hero h1,
+  .page-hero h1,
+  .post-header h1,
+  .standard-page h1 {
+    font-size: clamp(2.1rem, 9.5vw, 2.75rem) !important;
+    line-height: 1.08;
+  }
+
+  .section-header h2,
+  .operator-section h2,
+  .cta-section h2 {
+    font-size: clamp(2rem, 9vw, 2.7rem) !important;
+    line-height: 1.08;
+  }
+}
