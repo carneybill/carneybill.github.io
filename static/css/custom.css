@@ -476,7 +476,8 @@ img {
   width: 100%;
 }
 
-.compact-project-grid--two .project-card-media {
+.compact-project-grid--two .project-card-media,
+.projects-page .project-card-media {
   align-items: center;
   background: var(--bc-surface);
   display: flex;
@@ -487,7 +488,12 @@ img {
   padding: 1.25rem;
 }
 
-.compact-project-grid--two .project-card-media a {
+.projects-page .project-card-media {
+  align-self: start;
+}
+
+.compact-project-grid--two .project-card-media a,
+.projects-page .project-card-media a {
   align-items: center;
   display: flex;
   height: 100%;
@@ -495,7 +501,8 @@ img {
   width: 100%;
 }
 
-.compact-project-grid--two .project-card-media img {
+.compact-project-grid--two .project-card-media img,
+.projects-page .project-card-media img {
   background: transparent;
   height: auto;
   max-height: 100%;
