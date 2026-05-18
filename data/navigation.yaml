@@ -19,6 +19,9 @@ header:
 
 
 footer:
+  - name: Clients
+    title: Client login
+    url: https://clients.carney.wiki/
   - name: Projects
     title: Current Projects
     url: /projects/
