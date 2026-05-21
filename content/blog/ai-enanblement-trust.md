@@ -1,7 +1,17 @@
 ---
 title: "The AI-Era Enablement Leader Is Becoming the Trust Architect"
 excerpt: "AI is changing sales enablement from a content and training function into a governed trust layer for the entire go-to-market organization."
-tags: ["AI", "Sales Enablement", "Trust", "GTM Strategy", "Marketing Operations", "B2B Marketing"]
+tags:
+  - "AI"
+  - "Sales Enablement"
+  - "Trust"
+  - "GTM Strategy"
+  - "Marketing Operations"
+  - "B2B Marketing"
+  - "Artificial Intelligence"
+  - "Sales Alignment"
+  - "Enablement"
+  - "Target Account Strategy"
 date: 2026-05-14
 publishDate: 2026-06-01
 author: "Bill Carney"
@@ -10,11 +20,6 @@ images:
 - /blog/assets/trust-architect.jpg
 series:
   - Enablement
-tags:
-  - "Artificial Intelligence"
-  - "Sales Alignment"
-  - "Enablement"
-  - "Target Account Strategy"
 categories:
   - "B2B Marketing"
   - "GTM Strategy"
