@@ -6,6 +6,7 @@
   <meta name="referrer" content="strict-origin-when-cross-origin">
   <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ if .Site.Title }}{{ .Page.Title }} | {{ .Site.Title }}{{ else }}{{ .Page.Title }}{{ end }}{{ end }}</title>
   <meta name="description" content="{{ .Description }}" />
+  {{ if .Params.noindex }}<meta name="robots" content="noindex,nofollow">{{ end }}
   {{ template "_internal/opengraph.html" . }}
   {{ template "_internal/schema.html" . }}
   {{ template "_internal/twitter_cards.html" . }}
