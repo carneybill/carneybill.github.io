@@ -2,8 +2,8 @@
 title: "Outbound and Paid in the AI Era"
 subtitle: "Why fewer, sharper touches beat more activity"
 excerpt: "AI made it easy to send more outbound and launch more paid campaigns. That is exactly why volume stopped being an advantage. The new edge is relevance, timing, proof, and safer next steps."
-date: 2026-06-20
-publishDate: 2026-06-20
+date: 2026-09-15
+publishDate: 2026-09-15
 author: "Bill Carney"
 draft: false
 images:
@@ -324,5 +324,4 @@ Want the fuller framework?
 
 Get the [e-book](https://amzn.to/4bKdyte) or the [paperback](https://amzn.to/41FPq6q).
 
-Photo by <a href="https://unsplash.com/@arnosenoner?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Arno Senoner</a> on <a href="https://unsplash.com/photos/black-and-white-wooden-signage-Ie8k7RgNYmU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-      
+Photo by [Arno Senoner](https://unsplash.com/@arnosenoner?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/black-and-white-wooden-signage-Ie8k7RgNYmU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

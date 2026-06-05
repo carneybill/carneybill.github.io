@@ -2,8 +2,8 @@
 title: "ABM Without Theatre"
 subtitle: "How signal-led account marketing replaces expensive personalization theater"
 excerpt: "The best ABM programs do not win because they are flashy. They win because they combine fit, signals, triggers, proof, and trust into repeatable plays that help real buying committees move."
-date: 2026-06-13
-publishDate: 2026-06-13
+date: 2026-08-15
+publishDate: 2026-08-15
 author: "Bill Carney"
 draft: false
 images:
@@ -310,5 +310,4 @@ Want the fuller framework?
 
 Get the [e-book](https://amzn.to/4bKdyte) or the [paperback](https://amzn.to/41FPq6q).
 
-Photo by <a href="https://unsplash.com/@gwenking?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gwen King</a> on <a href="https://unsplash.com/photos/red-curtain-stage-m3th3rIQ9-w?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-      
+Photo by [Gwen King](https://unsplash.com/@gwenking?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/red-curtain-stage-m3th3rIQ9-w?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
