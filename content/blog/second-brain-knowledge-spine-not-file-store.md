@@ -64,6 +64,14 @@ Files preserve artifacts. Companies operate through relationships. A proposal re
 
 Put those artifacts in folders and the relationships remain implicit. The employee who created them may understand the connections. The next employee has to reconstruct them. An AI system will infer them, which is useful until the inference is wrong.
 
+### SharePoint made this promise first
+
+This is not the first time enterprise software promised to turn stored information into working knowledge. In 2001, Microsoft described SharePoint as part of an “advanced knowledge workplace” combining team collaboration, information management, discovery, and business communication. The ambition was bigger than a shared drive with a browser. It was to help people find and use what the organization knew. ([Microsoft, 2001](https://news.microsoft.com/source/2001/11/27/microsoft-announces-availability-of-next-generation-intranet-solution-designed-to-enable-the-knowledge-workplace/))
+
+SharePoint also had more structure than folders. It supported content types, metadata, taxonomy, search, security, and workflows. Microsoft’s own guidance still says that information architecture requires planning around users, content, classification, confidentiality, lifecycle, and permissions. ([Microsoft Learn](https://learn.microsoft.com/en-us/sharepoint/dev/solution-guidance/portal-information-architecture)) The familiar failure mode was not a lack of features. It was expecting the platform to supply the operating model. Someone still had to define what information meant, who owned it, who could use it, and how it related to the work.
+
+A Second Brain that only centralizes content repeats that mistake with a better chat interface. AI can retrieve more, summarize faster, and infer connections that nobody recorded. But if ownership, permissions, source authority, and lifecycle remain unclear, it can also turn organizational ambiguity into a confident answer. The advance is not merely adding AI to SharePoint’s original promise. It is connecting governed context to decisions, workflows, and the feedback that keeps organizational memory current.
+
 This problem predates generative AI. In their research on organizational memory systems, Eric Stein and Vladimir Zwass described effective memory as a set of functions that includes acquisition, retention, maintenance, search, and retrieval, all in service of learning and decision-making. Their point was not that organizations needed a larger digital cabinet. It was that memory becomes valuable when the organization can maintain and use it. That argument, made in 1995, is even more important now because AI can scale both retrieval and misunderstanding. ([*Information Systems Research*](https://doi.org/10.1287/isre.6.2.85))
 
 The file-store model also creates a subtle operating tax. People search for work that already exists, rebuild presentations that were already built, ask the same subject-matter experts the same questions, and make decisions without seeing the precedent that should have informed them. The cost rarely appears as one budget line. It shows up as slower onboarding, duplicated work, inconsistent claims, approval delays, and avoidable risk.
@@ -212,6 +220,8 @@ That is how a knowledge spine earns the right to become an operating system. Eve
 
 ## References
 
+- Microsoft, “[Microsoft Announces Availability of Next-Generation Intranet Solution Designed to Enable the Knowledge Workplace](https://news.microsoft.com/source/2001/11/27/microsoft-announces-availability-of-next-generation-intranet-solution-designed-to-enable-the-knowledge-workplace/),” November 27, 2001.
+- Microsoft Learn, “[Information architecture guidance for SharePoint Online portals](https://learn.microsoft.com/en-us/sharepoint/dev/solution-guidance/portal-information-architecture),” updated December 19, 2022.
 - Eric W. Stein and Vladimir Zwass, “[Actualizing Organizational Memory with Information Systems](https://doi.org/10.1287/isre.6.2.85),” *Information Systems Research*, Vol. 6, No. 2, 1995.
 - Aidan Hogan et al., “[Knowledge Graphs](https://doi.org/10.1145/3447772),” *ACM Computing Surveys*, Vol. 54, No. 4, 2021.
 - National Institute of Standards and Technology, “[Artificial Intelligence Risk Management Framework (AI RMF 1.0)](https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-ai-rmf-10),” 2023.
