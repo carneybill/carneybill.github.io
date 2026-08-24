@@ -44,6 +44,14 @@ It is when those connections help someone answer a useful question:
 
 That sounds like a prioritization question. It is really a test of whether the company can connect memory to action. A useful answer depends on current goals, customer commitments, deadlines, dependencies, recent decisions, open risks, and the difference between activity and work that changes an outcome.
 
+## Personal, company, or both?
+
+A personal Second Brain extends one person’s memory. It helps that person capture ideas, connect notes, recover context, prepare for meetings, and decide what deserves attention. The owner supplies much of the meaning. They usually know why two notes connect, which version they trust, and what should remain private. When the system is incomplete or wrong, one person bears most of the confusion.
+
+A company Second Brain has a harder job. It serves people with different roles, permissions, incentives, and vocabularies. It must distinguish an official record from a personal interpretation, a current policy from an old deck, and an approved claim from a useful anecdote. It must survive employee departures and preserve the source, owner, status, and allowed use of important knowledge. This is not personal note-taking at scale. It is shared operating memory.
+
+The strongest model is both, but the two should not collapse into one indiscriminate pool. The company knowledge spine holds governed, shared context. Each person can maintain a private working layer for notes, ideas, drafts, and priorities. AI can connect those layers at the moment of work. When someone asks, “What should I work on next?” the answer can combine personal goals and calendar context with company commitments, dependencies, and risks. Personal notes should not become company truth by accident, and restricted company information should not flow into a private system without controls.
+
 Most companies already possess that information. It is scattered across shared drives, project tools, inboxes, CRM records, meeting transcripts, wikis, slide decks, and the heads of the people who have been around long enough to know where the bodies are buried. The company has plenty of information. What it lacks is usable organizational memory.
 
 The graph is not the product. Most people should not have to navigate a web of nodes to get value from the system. They should receive a clear briefing, recommendation, warning, or prepared piece of work, with the ability to inspect the source and reasoning when it matters.
