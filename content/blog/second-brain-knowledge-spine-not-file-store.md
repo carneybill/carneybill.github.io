@@ -1,6 +1,6 @@
 ---
-title: "Your Company’s Second Brain Should Help People Decide What Comes Next"
-subtitle: "A knowledge graph can show how information connects. The practical value comes when those connections improve real work."
+title: "Your Company Already Tried to Build a Second Brain. It Was Called SharePoint."
+subtitle: "Personal notes can be messy. Company memory needs ownership, access rules, trusted sources, and a clear path from knowledge to action."
 excerpt: "Second Brains become useful when trusted organizational memory helps people prepare, prioritize, decide, and act."
 date: 2026-08-04
 publishDate: 2026-08-04
