@@ -50,6 +50,8 @@ A company does not have that luxury. People have different jobs, different acces
 
 That is why I think the useful answer is both. The company needs shared memory for its records, decisions, rules, and commitments. Each person still needs a private place for rough notes, drafts, ideas, and priorities. AI can use both to help answer, “What should I work on next?” But the line matters. My private note should not become a company fact, and company information should not leak into my personal tools.
 
+![A personal Second Brain for private notes, drafts, ideas, and priorities connected through an AI work layer to a governed company Second Brain of records, decisions, rules, and commitments](/blog/assets/second-brain-personal-company-ai-boundary.png)
+
 Most companies already have that information. It is scattered across shared drives, project tools, inboxes, CRM records, meeting transcripts, wikis, slide decks, and the heads of the people who have been around long enough to know where the bodies are buried. The company has plenty of information. The problem is using it as shared memory.
 
 The graph is one way to look at the system. Most people should not have to navigate a web of nodes to use it. They need a clear briefing, recommendation, warning, or prepared piece of work. When the answer matters, they should also be able to inspect the source and reasoning.
