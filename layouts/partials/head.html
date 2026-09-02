@@ -21,7 +21,7 @@
       {{- $description = $siteDescription -}}
     {{- end -}}
   {{- end -}}
-  {{- $description = $description | plainify | htmlUnescape | strings.TrimSpace | truncate 160 -}}
+  {{- $description = $description | plainify | htmlUnescape | replaceRE "^\\s+|\\s+$" "" | truncate 160 -}}
   {{- $pageTitle := .Title -}}
   {{- if eq .Kind "term" -}}
     {{- $pageTitle = printf "%s %s" .Title (.Data.Singular | title) -}}
