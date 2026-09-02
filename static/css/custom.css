@@ -2116,6 +2116,58 @@ transition: background-color .15s ease-in-out;
   margin-bottom: 3rem;
 }
 
+.verification-comparison {
+  display: grid;
+  gap: 1.25rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin-bottom: 3rem;
+}
+
+.verification-report-panel {
+  background: var(--bc-surface);
+  border: 1px solid var(--bc-border-strong);
+  min-width: 0;
+  overflow: hidden;
+}
+
+.verification-report-panel > header {
+  align-items: end;
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+  padding: 1.25rem;
+}
+
+.verification-report-panel h2 {
+  color: var(--bc-ink);
+  font-family: var(--bc-serif);
+  font-size: 1.55rem;
+  line-height: 1.1;
+  margin: 0;
+}
+
+.verification-report-panel > header a {
+  color: var(--bc-accent) !important;
+  flex: 0 0 auto;
+  font-size: .85rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.verification-report-panel > header a:hover,
+.verification-report-panel > header a:focus {
+  text-decoration: underline;
+}
+
+.verification-report-panel iframe {
+  background: #0d1119;
+  border: 0;
+  border-top: 1px solid var(--bc-border-strong);
+  display: block;
+  height: 46rem;
+  width: 100%;
+}
+
 .offer-two-col h2,
 .offer-process h2,
 .offer-deliverables h2 {
@@ -2201,8 +2253,17 @@ transition: background-color .15s ease-in-out;
 
   .offer-grid,
   .offer-deliverable-grid,
-  .offer-two-col {
+  .offer-two-col,
+  .verification-comparison {
     grid-template-columns: 1fr;
+  }
+
+  .verification-report-panel > header {
+    align-items: flex-start;
+  }
+
+  .verification-report-panel iframe {
+    height: 34rem;
   }
 
   .standard-page .offer-grid {
