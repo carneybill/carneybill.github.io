@@ -8,6 +8,9 @@ header:
   - name: Offers
     title: AI-era marketing offers
     url: /offers/
+  - name: Verification
+    title: Trust and verification
+    url: /verification/carney-wiki/
   - name: Insights
     title: Insights
     url: /blog/
@@ -31,6 +34,15 @@ footer:
   - name: Offers
     title: AI-era marketing offers
     url: /offers/
+  - name: Trust
+    title: Trust and verification
+    url: /trust/
+  - name: Pricing
+    title: Public pricing
+    url: /pricing/
+  - name: FAQ
+    title: Frequently asked questions
+    url: /faq/
   - name: Contact
     title: Book a conversation
     url: https://cal.com/bill-carney/60min

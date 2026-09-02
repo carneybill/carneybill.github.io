@@ -1,7 +1,7 @@
 ---
 title: "Just Enough Automation in Marketing"
 subtitle: "Striking the Balance"
-excerpt: "The tech community is grappling with the revelation that the DevTernity conference knowingly deceived attendees by fabricating speaker profiles. The audacious act involved creating imaginary personas, including the prominent figures Anna Boyko, Alina Prokhoda, Natalie Stadler, and Julia Kirsina."
+excerpt: "Marketing automation works best when it removes routine friction without flattening the customer experience. The useful question is not how much can be automated, but where human judgment still matters."
 date: 2022-12-15
 publishDate: 2022-12-15
 author: "Bill Carney"

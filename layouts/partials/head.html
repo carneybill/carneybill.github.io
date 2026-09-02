@@ -4,12 +4,59 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' https://www.google-analytics.com https://www.googletagmanager.com; connect-src 'self' https://www.google-analytics.com https://www.googletagmanager.com https://www.googleadservices.com https://googleads.g.doubleclick.net https://www.google.com https://td.doubleclick.net; frame-src https://www.googletagmanager.com https://td.doubleclick.net; font-src 'self' data:; object-src 'none'; base-uri 'self'; form-action 'self' https://formspree.io;">
   <meta name="referrer" content="strict-origin-when-cross-origin">
-  <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ if .Site.Title }}{{ .Page.Title }} | {{ .Site.Title }}{{ else }}{{ .Page.Title }}{{ end }}{{ end }}</title>
-  <meta name="description" content="{{ .Description }}" />
+  {{- $siteDescription := .Site.Params.description | default "Bill Carney on positioning, AI-era trust, growth systems, and making complex B2B markets easier to understand and buy from." -}}
+  {{- $description := .Params.description | default .Params.excerpt -}}
+  {{- if not $description -}}
+    {{- if .IsHome -}}
+      {{- $description = $siteDescription -}}
+    {{- else if eq .Kind "term" -}}
+      {{- $description = printf "Explore the %s %s in Bill Carney's writing, with practical perspectives on B2B marketing, AI, trust, growth, and operating systems." .Title (.Data.Singular | lower) -}}
+    {{- else if eq .Kind "taxonomy" -}}
+      {{- $description = printf "Browse Bill Carney's writing by %s across B2B marketing, AI, trust, growth, leadership, and operating systems." (lower .Title) -}}
+    {{- else if eq .Kind "section" -}}
+      {{- $description = printf "Browse Bill Carney's latest %s on B2B marketing, AI, trust, growth, leadership, and operating systems." (lower .Title) -}}
+    {{- else if .Summary -}}
+      {{- $description = .Summary | plainify -}}
+    {{- else -}}
+      {{- $description = $siteDescription -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $description = $description | plainify | htmlUnescape | strings.TrimSpace | truncate 160 -}}
+  {{- $pageTitle := .Title -}}
+  {{- if eq .Kind "term" -}}
+    {{- $pageTitle = printf "%s %s" .Title (.Data.Singular | title) -}}
+  {{- end -}}
+  {{- $canonical := .Permalink -}}
+  <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ if .Site.Title }}{{ $pageTitle }} | {{ .Site.Title }}{{ else }}{{ $pageTitle }}{{ end }}{{ end }}</title>
+  <meta name="description" content="{{ $description }}">
+  <link rel="canonical" href="{{ $canonical }}">
   {{ if .Params.noindex }}<meta name="robots" content="noindex,nofollow">{{ end }}
   {{ template "_internal/opengraph.html" . }}
   {{ template "_internal/schema.html" . }}
   {{ template "_internal/twitter_cards.html" . }}
+  {{- $schemaType := "WebPage" -}}
+  {{- if .IsHome -}}
+    {{- $schemaType = "WebSite" -}}
+  {{- else if and .IsPage (eq .Section "blog") -}}
+    {{- $schemaType = "BlogPosting" -}}
+  {{- else if or (eq .Kind "section") (eq .Kind "taxonomy") (eq .Kind "term") -}}
+    {{- $schemaType = "CollectionPage" -}}
+  {{- end -}}
+  {{- $schema := dict "@context" "https://schema.org" "@type" $schemaType "name" $pageTitle "description" $description "url" $canonical -}}
+  {{- if eq $schemaType "BlogPosting" -}}
+    {{- $schema = merge $schema (dict "headline" .Title "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00") "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00") "author" (dict "@type" "Person" "name" (.Params.author | default "Bill Carney"))) -}}
+    {{- with .Params.images -}}
+      {{- $schema = merge $schema (dict "image" ((index . 0) | absURL)) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- with .Params.faqs -}}
+    {{- $entities := slice -}}
+    {{- range . -}}
+      {{- $entities = $entities | append (dict "@type" "Question" "name" .question "acceptedAnswer" (dict "@type" "Answer" "text" .answer)) -}}
+    {{- end -}}
+    {{- $schema = merge $schema (dict "@type" "FAQPage" "mainEntity" $entities) -}}
+  {{- end -}}
+  <script type="application/ld+json">{{ $schema | jsonify | safeJS }}</script>
   {{ template "_internal/google_analytics.html" . }}
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=AW-18182076863"></script>

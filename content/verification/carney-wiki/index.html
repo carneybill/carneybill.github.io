@@ -1,0 +1,82 @@
+---
+title: "Carney.wiki Verification Report"
+description: "A public before-and-after VerifyHub audit of carney.wiki, including the findings, source changes, measured improvement, coverage limits, and raw reports."
+date: 2026-09-02T00:00:00-04:00
+lastmod: 2026-09-02T00:00:00-04:00
+draft: false
+type: page
+layout: standard
+url: /verification/carney-wiki/
+show_title_as_headline: false
+---
+
+<section class="offer-hero offer-hero--detail">
+  <p class="offer-kicker">Public verification example</p>
+  <h1>The audit found the gap. The site now shows the repair.</h1>
+  <p class="offer-lede">Carney.wiki is the first public before-and-after example for VerifyHub. The point is not a flattering score. It is a traceable record of what the crawler found, what changed in the source, and what the same rules measured afterward.</p>
+  <div class="offer-cta-row">
+    <a class="offer-button" href="/verification/carney-wiki/after/">Open the after report</a>
+    <a class="offer-secondary" href="/verification/carney-wiki/before/">Open the baseline report</a>
+  </div>
+</section>
+
+<section class="offer-two-col">
+  <div>
+    <p class="offer-eyebrow">Before</p>
+    <h2>24 / 50 measured points</h2>
+    <p>The September 1 baseline sampled 150 of 331 sitemap URLs. It found 143 missing standard descriptions, four duplicate title groups, six duplicate canonical pairs, no recognized JSON-LD, and none of the five buyer-validation page groups.</p>
+  </div>
+  <div>
+    <p class="offer-eyebrow">After</p>
+    <h2>48 / 50 measured points</h2>
+    <p>The September 2 validation crawled all 339 sitemap URLs with no page cap. It found zero missing titles, zero missing descriptions, zero duplicate title groups, zero duplicate canonical pairs, valid JSON-LD, and all five buyer-validation page groups.</p>
+  </div>
+</section>
+
+<section class="offer-grid" aria-label="Changes made after the audit">
+  <article class="offer-card">
+    <p class="offer-eyebrow">Metadata</p>
+    <h2>Repair the system once.</h2>
+    <p>The Hugo head template now uses each page's description or excerpt, then a page-type fallback. Every indexable page also receives a canonical URL and valid JSON-LD.</p>
+  </article>
+  <article class="offer-card">
+    <p class="offer-eyebrow">Discovery</p>
+    <h2>Make similar pages distinct.</h2>
+    <p>Tag, category, and series titles now identify their page type. Their fallback descriptions do the same, so a shared topic does not create indistinguishable search metadata.</p>
+  </article>
+  <article class="offer-card">
+    <p class="offer-eyebrow">Buyer validation</p>
+    <h2>Answer the questions that slow a decision.</h2>
+    <p>The site now publishes trust practices, implementation steps, offer comparison, pricing, and frequently asked questions as direct routes.</p>
+  </article>
+  <article class="offer-card">
+    <p class="offer-eyebrow">Structured evidence</p>
+    <h2>Give machines explicit context.</h2>
+    <p>Articles identify themselves as BlogPosting objects. Lists use CollectionPage. The FAQ publishes FAQPage, Question, and Answer objects.</p>
+  </article>
+  <article class="offer-card">
+    <p class="offer-eyebrow">Content defect</p>
+    <h2>Fix the wrong excerpt, not just the empty ones.</h2>
+    <p>One older automation article had inherited an unrelated conference-scandal excerpt. The source now describes the article it belongs to.</p>
+  </article>
+  <article class="offer-card">
+    <p class="offer-eyebrow">Navigation</p>
+    <h2>Evidence only helps when people can reach it.</h2>
+    <p>The primary navigation now links to this verification record. Trust, pricing, and FAQ routes are linked from the footer across the site.</p>
+  </article>
+</section>
+
+<section class="offer-process">
+  <h2>What the score means</h2>
+  <p>The reported scores use VerifyHub rubric <strong>vh-1.0.0</strong>. Both runs used deterministic checks only because the assisted-analysis key was unavailable. Positioning, Proof Ops, and credibility remained unscored instead of being guessed.</p>
+  <p>The after result is the highest deterministic total available under this rubric. Its path-friction rule tops out at 4 of 5, so the measured ceiling is 48 of 50. That is a property of the published rubric, not a claim that the site is perfect.</p>
+
+  <h2>What the comparison does not prove</h2>
+  <p>The baseline and after runs did not have identical coverage. The baseline stopped at 150 sitemap URLs. The after run covered all 339 URLs. The metadata repair was applied in the shared template and separately checked across every non-redirect HTML page in the build.</p>
+  <p>The crawler checked published structure, links, metadata, route coverage, and response timing. It did not submit forms, measure conversion, prove delivery quality, or establish customer outcomes.</p>
+</section>
+
+<section class="offer-band">
+  <h2>A verification report should be inspectable.</h2>
+  <p>The summary is useful. The raw reports are the evidence. Read the <a href="/verification/carney-wiki/before/">baseline report</a>, inspect the <a href="/verification/carney-wiki/after/">after report</a>, or review the site's <a href="/trust/">trust and verification practices</a>.</p>
+</section>
