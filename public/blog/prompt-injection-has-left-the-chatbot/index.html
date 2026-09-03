@@ -1,33 +1,488 @@
-<!doctype html><html lang=en dir=ltr><head><meta charset=UTF-8><meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1"><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta http-equiv=Content-Security-Policy content="default-src 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' https://www.google-analytics.com https://www.googletagmanager.com; connect-src 'self' https://www.google-analytics.com https://www.googletagmanager.com https://www.googleadservices.com https://googleads.g.doubleclick.net https://www.google.com https://td.doubleclick.net; frame-src https://www.googletagmanager.com https://td.doubleclick.net; font-src 'self' data:; object-src 'none'; base-uri 'self'; form-action 'self' https://formspree.io;"><meta name=referrer content="strict-origin-when-cross-origin"><title>Prompt Injection Has Left the Chatbot | carney.wiki</title><meta name=description content><meta property="og:url" content="https://carney.wiki/blog/prompt-injection-has-left-the-chatbot/"><meta property="og:site_name" content="carney.wiki"><meta property="og:title" content="Prompt Injection Has Left the Chatbot"><meta property="og:description" content="Prompt injection did not suddenly become dangerous.
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' https://www.google-analytics.com https://www.googletagmanager.com; connect-src 'self' https://www.google-analytics.com https://www.googletagmanager.com https://www.googleadservices.com https://googleads.g.doubleclick.net https://www.google.com https://td.doubleclick.net; frame-src 'self' https://www.googletagmanager.com https://td.doubleclick.net; font-src 'self' data:; object-src 'none'; base-uri 'self'; form-action 'self' https://formspree.io;">
+  <meta name="referrer" content="strict-origin-when-cross-origin"><title>Prompt Injection Has Left the Chatbot | carney.wiki</title>
+  <meta name="description" content="Prompt injection becomes materially more dangerous when AI agents can act. Once language is connected to workflows, text becomes a control input.">
+  <link rel="canonical" href="https://carney.wiki/blog/prompt-injection-has-left-the-chatbot/">
+  
+  <meta property="og:url" content="https://carney.wiki/blog/prompt-injection-has-left-the-chatbot/">
+  <meta property="og:site_name" content="carney.wiki">
+  <meta property="og:title" content="Prompt Injection Has Left the Chatbot">
+  <meta property="og:description" content="Prompt injection did not suddenly become dangerous.
 We connected it to systems that matter.
 For years, prompt injection was treated as a curiosity: a way to make a chatbot ignore rules, leak instructions, or say something awkward. Interesting for demos. Annoying in production. Easy to dismiss as a model behavior problem.
 That framing is obsolete.
-The recent reporting around ServiceNow AI agent vulnerabilities should make the shift clear. This is not just about a model getting confused. It is about natural-language systems being embedded into trusted enterprise workflows without a new security model around them."><meta property="og:locale" content="en"><meta property="og:type" content="article"><meta property="article:section" content="blog"><meta property="article:published_time" content="2026-02-05T00:00:00+00:00"><meta property="article:modified_time" content="2026-02-05T00:00:00+00:00"><meta property="article:tag" content="Prompt Injection"><meta property="article:tag" content="AI Agents"><meta property="article:tag" content="ServiceNow"><meta property="article:tag" content="AI Security"><meta property="article:tag" content="Workflow Integrity"><meta property="og:image" content="https://carney.wiki/blog/assets/servicenow.jpg"><meta property="og:see_also" content="https://carney.wiki/blog/second-brain-knowledge-spine-not-file-store/"><meta property="og:see_also" content="https://carney.wiki/blog/enterprise-context-layer-is-an-operating-system/"><meta property="og:see_also" content="https://carney.wiki/blog/the-best-business-ai-system-is-not-chatgpt/"><meta property="og:see_also" content="https://carney.wiki/blog/from-tool-sprawl-to-an-operational-data-platform/"><meta property="og:see_also" content="https://carney.wiki/blog/did-governance-just-die/"><meta property="og:see_also" content="https://carney.wiki/blog/data-modernization/"><meta property="og:see_also" content="https://carney.wiki/blog/your-ai-agent-is-a-toddler-with-root-access/"><meta itemprop=name content="Prompt Injection Has Left the Chatbot"><meta itemprop=description content="Prompt injection did not suddenly become dangerous.
+The recent reporting around ServiceNow AI agent vulnerabilities should make the shift clear. This is not just about a model getting confused. It is about natural-language systems being embedded into trusted enterprise workflows without a new security model around them.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="blog">
+    <meta property="article:published_time" content="2026-02-05T00:00:00+00:00">
+    <meta property="article:modified_time" content="2026-02-05T00:00:00+00:00">
+    <meta property="article:tag" content="Prompt Injection">
+    <meta property="article:tag" content="AI Agents">
+    <meta property="article:tag" content="ServiceNow">
+    <meta property="article:tag" content="AI Security">
+    <meta property="article:tag" content="Workflow Integrity">
+    <meta property="og:image" content="https://carney.wiki/blog/assets/servicenow.jpg">
+      <meta property="og:see_also" content="https://carney.wiki/blog/second-brain-knowledge-spine-not-file-store/">
+      <meta property="og:see_also" content="https://carney.wiki/blog/enterprise-context-layer-is-an-operating-system/">
+      <meta property="og:see_also" content="https://carney.wiki/blog/the-best-business-ai-system-is-not-chatgpt/">
+      <meta property="og:see_also" content="https://carney.wiki/blog/from-tool-sprawl-to-an-operational-data-platform/">
+      <meta property="og:see_also" content="https://carney.wiki/blog/did-governance-just-die/">
+      <meta property="og:see_also" content="https://carney.wiki/blog/data-modernization/">
+      <meta property="og:see_also" content="https://carney.wiki/blog/your-ai-agent-is-a-toddler-with-root-access/">
+
+  
+  <meta itemprop="name" content="Prompt Injection Has Left the Chatbot">
+  <meta itemprop="description" content="Prompt injection did not suddenly become dangerous.
 We connected it to systems that matter.
 For years, prompt injection was treated as a curiosity: a way to make a chatbot ignore rules, leak instructions, or say something awkward. Interesting for demos. Annoying in production. Easy to dismiss as a model behavior problem.
 That framing is obsolete.
-The recent reporting around ServiceNow AI agent vulnerabilities should make the shift clear. This is not just about a model getting confused. It is about natural-language systems being embedded into trusted enterprise workflows without a new security model around them."><meta itemprop=datePublished content="2026-02-05T00:00:00+00:00"><meta itemprop=dateModified content="2026-02-05T00:00:00+00:00"><meta itemprop=wordCount content="767"><meta itemprop=image content="https://carney.wiki/blog/assets/servicenow.jpg"><meta itemprop=keywords content="Prompt Injection,AI Agents,ServiceNow,AI Security,Workflow Integrity"><meta name=twitter:card content="summary_large_image"><meta name=twitter:image content="https://carney.wiki/blog/assets/servicenow.jpg"><meta name=twitter:title content="Prompt Injection Has Left the Chatbot"><meta name=twitter:description content="Prompt injection did not suddenly become dangerous.
+The recent reporting around ServiceNow AI agent vulnerabilities should make the shift clear. This is not just about a model getting confused. It is about natural-language systems being embedded into trusted enterprise workflows without a new security model around them.">
+  <meta itemprop="datePublished" content="2026-02-05T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2026-02-05T00:00:00+00:00">
+  <meta itemprop="wordCount" content="767">
+  <meta itemprop="image" content="https://carney.wiki/blog/assets/servicenow.jpg">
+  <meta itemprop="keywords" content="Prompt Injection,AI Agents,ServiceNow,AI Security,Workflow Integrity">
+  
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://carney.wiki/blog/assets/servicenow.jpg">
+  <meta name="twitter:title" content="Prompt Injection Has Left the Chatbot">
+  <meta name="twitter:description" content="Prompt injection did not suddenly become dangerous.
 We connected it to systems that matter.
 For years, prompt injection was treated as a curiosity: a way to make a chatbot ignore rules, leak instructions, or say something awkward. Interesting for demos. Annoying in production. Easy to dismiss as a model behavior problem.
 That framing is obsolete.
-The recent reporting around ServiceNow AI agent vulnerabilities should make the shift clear. This is not just about a model getting confused. It is about natural-language systems being embedded into trusted enterprise workflows without a new security model around them."><script async src="https://www.googletagmanager.com/gtag/js?id=G-861LVY2WMP"></script><script>var doNotTrack=!1,dnt=navigator.doNotTrack||window.doNotTrack||navigator.msDoNotTrack,doNotTrack=dnt=="1"||dnt=="yes";if(!doNotTrack){window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date),gtag("config","G-861LVY2WMP")}</script><script async src="https://www.googletagmanager.com/gtag/js?id=AW-18182076863"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date),gtag("config","AW-18182076863")</script><link rel="shortcut icon" href="/img/favicon.ico?v=0" type=image/x-icon><link rel=icon href="/img/favicon.ico?v=0" type=image/x-icon><link rel=stylesheet href=https://carney.wiki/style.main.min.67c1f4ec92f39d3353c528bf0847fe63f601ac897ea2f562ebeeee43edef6cdf.css integrity="sha256-Z8H07JLznTNTxSi/CEf+Y/YBrIl+ovVi6+7uQ+3vbN8=" media=screen><link rel=stylesheet href=/css/icomoon.css><link rel=stylesheet href=/css/simple-line-icons.css><link rel=stylesheet href=/css/custom.css></head><body><div class="grid-container single-sidebar"><header class=site-header role=banner><div class=site-header-inner><nav class=site-nav role=navigation aria-label="Primary navigation"><a class=site-brand href=https://carney.wiki/ title="Wiki is a Hawaiian word meaning 'quick'" aria-label=carney.wiki><span class=brand-lockup><span>carney</span><span class=brand-dot>.</span><span class=brand-accent>wiki</span></span></a><div class=site-links><a href=/about/ title="About Carney">About</a>
-<a href=/projects/ title="Current Projects">Projects</a>
-<a href=/offers/ title="AI-era marketing offers">Offers</a>
-<a href=/blog/ title=Insights>Insights</a>
-<a href=https://cal.com/bill-carney/60min title="Book a conversation" target=_blank rel="noopener noreferrer" class=nav-cta>Book a conversation</a>
-<button class="site-search-trigger dib v-mid" type=button aria-label="Search the site" aria-haspopup=dialog aria-controls=site-search-dialog aria-expanded=false data-site-search-open>
-<span class=icon-search aria-hidden=true></span></button></div></nav></div><div class=site-search-overlay id=site-search-dialog data-site-search-root data-site-search-index=/index.json hidden><div class=site-search-backdrop data-site-search-close></div><div class=site-search-panel role=dialog aria-modal=true aria-labelledby=site-search-title><div class=site-search-panel-header><span class="site-search-panel-icon icon-search" aria-hidden=true></span><div class=site-search-panel-copy><p class=site-search-title id=site-search-title>Search the site</p><p class=site-search-hint>Search posts, pages, and projects.</p></div><button class=site-search-close type=button aria-label="Close search" data-site-search-close>
-<span class=icon-close aria-hidden=true></span></button></div><label class=clip for=site-search-input>Search the site</label>
-<input class=site-search-input id=site-search-input type=search name=search placeholder="Type to search..." autocomplete=off spellcheck=false data-site-search-input><p class=site-search-status data-site-search-status>Start typing to search.</p><div class=site-search-results data-site-search-results></div></div></div></header><main class=post-main role=main><section class="post-shell post-shell--three-quarter"><article class=post-content><header class=post-header><div class=post-meta-line><a href=/categories/ai-automation/>AI & Automation</a>
-<time datetime=2026-02-05>February 5, 2026</time>
-<span>4 min read</span></div><h1>Prompt Injection Has Left the Chatbot</h1><p class=post-subtitle>What ServiceNow's AI agent incidents reveal about enterprise workflow integrity.</p><ul class=tag-list aria-label=Topics><li><a href=/tags/prompt-injection/>Prompt Injection</a></li><li><a href=/tags/ai-agents/>AI Agents</a></li><li><a href=/tags/servicenow/>ServiceNow</a></li><li><a href=/tags/ai-security/>AI Security</a></li><li><a href=/tags/workflow-integrity/>Workflow Integrity</a></li></ul></header><section class=post-body><p><img src=/blog/assets/servicenow.jpg alt="Prompt injection and AI agent risk"></p><p>Prompt injection did not suddenly become dangerous.</p><p>We connected it to systems that matter.</p><p>For years, prompt injection was treated as a curiosity: a way to make a chatbot ignore rules, leak instructions, or say something awkward. Interesting for demos. Annoying in production. Easy to dismiss as a model behavior problem.</p><p>That framing is obsolete.</p><p>The recent reporting around ServiceNow AI agent vulnerabilities should make the shift clear. This is not just about a model getting confused. It is about natural-language systems being embedded into trusted enterprise workflows without a new security model around them.</p><p>Prompt injection is no longer only a model issue.</p><p>It is a workflow integrity problem.</p><h2 id=why-prompt-injection-still-works>Why prompt injection still works</h2><p>Large language models do not reliably distinguish instructions from data.</p><p>That is the core issue.</p><p>Prompt injection hides instructions inside content that appears inert to humans: ticket descriptions, comments, emails, knowledge articles, synced web pages, or documents. The attacker does not need direct access to the model. They only need to get malicious text into something the model will read.</p><p>As long as AI systems can:</p><ol><li>Ingest untrusted text</li><li>Interpret it autonomously</li><li>Take real actions through tools</li></ol><p>prompt injection remains viable.</p><p>ServiceNow is important because it shows what happens when all three conditions exist inside enterprise workflows.</p><h2 id=from-language-confusion-to-operational-impact>From language confusion to operational impact</h2><p>Recent disclosures and reporting indicated that AI agents in enterprise workflow environments could, under certain configurations, be manipulated into actions such as impersonation, privileged workflow invocation, delegation to other agents, record modification, or data exposure.</p><p>Those are not classic software exploits.</p><p>No buffer overflow. No malformed packet. No exotic memory trick.</p><p>The attack surface is text.</p><p>Once an AI agent is trusted to act, every piece of text it reads becomes a potential control input.</p><p>That is the part many teams are still missing.</p><h2 id=the-exploit-chain>The exploit chain</h2><p>The chain is simple:</p><p><img src=/blog/assets/exploitchain.png alt="Exploit chain diagram"></p><ol><li>Attacker places malicious instructions in content the agent will read.</li><li>Agent retrieves or processes that content.</li><li>Agent treats the injected language as relevant instruction.</li><li>Agent selects a tool or workflow.</li><li>Action executes with the agent&rsquo;s authority.</li><li>The organization discovers the issue after the workflow has already moved.</li></ol><p>This is why agent design cannot rely on &ldquo;the model should know better.&rdquo;</p><p>The system has to assume the model may be confused and still prevent high-impact actions.</p><h2 id=the-confused-deputy-problem-is-back>The confused deputy problem is back</h2><p>One of the most concerning patterns is second-order prompt injection.</p><p>A lower-privilege agent reads malicious text. It asks a higher-privilege agent for help. The higher-privilege agent executes the harmful action because it believes it is assisting a legitimate workflow.</p><p>That is the old confused-deputy problem in a new interface.</p><p>Only now the confusion is expressed in natural language, and the deputy may be an AI agent with access to business systems.</p><p>From a defender&rsquo;s perspective, this looks less like a prompt attack and more like lateral movement inside automation.</p><h2 id=this-is-not-just-a-servicenow-problem>This is not just a ServiceNow problem</h2><p>ServiceNow is not unique.</p><p>It is early.</p><p>Any platform that embeds AI agents into ticketing, CRM, identity workflows, DevOps, knowledge management, internal copilots, or business automation inherits the same risk shape.</p><p>The moment an AI agent can do something, not just answer something, text becomes executable input.</p><p>That does not mean agents are unusable.</p><p>It means they need to be treated as privileged software components, not chat windows with ambition.</p><h2 id=what-security-teams-should-change>What security teams should change</h2><p>Better prompts are not enough.</p><p>The organizations that avoid serious incidents will make structural changes:</p><ul><li>remove ambient authority instead of letting agents inherit broad permissions</li><li>segment agents by impact and allowed delegation paths</li><li>require human approval for irreversible actions</li><li>treat text fields, comments, tickets, and synced content as attack surfaces</li><li>instrument agents like production services</li><li>log prompts, retrieved context, tool calls, identity context, and delegation paths</li><li>alert on unusual tool usage or cross-agent behavior</li><li>design for containment when prompt injection succeeds</li></ul><p>That last point matters.</p><p>Assume prompt injection cannot be fully prevented. Build systems so that when it happens, damage is limited, visible, and recoverable.</p><h2 id=the-takeaway>The takeaway</h2><p>When language controls software, language becomes an attack vector.</p><p>That is the new baseline.</p><p>The question for every organization is whether it is still modeling AI agents as chatbots, or finally treating them as privileged workflow components.</p><p>The answer will decide the blast radius.</p><h2 id=sources-and-further-reading>Sources and Further Reading</h2><ul><li><a href=https://www.thedataconsultingcompany.com/blog/how-prompt-injection-attacks-actually-work>How Prompt Injection Attacks Actually Work</a></li><li><a href=https://www.darkreading.com/remote-workforce/ai-vulnerability-servicenow>AI Vulnerability in ServiceNow Raises Concerns for Remote Workforce Security - Dark Reading</a></li><li><a href=https://thehackernews.com/2025/11/servicenow-ai-agents-can-be-tricked.html>ServiceNow AI Agents Can Be Tricked Into Harmful Actions - The Hacker News</a></li><li><a href=https://www.pointguardai.com/ai-security-incidents/servicenow-ai-agents-can-be-tricked-into-harmful-actions>ServiceNow AI Agents Can Be Tricked Into Harmful Actions - PointGuard AI</a></li><li><a href=https://simonwillison.net/2026/Jan/30/moltbook/>Moltbook - Simon Willison</a></li><li><a href=https://owasp.org/www-community/attacks/PromptInjection>OWASP Prompt Injection</a></li></ul></section><footer class=post-footer><div class="post-pagination dt w-100 mt4 mb2"><a class="prev dtc pr2 tl v-top fw6" href=https://carney.wiki/blog/ai-risk-is-a-business-risk-not-just-a-technical-one/>&larr; AI Risk Is a Business Risk, Not Just a Technical One</a>
-<a class="next dtc pl2 tr v-top fw6" href=https://carney.wiki/blog/your-ai-agent-is-a-toddler-with-root-access/>Your AI Agent Is a Toddler With Root Access &rarr;</a></div></footer></article><aside class=post-sidebar aria-label="Post details"><nav class="post-sidebar-block post-sidebar-toc" aria-label="Table of contents"><p class=post-sidebar-label>On this page</p><nav id=TableOfContents><ul><li><a href=#why-prompt-injection-still-works>Why prompt injection still works</a></li><li><a href=#from-language-confusion-to-operational-impact>From language confusion to operational impact</a></li><li><a href=#the-exploit-chain>The exploit chain</a></li><li><a href=#the-confused-deputy-problem-is-back>The confused deputy problem is back</a></li><li><a href=#this-is-not-just-a-servicenow-problem>This is not just a ServiceNow problem</a></li><li><a href=#what-security-teams-should-change>What security teams should change</a></li><li><a href=#the-takeaway>The takeaway</a></li><li><a href=#sources-and-further-reading>Sources and Further Reading</a></li></ul></nav></nav><div class=post-sidebar-block><p class=post-sidebar-label>Posted on:</p><p class=post-sidebar-value><time datetime=2026-02-05>February 5, 2026</time></p></div><div class=post-sidebar-block><p class=post-sidebar-label>Length:</p><p class=post-sidebar-value>4 minute read, 767 words</p></div><div class=post-sidebar-block><p class=post-sidebar-label>Categories:</p><ul class=post-sidebar-list><li><a href=/categories/ai-automation/>AI & Automation</a></li><li><a href=/categories/data-analytics/>Data & Analytics</a></li><li><a href=/categories/trust-brand/>Trust & Brand</a></li></ul></div><div class=post-sidebar-block><p class=post-sidebar-label>Tags:</p><ul class=post-sidebar-list><li><a href=/tags/prompt-injection/>Prompt Injection</a></li><li><a href=/tags/ai-agents/>AI Agents</a></li><li><a href=/tags/servicenow/>ServiceNow</a></li><li><a href=/tags/ai-security/>AI Security</a></li><li><a href=/tags/workflow-integrity/>Workflow Integrity</a></li></ul></div><div class="post-sidebar-block post-sidebar-see-also"><p class=post-sidebar-label>See Also:</p><ul class="post-sidebar-list post-sidebar-list--stacked"><li><a href=/blog/enterprise-context-layer-is-an-operating-system/>The Enterprise Context Layer Is an Operating System</a></li><li><a href=/blog/the-best-business-ai-system-is-not-chatgpt/>The Best Business AI System Is Not ChatGPT</a></li><li><a href=/blog/from-tool-sprawl-to-an-operational-data-platform/>How AI Clarifies and Fixes the Modern Data Stack</a></li><li><a href=/blog/did-governance-just-die/>Data Governance Isn't Dead. It's Becoming AI Readiness.</a></li><li><a href=/blog/data-modernization/>Simplifying Data Modernization in the Age of AI Agents</a></li></ul></div></aside></section><section class="related-insights related-insights--bottom" aria-label="Related insights"><div class=section-split><div class=section-header><p class=section-eyebrow>Related insights</p><h2>Keep reading.</h2></div><a class=text-link href=/blog/>Visit insights</a></div><div class=insight-grid><article class=insight-card><a class=insight-card-link href=/blog/enterprise-context-layer-is-an-operating-system/ aria-label="Read The Enterprise Context Layer Is an Operating System"><span class=insight-card-media aria-hidden=true><img src=/blog/assets/sprawl.jpg alt loading=lazy></span><div class=insight-card-meta><span>AI & Automation</span>
-<time datetime=2026-07-01>Jul 1, 2026</time></div><h3>The Enterprise Context Layer Is an Operating System</h3><p class=insight-card-subtitle>LLMs reason. RAG grounds. Agents execute. MCP integrates. The context layer governs what the system knows, does, remembers, and improves.</p><p>Most companies are buying LLMs, RAG, agents, and MCP like separate products. They are really four layers of one architecture. The missing enterprise layer is governed context: meaning, skills, security, and recursive learning.</p><span class=card-button>Read insight</span></a></article><article class=insight-card><a class=insight-card-link href=/blog/the-best-business-ai-system-is-not-chatgpt/ aria-label="Read The Best Business AI System Is Not ChatGPT"><span class=insight-card-media aria-hidden=true><img src=/blog/assets/stacks.png alt loading=lazy></span><div class=insight-card-meta><span>AI & Automation</span>
-<time datetime=2026-06-15>Jun 15, 2026</time></div><h3>The Best Business AI System Is Not ChatGPT</h3><p class=insight-card-subtitle>Start with the work the business needs done, then build the controls, context, and workflows around it.</p><p>Businesses do not need one AI model for everyone or dozens of disconnected agents. They need a controlled operating system for valuable workflows.</p><span class=card-button>Read insight</span></a></article><article class=insight-card><a class=insight-card-link href=/blog/from-tool-sprawl-to-an-operational-data-platform/ aria-label="Read How AI Clarifies and Fixes the Modern Data Stack"><span class=insight-card-media aria-hidden=true><img src=/blog/assets/sprawl.jpg alt loading=lazy></span><div class=insight-card-meta><span>Data & Analytics</span>
-<time datetime=2026-03-04>Mar 4, 2026</time></div><h3>How AI Clarifies and Fixes the Modern Data Stack</h3><p class=insight-card-subtitle>The model is not the hard part. The hard part is everything around the model.</p><p>The modern data stack is powerful, but operationally fragile. AI makes the weak points obvious: access control, contracts, lineage, observability, cost, and security.</p><span class=card-button>Read insight</span></a></article></div></section></main><footer class=site-footer role=contentinfo><nav class=site-footer-nav aria-label="Footer navigation"><p class=site-copyright>&copy; 2026 Carney, all rights reserved.</p><div class=site-footer-links><a href=https://clients.carney.wiki/ title="Client login">Clients</a>
-<a href=/projects/ title="Current Projects">Projects</a>
-<a href=/blog/ title=Insights>Insights</a>
-<a href=/offers/ title="AI-era marketing offers">Offers</a>
-<a href=https://cal.com/bill-carney/60min title="Book a conversation">Contact</a>
-<a href=/index.xml title="RSS Feed">RSS</a>
-<a href=https://amzn.to/4bKdyte title="Buy my Book">Book</a></div></nav></footer></div><script defer src=/js/site-search.js></script><script defer src=/js/offer-events.js></script></body></html>
+The recent reporting around ServiceNow AI agent vulnerabilities should make the shift clear. This is not just about a model getting confused. It is about natural-language systems being embedded into trusted enterprise workflows without a new security model around them.">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Bill Carney"},"dateModified":"2026-02-05T00:00:00Z","datePublished":"2026-02-05T00:00:00Z","description":"Prompt injection becomes materially more dangerous when AI agents can act. Once language is connected to workflows, text becomes a control input.","headline":"Prompt Injection Has Left the Chatbot","image":"https://carney.wiki/blog/assets/servicenow.jpg","name":"Prompt Injection Has Left the Chatbot","url":"https://carney.wiki/blog/prompt-injection-has-left-the-chatbot/"}</script>
+  
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-861LVY2WMP"></script>
+      <script>
+        var doNotTrack = false;
+        if ( true ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-861LVY2WMP');
+        }
+      </script>
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-18182076863"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'AW-18182076863');
+  </script>
+  <link rel="shortcut icon" href="/img/favicon.ico?v=0" type="image/x-icon">
+  <link rel="icon" href="/img/favicon.ico?v=0" type="image/x-icon">
+  
+  
+  <link rel="stylesheet" href="https://carney.wiki/style.main.min.67c1f4ec92f39d3353c528bf0847fe63f601ac897ea2f562ebeeee43edef6cdf.css" integrity="sha256-Z8H07JLznTNTxSi/CEf&#43;Y/YBrIl&#43;ovVi6&#43;7uQ&#43;3vbN8=" media="screen">
+  
+   <link rel="stylesheet" href="/css/icomoon.css"> 
+   <link rel="stylesheet" href="/css/simple-line-icons.css">
+   
+    
+  <link rel="stylesheet" href="/css/custom.css?v=20260902-2">
+</head>
+<body>
+      <div class="grid-container single-sidebar"><header class="site-header" role="banner">
+  <div class="site-header-inner">
+    <nav class="site-nav" role="navigation" aria-label="Primary navigation">
+      <a class="site-brand" href="https://carney.wiki/" title="Wiki is a Hawaiian word meaning &#39;quick&#39;" aria-label="carney.wiki">
+        <span class="brand-lockup"><span>carney</span><span class="brand-dot">.</span><span class="brand-accent">wiki</span></span>
+      </a>
+      <div class="site-links">
+        
+        
+        <a href="/about/" title="About Carney">About</a>
+        
+        
+        
+        <a href="/projects/" title="Current Projects">Projects</a>
+        
+        
+        
+        <a href="/offers/" title="AI-era marketing offers">Offers</a>
+        
+        
+        
+        <a href="/verification/carney-wiki/" title="Trust and verification">Verification</a>
+        
+        
+        
+        <a href="/blog/" title="Insights">Insights</a>
+        
+        
+        
+        <a href="https://cal.com/bill-carney/60min" title="Book a conversation" target="_blank" rel="noopener noreferrer" class="nav-cta">Book a conversation</a>
+        
+        
+        <button
+          class="site-search-trigger dib v-mid"
+          type="button"
+          aria-label="Search the site"
+          aria-haspopup="dialog"
+          aria-controls="site-search-dialog"
+          aria-expanded="false"
+          data-site-search-open
+        >
+          <span class="icon-search" aria-hidden="true"></span>
+        </button>
+        
+      </div>
+    </nav>
+  </div>
+  <div
+  class="site-search-overlay"
+  id="site-search-dialog"
+  data-site-search-root
+  data-site-search-index="/index.json"
+  hidden
+>
+  <div class="site-search-backdrop" data-site-search-close></div>
+  <div class="site-search-panel" role="dialog" aria-modal="true" aria-labelledby="site-search-title">
+    <div class="site-search-panel-header">
+      <span class="site-search-panel-icon icon-search" aria-hidden="true"></span>
+      <div class="site-search-panel-copy">
+        <p class="site-search-title" id="site-search-title">Search the site</p>
+        <p class="site-search-hint">Search posts, pages, and projects.</p>
+      </div>
+      <button class="site-search-close" type="button" aria-label="Close search" data-site-search-close>
+        <span class="icon-close" aria-hidden="true"></span>
+      </button>
+    </div>
+    <label class="clip" for="site-search-input">Search the site</label>
+    <input
+      class="site-search-input"
+      id="site-search-input"
+      type="search"
+      name="search"
+      placeholder="Type to search..."
+      autocomplete="off"
+      spellcheck="false"
+      data-site-search-input
+    >
+    <p class="site-search-status" data-site-search-status>Start typing to search.</p>
+    <div class="site-search-results" data-site-search-results></div>
+  </div>
+</div>
+
+</header>
+
+
+
+
+
+
+
+<main class="post-main" role="main">
+  <section class="post-shell post-shell--three-quarter">
+    <article class="post-content">
+      <header class="post-header">
+        <div class="post-meta-line">
+          <a href="/categories/ai-automation/">AI &amp; Automation</a>
+          <time datetime="2026-02-05">February 5, 2026</time>
+          <span>4 min read</span>
+        </div>
+        <h1>Prompt Injection Has Left the Chatbot</h1>
+        <p class="post-subtitle">What ServiceNow&#39;s AI agent incidents reveal about enterprise workflow integrity.</p>
+        
+<ul class="tag-list" aria-label="Topics">
+  
+  <li><a href="/tags/prompt-injection/">Prompt Injection</a></li>
+  
+  <li><a href="/tags/ai-agents/">AI Agents</a></li>
+  
+  <li><a href="/tags/servicenow/">ServiceNow</a></li>
+  
+  <li><a href="/tags/ai-security/">AI Security</a></li>
+  
+  <li><a href="/tags/workflow-integrity/">Workflow Integrity</a></li>
+  
+</ul>
+
+
+      </header>
+      <section class="post-body">
+        <p><img src="/blog/assets/servicenow.jpg" alt="Prompt injection and AI agent risk"></p>
+<p>Prompt injection did not suddenly become dangerous.</p>
+<p>We connected it to systems that matter.</p>
+<p>For years, prompt injection was treated as a curiosity: a way to make a chatbot ignore rules, leak instructions, or say something awkward. Interesting for demos. Annoying in production. Easy to dismiss as a model behavior problem.</p>
+<p>That framing is obsolete.</p>
+<p>The recent reporting around ServiceNow AI agent vulnerabilities should make the shift clear. This is not just about a model getting confused. It is about natural-language systems being embedded into trusted enterprise workflows without a new security model around them.</p>
+<p>Prompt injection is no longer only a model issue.</p>
+<p>It is a workflow integrity problem.</p>
+<h2 id="why-prompt-injection-still-works">Why prompt injection still works</h2>
+<p>Large language models do not reliably distinguish instructions from data.</p>
+<p>That is the core issue.</p>
+<p>Prompt injection hides instructions inside content that appears inert to humans: ticket descriptions, comments, emails, knowledge articles, synced web pages, or documents. The attacker does not need direct access to the model. They only need to get malicious text into something the model will read.</p>
+<p>As long as AI systems can:</p>
+<ol>
+<li>Ingest untrusted text</li>
+<li>Interpret it autonomously</li>
+<li>Take real actions through tools</li>
+</ol>
+<p>prompt injection remains viable.</p>
+<p>ServiceNow is important because it shows what happens when all three conditions exist inside enterprise workflows.</p>
+<h2 id="from-language-confusion-to-operational-impact">From language confusion to operational impact</h2>
+<p>Recent disclosures and reporting indicated that AI agents in enterprise workflow environments could, under certain configurations, be manipulated into actions such as impersonation, privileged workflow invocation, delegation to other agents, record modification, or data exposure.</p>
+<p>Those are not classic software exploits.</p>
+<p>No buffer overflow. No malformed packet. No exotic memory trick.</p>
+<p>The attack surface is text.</p>
+<p>Once an AI agent is trusted to act, every piece of text it reads becomes a potential control input.</p>
+<p>That is the part many teams are still missing.</p>
+<h2 id="the-exploit-chain">The exploit chain</h2>
+<p>The chain is simple:</p>
+<p><img src="/blog/assets/exploitchain.png" alt="Exploit chain diagram"></p>
+<ol>
+<li>Attacker places malicious instructions in content the agent will read.</li>
+<li>Agent retrieves or processes that content.</li>
+<li>Agent treats the injected language as relevant instruction.</li>
+<li>Agent selects a tool or workflow.</li>
+<li>Action executes with the agent&rsquo;s authority.</li>
+<li>The organization discovers the issue after the workflow has already moved.</li>
+</ol>
+<p>This is why agent design cannot rely on &ldquo;the model should know better.&rdquo;</p>
+<p>The system has to assume the model may be confused and still prevent high-impact actions.</p>
+<h2 id="the-confused-deputy-problem-is-back">The confused deputy problem is back</h2>
+<p>One of the most concerning patterns is second-order prompt injection.</p>
+<p>A lower-privilege agent reads malicious text. It asks a higher-privilege agent for help. The higher-privilege agent executes the harmful action because it believes it is assisting a legitimate workflow.</p>
+<p>That is the old confused-deputy problem in a new interface.</p>
+<p>Only now the confusion is expressed in natural language, and the deputy may be an AI agent with access to business systems.</p>
+<p>From a defender&rsquo;s perspective, this looks less like a prompt attack and more like lateral movement inside automation.</p>
+<h2 id="this-is-not-just-a-servicenow-problem">This is not just a ServiceNow problem</h2>
+<p>ServiceNow is not unique.</p>
+<p>It is early.</p>
+<p>Any platform that embeds AI agents into ticketing, CRM, identity workflows, DevOps, knowledge management, internal copilots, or business automation inherits the same risk shape.</p>
+<p>The moment an AI agent can do something, not just answer something, text becomes executable input.</p>
+<p>That does not mean agents are unusable.</p>
+<p>It means they need to be treated as privileged software components, not chat windows with ambition.</p>
+<h2 id="what-security-teams-should-change">What security teams should change</h2>
+<p>Better prompts are not enough.</p>
+<p>The organizations that avoid serious incidents will make structural changes:</p>
+<ul>
+<li>remove ambient authority instead of letting agents inherit broad permissions</li>
+<li>segment agents by impact and allowed delegation paths</li>
+<li>require human approval for irreversible actions</li>
+<li>treat text fields, comments, tickets, and synced content as attack surfaces</li>
+<li>instrument agents like production services</li>
+<li>log prompts, retrieved context, tool calls, identity context, and delegation paths</li>
+<li>alert on unusual tool usage or cross-agent behavior</li>
+<li>design for containment when prompt injection succeeds</li>
+</ul>
+<p>That last point matters.</p>
+<p>Assume prompt injection cannot be fully prevented. Build systems so that when it happens, damage is limited, visible, and recoverable.</p>
+<h2 id="the-takeaway">The takeaway</h2>
+<p>When language controls software, language becomes an attack vector.</p>
+<p>That is the new baseline.</p>
+<p>The question for every organization is whether it is still modeling AI agents as chatbots, or finally treating them as privileged workflow components.</p>
+<p>The answer will decide the blast radius.</p>
+<h2 id="sources-and-further-reading">Sources and Further Reading</h2>
+<ul>
+<li><a href="https://www.thedataconsultingcompany.com/blog/how-prompt-injection-attacks-actually-work">How Prompt Injection Attacks Actually Work</a></li>
+<li><a href="https://www.darkreading.com/remote-workforce/ai-vulnerability-servicenow">AI Vulnerability in ServiceNow Raises Concerns for Remote Workforce Security - Dark Reading</a></li>
+<li><a href="https://thehackernews.com/2025/11/servicenow-ai-agents-can-be-tricked.html">ServiceNow AI Agents Can Be Tricked Into Harmful Actions - The Hacker News</a></li>
+<li><a href="https://www.pointguardai.com/ai-security-incidents/servicenow-ai-agents-can-be-tricked-into-harmful-actions">ServiceNow AI Agents Can Be Tricked Into Harmful Actions - PointGuard AI</a></li>
+<li><a href="https://simonwillison.net/2026/Jan/30/moltbook/">Moltbook - Simon Willison</a></li>
+<li><a href="https://owasp.org/www-community/attacks/PromptInjection">OWASP Prompt Injection</a></li>
+</ul>
+
+      </section>
+      <footer class="post-footer">
+        <div class="post-pagination dt w-100 mt4 mb2">
+  
+    <a class="prev dtc pr2 tl v-top fw6"
+    href="https://carney.wiki/blog/ai-risk-is-a-business-risk-not-just-a-technical-one/">&larr; AI Risk Is a Business Risk, Not Just a Technical One</a>
+  
+  
+    <a class="next dtc pl2 tr v-top fw6"
+    href="https://carney.wiki/blog/your-ai-agent-is-a-toddler-with-root-access/">Your AI Agent Is a Toddler With Root Access &rarr;</a>
+  
+</div>
+
+      </footer>
+    </article>
+    <aside class="post-sidebar" aria-label="Post details">
+      
+      <nav class="post-sidebar-block post-sidebar-toc" aria-label="Table of contents">
+        <p class="post-sidebar-label">On this page</p>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#why-prompt-injection-still-works">Why prompt injection still works</a></li>
+    <li><a href="#from-language-confusion-to-operational-impact">From language confusion to operational impact</a></li>
+    <li><a href="#the-exploit-chain">The exploit chain</a></li>
+    <li><a href="#the-confused-deputy-problem-is-back">The confused deputy problem is back</a></li>
+    <li><a href="#this-is-not-just-a-servicenow-problem">This is not just a ServiceNow problem</a></li>
+    <li><a href="#what-security-teams-should-change">What security teams should change</a></li>
+    <li><a href="#the-takeaway">The takeaway</a></li>
+    <li><a href="#sources-and-further-reading">Sources and Further Reading</a></li>
+  </ul>
+</nav>
+      </nav>
+      
+      <div class="post-sidebar-block">
+        <p class="post-sidebar-label">Posted on:</p>
+        <p class="post-sidebar-value"><time datetime="2026-02-05">February 5, 2026</time></p>
+      </div>
+      <div class="post-sidebar-block">
+        <p class="post-sidebar-label">Length:</p>
+        <p class="post-sidebar-value">4 minute read, 767 words</p>
+      </div>
+      
+      <div class="post-sidebar-block">
+        <p class="post-sidebar-label">Categories:</p>
+        <ul class="post-sidebar-list">
+          <li><a href="/categories/ai-automation/">AI &amp; Automation</a></li><li><a href="/categories/data-analytics/">Data &amp; Analytics</a></li><li><a href="/categories/trust-brand/">Trust &amp; Brand</a></li>
+        </ul>
+      </div>
+      
+      
+      <div class="post-sidebar-block">
+        <p class="post-sidebar-label">Tags:</p>
+        <ul class="post-sidebar-list">
+          <li><a href="/tags/prompt-injection/">Prompt Injection</a></li><li><a href="/tags/ai-agents/">AI Agents</a></li><li><a href="/tags/servicenow/">ServiceNow</a></li><li><a href="/tags/ai-security/">AI Security</a></li><li><a href="/tags/workflow-integrity/">Workflow Integrity</a></li>
+        </ul>
+      </div>
+      
+      
+      <div class="post-sidebar-block post-sidebar-see-also">
+        <p class="post-sidebar-label">See Also:</p>
+        <ul class="post-sidebar-list post-sidebar-list--stacked">
+          <li><a href="/blog/enterprise-context-layer-is-an-operating-system/">The Enterprise Context Layer Is an Operating System</a></li><li><a href="/blog/the-best-business-ai-system-is-not-chatgpt/">The Best Business AI System Is Not ChatGPT</a></li><li><a href="/blog/from-tool-sprawl-to-an-operational-data-platform/">How AI Clarifies and Fixes the Modern Data Stack</a></li><li><a href="/blog/did-governance-just-die/">Data Governance Isn&#39;t Dead. It&#39;s Becoming AI Readiness.</a></li><li><a href="/blog/data-modernization/">Simplifying Data Modernization in the Age of AI Agents</a></li>
+        </ul>
+      </div>
+      
+    </aside>
+  </section>
+  
+  <section class="related-insights related-insights--bottom" aria-label="Related insights">
+    <div class="section-split">
+      <div class="section-header">
+        <p class="section-eyebrow">Related insights</p>
+        <h2>Keep reading.</h2>
+      </div>
+      <a class="text-link" href="/blog/">Visit insights</a>
+    </div>
+    <div class="insight-grid">
+      
+        
+
+<article class="insight-card">
+  <a class="insight-card-link" href="/blog/enterprise-context-layer-is-an-operating-system/" aria-label="Read The Enterprise Context Layer Is an Operating System">
+    
+    
+    <span class="insight-card-media" aria-hidden="true">
+      <img src="/blog/assets/sprawl.jpg" alt="" loading="lazy">
+    </span>
+    
+    
+    <div class="insight-card-meta">
+      <span>AI &amp; Automation</span>
+      <time datetime="2026-07-01">Jul 1, 2026</time>
+    </div>
+    <h3>The Enterprise Context Layer Is an Operating System</h3>
+    <p class="insight-card-subtitle">LLMs reason. RAG grounds. Agents execute. MCP integrates. The context layer governs what the system knows, does, remembers, and improves.</p>
+    <p>Most companies are buying LLMs, RAG, agents, and MCP like separate products. They are really four layers of one architecture. The missing enterprise layer is governed context: meaning, skills, security, and recursive learning.</p>
+    <span class="card-button">Read insight</span>
+  </a>
+</article>
+
+      
+        
+
+<article class="insight-card">
+  <a class="insight-card-link" href="/blog/the-best-business-ai-system-is-not-chatgpt/" aria-label="Read The Best Business AI System Is Not ChatGPT">
+    
+    
+    <span class="insight-card-media" aria-hidden="true">
+      <img src="/blog/assets/stacks.png" alt="" loading="lazy">
+    </span>
+    
+    
+    <div class="insight-card-meta">
+      <span>AI &amp; Automation</span>
+      <time datetime="2026-06-15">Jun 15, 2026</time>
+    </div>
+    <h3>The Best Business AI System Is Not ChatGPT</h3>
+    <p class="insight-card-subtitle">Start with the work the business needs done, then build the controls, context, and workflows around it.</p>
+    <p>Businesses do not need one AI model for everyone or dozens of disconnected agents. They need a controlled operating system for valuable workflows.</p>
+    <span class="card-button">Read insight</span>
+  </a>
+</article>
+
+      
+        
+
+<article class="insight-card">
+  <a class="insight-card-link" href="/blog/from-tool-sprawl-to-an-operational-data-platform/" aria-label="Read How AI Clarifies and Fixes the Modern Data Stack">
+    
+    
+    <span class="insight-card-media" aria-hidden="true">
+      <img src="/blog/assets/sprawl.jpg" alt="" loading="lazy">
+    </span>
+    
+    
+    <div class="insight-card-meta">
+      <span>Data &amp; Analytics</span>
+      <time datetime="2026-03-04">Mar 4, 2026</time>
+    </div>
+    <h3>How AI Clarifies and Fixes the Modern Data Stack</h3>
+    <p class="insight-card-subtitle">The model is not the hard part. The hard part is everything around the model.</p>
+    <p>The modern data stack is powerful, but operationally fragile. AI makes the weak points obvious: access control, contracts, lineage, observability, cost, and security.</p>
+    <span class="card-button">Read insight</span>
+  </a>
+</article>
+
+      
+    </div>
+  </section>
+  
+  
+</main>
+<footer class="site-footer" role="contentinfo">
+  <nav class="site-footer-nav" aria-label="Footer navigation">
+    <p class="site-copyright">
+      &copy; 2026 Carney, all rights reserved.
+      
+    </p>
+    
+    <div class="site-footer-links">
+      
+      <a href="https://clients.carney.wiki/" title="Client login">Clients</a>
+      
+      <a href="/projects/" title="Current Projects">Projects</a>
+      
+      <a href="/blog/" title="Insights">Insights</a>
+      
+      <a href="/offers/" title="AI-era marketing offers">Offers</a>
+      
+      <a href="/trust/" title="Trust and verification">Trust</a>
+      
+      <a href="/pricing/" title="Public pricing">Pricing</a>
+      
+      <a href="/faq/" title="Frequently asked questions">FAQ</a>
+      
+      <a href="https://cal.com/bill-carney/60min" title="Book a conversation">Contact</a>
+      
+      <a href="/index.xml" title="RSS Feed">RSS</a>
+      
+      <a href="https://amzn.to/4bKdyte" title="Buy my Book">Book</a>
+      
+    </div>
+  </nav>
+</footer>
+
+      </div>
+      <script defer src="/js/site-search.js"></script>
+      <script defer src="/js/offer-events.js"></script>
+    </body>
+</html>

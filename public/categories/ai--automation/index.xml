@@ -1,144 +1,250 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI &amp; Automation on carney.wiki</title><link>https://carney.wiki/categories/ai--automation/</link><description>Recent content in AI &amp; Automation on carney.wiki</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 04 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/categories/ai--automation/index.xml" rel="self" type="application/rss+xml"/><item><title>Your Company Already Tried to Build a Second Brain. It Was Called SharePoint.</title><link>https://carney.wiki/blog/second-brain-knowledge-spine-not-file-store/</link><pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/second-brain-knowledge-spine-not-file-store/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/second-brain-obsidian-knowledge-graph.png" alt="An obsidian-glass brain formed from connected knowledge nodes, with links to documents, guardrails, decisions, and workflows"&gt;&lt;/p&gt;
-&lt;p&gt;When I was a CEO, my friend Tareef introduced me to Obsidian as a better way to stay organized. He described it as a “Second Brain.” That is where I started.&lt;/p&gt;
-&lt;p&gt;I understood the appeal right away. A CEO has to keep track of people, projects, customer commitments, operating decisions, risks, and ideas that rarely live in one system. In Obsidian, my notes did not have to sit in separate folders. They could link to one another, and the graph made those relationships visible. I could follow an idea without having to remember where I filed it.&lt;/p&gt;</description></item><item><title>The Enterprise Context Layer Is an Operating System</title><link>https://carney.wiki/blog/enterprise-context-layer-is-an-operating-system/</link><pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/enterprise-context-layer-is-an-operating-system/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/sprawl.jpg" alt="Enterprise AI architecture and tool sprawl"&gt;&lt;/p&gt;
-&lt;p&gt;Most companies are buying four AI products.&lt;/p&gt;
-&lt;p&gt;They are actually building one system.&lt;/p&gt;
-&lt;p&gt;LLMs.&lt;/p&gt;
-&lt;p&gt;RAG.&lt;/p&gt;
-&lt;p&gt;Agents.&lt;/p&gt;
-&lt;p&gt;MCP.&lt;/p&gt;
-&lt;p&gt;These terms get thrown around like they are interchangeable. They are not. They are different layers in the same architecture.&lt;/p&gt;
-&lt;p&gt;LLMs reason.&lt;/p&gt;
-&lt;p&gt;RAG grounds.&lt;/p&gt;
-&lt;p&gt;Agents execute.&lt;/p&gt;
-&lt;p&gt;MCP integrates.&lt;/p&gt;
-&lt;p&gt;But none of those, by themselves, gives the enterprise what it really needs: governed context that can be trusted, secured, reused, and improved over time.&lt;/p&gt;</description></item><item><title>The Best Business AI System Is Not ChatGPT</title><link>https://carney.wiki/blog/the-best-business-ai-system-is-not-chatgpt/</link><pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/the-best-business-ai-system-is-not-chatgpt/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/stacks.png" alt="A practical technology stack"&gt;&lt;/p&gt;
-&lt;p&gt;The best business AI system is not one model.&lt;/p&gt;
-&lt;p&gt;And it is not giving everyone a ChatGPT account and hoping productivity happens.&lt;/p&gt;
-&lt;p&gt;A useful business AI system starts with the work the company needs done. It connects AI to the right business context and tools, gives it clear boundaries, and measures whether the work actually improved.&lt;/p&gt;
-&lt;p&gt;That is true for a 20-person company and a global enterprise.&lt;/p&gt;</description></item><item><title>AI Agents Need More Than a Semantic Layer</title><link>https://carney.wiki/blog/ai-agents-need-more-than-semantic-layer/</link><pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-agents-need-more-than-semantic-layer/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/goldfish.jpg" alt="goldfish in an aquarium"&gt;&lt;/p&gt;
-&lt;p&gt;A semantic layer is not an AI strategy.&lt;/p&gt;
-&lt;p&gt;It is one important part of one.&lt;/p&gt;
-&lt;p&gt;That distinction matters because a lot of companies are still treating AI like a smarter search box. They connect a model to documents, databases, dashboards, SaaS tools, or internal knowledge bases and expect useful work to fall out the other side.&lt;/p&gt;
-&lt;p&gt;Sometimes it does.&lt;/p&gt;
-&lt;p&gt;More often, the model gives a plausible answer, misses the business logic, forgets the prior context, or takes an action without understanding how the work is actually supposed to get done.&lt;/p&gt;</description></item><item><title>Win the AI Shortlist</title><link>https://carney.wiki/blog/ai-era-win-ai-shortlist/</link><pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-era-win-ai-shortlist/</guid><description>&lt;figure class="post-lead-image post-lead-image--portrait"&gt;&lt;img src="https://carney.wiki/blog/assets/win-the-ai-shortlist.jpg"
- alt="Win the AI Shortlist"&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;For a long time, B2B marketing treated discovery like a traffic problem.&lt;/p&gt;
-&lt;p&gt;Rank for the right keywords. Publish enough content. Retarget the visitors. Argue about attribution in a meeting that should have been an email. Repeat until morale improves.&lt;/p&gt;
-&lt;p&gt;That model is not dead, exactly.&lt;/p&gt;
-&lt;p&gt;It is just no longer the whole game.&lt;/p&gt;
-&lt;p&gt;Because more and more buyers do not start with a search engine and a stack of browser tabs. They start with a question and ask an AI assistant to answer it. The assistant does not just retrieve links. It summarizes, compares, filters, and recommends.&lt;/p&gt;</description></item><item><title>Verification Beats Persuasion</title><link>https://carney.wiki/blog/ai-era-verification-beats-persuasion/</link><pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-era-verification-beats-persuasion/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/verification-beats-persuasion.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;p&gt;Most B2B buyers do not buy the way your homepage wishes they did.&lt;/p&gt;
-&lt;p&gt;They do not move politely from awareness to interest to demo to proposal like a nice clean funnel diagram someone made in a keynote ten years ago and refuses to let die.&lt;/p&gt;
-&lt;p&gt;They move in loops.&lt;/p&gt;
-&lt;p&gt;Someone gets excited. Someone else gets skeptical. A champion forms. Security appears. Finance asks for assumptions. Operations asks how this will actually work in the real world, which is usually where a lot of “frictionless” stories go to die.&lt;/p&gt;</description></item><item><title>SEO Is Not Dead. It Just Has Two New Roommates: AEO and GEO</title><link>https://carney.wiki/blog/seo-aeo-geo/</link><pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/seo-aeo-geo/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/roommates.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;p&gt;The SEO industry is facing new challenges.&lt;/p&gt;
-&lt;p&gt;Story of my life.&lt;/p&gt;
-&lt;p&gt;Some of the challenge is not new at all. Google has been pushing organic results farther down the page for years. First it was more ads. Then came featured snippets, People Also Ask, knowledge panels, maps, shopping modules, video carousels, and enough SERP furniture to make the traditional &amp;ldquo;10 blue links&amp;rdquo; feel like a historical artifact.&lt;/p&gt;
-&lt;p&gt;Now we have AI Overviews.&lt;/p&gt;</description></item><item><title>Content Is Cheap. Credibility Is Not.</title><link>https://carney.wiki/blog/ai-era-content-cheap-credibility-not/</link><pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-era-content-cheap-credibility-not/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/content-is-cheap-credibility-is-not.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;p&gt;AI made content cheap.&lt;/p&gt;
-&lt;p&gt;That is not a hot take. That is just the weather now.&lt;/p&gt;
-&lt;p&gt;A small team can generate blog posts, landing pages, nurture emails, ad variations, sales snippets, and enough “thought leadership” to make LinkedIn look like a machine accidentally discovered caffeine.&lt;/p&gt;
-&lt;p&gt;That is the good news.&lt;/p&gt;
-&lt;p&gt;The bad news is that when everyone can produce competent-sounding material, competent-sounding material stops being impressive.&lt;/p&gt;
-&lt;p&gt;So the advantage moves.&lt;/p&gt;</description></item><item><title>Old Marketing Is Dead</title><link>https://carney.wiki/blog/ai-era-old-marketing-is-dead/</link><pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-era-old-marketing-is-dead/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/old-marketing-is-dead.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;p&gt;The world most B2B marketing playbooks were built for is gone.&lt;/p&gt;
-&lt;p&gt;Not “changing.” Gone.&lt;/p&gt;
-&lt;p&gt;For years, the formula was familiar. Publish enough content. Buy enough reach. Tune the funnel. Keep the machine fed. If the team worked hard enough and the dashboards looked healthy enough, growth was supposed to follow.&lt;/p&gt;
-&lt;p&gt;And to be fair, sometimes it did.&lt;/p&gt;
-&lt;p&gt;The constraints were mostly mechanical: time, budget, headcount, production capacity, and access to distribution. If you had a decent team, enough air cover, and a tolerance for webinars no one wanted to attend, you could make the system work.&lt;/p&gt;</description></item><item><title>AI Is Coming for Your Job</title><link>https://carney.wiki/blog/ai-is-coming-for-your-job/</link><pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-is-coming-for-your-job/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/luck.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;p&gt;If there is any Luck of the Irish in this story, it is not that AI magically saves everyone. It is that we may finally have a good excuse to hand the machines the worst parts of work first. Let the bots chase status updates, wrestle stale spreadsheets, and babysit workflow nonsense. Humans can keep the parts that actually require judgment and a pulse.&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;AI is coming for your job&amp;rdquo; is one of those phrases that spreads because it lands on something real.&lt;/p&gt;</description></item><item><title>How AI Clarifies and Fixes the Modern Data Stack</title><link>https://carney.wiki/blog/from-tool-sprawl-to-an-operational-data-platform/</link><pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/from-tool-sprawl-to-an-operational-data-platform/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/sprawl.jpg" alt="Operational data platform security"&gt;&lt;/p&gt;
-&lt;p&gt;The modern data stack is incredible.&lt;/p&gt;
-&lt;p&gt;It is also exhausting.&lt;/p&gt;
-&lt;p&gt;Cloud elasticity, open table formats, modular tooling, and managed services let small teams do work that used to require a data center and a small army. That is the good news.&lt;/p&gt;
-&lt;p&gt;The bad news is that the same modularity created tool sprawl, half-finished pipelines, unclear ownership, and incident channels that never sleep.&lt;/p&gt;
-&lt;p&gt;Now AI is walking into that environment and asking for access.&lt;/p&gt;</description></item><item><title>The Custom-Backend Myth After AI</title><link>https://carney.wiki/blog/custom-backend-myth-after-ai/</link><pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/custom-backend-myth-after-ai/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/snowflake.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;h1 id="the-custom-backend-myth-after-ai-why-most-websites-no-longer-need-bespoke-infrastructure"&gt;The Custom-Backend Myth After AI: Why Most Websites No Longer Need Bespoke Infrastructure&lt;/h1&gt;
-&lt;p&gt;For years, businesses were told that a serious website needed a custom backend to be flexible, scalable, and credible. That made sense when publishing online required heavy engineering effort and every meaningful change depended on developers. That is no longer true for most business websites.&lt;/p&gt;
-&lt;p&gt;Today, AI can generate a working site in minutes. Modern deployment platforms can put that site into production almost immediately. And many business websites do not need a traditional backend or database at all. Vercel now describes itself as &amp;ldquo;the AI Cloud,&amp;rdquo; while Netlify explicitly positions itself around creating with AI or code and deploying instantly. Cloudflare, Netlify, and Vercel now belong in the same modern deployment conversation because all three make it possible to ship fast without managing traditional infrastructure.&lt;/p&gt;</description></item><item><title>Data Governance Isn't Dead. It's Becoming AI Readiness.</title><link>https://carney.wiki/blog/did-governance-just-die/</link><pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/did-governance-just-die/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/crow.jpg" alt="AI governance under pressure"&gt;&lt;/p&gt;
-&lt;p&gt;Data governance is not dead.&lt;/p&gt;
-&lt;p&gt;Governance theater is.&lt;/p&gt;
-&lt;p&gt;If you have ever sat through a data governance council where everyone agreed definitions matter and then immediately went back to shipping whatever, you know the problem.&lt;/p&gt;
-&lt;p&gt;The meeting was not governance.&lt;/p&gt;
-&lt;p&gt;It was a performance about governance.&lt;/p&gt;
-&lt;p&gt;That used to be annoying. In the AI era, it becomes dangerous.&lt;/p&gt;
-&lt;p&gt;Humans can often patch ambiguity with tribal knowledge. They know which dashboard is &amp;ldquo;really&amp;rdquo; used by finance, which field is stale, which Salesforce status is fiction, and which metric definition nobody says out loud.&lt;/p&gt;</description></item><item><title>Simplifying Data Modernization in the Age of AI Agents</title><link>https://carney.wiki/blog/data-modernization/</link><pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/data-modernization/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/pipeline.jpg" alt="Data modernization roadmap"&gt;&lt;/p&gt;
-&lt;p&gt;Modern data stacks were supposed to make things easier.&lt;/p&gt;
-&lt;p&gt;Faster insights. More self-service. Better dashboards. Cleaner pipelines. Fewer heroic spreadsheet rescues.&lt;/p&gt;
-&lt;p&gt;Instead, a lot of organizations ended up with complexity by default: more tools, more integration work, more handoffs, more cloud spend, and a growing gap between data work and real business outcomes.&lt;/p&gt;
-&lt;p&gt;Now AI agents are being layered on top of that mess.&lt;/p&gt;
-&lt;p&gt;That is not automatically bad. But it is risky if leaders treat AI like a shortcut around the fundamentals.&lt;/p&gt;</description></item><item><title>Your AI Agent Is a Toddler With Root Access</title><link>https://carney.wiki/blog/your-ai-agent-is-a-toddler-with-root-access/</link><pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/your-ai-agent-is-a-toddler-with-root-access/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/toddler.jpg" alt="Your AI agent is a toddler with root access"&gt;&lt;/p&gt;
-&lt;p&gt;Agentic AI is no longer a demo.&lt;/p&gt;
-&lt;p&gt;It calls APIs.&lt;/p&gt;
-&lt;p&gt;It writes to databases.&lt;/p&gt;
-&lt;p&gt;It triggers workflows that affect customers, revenue, and operations.&lt;/p&gt;
-&lt;p&gt;That is powerful.&lt;/p&gt;
-&lt;p&gt;It is also a fundamental shift in risk.&lt;/p&gt;
-&lt;p&gt;Once an AI system moves from advisory to execution, it becomes part of the control plane. Whether the organization admits that or not is mostly irrelevant. The risk already changed.&lt;/p&gt;</description></item><item><title>Prompt Injection Has Left the Chatbot</title><link>https://carney.wiki/blog/prompt-injection-has-left-the-chatbot/</link><pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/prompt-injection-has-left-the-chatbot/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/servicenow.jpg" alt="Prompt injection and AI agent risk"&gt;&lt;/p&gt;
-&lt;p&gt;Prompt injection did not suddenly become dangerous.&lt;/p&gt;
-&lt;p&gt;We connected it to systems that matter.&lt;/p&gt;
-&lt;p&gt;For years, prompt injection was treated as a curiosity: a way to make a chatbot ignore rules, leak instructions, or say something awkward. Interesting for demos. Annoying in production. Easy to dismiss as a model behavior problem.&lt;/p&gt;
-&lt;p&gt;That framing is obsolete.&lt;/p&gt;
-&lt;p&gt;The recent reporting around ServiceNow AI agent vulnerabilities should make the shift clear. This is not just about a model getting confused. It is about natural-language systems being embedded into trusted enterprise workflows without a new security model around them.&lt;/p&gt;</description></item><item><title>AI Risk Is a Business Risk, Not Just a Technical One</title><link>https://carney.wiki/blog/ai-risk-is-a-business-risk-not-just-a-technical-one/</link><pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-risk-is-a-business-risk-not-just-a-technical-one/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/risk.jpg" alt="AI risk and business governance"&gt;&lt;/p&gt;
-&lt;p&gt;AI risk is business risk.&lt;/p&gt;
-&lt;p&gt;That sounds obvious until you look at how most companies still manage it.&lt;/p&gt;
-&lt;p&gt;Too often, AI risk gets pushed into the technical corner. The security team worries about exposure. The data team worries about model performance. Legal gets pulled in late. The board gets a sanitized update after the pilot has already become operational.&lt;/p&gt;
-&lt;p&gt;That is backwards.&lt;/p&gt;
-&lt;p&gt;If an AI system influences customers, employees, financial outcomes, operational decisions, or regulated processes, the risk is not contained inside the model. It lives in the business process around the model.&lt;/p&gt;</description></item><item><title>Stop doing dumb marketing</title><link>https://carney.wiki/blog/2026dumbmarketing/</link><pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/2026dumbmarketing/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/newyearresolution.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;p&gt;If you’re still running your 2023 marketing playbook in 2026—celebrating content volume, bragging about impressions, and pointing at a funnel diagram like it’s a historical artifact—you’re not behind. You’re just asleep.&lt;/p&gt;
-&lt;p&gt;Your buyers moved on.
-Your tech stack learned how to think.
-And AI is doing parts of your job now—just not the parts you should’ve been doing in the first place.&lt;/p&gt;
-&lt;p&gt;This isn’t an article.
-This is your intervention.&lt;/p&gt;</description></item><item><title>The CISO's Guide to Governing Generative AI</title><link>https://carney.wiki/blog/the-cisos-guide-to-governing-generative-ai/</link><pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/the-cisos-guide-to-governing-generative-ai/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/mission.jpg" alt="Generative AI governance for security leaders"&gt;&lt;/p&gt;
-&lt;p&gt;Generative AI is now part of the enterprise control surface.&lt;/p&gt;
-&lt;p&gt;That is the CISO&amp;rsquo;s problem, whether the CISO asked for it or not.&lt;/p&gt;
-&lt;p&gt;Employees are using AI tools. Vendors are embedding AI features. Engineering teams are experimenting with model APIs. Business teams are building copilots. Data teams are connecting retrieval systems to internal knowledge.&lt;/p&gt;
-&lt;p&gt;Some of this is useful.&lt;/p&gt;
-&lt;p&gt;Some of it is risky.&lt;/p&gt;</description></item><item><title>Building AI Guardrails Without Killing Innovation</title><link>https://carney.wiki/blog/building-ai-guardrails-without-killing-innovation/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/building-ai-guardrails-without-killing-innovation/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/guardrail.jpg" alt="AI guardrails"&gt;&lt;/p&gt;
-&lt;p&gt;AI governance should not be a moat around innovation.&lt;/p&gt;
-&lt;p&gt;It should be the road.&lt;/p&gt;
-&lt;p&gt;That distinction matters because a lot of companies are about to overcorrect. They see real AI risk, then respond with broad restrictions, vague policies, and approval processes that make practical teams route around the system.&lt;/p&gt;
-&lt;p&gt;That does not create safety.&lt;/p&gt;
-&lt;p&gt;It creates shadow AI.&lt;/p&gt;
-&lt;p&gt;The better path is guardrails, not gates. Give teams enough structure to move quickly inside known boundaries, and reserve heavier review for use cases that can materially affect customers, employees, money, safety, compliance, or trust.&lt;/p&gt;</description></item><item><title>How Prompt Injection Attacks Actually Work</title><link>https://carney.wiki/blog/how-prompt-injection-attacks-actually-work/</link><pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/how-prompt-injection-attacks-actually-work/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/injection.jpg" alt="Prompt injection and AI security"&gt;&lt;/p&gt;
-&lt;p&gt;Prompt injection is not a clever chatbot trick anymore.&lt;/p&gt;
-&lt;p&gt;It is one of the core security problems in AI systems.&lt;/p&gt;
-&lt;p&gt;The reason is uncomfortable: large language models do not reliably separate instructions from data. They interpret text. That text may come from a user, a document, a webpage, a support ticket, an email, a retrieved knowledge base article, or another AI system.&lt;/p&gt;
-&lt;p&gt;To a human, some of that text is obviously content.&lt;/p&gt;</description></item><item><title>Why AI, Trust, and Buying Networks Demand a New GTM Playbook</title><link>https://carney.wiki/blog/ai-gtm-playbook/</link><pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-gtm-playbook/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/network.gif" alt="stack"&gt;&lt;/p&gt;
-&lt;p&gt;The rules of B2B buying are being rewritten. Not incrementally — structurally. Buyers have never moved through a linear tidy funnel owned by sales and marketing; they navigate a &lt;strong&gt;buying network&lt;/strong&gt; made up of internal stakeholders, external influencers, independent research, and increasingly, AI agents that summarize, shortlist, and recommend on their behalf.&lt;/p&gt;
-&lt;p&gt;If your go-to-market (GTM) playbook still targets a single buyer persona or relies on volume outreach, you’re invisible in the very places buyers now start their journeys.&lt;/p&gt;</description></item><item><title>What Boards Need to Know About AI Risk</title><link>https://carney.wiki/blog/what-boards-need-to-know-about-ai-risk/</link><pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/what-boards-need-to-know-about-ai-risk/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/enterprise.jpg" alt="Board-level AI governance"&gt;&lt;/p&gt;
-&lt;p&gt;Boards do not need to understand every AI model.&lt;/p&gt;
-&lt;p&gt;They do need to understand where AI creates business risk.&lt;/p&gt;
-&lt;p&gt;That is the important distinction.&lt;/p&gt;
-&lt;p&gt;AI is moving into customer interactions, employee workflows, software development, analytics, content production, fraud detection, security operations, and decision support. Some systems are low risk. Some can materially affect customers, employees, revenue, compliance, or reputation.&lt;/p&gt;
-&lt;p&gt;Board oversight should focus on the second group.&lt;/p&gt;</description></item><item><title>Reinventing Growth for the AI Era - Part 2</title><link>https://carney.wiki/blog/aitrust/</link><pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/aitrust/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/leaves2.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;p&gt;In an era where B2B buying is increasingly complex, distributed, and AI-assisted, one constant remains: trust is the currency of growth. No longer a “soft” brand attribute, trust now directly accelerates sales velocity and conversion. As Forrester’s Buying Networks: Your Buyers’ New Reality (2025) report highlights, trusted providers gain “shortcuts to consideration,” enabling faster movement through decision cycles and broader endorsement within buyer ecosystems.&lt;/p&gt;
-&lt;h2 id="the-new-reality-buying-networks-not-buying-groups"&gt;The New Reality: Buying Networks, Not Buying Groups&lt;/h2&gt;
-&lt;p&gt;Forrester’s latest research signals a major shift in how organizations purchase technology. What began as a move from individual leads to “buying groups” has evolved into the buying network — a broader ecosystem that includes internal teams, external influencers, analysts, partners, customers, and increasingly, AI agents.&lt;/p&gt;</description></item><item><title>Why Most AI Security Failures Start With Data</title><link>https://carney.wiki/blog/why-most-ai-security-failures-start-with-data/</link><pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/why-most-ai-security-failures-start-with-data/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/data.jpg" alt="AI security starts with governed data"&gt;&lt;/p&gt;
-&lt;p&gt;Most AI security failures do not start with the model.&lt;/p&gt;
-&lt;p&gt;They start with the data.&lt;/p&gt;
-&lt;p&gt;That is not as exciting as a story about a rogue algorithm or a clever jailbreak, but it is usually closer to the truth.&lt;/p&gt;
-&lt;p&gt;If the data feeding an AI system is unclassified, unverified, poorly governed, over-permissioned, or impossible to trace, the model inherits the problem. Then it scales it.&lt;/p&gt;</description></item><item><title>Reinventing Growth for the AI Era</title><link>https://carney.wiki/blog/growthai/</link><pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/growthai/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/leaves.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;p&gt;A new pattern is emerging: the teams winning in AI are not the ones copying the old SaaS playbook with fresher branding. They are the ones figuring out where influence, credibility, and trust actually live, then building around that reality instead of around habit.&lt;/p&gt;
-&lt;p&gt;The next generation of marketing leaders in AI will look less like spreadsheet custodians and more like experimenters, operators, and network-builders. They will diagnose first, invent second, and leave a lot of tired template marketing where it belongs.&lt;/p&gt;</description></item><item><title>Vibe Coding 2</title><link>https://carney.wiki/blog/vibe2/</link><pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/vibe2/</guid><description>&lt;h1 id="vibe-coding-still-learning-still-vibing"&gt;Vibe Coding: Still Learning, Still Vibing&lt;/h1&gt;
-&lt;p&gt;When I first wrote about vibe coding, I saw it as a fresh, almost playful way of thinking about development—coding less like grinding through syntax and more like shaping an idea in conversation with an AI. Since then, I’ve gone deeper: I’ve tried &lt;strong&gt;Replit, Cursor, and now Kilo inside Visual Studio with Copilot and Claude&lt;/strong&gt;. Along the way, I’ve burned down and rebuilt multiple instances, hit roadblocks with authentication, ripped out Clerk when database connections got messy, and wrangled with Docker, Digital Ocean, Spaces, and Stripe.&lt;/p&gt;</description></item><item><title>Vibe Coding</title><link>https://carney.wiki/blog/vibe-coding/</link><pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/vibe-coding/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/good-news.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;h1 id="vibe-coding-is-coming--and-i-might-have-just-tried-it"&gt;Vibe Coding Is Coming — And I Might Have Just Tried It&lt;/h1&gt;
-&lt;p&gt;There’s a new term I’ve been hearing more and more lately: &lt;strong&gt;Vibe Coding&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;It&amp;rsquo;s not an official methodology or some new framework (yet), but rather a &lt;em&gt;feeling&lt;/em&gt;—a zone developers enter where everything just clicks. You’re moving fast, building with intuition, and the tools aren’t fighting you—they’re helping. It’s creative momentum at full speed, and I think I may have just experienced it for the first time.&lt;/p&gt;</description></item><item><title>Digital Marketing ROI</title><link>https://carney.wiki/blog/roi-stats-marketful/</link><pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/roi-stats-marketful/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/balance.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;h1 id="the-future-of-digital-marketing-lies-in-merging-creativity-with-data-driven-strategies-to-unlock-unparalleled-value"&gt;The future of digital marketing lies in merging creativity with data-driven strategies to unlock unparalleled value.&lt;/h1&gt;
-&lt;p&gt;Digital marketing was never just a trend; it’s the cornerstone of business growth in the modern age. As highlighted in the &lt;a href="https://marketful.com/blog/digital-marketing-roi-statistics/"&gt;Marketful blog on Digital Marketing ROI&lt;/a&gt;, companies investing in well-rounded strategies are reaping significant rewards. However, understanding and maximizing &lt;strong&gt;ROI (Return on Investment)&lt;/strong&gt; remains critical for marketers to justify their budgets and enhance their campaigns.&lt;/p&gt;</description></item><item><title>Livestreaming and Video's with AI</title><link>https://carney.wiki/blog/video/</link><pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/video/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/video.jpeg" alt="stack"&gt;&lt;/p&gt;
-&lt;p&gt;Video is no longer the side dish in the marketing plan. For a lot of brands, it &lt;em&gt;is&lt;/em&gt; the plan. Livestreaming, streaming platforms, short-form content, and AI-assisted production have all made video harder to ignore and easier to produce. That is great news if you have a strategy. It is less great if your current plan is &amp;ldquo;let&amp;rsquo;s upload the webinar replay and pray.&amp;rdquo;&lt;/p&gt;
-&lt;h2 id="looking-to-livestreaming"&gt;Looking to Livestreaming&lt;/h2&gt;
-&lt;p&gt;Livestreaming has become a serious commercial channel in markets like China, where entertainment and commerce are far less awkward about sharing the same room. The format works because it is interactive, immediate, and built for attention rather than polite indifference.&lt;/p&gt;</description></item><item><title>AI in Marketing</title><link>https://carney.wiki/blog/ai-in-marketing/</link><pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-in-marketing/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/ai.jpeg" alt="stack"&gt;&lt;/p&gt;
-&lt;p&gt;Marketing is undergoing a seismic shift, driven by the rapid evolution of artificial intelligence (AI). From predictive analytics to lifelike (scary) automation, AI tools are revolutionizing how businesses engage with audiences, streamline workflows, and achieve measurable results.&lt;/p&gt;
-&lt;h2 id="what-is-ai-in-marketing"&gt;What is AI in Marketing?&lt;/h2&gt;
-&lt;p&gt;AI in marketing involves using artificial intelligence to optimize strategies through automation, data analysis, and personalized customer experiences. By leveraging machine learning, natural language processing, and predictive insights, marketers can improve efficiency, increase ROI, and craft meaningful connections with their audience.&lt;/p&gt;</description></item><item><title>Rethinking chat - A better approach?</title><link>https://carney.wiki/blog/chat/</link><pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/chat/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/chat.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;h1 id="the-evolution-of-communication-from-phone-calls-to-text"&gt;The Evolution of Communication: From Phone Calls to Text&lt;/h1&gt;
-&lt;p&gt;Most people do not want to be ambushed by a phone call anymore. They want to text, message, skim, ask a question, disappear for a while, and come back when it suits them. That is not a generational flaw. It is just how modern communication works.&lt;/p&gt;
-&lt;p&gt;That shift matters for marketing and support. If your website still acts like every visitor wants a scheduled demo and a cheerful sales ambush, you are solving yesterday&amp;rsquo;s problem. People increasingly want low-friction, text-based help on their terms. The good news is that modern chat can do far more than sit in the corner waiting to answer billing questions.&lt;/p&gt;</description></item><item><title>Marketing Trends for 2024</title><link>https://carney.wiki/blog/trends/</link><pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/trends/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/newyear.png" alt="stack"&gt;&lt;/p&gt;
-&lt;p&gt;It&amp;rsquo;s been a month into 2024, and marketers are once again at the forefront of a technological revolution, where the strategic use of data is fundamental in sculpting experiences and steering business strategies. For marketers, the journey toward leveraging these trends is paved with strategic considerations. By integrating these strategies, companies can cultivate a resilient, authentic brand presence that resonates deeply with contemporary consumers. This approach positions organizations to thrive in the dynamic digital economy and aligns with evolving consumer values, ensuring sustained relevance and success in the marketing domain. As the landscape shifts, the essence of adaptability, authenticity, and consumer alignment becomes increasingly pronounced in shaping impactful and enduring marketing strategies. Below are some interesting trends and methodologies essential for harnessing the power of these developments:&lt;/p&gt;</description></item><item><title>Just Enough Automation in Marketing</title><link>https://carney.wiki/blog/balance/</link><pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/balance/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/balance.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;p&gt;In the world of marketing, automation has emerged as a game-changer. It streamlines processes, increases efficiency, and helps reach prospects at the right time. However, like any tool, automation can be a double-edged sword. Use it judiciously, and it can enhance your marketing efforts; overdo it, and it may harm your relationship with prospects. Let&amp;rsquo;s explore the delicate balance between &amp;ldquo;just enough&amp;rdquo; automation and the perils of &amp;ldquo;too much&amp;rdquo; from a marketing perspective, with a cautionary tale of websites using people&amp;rsquo;s names excessively.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI &amp; Automation on carney.wiki</title>
+    <link>https://carney.wiki/categories/ai--automation/</link>
+    <description>Recent content in AI &amp; Automation on carney.wiki</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carney.wiki/categories/ai--automation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your Company Already Tried to Build a Second Brain. It Was Called SharePoint.</title>
+      <link>https://carney.wiki/blog/second-brain-knowledge-spine-not-file-store/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/second-brain-knowledge-spine-not-file-store/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/second-brain-obsidian-knowledge-graph.png&#34; alt=&#34;An obsidian-glass brain formed from connected knowledge nodes, with links to documents, guardrails, decisions, and workflows&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;When I was a CEO, my friend Tareef introduced me to Obsidian as a better way to stay organized. He described it as a “Second Brain.” That is where I started.&lt;/p&gt;&#xA;&lt;p&gt;I understood the appeal right away. A CEO has to keep track of people, projects, customer commitments, operating decisions, risks, and ideas that rarely live in one system. In Obsidian, my notes did not have to sit in separate folders. They could link to one another, and the graph made those relationships visible. I could follow an idea without having to remember where I filed it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Enterprise Context Layer Is an Operating System</title>
+      <link>https://carney.wiki/blog/enterprise-context-layer-is-an-operating-system/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/enterprise-context-layer-is-an-operating-system/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/sprawl.jpg&#34; alt=&#34;Enterprise AI architecture and tool sprawl&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Most companies are buying four AI products.&lt;/p&gt;&#xA;&lt;p&gt;They are actually building one system.&lt;/p&gt;&#xA;&lt;p&gt;LLMs.&lt;/p&gt;&#xA;&lt;p&gt;RAG.&lt;/p&gt;&#xA;&lt;p&gt;Agents.&lt;/p&gt;&#xA;&lt;p&gt;MCP.&lt;/p&gt;&#xA;&lt;p&gt;These terms get thrown around like they are interchangeable. They are not. They are different layers in the same architecture.&lt;/p&gt;&#xA;&lt;p&gt;LLMs reason.&lt;/p&gt;&#xA;&lt;p&gt;RAG grounds.&lt;/p&gt;&#xA;&lt;p&gt;Agents execute.&lt;/p&gt;&#xA;&lt;p&gt;MCP integrates.&lt;/p&gt;&#xA;&lt;p&gt;But none of those, by themselves, gives the enterprise what it really needs: governed context that can be trusted, secured, reused, and improved over time.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Best Business AI System Is Not ChatGPT</title>
+      <link>https://carney.wiki/blog/the-best-business-ai-system-is-not-chatgpt/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/the-best-business-ai-system-is-not-chatgpt/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/stacks.png&#34; alt=&#34;A practical technology stack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The best business AI system is not one model.&lt;/p&gt;&#xA;&lt;p&gt;And it is not giving everyone a ChatGPT account and hoping productivity happens.&lt;/p&gt;&#xA;&lt;p&gt;A useful business AI system starts with the work the company needs done. It connects AI to the right business context and tools, gives it clear boundaries, and measures whether the work actually improved.&lt;/p&gt;&#xA;&lt;p&gt;That is true for a 20-person company and a global enterprise.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI Agents Need More Than a Semantic Layer</title>
+      <link>https://carney.wiki/blog/ai-agents-need-more-than-semantic-layer/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ai-agents-need-more-than-semantic-layer/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/goldfish.jpg&#34; alt=&#34;goldfish in an aquarium&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;A semantic layer is not an AI strategy.&lt;/p&gt;&#xA;&lt;p&gt;It is one important part of one.&lt;/p&gt;&#xA;&lt;p&gt;That distinction matters because a lot of companies are still treating AI like a smarter search box. They connect a model to documents, databases, dashboards, SaaS tools, or internal knowledge bases and expect useful work to fall out the other side.&lt;/p&gt;&#xA;&lt;p&gt;Sometimes it does.&lt;/p&gt;&#xA;&lt;p&gt;More often, the model gives a plausible answer, misses the business logic, forgets the prior context, or takes an action without understanding how the work is actually supposed to get done.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Win the AI Shortlist</title>
+      <link>https://carney.wiki/blog/ai-era-win-ai-shortlist/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ai-era-win-ai-shortlist/</guid>
+      <description>&lt;figure class=&#34;post-lead-image post-lead-image--portrait&#34;&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/win-the-ai-shortlist.jpg&#34;&#xA;    alt=&#34;Win the AI Shortlist&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;For a long time, B2B marketing treated discovery like a traffic problem.&lt;/p&gt;&#xA;&lt;p&gt;Rank for the right keywords. Publish enough content. Retarget the visitors. Argue about attribution in a meeting that should have been an email. Repeat until morale improves.&lt;/p&gt;&#xA;&lt;p&gt;That model is not dead, exactly.&lt;/p&gt;&#xA;&lt;p&gt;It is just no longer the whole game.&lt;/p&gt;&#xA;&lt;p&gt;Because more and more buyers do not start with a search engine and a stack of browser tabs. They start with a question and ask an AI assistant to answer it. The assistant does not just retrieve links. It summarizes, compares, filters, and recommends.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Verification Beats Persuasion</title>
+      <link>https://carney.wiki/blog/ai-era-verification-beats-persuasion/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ai-era-verification-beats-persuasion/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/verification-beats-persuasion.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Most B2B buyers do not buy the way your homepage wishes they did.&lt;/p&gt;&#xA;&lt;p&gt;They do not move politely from awareness to interest to demo to proposal like a nice clean funnel diagram someone made in a keynote ten years ago and refuses to let die.&lt;/p&gt;&#xA;&lt;p&gt;They move in loops.&lt;/p&gt;&#xA;&lt;p&gt;Someone gets excited. Someone else gets skeptical. A champion forms. Security appears. Finance asks for assumptions. Operations asks how this will actually work in the real world, which is usually where a lot of “frictionless” stories go to die.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SEO Is Not Dead. It Just Has Two New Roommates: AEO and GEO</title>
+      <link>https://carney.wiki/blog/seo-aeo-geo/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/seo-aeo-geo/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/roommates.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The SEO industry is facing new challenges.&lt;/p&gt;&#xA;&lt;p&gt;Story of my life.&lt;/p&gt;&#xA;&lt;p&gt;Some of the challenge is not new at all. Google has been pushing organic results farther down the page for years. First it was more ads. Then came featured snippets, People Also Ask, knowledge panels, maps, shopping modules, video carousels, and enough SERP furniture to make the traditional &amp;ldquo;10 blue links&amp;rdquo; feel like a historical artifact.&lt;/p&gt;&#xA;&lt;p&gt;Now we have AI Overviews.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Content Is Cheap. Credibility Is Not.</title>
+      <link>https://carney.wiki/blog/ai-era-content-cheap-credibility-not/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ai-era-content-cheap-credibility-not/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/content-is-cheap-credibility-is-not.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;AI made content cheap.&lt;/p&gt;&#xA;&lt;p&gt;That is not a hot take. That is just the weather now.&lt;/p&gt;&#xA;&lt;p&gt;A small team can generate blog posts, landing pages, nurture emails, ad variations, sales snippets, and enough “thought leadership” to make LinkedIn look like a machine accidentally discovered caffeine.&lt;/p&gt;&#xA;&lt;p&gt;That is the good news.&lt;/p&gt;&#xA;&lt;p&gt;The bad news is that when everyone can produce competent-sounding material, competent-sounding material stops being impressive.&lt;/p&gt;&#xA;&lt;p&gt;So the advantage moves.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Old Marketing Is Dead</title>
+      <link>https://carney.wiki/blog/ai-era-old-marketing-is-dead/</link>
+      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ai-era-old-marketing-is-dead/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/old-marketing-is-dead.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The world most B2B marketing playbooks were built for is gone.&lt;/p&gt;&#xA;&lt;p&gt;Not “changing.” Gone.&lt;/p&gt;&#xA;&lt;p&gt;For years, the formula was familiar. Publish enough content. Buy enough reach. Tune the funnel. Keep the machine fed. If the team worked hard enough and the dashboards looked healthy enough, growth was supposed to follow.&lt;/p&gt;&#xA;&lt;p&gt;And to be fair, sometimes it did.&lt;/p&gt;&#xA;&lt;p&gt;The constraints were mostly mechanical: time, budget, headcount, production capacity, and access to distribution. If you had a decent team, enough air cover, and a tolerance for webinars no one wanted to attend, you could make the system work.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI Is Coming for Your Job</title>
+      <link>https://carney.wiki/blog/ai-is-coming-for-your-job/</link>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ai-is-coming-for-your-job/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/luck.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;If there is any Luck of the Irish in this story, it is not that AI magically saves everyone. It is that we may finally have a good excuse to hand the machines the worst parts of work first. Let the bots chase status updates, wrestle stale spreadsheets, and babysit workflow nonsense. Humans can keep the parts that actually require judgment and a pulse.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;AI is coming for your job&amp;rdquo; is one of those phrases that spreads because it lands on something real.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How AI Clarifies and Fixes the Modern Data Stack</title>
+      <link>https://carney.wiki/blog/from-tool-sprawl-to-an-operational-data-platform/</link>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/from-tool-sprawl-to-an-operational-data-platform/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/sprawl.jpg&#34; alt=&#34;Operational data platform security&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The modern data stack is incredible.&lt;/p&gt;&#xA;&lt;p&gt;It is also exhausting.&lt;/p&gt;&#xA;&lt;p&gt;Cloud elasticity, open table formats, modular tooling, and managed services let small teams do work that used to require a data center and a small army. That is the good news.&lt;/p&gt;&#xA;&lt;p&gt;The bad news is that the same modularity created tool sprawl, half-finished pipelines, unclear ownership, and incident channels that never sleep.&lt;/p&gt;&#xA;&lt;p&gt;Now AI is walking into that environment and asking for access.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Custom-Backend Myth After AI</title>
+      <link>https://carney.wiki/blog/custom-backend-myth-after-ai/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/custom-backend-myth-after-ai/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/snowflake.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;the-custom-backend-myth-after-ai-why-most-websites-no-longer-need-bespoke-infrastructure&#34;&gt;The Custom-Backend Myth After AI: Why Most Websites No Longer Need Bespoke Infrastructure&lt;/h1&gt;&#xA;&lt;p&gt;For years, businesses were told that a serious website needed a custom backend to be flexible, scalable, and credible. That made sense when publishing online required heavy engineering effort and every meaningful change depended on developers. That is no longer true for most business websites.&lt;/p&gt;&#xA;&lt;p&gt;Today, AI can generate a working site in minutes. Modern deployment platforms can put that site into production almost immediately. And many business websites do not need a traditional backend or database at all. Vercel now describes itself as &amp;ldquo;the AI Cloud,&amp;rdquo; while Netlify explicitly positions itself around creating with AI or code and deploying instantly. Cloudflare, Netlify, and Vercel now belong in the same modern deployment conversation because all three make it possible to ship fast without managing traditional infrastructure.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Data Governance Isn&#39;t Dead. It&#39;s Becoming AI Readiness.</title>
+      <link>https://carney.wiki/blog/did-governance-just-die/</link>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/did-governance-just-die/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/crow.jpg&#34; alt=&#34;AI governance under pressure&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Data governance is not dead.&lt;/p&gt;&#xA;&lt;p&gt;Governance theater is.&lt;/p&gt;&#xA;&lt;p&gt;If you have ever sat through a data governance council where everyone agreed definitions matter and then immediately went back to shipping whatever, you know the problem.&lt;/p&gt;&#xA;&lt;p&gt;The meeting was not governance.&lt;/p&gt;&#xA;&lt;p&gt;It was a performance about governance.&lt;/p&gt;&#xA;&lt;p&gt;That used to be annoying. In the AI era, it becomes dangerous.&lt;/p&gt;&#xA;&lt;p&gt;Humans can often patch ambiguity with tribal knowledge. They know which dashboard is &amp;ldquo;really&amp;rdquo; used by finance, which field is stale, which Salesforce status is fiction, and which metric definition nobody says out loud.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Simplifying Data Modernization in the Age of AI Agents</title>
+      <link>https://carney.wiki/blog/data-modernization/</link>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/data-modernization/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/pipeline.jpg&#34; alt=&#34;Data modernization roadmap&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Modern data stacks were supposed to make things easier.&lt;/p&gt;&#xA;&lt;p&gt;Faster insights. More self-service. Better dashboards. Cleaner pipelines. Fewer heroic spreadsheet rescues.&lt;/p&gt;&#xA;&lt;p&gt;Instead, a lot of organizations ended up with complexity by default: more tools, more integration work, more handoffs, more cloud spend, and a growing gap between data work and real business outcomes.&lt;/p&gt;&#xA;&lt;p&gt;Now AI agents are being layered on top of that mess.&lt;/p&gt;&#xA;&lt;p&gt;That is not automatically bad. But it is risky if leaders treat AI like a shortcut around the fundamentals.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Your AI Agent Is a Toddler With Root Access</title>
+      <link>https://carney.wiki/blog/your-ai-agent-is-a-toddler-with-root-access/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/your-ai-agent-is-a-toddler-with-root-access/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/toddler.jpg&#34; alt=&#34;Your AI agent is a toddler with root access&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Agentic AI is no longer a demo.&lt;/p&gt;&#xA;&lt;p&gt;It calls APIs.&lt;/p&gt;&#xA;&lt;p&gt;It writes to databases.&lt;/p&gt;&#xA;&lt;p&gt;It triggers workflows that affect customers, revenue, and operations.&lt;/p&gt;&#xA;&lt;p&gt;That is powerful.&lt;/p&gt;&#xA;&lt;p&gt;It is also a fundamental shift in risk.&lt;/p&gt;&#xA;&lt;p&gt;Once an AI system moves from advisory to execution, it becomes part of the control plane. Whether the organization admits that or not is mostly irrelevant. The risk already changed.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prompt Injection Has Left the Chatbot</title>
+      <link>https://carney.wiki/blog/prompt-injection-has-left-the-chatbot/</link>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/prompt-injection-has-left-the-chatbot/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/servicenow.jpg&#34; alt=&#34;Prompt injection and AI agent risk&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Prompt injection did not suddenly become dangerous.&lt;/p&gt;&#xA;&lt;p&gt;We connected it to systems that matter.&lt;/p&gt;&#xA;&lt;p&gt;For years, prompt injection was treated as a curiosity: a way to make a chatbot ignore rules, leak instructions, or say something awkward. Interesting for demos. Annoying in production. Easy to dismiss as a model behavior problem.&lt;/p&gt;&#xA;&lt;p&gt;That framing is obsolete.&lt;/p&gt;&#xA;&lt;p&gt;The recent reporting around ServiceNow AI agent vulnerabilities should make the shift clear. This is not just about a model getting confused. It is about natural-language systems being embedded into trusted enterprise workflows without a new security model around them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI Risk Is a Business Risk, Not Just a Technical One</title>
+      <link>https://carney.wiki/blog/ai-risk-is-a-business-risk-not-just-a-technical-one/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ai-risk-is-a-business-risk-not-just-a-technical-one/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/risk.jpg&#34; alt=&#34;AI risk and business governance&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;AI risk is business risk.&lt;/p&gt;&#xA;&lt;p&gt;That sounds obvious until you look at how most companies still manage it.&lt;/p&gt;&#xA;&lt;p&gt;Too often, AI risk gets pushed into the technical corner. The security team worries about exposure. The data team worries about model performance. Legal gets pulled in late. The board gets a sanitized update after the pilot has already become operational.&lt;/p&gt;&#xA;&lt;p&gt;That is backwards.&lt;/p&gt;&#xA;&lt;p&gt;If an AI system influences customers, employees, financial outcomes, operational decisions, or regulated processes, the risk is not contained inside the model. It lives in the business process around the model.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stop doing dumb marketing</title>
+      <link>https://carney.wiki/blog/2026dumbmarketing/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/2026dumbmarketing/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/newyearresolution.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;If you’re still running your 2023 marketing playbook in 2026—celebrating content volume, bragging about impressions, and pointing at a funnel diagram like it’s a historical artifact—you’re not behind. You’re just asleep.&lt;/p&gt;&#xA;&lt;p&gt;Your buyers moved on.&#xA;Your tech stack learned how to think.&#xA;And AI is doing parts of your job now—just not the parts you should’ve been doing in the first place.&lt;/p&gt;&#xA;&lt;p&gt;This isn’t an article.&#xA;This is your intervention.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The CISO&#39;s Guide to Governing Generative AI</title>
+      <link>https://carney.wiki/blog/the-cisos-guide-to-governing-generative-ai/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/the-cisos-guide-to-governing-generative-ai/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/mission.jpg&#34; alt=&#34;Generative AI governance for security leaders&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Generative AI is now part of the enterprise control surface.&lt;/p&gt;&#xA;&lt;p&gt;That is the CISO&amp;rsquo;s problem, whether the CISO asked for it or not.&lt;/p&gt;&#xA;&lt;p&gt;Employees are using AI tools. Vendors are embedding AI features. Engineering teams are experimenting with model APIs. Business teams are building copilots. Data teams are connecting retrieval systems to internal knowledge.&lt;/p&gt;&#xA;&lt;p&gt;Some of this is useful.&lt;/p&gt;&#xA;&lt;p&gt;Some of it is risky.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building AI Guardrails Without Killing Innovation</title>
+      <link>https://carney.wiki/blog/building-ai-guardrails-without-killing-innovation/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/building-ai-guardrails-without-killing-innovation/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/guardrail.jpg&#34; alt=&#34;AI guardrails&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;AI governance should not be a moat around innovation.&lt;/p&gt;&#xA;&lt;p&gt;It should be the road.&lt;/p&gt;&#xA;&lt;p&gt;That distinction matters because a lot of companies are about to overcorrect. They see real AI risk, then respond with broad restrictions, vague policies, and approval processes that make practical teams route around the system.&lt;/p&gt;&#xA;&lt;p&gt;That does not create safety.&lt;/p&gt;&#xA;&lt;p&gt;It creates shadow AI.&lt;/p&gt;&#xA;&lt;p&gt;The better path is guardrails, not gates. Give teams enough structure to move quickly inside known boundaries, and reserve heavier review for use cases that can materially affect customers, employees, money, safety, compliance, or trust.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How Prompt Injection Attacks Actually Work</title>
+      <link>https://carney.wiki/blog/how-prompt-injection-attacks-actually-work/</link>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/how-prompt-injection-attacks-actually-work/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/injection.jpg&#34; alt=&#34;Prompt injection and AI security&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Prompt injection is not a clever chatbot trick anymore.&lt;/p&gt;&#xA;&lt;p&gt;It is one of the core security problems in AI systems.&lt;/p&gt;&#xA;&lt;p&gt;The reason is uncomfortable: large language models do not reliably separate instructions from data. They interpret text. That text may come from a user, a document, a webpage, a support ticket, an email, a retrieved knowledge base article, or another AI system.&lt;/p&gt;&#xA;&lt;p&gt;To a human, some of that text is obviously content.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why AI, Trust, and Buying Networks Demand a New GTM Playbook</title>
+      <link>https://carney.wiki/blog/ai-gtm-playbook/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ai-gtm-playbook/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/network.gif&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The rules of B2B buying are being rewritten. Not incrementally — structurally. Buyers have never moved through a linear tidy funnel owned by sales and marketing; they navigate a &lt;strong&gt;buying network&lt;/strong&gt; made up of internal stakeholders, external influencers, independent research, and increasingly, AI agents that summarize, shortlist, and recommend on their behalf.&lt;/p&gt;&#xA;&lt;p&gt;If your go-to-market (GTM) playbook still targets a single buyer persona or relies on volume outreach, you’re invisible in the very places buyers now start their journeys.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What Boards Need to Know About AI Risk</title>
+      <link>https://carney.wiki/blog/what-boards-need-to-know-about-ai-risk/</link>
+      <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/what-boards-need-to-know-about-ai-risk/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/enterprise.jpg&#34; alt=&#34;Board-level AI governance&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Boards do not need to understand every AI model.&lt;/p&gt;&#xA;&lt;p&gt;They do need to understand where AI creates business risk.&lt;/p&gt;&#xA;&lt;p&gt;That is the important distinction.&lt;/p&gt;&#xA;&lt;p&gt;AI is moving into customer interactions, employee workflows, software development, analytics, content production, fraud detection, security operations, and decision support. Some systems are low risk. Some can materially affect customers, employees, revenue, compliance, or reputation.&lt;/p&gt;&#xA;&lt;p&gt;Board oversight should focus on the second group.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reinventing Growth for the AI Era - Part 2</title>
+      <link>https://carney.wiki/blog/aitrust/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/aitrust/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/leaves2.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;In an era where B2B buying is increasingly complex, distributed, and AI-assisted, one constant remains: trust is the currency of growth. No longer a “soft” brand attribute, trust now directly accelerates sales velocity and conversion. As Forrester’s Buying Networks: Your Buyers’ New Reality (2025) report highlights, trusted providers gain “shortcuts to consideration,” enabling faster movement through decision cycles and broader endorsement within buyer ecosystems.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-new-reality-buying-networks-not-buying-groups&#34;&gt;The New Reality: Buying Networks, Not Buying Groups&lt;/h2&gt;&#xA;&lt;p&gt;Forrester’s latest research signals a major shift in how organizations purchase technology. What began as a move from individual leads to “buying groups” has evolved into the buying network — a broader ecosystem that includes internal teams, external influencers, analysts, partners, customers, and increasingly, AI agents.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why Most AI Security Failures Start With Data</title>
+      <link>https://carney.wiki/blog/why-most-ai-security-failures-start-with-data/</link>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/why-most-ai-security-failures-start-with-data/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/data.jpg&#34; alt=&#34;AI security starts with governed data&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Most AI security failures do not start with the model.&lt;/p&gt;&#xA;&lt;p&gt;They start with the data.&lt;/p&gt;&#xA;&lt;p&gt;That is not as exciting as a story about a rogue algorithm or a clever jailbreak, but it is usually closer to the truth.&lt;/p&gt;&#xA;&lt;p&gt;If the data feeding an AI system is unclassified, unverified, poorly governed, over-permissioned, or impossible to trace, the model inherits the problem. Then it scales it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reinventing Growth for the AI Era</title>
+      <link>https://carney.wiki/blog/growthai/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/growthai/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/leaves.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;A new pattern is emerging: the teams winning in AI are not the ones copying the old SaaS playbook with fresher branding. They are the ones figuring out where influence, credibility, and trust actually live, then building around that reality instead of around habit.&lt;/p&gt;&#xA;&lt;p&gt;The next generation of marketing leaders in AI will look less like spreadsheet custodians and more like experimenters, operators, and network-builders. They will diagnose first, invent second, and leave a lot of tired template marketing where it belongs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vibe Coding 2</title>
+      <link>https://carney.wiki/blog/vibe2/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/vibe2/</guid>
+      <description>&lt;h1 id=&#34;vibe-coding-still-learning-still-vibing&#34;&gt;Vibe Coding: Still Learning, Still Vibing&lt;/h1&gt;&#xA;&lt;p&gt;When I first wrote about vibe coding, I saw it as a fresh, almost playful way of thinking about development—coding less like grinding through syntax and more like shaping an idea in conversation with an AI. Since then, I’ve gone deeper: I’ve tried &lt;strong&gt;Replit, Cursor, and now Kilo inside Visual Studio with Copilot and Claude&lt;/strong&gt;. Along the way, I’ve burned down and rebuilt multiple instances, hit roadblocks with authentication, ripped out Clerk when database connections got messy, and wrangled with Docker, Digital Ocean, Spaces, and Stripe.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vibe Coding</title>
+      <link>https://carney.wiki/blog/vibe-coding/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/vibe-coding/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/good-news.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;vibe-coding-is-coming--and-i-might-have-just-tried-it&#34;&gt;Vibe Coding Is Coming — And I Might Have Just Tried It&lt;/h1&gt;&#xA;&lt;p&gt;There’s a new term I’ve been hearing more and more lately: &lt;strong&gt;Vibe Coding&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s not an official methodology or some new framework (yet), but rather a &lt;em&gt;feeling&lt;/em&gt;—a zone developers enter where everything just clicks. You’re moving fast, building with intuition, and the tools aren’t fighting you—they’re helping. It’s creative momentum at full speed, and I think I may have just experienced it for the first time.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Digital Marketing ROI</title>
+      <link>https://carney.wiki/blog/roi-stats-marketful/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/roi-stats-marketful/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/balance.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;the-future-of-digital-marketing-lies-in-merging-creativity-with-data-driven-strategies-to-unlock-unparalleled-value&#34;&gt;The future of digital marketing lies in merging creativity with data-driven strategies to unlock unparalleled value.&lt;/h1&gt;&#xA;&lt;p&gt;Digital marketing was never just a trend; it’s the cornerstone of business growth in the modern age. As highlighted in the &lt;a href=&#34;https://marketful.com/blog/digital-marketing-roi-statistics/&#34;&gt;Marketful blog on Digital Marketing ROI&lt;/a&gt;, companies investing in well-rounded strategies are reaping significant rewards. However, understanding and maximizing &lt;strong&gt;ROI (Return on Investment)&lt;/strong&gt; remains critical for marketers to justify their budgets and enhance their campaigns.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Livestreaming and Video&#39;s with AI</title>
+      <link>https://carney.wiki/blog/video/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/video/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/video.jpeg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Video is no longer the side dish in the marketing plan. For a lot of brands, it &lt;em&gt;is&lt;/em&gt; the plan. Livestreaming, streaming platforms, short-form content, and AI-assisted production have all made video harder to ignore and easier to produce. That is great news if you have a strategy. It is less great if your current plan is &amp;ldquo;let&amp;rsquo;s upload the webinar replay and pray.&amp;rdquo;&lt;/p&gt;&#xA;&lt;h2 id=&#34;looking-to-livestreaming&#34;&gt;Looking to Livestreaming&lt;/h2&gt;&#xA;&lt;p&gt;Livestreaming has become a serious commercial channel in markets like China, where entertainment and commerce are far less awkward about sharing the same room. The format works because it is interactive, immediate, and built for attention rather than polite indifference.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI in Marketing</title>
+      <link>https://carney.wiki/blog/ai-in-marketing/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ai-in-marketing/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/ai.jpeg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Marketing is undergoing a seismic shift, driven by the rapid evolution of artificial intelligence (AI). From predictive analytics to lifelike (scary) automation, AI tools are revolutionizing how businesses engage with audiences, streamline workflows, and achieve measurable results.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-ai-in-marketing&#34;&gt;What is AI in Marketing?&lt;/h2&gt;&#xA;&lt;p&gt;AI in marketing involves using artificial intelligence to optimize strategies through automation, data analysis, and personalized customer experiences. By leveraging machine learning, natural language processing, and predictive insights, marketers can improve efficiency, increase ROI, and craft meaningful connections with their audience.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rethinking chat - A better approach?</title>
+      <link>https://carney.wiki/blog/chat/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/chat/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/chat.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;the-evolution-of-communication-from-phone-calls-to-text&#34;&gt;The Evolution of Communication: From Phone Calls to Text&lt;/h1&gt;&#xA;&lt;p&gt;Most people do not want to be ambushed by a phone call anymore. They want to text, message, skim, ask a question, disappear for a while, and come back when it suits them. That is not a generational flaw. It is just how modern communication works.&lt;/p&gt;&#xA;&lt;p&gt;That shift matters for marketing and support. If your website still acts like every visitor wants a scheduled demo and a cheerful sales ambush, you are solving yesterday&amp;rsquo;s problem. People increasingly want low-friction, text-based help on their terms. The good news is that modern chat can do far more than sit in the corner waiting to answer billing questions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Marketing Trends for 2024</title>
+      <link>https://carney.wiki/blog/trends/</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/trends/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/newyear.png&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s been a month into 2024, and marketers are once again at the forefront of a technological revolution, where the strategic use of data is fundamental in sculpting experiences and steering business strategies. For marketers, the journey toward leveraging these trends is paved with strategic considerations. By integrating these strategies, companies can cultivate a resilient, authentic brand presence that resonates deeply with contemporary consumers. This approach positions organizations to thrive in the dynamic digital economy and aligns with evolving consumer values, ensuring sustained relevance and success in the marketing domain. As the landscape shifts, the essence of adaptability, authenticity, and consumer alignment becomes increasingly pronounced in shaping impactful and enduring marketing strategies. Below are some interesting trends and methodologies essential for harnessing the power of these developments:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Just Enough Automation in Marketing</title>
+      <link>https://carney.wiki/blog/balance/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/balance/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/balance.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;In the world of marketing, automation has emerged as a game-changer. It streamlines processes, increases efficiency, and helps reach prospects at the right time. However, like any tool, automation can be a double-edged sword. Use it judiciously, and it can enhance your marketing efforts; overdo it, and it may harm your relationship with prospects. Let&amp;rsquo;s explore the delicate balance between &amp;ldquo;just enough&amp;rdquo; automation and the perils of &amp;ldquo;too much&amp;rdquo; from a marketing perspective, with a cautionary tale of websites using people&amp;rsquo;s names excessively.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

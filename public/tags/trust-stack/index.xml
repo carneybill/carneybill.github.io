@@ -1,5 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Trust Stack on carney.wiki</title><link>https://carney.wiki/tags/trust-stack/</link><description>Recent content in Trust Stack on carney.wiki</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 17 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/trust-stack/index.xml" rel="self" type="application/rss+xml"/><item><title>I Asked AI to Tear Apart My Book. It Found Something I Missed.</title><link>https://carney.wiki/blog/ai-critic-found-proof-ops/</link><pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-critic-found-proof-ops/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/ai-critic-proof-ops.png" alt="An open book revealing a brass operating mechanism under the light of a laptop"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://seths.blog/2026/08/consider-the-ai-tear-down/"&gt;Seth Godin recently wrote&lt;/a&gt; about an interesting use of AI: find a safe critic.&lt;/p&gt;
-&lt;p&gt;Take something you’ve created—a book, an essay, a business plan, a resume—and ask an AI to attack it from a particular point of view. Ask for the one-star Amazon review. The disappointed CEO. The skeptical venture capitalist. The recruiter who doesn&amp;rsquo;t know what to do with you.&lt;/p&gt;</description></item><item><title>Your Company Already Tried to Build a Second Brain. It Was Called SharePoint.</title><link>https://carney.wiki/blog/second-brain-knowledge-spine-not-file-store/</link><pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/second-brain-knowledge-spine-not-file-store/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/second-brain-obsidian-knowledge-graph.png" alt="An obsidian-glass brain formed from connected knowledge nodes, with links to documents, guardrails, decisions, and workflows"&gt;&lt;/p&gt;
-&lt;p&gt;When I was a CEO, my friend Tareef introduced me to Obsidian as a better way to stay organized. He described it as a “Second Brain.” That is where I started.&lt;/p&gt;
-&lt;p&gt;I understood the appeal right away. A CEO has to keep track of people, projects, customer commitments, operating decisions, risks, and ideas that rarely live in one system. In Obsidian, my notes did not have to sit in separate folders. They could link to one another, and the graph made those relationships visible. I could follow an idea without having to remember where I filed it.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trust Stack on carney.wiki</title>
+    <link>https://carney.wiki/tags/trust-stack/</link>
+    <description>Recent content in Trust Stack on carney.wiki</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carney.wiki/tags/trust-stack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Audited My Own Website. It Scored 24 Out of 50.</title>
+      <link>https://carney.wiki/blog/i-audited-my-own-website-24-out-of-50/</link>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/i-audited-my-own-website-24-out-of-50/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/trustproof.jpg&#34; alt=&#34;Interconnected gold blocks representing a chain of evidence&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;My website scored 24 out of 50.&lt;/p&gt;&#xA;&lt;p&gt;That is a bad score. It is also exactly the kind of result people find easier to explain away than fix.&lt;/p&gt;&#xA;&lt;p&gt;I had explanations. The site had grown over years. Hugo generated much of the metadata. Older pages followed older patterns. The first crawl stopped before it reached the whole sitemap.&lt;/p&gt;&#xA;&lt;p&gt;All true. None of it made the site better.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I Asked AI to Tear Apart My Book. It Found Something I Missed.</title>
+      <link>https://carney.wiki/blog/ai-critic-found-proof-ops/</link>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ai-critic-found-proof-ops/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/ai-critic-proof-ops.png&#34; alt=&#34;An open book revealing a brass operating mechanism under the light of a laptop&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://seths.blog/2026/08/consider-the-ai-tear-down/&#34;&gt;Seth Godin recently wrote&lt;/a&gt; about an interesting use of AI: find a safe critic.&lt;/p&gt;&#xA;&lt;p&gt;Take something you’ve created—a book, an essay, a business plan, a resume—and ask an AI to attack it from a particular point of view. Ask for the one-star Amazon review. The disappointed CEO. The skeptical venture capitalist. The recruiter who doesn&amp;rsquo;t know what to do with you.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Your Company Already Tried to Build a Second Brain. It Was Called SharePoint.</title>
+      <link>https://carney.wiki/blog/second-brain-knowledge-spine-not-file-store/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/second-brain-knowledge-spine-not-file-store/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/second-brain-obsidian-knowledge-graph.png&#34; alt=&#34;An obsidian-glass brain formed from connected knowledge nodes, with links to documents, guardrails, decisions, and workflows&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;When I was a CEO, my friend Tareef introduced me to Obsidian as a better way to stay organized. He described it as a “Second Brain.” That is where I started.&lt;/p&gt;&#xA;&lt;p&gt;I understood the appeal right away. A CEO has to keep track of people, projects, customer commitments, operating decisions, risks, and ideas that rarely live in one system. In Obsidian, my notes did not have to sit in separate folders. They could link to one another, and the graph made those relationships visible. I could follow an idea without having to remember where I filed it.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

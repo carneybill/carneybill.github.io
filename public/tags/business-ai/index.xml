@@ -1,5 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Business AI on carney.wiki</title><link>https://carney.wiki/tags/business-ai/</link><description>Recent content in Business AI on carney.wiki</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/business-ai/index.xml" rel="self" type="application/rss+xml"/><item><title>The Best Business AI System Is Not ChatGPT</title><link>https://carney.wiki/blog/the-best-business-ai-system-is-not-chatgpt/</link><pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/the-best-business-ai-system-is-not-chatgpt/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/stacks.png" alt="A practical technology stack"&gt;&lt;/p&gt;
-&lt;p&gt;The best business AI system is not one model.&lt;/p&gt;
-&lt;p&gt;And it is not giving everyone a ChatGPT account and hoping productivity happens.&lt;/p&gt;
-&lt;p&gt;A useful business AI system starts with the work the company needs done. It connects AI to the right business context and tools, gives it clear boundaries, and measures whether the work actually improved.&lt;/p&gt;
-&lt;p&gt;That is true for a 20-person company and a global enterprise.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business AI on carney.wiki</title>
+    <link>https://carney.wiki/tags/business-ai/</link>
+    <description>Recent content in Business AI on carney.wiki</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carney.wiki/tags/business-ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Best Business AI System Is Not ChatGPT</title>
+      <link>https://carney.wiki/blog/the-best-business-ai-system-is-not-chatgpt/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/the-best-business-ai-system-is-not-chatgpt/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/stacks.png&#34; alt=&#34;A practical technology stack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The best business AI system is not one model.&lt;/p&gt;&#xA;&lt;p&gt;And it is not giving everyone a ChatGPT account and hoping productivity happens.&lt;/p&gt;&#xA;&lt;p&gt;A useful business AI system starts with the work the company needs done. It connects AI to the right business context and tools, gives it clear boundaries, and measures whether the work actually improved.&lt;/p&gt;&#xA;&lt;p&gt;That is true for a 20-person company and a global enterprise.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

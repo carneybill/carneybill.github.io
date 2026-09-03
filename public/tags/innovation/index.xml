@@ -1,7 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Innovation on carney.wiki</title><link>https://carney.wiki/tags/innovation/</link><description>Recent content in Innovation on carney.wiki</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/innovation/index.xml" rel="self" type="application/rss+xml"/><item><title>Building AI Guardrails Without Killing Innovation</title><link>https://carney.wiki/blog/building-ai-guardrails-without-killing-innovation/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/building-ai-guardrails-without-killing-innovation/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/guardrail.jpg" alt="AI guardrails"&gt;&lt;/p&gt;
-&lt;p&gt;AI governance should not be a moat around innovation.&lt;/p&gt;
-&lt;p&gt;It should be the road.&lt;/p&gt;
-&lt;p&gt;That distinction matters because a lot of companies are about to overcorrect. They see real AI risk, then respond with broad restrictions, vague policies, and approval processes that make practical teams route around the system.&lt;/p&gt;
-&lt;p&gt;That does not create safety.&lt;/p&gt;
-&lt;p&gt;It creates shadow AI.&lt;/p&gt;
-&lt;p&gt;The better path is guardrails, not gates. Give teams enough structure to move quickly inside known boundaries, and reserve heavier review for use cases that can materially affect customers, employees, money, safety, compliance, or trust.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Innovation on carney.wiki</title>
+    <link>https://carney.wiki/tags/innovation/</link>
+    <description>Recent content in Innovation on carney.wiki</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carney.wiki/tags/innovation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building AI Guardrails Without Killing Innovation</title>
+      <link>https://carney.wiki/blog/building-ai-guardrails-without-killing-innovation/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/building-ai-guardrails-without-killing-innovation/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/guardrail.jpg&#34; alt=&#34;AI guardrails&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;AI governance should not be a moat around innovation.&lt;/p&gt;&#xA;&lt;p&gt;It should be the road.&lt;/p&gt;&#xA;&lt;p&gt;That distinction matters because a lot of companies are about to overcorrect. They see real AI risk, then respond with broad restrictions, vague policies, and approval processes that make practical teams route around the system.&lt;/p&gt;&#xA;&lt;p&gt;That does not create safety.&lt;/p&gt;&#xA;&lt;p&gt;It creates shadow AI.&lt;/p&gt;&#xA;&lt;p&gt;The better path is guardrails, not gates. Give teams enough structure to move quickly inside known boundaries, and reserve heavier review for use cases that can materially affect customers, employees, money, safety, compliance, or trust.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

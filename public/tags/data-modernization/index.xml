@@ -1,6 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Modernization on carney.wiki</title><link>https://carney.wiki/tags/data-modernization/</link><description>Recent content in Data Modernization on carney.wiki</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/data-modernization/index.xml" rel="self" type="application/rss+xml"/><item><title>Simplifying Data Modernization in the Age of AI Agents</title><link>https://carney.wiki/blog/data-modernization/</link><pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/data-modernization/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/pipeline.jpg" alt="Data modernization roadmap"&gt;&lt;/p&gt;
-&lt;p&gt;Modern data stacks were supposed to make things easier.&lt;/p&gt;
-&lt;p&gt;Faster insights. More self-service. Better dashboards. Cleaner pipelines. Fewer heroic spreadsheet rescues.&lt;/p&gt;
-&lt;p&gt;Instead, a lot of organizations ended up with complexity by default: more tools, more integration work, more handoffs, more cloud spend, and a growing gap between data work and real business outcomes.&lt;/p&gt;
-&lt;p&gt;Now AI agents are being layered on top of that mess.&lt;/p&gt;
-&lt;p&gt;That is not automatically bad. But it is risky if leaders treat AI like a shortcut around the fundamentals.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Modernization on carney.wiki</title>
+    <link>https://carney.wiki/tags/data-modernization/</link>
+    <description>Recent content in Data Modernization on carney.wiki</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carney.wiki/tags/data-modernization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simplifying Data Modernization in the Age of AI Agents</title>
+      <link>https://carney.wiki/blog/data-modernization/</link>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/data-modernization/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/pipeline.jpg&#34; alt=&#34;Data modernization roadmap&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Modern data stacks were supposed to make things easier.&lt;/p&gt;&#xA;&lt;p&gt;Faster insights. More self-service. Better dashboards. Cleaner pipelines. Fewer heroic spreadsheet rescues.&lt;/p&gt;&#xA;&lt;p&gt;Instead, a lot of organizations ended up with complexity by default: more tools, more integration work, more handoffs, more cloud spend, and a growing gap between data work and real business outcomes.&lt;/p&gt;&#xA;&lt;p&gt;Now AI agents are being layered on top of that mess.&lt;/p&gt;&#xA;&lt;p&gt;That is not automatically bad. But it is risky if leaders treat AI like a shortcut around the fundamentals.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

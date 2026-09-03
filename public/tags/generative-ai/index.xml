@@ -1,9 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Generative AI on carney.wiki</title><link>https://carney.wiki/tags/generative-ai/</link><description>Recent content in Generative AI on carney.wiki</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/generative-ai/index.xml" rel="self" type="application/rss+xml"/><item><title>The CISO's Guide to Governing Generative AI</title><link>https://carney.wiki/blog/the-cisos-guide-to-governing-generative-ai/</link><pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/the-cisos-guide-to-governing-generative-ai/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/mission.jpg" alt="Generative AI governance for security leaders"&gt;&lt;/p&gt;
-&lt;p&gt;Generative AI is now part of the enterprise control surface.&lt;/p&gt;
-&lt;p&gt;That is the CISO&amp;rsquo;s problem, whether the CISO asked for it or not.&lt;/p&gt;
-&lt;p&gt;Employees are using AI tools. Vendors are embedding AI features. Engineering teams are experimenting with model APIs. Business teams are building copilots. Data teams are connecting retrieval systems to internal knowledge.&lt;/p&gt;
-&lt;p&gt;Some of this is useful.&lt;/p&gt;
-&lt;p&gt;Some of it is risky.&lt;/p&gt;</description></item><item><title>Rethinking chat - A better approach?</title><link>https://carney.wiki/blog/chat/</link><pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/chat/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/chat.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;h1 id="the-evolution-of-communication-from-phone-calls-to-text"&gt;The Evolution of Communication: From Phone Calls to Text&lt;/h1&gt;
-&lt;p&gt;Most people do not want to be ambushed by a phone call anymore. They want to text, message, skim, ask a question, disappear for a while, and come back when it suits them. That is not a generational flaw. It is just how modern communication works.&lt;/p&gt;
-&lt;p&gt;That shift matters for marketing and support. If your website still acts like every visitor wants a scheduled demo and a cheerful sales ambush, you are solving yesterday&amp;rsquo;s problem. People increasingly want low-friction, text-based help on their terms. The good news is that modern chat can do far more than sit in the corner waiting to answer billing questions.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Generative AI on carney.wiki</title>
+    <link>https://carney.wiki/tags/generative-ai/</link>
+    <description>Recent content in Generative AI on carney.wiki</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carney.wiki/tags/generative-ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The CISO&#39;s Guide to Governing Generative AI</title>
+      <link>https://carney.wiki/blog/the-cisos-guide-to-governing-generative-ai/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/the-cisos-guide-to-governing-generative-ai/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/mission.jpg&#34; alt=&#34;Generative AI governance for security leaders&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Generative AI is now part of the enterprise control surface.&lt;/p&gt;&#xA;&lt;p&gt;That is the CISO&amp;rsquo;s problem, whether the CISO asked for it or not.&lt;/p&gt;&#xA;&lt;p&gt;Employees are using AI tools. Vendors are embedding AI features. Engineering teams are experimenting with model APIs. Business teams are building copilots. Data teams are connecting retrieval systems to internal knowledge.&lt;/p&gt;&#xA;&lt;p&gt;Some of this is useful.&lt;/p&gt;&#xA;&lt;p&gt;Some of it is risky.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rethinking chat - A better approach?</title>
+      <link>https://carney.wiki/blog/chat/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/chat/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/chat.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;the-evolution-of-communication-from-phone-calls-to-text&#34;&gt;The Evolution of Communication: From Phone Calls to Text&lt;/h1&gt;&#xA;&lt;p&gt;Most people do not want to be ambushed by a phone call anymore. They want to text, message, skim, ask a question, disappear for a while, and come back when it suits them. That is not a generational flaw. It is just how modern communication works.&lt;/p&gt;&#xA;&lt;p&gt;That shift matters for marketing and support. If your website still acts like every visitor wants a scheduled demo and a cheerful sales ambush, you are solving yesterday&amp;rsquo;s problem. People increasingly want low-friction, text-based help on their terms. The good news is that modern chat can do far more than sit in the corner waiting to answer billing questions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Verifications on carney.wiki</title>
+    <link>https://carney.wiki/verification/</link>
+    <description>Recent content in Verifications on carney.wiki</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Sep 2026 00:00:00 -0400</lastBuildDate>
+    <atom:link href="https://carney.wiki/verification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Carney.wiki Verification Report</title>
+      <link>https://carney.wiki/verification/carney-wiki/</link>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 -0400</pubDate>
+      <guid>https://carney.wiki/verification/carney-wiki/</guid>
+      <description>&lt;section class=&#34;offer-hero offer-hero--detail&#34;&gt;&#xA;  &lt;p class=&#34;offer-kicker&#34;&gt;Public verification example&lt;/p&gt;&#xA;  &lt;h1&gt;The audit found the gap. The site now shows the repair.&lt;/h1&gt;&#xA;  &lt;p class=&#34;offer-lede&#34;&gt;Carney.wiki is the first public before-and-after example for VerifyHub. The point is not a flattering score. It is a traceable record of what the crawler found, what changed in the source, and what the same rules measured afterward.&lt;/p&gt;&#xA;  &lt;div class=&#34;offer-cta-row&#34;&gt;&#xA;    &lt;a class=&#34;offer-button&#34; href=&#34;https://carney.wiki/verification/carney-wiki/after/&#34;&gt;Open the after report&lt;/a&gt;&#xA;    &lt;a class=&#34;offer-secondary&#34; href=&#34;https://carney.wiki/verification/carney-wiki/before/&#34;&gt;Open the baseline report&lt;/a&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;section class=&#34;verification-comparison&#34; aria-label=&#34;Before and after VerifyHub reports&#34;&gt;&#xA;  &lt;article class=&#34;verification-report-panel&#34;&gt;&#xA;    &lt;header&gt;&#xA;      &lt;div&gt;&#xA;        &lt;p class=&#34;offer-eyebrow&#34;&gt;Before&lt;/p&gt;&#xA;        &lt;h2&gt;24 / 50 measured points&lt;/h2&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;https://carney.wiki/verification/carney-wiki/before/&#34;&gt;Open full report&lt;/a&gt;&#xA;    &lt;/header&gt;&#xA;    &lt;iframe src=&#34;https://carney.wiki/verification/carney-wiki/before/&#34; title=&#34;Carney.wiki baseline VerifyHub report, scoring 24 out of 50&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&#xA;  &lt;/article&gt;&#xA;  &lt;article class=&#34;verification-report-panel&#34;&gt;&#xA;    &lt;header&gt;&#xA;      &lt;div&gt;&#xA;        &lt;p class=&#34;offer-eyebrow&#34;&gt;After&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,10 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Prompt Injection on carney.wiki</title><link>https://carney.wiki/tags/prompt-injection/</link><description>Recent content in Prompt Injection on carney.wiki</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 05 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/prompt-injection/index.xml" rel="self" type="application/rss+xml"/><item><title>Prompt Injection Has Left the Chatbot</title><link>https://carney.wiki/blog/prompt-injection-has-left-the-chatbot/</link><pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/prompt-injection-has-left-the-chatbot/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/servicenow.jpg" alt="Prompt injection and AI agent risk"&gt;&lt;/p&gt;
-&lt;p&gt;Prompt injection did not suddenly become dangerous.&lt;/p&gt;
-&lt;p&gt;We connected it to systems that matter.&lt;/p&gt;
-&lt;p&gt;For years, prompt injection was treated as a curiosity: a way to make a chatbot ignore rules, leak instructions, or say something awkward. Interesting for demos. Annoying in production. Easy to dismiss as a model behavior problem.&lt;/p&gt;
-&lt;p&gt;That framing is obsolete.&lt;/p&gt;
-&lt;p&gt;The recent reporting around ServiceNow AI agent vulnerabilities should make the shift clear. This is not just about a model getting confused. It is about natural-language systems being embedded into trusted enterprise workflows without a new security model around them.&lt;/p&gt;</description></item><item><title>How Prompt Injection Attacks Actually Work</title><link>https://carney.wiki/blog/how-prompt-injection-attacks-actually-work/</link><pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/how-prompt-injection-attacks-actually-work/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/injection.jpg" alt="Prompt injection and AI security"&gt;&lt;/p&gt;
-&lt;p&gt;Prompt injection is not a clever chatbot trick anymore.&lt;/p&gt;
-&lt;p&gt;It is one of the core security problems in AI systems.&lt;/p&gt;
-&lt;p&gt;The reason is uncomfortable: large language models do not reliably separate instructions from data. They interpret text. That text may come from a user, a document, a webpage, a support ticket, an email, a retrieved knowledge base article, or another AI system.&lt;/p&gt;
-&lt;p&gt;To a human, some of that text is obviously content.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prompt Injection on carney.wiki</title>
+    <link>https://carney.wiki/tags/prompt-injection/</link>
+    <description>Recent content in Prompt Injection on carney.wiki</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carney.wiki/tags/prompt-injection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prompt Injection Has Left the Chatbot</title>
+      <link>https://carney.wiki/blog/prompt-injection-has-left-the-chatbot/</link>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/prompt-injection-has-left-the-chatbot/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/servicenow.jpg&#34; alt=&#34;Prompt injection and AI agent risk&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Prompt injection did not suddenly become dangerous.&lt;/p&gt;&#xA;&lt;p&gt;We connected it to systems that matter.&lt;/p&gt;&#xA;&lt;p&gt;For years, prompt injection was treated as a curiosity: a way to make a chatbot ignore rules, leak instructions, or say something awkward. Interesting for demos. Annoying in production. Easy to dismiss as a model behavior problem.&lt;/p&gt;&#xA;&lt;p&gt;That framing is obsolete.&lt;/p&gt;&#xA;&lt;p&gt;The recent reporting around ServiceNow AI agent vulnerabilities should make the shift clear. This is not just about a model getting confused. It is about natural-language systems being embedded into trusted enterprise workflows without a new security model around them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How Prompt Injection Attacks Actually Work</title>
+      <link>https://carney.wiki/blog/how-prompt-injection-attacks-actually-work/</link>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/how-prompt-injection-attacks-actually-work/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/injection.jpg&#34; alt=&#34;Prompt injection and AI security&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Prompt injection is not a clever chatbot trick anymore.&lt;/p&gt;&#xA;&lt;p&gt;It is one of the core security problems in AI systems.&lt;/p&gt;&#xA;&lt;p&gt;The reason is uncomfortable: large language models do not reliably separate instructions from data. They interpret text. That text may come from a user, a document, a webpage, a support ticket, an email, a retrieved knowledge base article, or another AI system.&lt;/p&gt;&#xA;&lt;p&gt;To a human, some of that text is obviously content.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

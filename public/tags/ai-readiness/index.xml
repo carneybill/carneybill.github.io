@@ -1,13 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI Readiness on carney.wiki</title><link>https://carney.wiki/tags/ai-readiness/</link><description>Recent content in AI Readiness on carney.wiki</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/ai-readiness/index.xml" rel="self" type="application/rss+xml"/><item><title>Data Governance Isn't Dead. It's Becoming AI Readiness.</title><link>https://carney.wiki/blog/did-governance-just-die/</link><pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/did-governance-just-die/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/crow.jpg" alt="AI governance under pressure"&gt;&lt;/p&gt;
-&lt;p&gt;Data governance is not dead.&lt;/p&gt;
-&lt;p&gt;Governance theater is.&lt;/p&gt;
-&lt;p&gt;If you have ever sat through a data governance council where everyone agreed definitions matter and then immediately went back to shipping whatever, you know the problem.&lt;/p&gt;
-&lt;p&gt;The meeting was not governance.&lt;/p&gt;
-&lt;p&gt;It was a performance about governance.&lt;/p&gt;
-&lt;p&gt;That used to be annoying. In the AI era, it becomes dangerous.&lt;/p&gt;
-&lt;p&gt;Humans can often patch ambiguity with tribal knowledge. They know which dashboard is &amp;ldquo;really&amp;rdquo; used by finance, which field is stale, which Salesforce status is fiction, and which metric definition nobody says out loud.&lt;/p&gt;</description></item><item><title>Simplifying Data Modernization in the Age of AI Agents</title><link>https://carney.wiki/blog/data-modernization/</link><pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/data-modernization/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/pipeline.jpg" alt="Data modernization roadmap"&gt;&lt;/p&gt;
-&lt;p&gt;Modern data stacks were supposed to make things easier.&lt;/p&gt;
-&lt;p&gt;Faster insights. More self-service. Better dashboards. Cleaner pipelines. Fewer heroic spreadsheet rescues.&lt;/p&gt;
-&lt;p&gt;Instead, a lot of organizations ended up with complexity by default: more tools, more integration work, more handoffs, more cloud spend, and a growing gap between data work and real business outcomes.&lt;/p&gt;
-&lt;p&gt;Now AI agents are being layered on top of that mess.&lt;/p&gt;
-&lt;p&gt;That is not automatically bad. But it is risky if leaders treat AI like a shortcut around the fundamentals.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Readiness on carney.wiki</title>
+    <link>https://carney.wiki/tags/ai-readiness/</link>
+    <description>Recent content in AI Readiness on carney.wiki</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carney.wiki/tags/ai-readiness/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Governance Isn&#39;t Dead. It&#39;s Becoming AI Readiness.</title>
+      <link>https://carney.wiki/blog/did-governance-just-die/</link>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/did-governance-just-die/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/crow.jpg&#34; alt=&#34;AI governance under pressure&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Data governance is not dead.&lt;/p&gt;&#xA;&lt;p&gt;Governance theater is.&lt;/p&gt;&#xA;&lt;p&gt;If you have ever sat through a data governance council where everyone agreed definitions matter and then immediately went back to shipping whatever, you know the problem.&lt;/p&gt;&#xA;&lt;p&gt;The meeting was not governance.&lt;/p&gt;&#xA;&lt;p&gt;It was a performance about governance.&lt;/p&gt;&#xA;&lt;p&gt;That used to be annoying. In the AI era, it becomes dangerous.&lt;/p&gt;&#xA;&lt;p&gt;Humans can often patch ambiguity with tribal knowledge. They know which dashboard is &amp;ldquo;really&amp;rdquo; used by finance, which field is stale, which Salesforce status is fiction, and which metric definition nobody says out loud.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Simplifying Data Modernization in the Age of AI Agents</title>
+      <link>https://carney.wiki/blog/data-modernization/</link>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/data-modernization/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/pipeline.jpg&#34; alt=&#34;Data modernization roadmap&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Modern data stacks were supposed to make things easier.&lt;/p&gt;&#xA;&lt;p&gt;Faster insights. More self-service. Better dashboards. Cleaner pipelines. Fewer heroic spreadsheet rescues.&lt;/p&gt;&#xA;&lt;p&gt;Instead, a lot of organizations ended up with complexity by default: more tools, more integration work, more handoffs, more cloud spend, and a growing gap between data work and real business outcomes.&lt;/p&gt;&#xA;&lt;p&gt;Now AI agents are being layered on top of that mess.&lt;/p&gt;&#xA;&lt;p&gt;That is not automatically bad. But it is risky if leaders treat AI like a shortcut around the fundamentals.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

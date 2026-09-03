@@ -1,19 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Enterprise AI on carney.wiki</title><link>https://carney.wiki/tags/enterprise-ai/</link><description>Recent content in Enterprise AI on carney.wiki</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 04 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/enterprise-ai/index.xml" rel="self" type="application/rss+xml"/><item><title>Your Company Already Tried to Build a Second Brain. It Was Called SharePoint.</title><link>https://carney.wiki/blog/second-brain-knowledge-spine-not-file-store/</link><pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/second-brain-knowledge-spine-not-file-store/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/second-brain-obsidian-knowledge-graph.png" alt="An obsidian-glass brain formed from connected knowledge nodes, with links to documents, guardrails, decisions, and workflows"&gt;&lt;/p&gt;
-&lt;p&gt;When I was a CEO, my friend Tareef introduced me to Obsidian as a better way to stay organized. He described it as a “Second Brain.” That is where I started.&lt;/p&gt;
-&lt;p&gt;I understood the appeal right away. A CEO has to keep track of people, projects, customer commitments, operating decisions, risks, and ideas that rarely live in one system. In Obsidian, my notes did not have to sit in separate folders. They could link to one another, and the graph made those relationships visible. I could follow an idea without having to remember where I filed it.&lt;/p&gt;</description></item><item><title>The Enterprise Context Layer Is an Operating System</title><link>https://carney.wiki/blog/enterprise-context-layer-is-an-operating-system/</link><pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/enterprise-context-layer-is-an-operating-system/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/sprawl.jpg" alt="Enterprise AI architecture and tool sprawl"&gt;&lt;/p&gt;
-&lt;p&gt;Most companies are buying four AI products.&lt;/p&gt;
-&lt;p&gt;They are actually building one system.&lt;/p&gt;
-&lt;p&gt;LLMs.&lt;/p&gt;
-&lt;p&gt;RAG.&lt;/p&gt;
-&lt;p&gt;Agents.&lt;/p&gt;
-&lt;p&gt;MCP.&lt;/p&gt;
-&lt;p&gt;These terms get thrown around like they are interchangeable. They are not. They are different layers in the same architecture.&lt;/p&gt;
-&lt;p&gt;LLMs reason.&lt;/p&gt;
-&lt;p&gt;RAG grounds.&lt;/p&gt;
-&lt;p&gt;Agents execute.&lt;/p&gt;
-&lt;p&gt;MCP integrates.&lt;/p&gt;
-&lt;p&gt;But none of those, by themselves, gives the enterprise what it really needs: governed context that can be trusted, secured, reused, and improved over time.&lt;/p&gt;</description></item><item><title>The Best Business AI System Is Not ChatGPT</title><link>https://carney.wiki/blog/the-best-business-ai-system-is-not-chatgpt/</link><pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/the-best-business-ai-system-is-not-chatgpt/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/stacks.png" alt="A practical technology stack"&gt;&lt;/p&gt;
-&lt;p&gt;The best business AI system is not one model.&lt;/p&gt;
-&lt;p&gt;And it is not giving everyone a ChatGPT account and hoping productivity happens.&lt;/p&gt;
-&lt;p&gt;A useful business AI system starts with the work the company needs done. It connects AI to the right business context and tools, gives it clear boundaries, and measures whether the work actually improved.&lt;/p&gt;
-&lt;p&gt;That is true for a 20-person company and a global enterprise.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Enterprise AI on carney.wiki</title>
+    <link>https://carney.wiki/tags/enterprise-ai/</link>
+    <description>Recent content in Enterprise AI on carney.wiki</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carney.wiki/tags/enterprise-ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your Company Already Tried to Build a Second Brain. It Was Called SharePoint.</title>
+      <link>https://carney.wiki/blog/second-brain-knowledge-spine-not-file-store/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/second-brain-knowledge-spine-not-file-store/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/second-brain-obsidian-knowledge-graph.png&#34; alt=&#34;An obsidian-glass brain formed from connected knowledge nodes, with links to documents, guardrails, decisions, and workflows&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;When I was a CEO, my friend Tareef introduced me to Obsidian as a better way to stay organized. He described it as a “Second Brain.” That is where I started.&lt;/p&gt;&#xA;&lt;p&gt;I understood the appeal right away. A CEO has to keep track of people, projects, customer commitments, operating decisions, risks, and ideas that rarely live in one system. In Obsidian, my notes did not have to sit in separate folders. They could link to one another, and the graph made those relationships visible. I could follow an idea without having to remember where I filed it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Enterprise Context Layer Is an Operating System</title>
+      <link>https://carney.wiki/blog/enterprise-context-layer-is-an-operating-system/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/enterprise-context-layer-is-an-operating-system/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/sprawl.jpg&#34; alt=&#34;Enterprise AI architecture and tool sprawl&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Most companies are buying four AI products.&lt;/p&gt;&#xA;&lt;p&gt;They are actually building one system.&lt;/p&gt;&#xA;&lt;p&gt;LLMs.&lt;/p&gt;&#xA;&lt;p&gt;RAG.&lt;/p&gt;&#xA;&lt;p&gt;Agents.&lt;/p&gt;&#xA;&lt;p&gt;MCP.&lt;/p&gt;&#xA;&lt;p&gt;These terms get thrown around like they are interchangeable. They are not. They are different layers in the same architecture.&lt;/p&gt;&#xA;&lt;p&gt;LLMs reason.&lt;/p&gt;&#xA;&lt;p&gt;RAG grounds.&lt;/p&gt;&#xA;&lt;p&gt;Agents execute.&lt;/p&gt;&#xA;&lt;p&gt;MCP integrates.&lt;/p&gt;&#xA;&lt;p&gt;But none of those, by themselves, gives the enterprise what it really needs: governed context that can be trusted, secured, reused, and improved over time.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Best Business AI System Is Not ChatGPT</title>
+      <link>https://carney.wiki/blog/the-best-business-ai-system-is-not-chatgpt/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/the-best-business-ai-system-is-not-chatgpt/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/stacks.png&#34; alt=&#34;A practical technology stack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The best business AI system is not one model.&lt;/p&gt;&#xA;&lt;p&gt;And it is not giving everyone a ChatGPT account and hoping productivity happens.&lt;/p&gt;&#xA;&lt;p&gt;A useful business AI system starts with the work the company needs done. It connects AI to the right business context and tools, gives it clear boundaries, and measures whether the work actually improved.&lt;/p&gt;&#xA;&lt;p&gt;That is true for a 20-person company and a global enterprise.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

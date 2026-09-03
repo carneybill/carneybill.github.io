@@ -1,137 +1,236 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Trust &amp; Brand on carney.wiki</title><link>https://carney.wiki/categories/trust--brand/</link><description>Recent content in Trust &amp; Brand on carney.wiki</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 17 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/categories/trust--brand/index.xml" rel="self" type="application/rss+xml"/><item><title>I Asked AI to Tear Apart My Book. It Found Something I Missed.</title><link>https://carney.wiki/blog/ai-critic-found-proof-ops/</link><pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-critic-found-proof-ops/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/ai-critic-proof-ops.png" alt="An open book revealing a brass operating mechanism under the light of a laptop"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://seths.blog/2026/08/consider-the-ai-tear-down/"&gt;Seth Godin recently wrote&lt;/a&gt; about an interesting use of AI: find a safe critic.&lt;/p&gt;
-&lt;p&gt;Take something you’ve created—a book, an essay, a business plan, a resume—and ask an AI to attack it from a particular point of view. Ask for the one-star Amazon review. The disappointed CEO. The skeptical venture capitalist. The recruiter who doesn&amp;rsquo;t know what to do with you.&lt;/p&gt;</description></item><item><title>The Enterprise Context Layer Is an Operating System</title><link>https://carney.wiki/blog/enterprise-context-layer-is-an-operating-system/</link><pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/enterprise-context-layer-is-an-operating-system/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/sprawl.jpg" alt="Enterprise AI architecture and tool sprawl"&gt;&lt;/p&gt;
-&lt;p&gt;Most companies are buying four AI products.&lt;/p&gt;
-&lt;p&gt;They are actually building one system.&lt;/p&gt;
-&lt;p&gt;LLMs.&lt;/p&gt;
-&lt;p&gt;RAG.&lt;/p&gt;
-&lt;p&gt;Agents.&lt;/p&gt;
-&lt;p&gt;MCP.&lt;/p&gt;
-&lt;p&gt;These terms get thrown around like they are interchangeable. They are not. They are different layers in the same architecture.&lt;/p&gt;
-&lt;p&gt;LLMs reason.&lt;/p&gt;
-&lt;p&gt;RAG grounds.&lt;/p&gt;
-&lt;p&gt;Agents execute.&lt;/p&gt;
-&lt;p&gt;MCP integrates.&lt;/p&gt;
-&lt;p&gt;But none of those, by themselves, gives the enterprise what it really needs: governed context that can be trusted, secured, reused, and improved over time.&lt;/p&gt;</description></item><item><title>Social and Community Are Distribution Rails</title><link>https://carney.wiki/blog/ai-era-social-community-rails/</link><pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-era-social-community-rails/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/social-and-community-rails.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;p&gt;In B2B, distribution is usually the constraint.&lt;/p&gt;
-&lt;p&gt;Not ideas. Not “content creation.” Not the number of people who can use Canva without hurting themselves.&lt;/p&gt;
-&lt;p&gt;Distribution.&lt;/p&gt;
-&lt;p&gt;Because you can have a smart point of view, a solid product, real proof, and a category the market genuinely needs — and still be weirdly invisible if your ideas are not traveling where buyers actually learn.&lt;/p&gt;
-&lt;p&gt;That is why social and community matter more now than most teams admit.&lt;/p&gt;</description></item><item><title>Make Yes Safe</title><link>https://carney.wiki/blog/ai-era-make-yes-safe/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-era-make-yes-safe/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/make-yes-safe.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;p&gt;By the time a B2B deal gets serious, your buyer is not deciding whether they &lt;em&gt;like&lt;/em&gt; you.&lt;/p&gt;
-&lt;p&gt;They are deciding whether they can defend the decision.&lt;/p&gt;
-&lt;p&gt;That is a very different job.&lt;/p&gt;
-&lt;p&gt;It is also the part of marketing a lot of teams still under-build. They do a decent job creating interest, a decent job explaining the product, maybe even a decent job getting the first meeting. Then the deal gets real and suddenly everyone is improvising their way through finance questions, ROI math, implementation concerns, procurement friction, and internal committee politics.&lt;/p&gt;</description></item><item><title>Proof as Inventory</title><link>https://carney.wiki/blog/ai-era-proof-as-inventory/</link><pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-era-proof-as-inventory/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/proof-as-inventory.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;p&gt;Most B2B companies have proof.&lt;/p&gt;
-&lt;p&gt;Very few have &lt;strong&gt;Proof Ops&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;That sounds like a small distinction. It is not.&lt;/p&gt;
-&lt;p&gt;A lot of teams have customer quotes floating around in decks, a case study PDF from two years ago, a few screenshots in somebody’s Google Drive, and one heroic salesperson who somehow remembers which customer story works for which objection. That is not a proof system. That is organizational folklore.&lt;/p&gt;</description></item><item><title>Your Website Is a Verification Hub</title><link>https://carney.wiki/blog/ai-era-website-verification-hub/</link><pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-era-website-verification-hub/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/website-verification-hub.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;p&gt;For years, a lot of B2B teams treated the website like a brochure with a form attached.&lt;/p&gt;
-&lt;p&gt;Make it look credible. Explain the product. Add a few logos. Put a “Book a Demo” button somewhere obvious. Then go spend the real budget on campaigns, retargeting, and whatever new platform just convinced half the industry it was destiny.&lt;/p&gt;
-&lt;p&gt;That model is getting old fast.&lt;/p&gt;
-&lt;p&gt;In the AI era, buyers do not come to your site to begin the journey. More often, they come to &lt;strong&gt;verify&lt;/strong&gt; what they already think they know.&lt;/p&gt;</description></item><item><title>When Your Prospect Knows More Than You</title><link>https://carney.wiki/blog/when-your-prospect-knows-more-than-you/</link><pubDate>Tue, 05 May 2026 00:00:00 -0400</pubDate><guid>https://carney.wiki/blog/when-your-prospect-knows-more-than-you/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/customers.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;p&gt;Modern buyers do not wait for marketing to educate them anymore.&lt;/p&gt;
-&lt;p&gt;Before they ever talk to your company, they have already read the docs, compared competitors, watched demos, asked peers, scanned communities, and used AI to do their homework. By the time you meet them, they may know your category, your claims, and your weak spots surprisingly well.&lt;/p&gt;
-&lt;p&gt;That can feel intimidating.&lt;/p&gt;
-&lt;p&gt;It is also a huge opportunity.&lt;/p&gt;
-&lt;p&gt;There is a fitting lesson here from Cinco de Mayo. The holiday commemorates Mexico&amp;rsquo;s 1862 victory at the Battle of Puebla &amp;ndash; a moment often remembered not as a triumph of brute force, but of discipline, positioning, and smart execution against a stronger opponent.&lt;/p&gt;</description></item><item><title>Verification Beats Persuasion</title><link>https://carney.wiki/blog/ai-era-verification-beats-persuasion/</link><pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-era-verification-beats-persuasion/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/verification-beats-persuasion.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;p&gt;Most B2B buyers do not buy the way your homepage wishes they did.&lt;/p&gt;
-&lt;p&gt;They do not move politely from awareness to interest to demo to proposal like a nice clean funnel diagram someone made in a keynote ten years ago and refuses to let die.&lt;/p&gt;
-&lt;p&gt;They move in loops.&lt;/p&gt;
-&lt;p&gt;Someone gets excited. Someone else gets skeptical. A champion forms. Security appears. Finance asks for assumptions. Operations asks how this will actually work in the real world, which is usually where a lot of “frictionless” stories go to die.&lt;/p&gt;</description></item><item><title>SEO Is Not Dead. It Just Has Two New Roommates: AEO and GEO</title><link>https://carney.wiki/blog/seo-aeo-geo/</link><pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/seo-aeo-geo/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/roommates.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;p&gt;The SEO industry is facing new challenges.&lt;/p&gt;
-&lt;p&gt;Story of my life.&lt;/p&gt;
-&lt;p&gt;Some of the challenge is not new at all. Google has been pushing organic results farther down the page for years. First it was more ads. Then came featured snippets, People Also Ask, knowledge panels, maps, shopping modules, video carousels, and enough SERP furniture to make the traditional &amp;ldquo;10 blue links&amp;rdquo; feel like a historical artifact.&lt;/p&gt;
-&lt;p&gt;Now we have AI Overviews.&lt;/p&gt;</description></item><item><title>Trust Is the New Growth Channel</title><link>https://carney.wiki/blog/ai-era-trust-growth-channel/</link><pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-era-trust-growth-channel/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/trust-is-the-new-growth-channel.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;p&gt;Most deals do not die because the product is bad.&lt;/p&gt;
-&lt;p&gt;They die because the decision feels risky, the path to success feels fuzzy, or the buyer cannot get internal alignment before momentum leaks out of the room.&lt;/p&gt;
-&lt;p&gt;That is why trust is no longer a nice supporting asset. It is part of the growth engine.&lt;/p&gt;
-&lt;p&gt;And that is also why offer design matters a lot more than most marketing teams treat it.&lt;/p&gt;</description></item><item><title>Data Governance Isn't Dead. It's Becoming AI Readiness.</title><link>https://carney.wiki/blog/did-governance-just-die/</link><pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/did-governance-just-die/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/crow.jpg" alt="AI governance under pressure"&gt;&lt;/p&gt;
-&lt;p&gt;Data governance is not dead.&lt;/p&gt;
-&lt;p&gt;Governance theater is.&lt;/p&gt;
-&lt;p&gt;If you have ever sat through a data governance council where everyone agreed definitions matter and then immediately went back to shipping whatever, you know the problem.&lt;/p&gt;
-&lt;p&gt;The meeting was not governance.&lt;/p&gt;
-&lt;p&gt;It was a performance about governance.&lt;/p&gt;
-&lt;p&gt;That used to be annoying. In the AI era, it becomes dangerous.&lt;/p&gt;
-&lt;p&gt;Humans can often patch ambiguity with tribal knowledge. They know which dashboard is &amp;ldquo;really&amp;rdquo; used by finance, which field is stale, which Salesforce status is fiction, and which metric definition nobody says out loud.&lt;/p&gt;</description></item><item><title>Your AI Agent Is a Toddler With Root Access</title><link>https://carney.wiki/blog/your-ai-agent-is-a-toddler-with-root-access/</link><pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/your-ai-agent-is-a-toddler-with-root-access/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/toddler.jpg" alt="Your AI agent is a toddler with root access"&gt;&lt;/p&gt;
-&lt;p&gt;Agentic AI is no longer a demo.&lt;/p&gt;
-&lt;p&gt;It calls APIs.&lt;/p&gt;
-&lt;p&gt;It writes to databases.&lt;/p&gt;
-&lt;p&gt;It triggers workflows that affect customers, revenue, and operations.&lt;/p&gt;
-&lt;p&gt;That is powerful.&lt;/p&gt;
-&lt;p&gt;It is also a fundamental shift in risk.&lt;/p&gt;
-&lt;p&gt;Once an AI system moves from advisory to execution, it becomes part of the control plane. Whether the organization admits that or not is mostly irrelevant. The risk already changed.&lt;/p&gt;</description></item><item><title>Prompt Injection Has Left the Chatbot</title><link>https://carney.wiki/blog/prompt-injection-has-left-the-chatbot/</link><pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/prompt-injection-has-left-the-chatbot/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/servicenow.jpg" alt="Prompt injection and AI agent risk"&gt;&lt;/p&gt;
-&lt;p&gt;Prompt injection did not suddenly become dangerous.&lt;/p&gt;
-&lt;p&gt;We connected it to systems that matter.&lt;/p&gt;
-&lt;p&gt;For years, prompt injection was treated as a curiosity: a way to make a chatbot ignore rules, leak instructions, or say something awkward. Interesting for demos. Annoying in production. Easy to dismiss as a model behavior problem.&lt;/p&gt;
-&lt;p&gt;That framing is obsolete.&lt;/p&gt;
-&lt;p&gt;The recent reporting around ServiceNow AI agent vulnerabilities should make the shift clear. This is not just about a model getting confused. It is about natural-language systems being embedded into trusted enterprise workflows without a new security model around them.&lt;/p&gt;</description></item><item><title>AI Risk Is a Business Risk, Not Just a Technical One</title><link>https://carney.wiki/blog/ai-risk-is-a-business-risk-not-just-a-technical-one/</link><pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-risk-is-a-business-risk-not-just-a-technical-one/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/risk.jpg" alt="AI risk and business governance"&gt;&lt;/p&gt;
-&lt;p&gt;AI risk is business risk.&lt;/p&gt;
-&lt;p&gt;That sounds obvious until you look at how most companies still manage it.&lt;/p&gt;
-&lt;p&gt;Too often, AI risk gets pushed into the technical corner. The security team worries about exposure. The data team worries about model performance. Legal gets pulled in late. The board gets a sanitized update after the pilot has already become operational.&lt;/p&gt;
-&lt;p&gt;That is backwards.&lt;/p&gt;
-&lt;p&gt;If an AI system influences customers, employees, financial outcomes, operational decisions, or regulated processes, the risk is not contained inside the model. It lives in the business process around the model.&lt;/p&gt;</description></item><item><title>The CISO's Guide to Governing Generative AI</title><link>https://carney.wiki/blog/the-cisos-guide-to-governing-generative-ai/</link><pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/the-cisos-guide-to-governing-generative-ai/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/mission.jpg" alt="Generative AI governance for security leaders"&gt;&lt;/p&gt;
-&lt;p&gt;Generative AI is now part of the enterprise control surface.&lt;/p&gt;
-&lt;p&gt;That is the CISO&amp;rsquo;s problem, whether the CISO asked for it or not.&lt;/p&gt;
-&lt;p&gt;Employees are using AI tools. Vendors are embedding AI features. Engineering teams are experimenting with model APIs. Business teams are building copilots. Data teams are connecting retrieval systems to internal knowledge.&lt;/p&gt;
-&lt;p&gt;Some of this is useful.&lt;/p&gt;
-&lt;p&gt;Some of it is risky.&lt;/p&gt;</description></item><item><title>Building AI Guardrails Without Killing Innovation</title><link>https://carney.wiki/blog/building-ai-guardrails-without-killing-innovation/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/building-ai-guardrails-without-killing-innovation/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/guardrail.jpg" alt="AI guardrails"&gt;&lt;/p&gt;
-&lt;p&gt;AI governance should not be a moat around innovation.&lt;/p&gt;
-&lt;p&gt;It should be the road.&lt;/p&gt;
-&lt;p&gt;That distinction matters because a lot of companies are about to overcorrect. They see real AI risk, then respond with broad restrictions, vague policies, and approval processes that make practical teams route around the system.&lt;/p&gt;
-&lt;p&gt;That does not create safety.&lt;/p&gt;
-&lt;p&gt;It creates shadow AI.&lt;/p&gt;
-&lt;p&gt;The better path is guardrails, not gates. Give teams enough structure to move quickly inside known boundaries, and reserve heavier review for use cases that can materially affect customers, employees, money, safety, compliance, or trust.&lt;/p&gt;</description></item><item><title>Don’t Be an Asshole</title><link>https://carney.wiki/blog/asshole/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/asshole/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/greenlock.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;h1 id="leadership-isnt-a-spreadsheet-and-being-an-asshole-is-a-terrible-business-strategy"&gt;Leadership Isn’t a Spreadsheet (And Being an Asshole Is a Terrible Business Strategy)&lt;/h1&gt;
-&lt;p&gt;Leadership often gets reduced to spreadsheets, quarterly targets, and org charts that look like subway maps no one understands. But a growing body of evidence from private equity, academia, and real-world companies suggests something radical:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;If you stop being an asshole — and actually treat people like humans — your business performs better.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Not “better vibes.”
-Better &lt;strong&gt;returns&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>How Prompt Injection Attacks Actually Work</title><link>https://carney.wiki/blog/how-prompt-injection-attacks-actually-work/</link><pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/how-prompt-injection-attacks-actually-work/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/injection.jpg" alt="Prompt injection and AI security"&gt;&lt;/p&gt;
-&lt;p&gt;Prompt injection is not a clever chatbot trick anymore.&lt;/p&gt;
-&lt;p&gt;It is one of the core security problems in AI systems.&lt;/p&gt;
-&lt;p&gt;The reason is uncomfortable: large language models do not reliably separate instructions from data. They interpret text. That text may come from a user, a document, a webpage, a support ticket, an email, a retrieved knowledge base article, or another AI system.&lt;/p&gt;
-&lt;p&gt;To a human, some of that text is obviously content.&lt;/p&gt;</description></item><item><title>Why AI, Trust, and Buying Networks Demand a New GTM Playbook</title><link>https://carney.wiki/blog/ai-gtm-playbook/</link><pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-gtm-playbook/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/network.gif" alt="stack"&gt;&lt;/p&gt;
-&lt;p&gt;The rules of B2B buying are being rewritten. Not incrementally — structurally. Buyers have never moved through a linear tidy funnel owned by sales and marketing; they navigate a &lt;strong&gt;buying network&lt;/strong&gt; made up of internal stakeholders, external influencers, independent research, and increasingly, AI agents that summarize, shortlist, and recommend on their behalf.&lt;/p&gt;
-&lt;p&gt;If your go-to-market (GTM) playbook still targets a single buyer persona or relies on volume outreach, you’re invisible in the very places buyers now start their journeys.&lt;/p&gt;</description></item><item><title>What Boards Need to Know About AI Risk</title><link>https://carney.wiki/blog/what-boards-need-to-know-about-ai-risk/</link><pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/what-boards-need-to-know-about-ai-risk/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/enterprise.jpg" alt="Board-level AI governance"&gt;&lt;/p&gt;
-&lt;p&gt;Boards do not need to understand every AI model.&lt;/p&gt;
-&lt;p&gt;They do need to understand where AI creates business risk.&lt;/p&gt;
-&lt;p&gt;That is the important distinction.&lt;/p&gt;
-&lt;p&gt;AI is moving into customer interactions, employee workflows, software development, analytics, content production, fraud detection, security operations, and decision support. Some systems are low risk. Some can materially affect customers, employees, revenue, compliance, or reputation.&lt;/p&gt;
-&lt;p&gt;Board oversight should focus on the second group.&lt;/p&gt;</description></item><item><title>Reinventing Growth for the AI Era - Part 2</title><link>https://carney.wiki/blog/aitrust/</link><pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/aitrust/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/leaves2.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;p&gt;In an era where B2B buying is increasingly complex, distributed, and AI-assisted, one constant remains: trust is the currency of growth. No longer a “soft” brand attribute, trust now directly accelerates sales velocity and conversion. As Forrester’s Buying Networks: Your Buyers’ New Reality (2025) report highlights, trusted providers gain “shortcuts to consideration,” enabling faster movement through decision cycles and broader endorsement within buyer ecosystems.&lt;/p&gt;
-&lt;h2 id="the-new-reality-buying-networks-not-buying-groups"&gt;The New Reality: Buying Networks, Not Buying Groups&lt;/h2&gt;
-&lt;p&gt;Forrester’s latest research signals a major shift in how organizations purchase technology. What began as a move from individual leads to “buying groups” has evolved into the buying network — a broader ecosystem that includes internal teams, external influencers, analysts, partners, customers, and increasingly, AI agents.&lt;/p&gt;</description></item><item><title>Why Most AI Security Failures Start With Data</title><link>https://carney.wiki/blog/why-most-ai-security-failures-start-with-data/</link><pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/why-most-ai-security-failures-start-with-data/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/data.jpg" alt="AI security starts with governed data"&gt;&lt;/p&gt;
-&lt;p&gt;Most AI security failures do not start with the model.&lt;/p&gt;
-&lt;p&gt;They start with the data.&lt;/p&gt;
-&lt;p&gt;That is not as exciting as a story about a rogue algorithm or a clever jailbreak, but it is usually closer to the truth.&lt;/p&gt;
-&lt;p&gt;If the data feeding an AI system is unclassified, unverified, poorly governed, over-permissioned, or impossible to trace, the model inherits the problem. Then it scales it.&lt;/p&gt;</description></item><item><title>Reinventing Growth for the AI Era</title><link>https://carney.wiki/blog/growthai/</link><pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/growthai/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/leaves.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;p&gt;A new pattern is emerging: the teams winning in AI are not the ones copying the old SaaS playbook with fresher branding. They are the ones figuring out where influence, credibility, and trust actually live, then building around that reality instead of around habit.&lt;/p&gt;
-&lt;p&gt;The next generation of marketing leaders in AI will look less like spreadsheet custodians and more like experimenters, operators, and network-builders. They will diagnose first, invent second, and leave a lot of tired template marketing where it belongs.&lt;/p&gt;</description></item><item><title>The Power of Vulnerability</title><link>https://carney.wiki/blog/trust/</link><pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/trust/</guid><description>&lt;p&gt;I recently finished two books that struck a chord with me. The first was &lt;em&gt;Getting Naked&lt;/em&gt; by Patrick Lencioni (thanks to Kevin MacKey for the recommendation). The title might raise eyebrows, but the message is simple: to earn trust, we have to strip away the need to appear perfect.&lt;/p&gt;
-&lt;p&gt;The second was &lt;em&gt;Don’t Believe Everything You Think&lt;/em&gt;, which reminded me that so much of our inner dialogue is shaped by fear:&lt;/p&gt;</description></item><item><title>How to build real trust</title><link>https://carney.wiki/blog/build-trust/</link><pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/build-trust/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/dog-hand.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;h1 id="why-trust-matters"&gt;Why Trust Matters&lt;/h1&gt;
-&lt;p&gt;Buyers don’t just buy features. They buy confidence. Trusted brands get on shortlists faster. They close deals faster. They lower acquisition cost.&lt;/p&gt;
-&lt;p&gt;Research shows trust — things like competence, consistency, and dependability — is central to B2B buying decisions.&lt;/p&gt;
-&lt;p&gt;And buyers do their homework before talking to sales. They read content and cross-check sources long before they reach out. That means your brand needs to earn trust before the first call.&lt;/p&gt;</description></item><item><title>The Sticky Factor</title><link>https://carney.wiki/blog/sticky/</link><pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/sticky/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/glue.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;h1 id="marketing-its-not-just-about-sellingits-about-sticking"&gt;Marketing: It’s Not Just About Selling—It’s About Sticking&lt;/h1&gt;
-&lt;p&gt;Let’s be real for a second: marketing isn’t just about converting customers; it’s about &lt;em&gt;haunting&lt;/em&gt; them. You know the drill—you need a solution, and the first brand that pops into your head isn’t necessarily the best one. It’s the one that’s been camping out in your brain rent-free, showing up over and over like your favorite meme.&lt;/p&gt;
-&lt;p&gt;That’s the game. Marketing isn’t just about moving people down a funnel; it’s about making sure you’re the brand they remember when it’s go-time. And the secret sauce to making that happen? &lt;strong&gt;Visibility.&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Kintsugi + Antifragility + Leadership</title><link>https://carney.wiki/blog/kintsugi-antifragility/</link><pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/kintsugi-antifragility/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/bowl.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;h1 id="embracing-imperfections-what-kintsugi-and-antifragility-teach-us-about-leadership"&gt;Embracing Imperfections: What Kintsugi and Antifragility Teach Us About Leadership&lt;/h1&gt;
-&lt;p&gt;In the cracks of broken pottery, the Japanese art of &lt;strong&gt;Kintsugi&lt;/strong&gt; finds beauty. Fragments are rejoined with lacquer and dusted with gold, not to mask the damage but to celebrate it. This ancient practice transforms breakage into artistry, symbolizing the resilience of imperfection. Kintsugi reminds us to value what’s broken, embrace its history, and let its scars shine.&lt;/p&gt;
-&lt;p&gt;This philosophy resonates deeply with the modern concept of &lt;strong&gt;antifragility&lt;/strong&gt;, as introduced by Nassim Nicholas Taleb in his groundbreaking work &lt;em&gt;Antifragile: Things That Gain from Disorder&lt;/em&gt;. Where Kintsugi focuses on physical repair and symbolic growth, antifragility thrives on uncertainty, volatility, and challenge. It’s not just about surviving adversity; it’s about becoming stronger because of it.&lt;/p&gt;</description></item><item><title>Shameful Deception: Exposing the Scandal of Fake Speakers</title><link>https://carney.wiki/blog/fake-speakers/</link><pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/fake-speakers/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/fake-people.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;h2 id="the-liars-at-devternity"&gt;The liars at DevTernity&lt;/h2&gt;
-&lt;p&gt;Anna Boyko, touted as a featured speaker at DevTernity, was presented with an impressive profile that left attendees in awe. However, attempts to verify her existence were met with an unsettling silence from Coinbase employees and Ethereum core contributors. The truth emerged: Anna Boyko was a figment of the organizers&amp;rsquo; imagination, a deliberate fabrication.&lt;/p&gt;
-&lt;p&gt;But Boyko wasn&amp;rsquo;t the sole victim of this deceit. Alina Prokhoda, claimed to be a &amp;ldquo;Senior Engineer at WhatsApp, Microsoft MVP,&amp;rdquo; was another product of the organizers&amp;rsquo; deception. The ruse extended to JDKon, another event orchestrated by the same group, where a non-existent Natalie Stadler was introduced as a &amp;ldquo;Software Craftswoman at Coinbase.&amp;rdquo;&lt;/p&gt;</description></item><item><title>Unveiling the Unethical: How an AI-Powered SEO Heist Backfired</title><link>https://carney.wiki/blog/stealing-traffic/</link><pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/stealing-traffic/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/stealing-seo.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;p&gt;In the world of digital marketing, ethical practices are the cornerstone of sustainable success. Unfortunately, some individuals have taken a detour into the unethical, as revealed by a recent confession: &amp;ldquo;We pulled off an SEO heist using AI.&amp;rdquo;&lt;/p&gt;
-&lt;h2 id="heres-a-breakdown-of-the-operation"&gt;Here&amp;rsquo;s a breakdown of the operation:&lt;/h2&gt;
-&lt;h3 id="the-scheme"&gt;The Scheme&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;Sitemap Pilfering: The culprits exported a competitor&amp;rsquo;s sitemap, a bold move into ethically murky territory.&lt;/li&gt;
-&lt;li&gt;Automated Content Creation: Turning the stolen URLs into article titles, they unleashed the power of AI to generate a staggering 1,800 articles at scale.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id="the-outcome"&gt;The Outcome&lt;/h3&gt;
-&lt;p&gt;After 18 months, the illicit operation boasted impressive, yet ill-gotten gains:&lt;/p&gt;</description></item><item><title>Why Old Isn't Always Wrong</title><link>https://carney.wiki/blog/old-marketing/</link><pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/old-marketing/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/time.jpg" alt="stack"&gt;&lt;/p&gt;
-&lt;p&gt;Marketing people love to pretend anything older than six months belongs in a museum. New channel? Amazing. New acronym? Even better. Old tactic with proven economics? Apparently embarrassing unless a consultant rebrands it.&lt;/p&gt;
-&lt;p&gt;That is a mistake. Old does not automatically mean wrong. Sometimes it just means neglected. The real job is not worshipping novelty. It is staying agile enough to know when a forgotten tactic deserves another look.&lt;/p&gt;</description></item><item><title>Content Gating</title><link>https://carney.wiki/blog/content-gating/</link><pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/content-gating/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/gate.png" alt="stack"&gt;&lt;/p&gt;
-&lt;h2 id="content-gating-policies"&gt;Content Gating Policies&lt;/h2&gt;
-&lt;p&gt;You seek to exchange personal data for the valuable content meticulously created, all while endeavoring to establish yourselves as thought leaders with authority in your space . Striking a delicate balance between these goals is really crucial, recognizing that trust is the linchpin for success. Without trust from prospects, even the most finely tuned gated content strategy may yield subpar results.&lt;/p&gt;
-&lt;p&gt;All gated content strategies are carefully tailored to engage prospects in the middle to later stages of their buyer&amp;rsquo;s journey. These individuals are delving into their pain points, seeking more profound and specific insights beyond the ungated content they&amp;rsquo;ve already consumed. Aligning the gate strategy with content mapping becomes imperative, focusing on the later stages of the buyer&amp;rsquo;s journey.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trust &amp; Brand on carney.wiki</title>
+    <link>https://carney.wiki/categories/trust--brand/</link>
+    <description>Recent content in Trust &amp; Brand on carney.wiki</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carney.wiki/categories/trust--brand/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Audited My Own Website. It Scored 24 Out of 50.</title>
+      <link>https://carney.wiki/blog/i-audited-my-own-website-24-out-of-50/</link>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/i-audited-my-own-website-24-out-of-50/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/trustproof.jpg&#34; alt=&#34;Interconnected gold blocks representing a chain of evidence&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;My website scored 24 out of 50.&lt;/p&gt;&#xA;&lt;p&gt;That is a bad score. It is also exactly the kind of result people find easier to explain away than fix.&lt;/p&gt;&#xA;&lt;p&gt;I had explanations. The site had grown over years. Hugo generated much of the metadata. Older pages followed older patterns. The first crawl stopped before it reached the whole sitemap.&lt;/p&gt;&#xA;&lt;p&gt;All true. None of it made the site better.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I Asked AI to Tear Apart My Book. It Found Something I Missed.</title>
+      <link>https://carney.wiki/blog/ai-critic-found-proof-ops/</link>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ai-critic-found-proof-ops/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/ai-critic-proof-ops.png&#34; alt=&#34;An open book revealing a brass operating mechanism under the light of a laptop&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://seths.blog/2026/08/consider-the-ai-tear-down/&#34;&gt;Seth Godin recently wrote&lt;/a&gt; about an interesting use of AI: find a safe critic.&lt;/p&gt;&#xA;&lt;p&gt;Take something you’ve created—a book, an essay, a business plan, a resume—and ask an AI to attack it from a particular point of view. Ask for the one-star Amazon review. The disappointed CEO. The skeptical venture capitalist. The recruiter who doesn&amp;rsquo;t know what to do with you.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Enterprise Context Layer Is an Operating System</title>
+      <link>https://carney.wiki/blog/enterprise-context-layer-is-an-operating-system/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/enterprise-context-layer-is-an-operating-system/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/sprawl.jpg&#34; alt=&#34;Enterprise AI architecture and tool sprawl&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Most companies are buying four AI products.&lt;/p&gt;&#xA;&lt;p&gt;They are actually building one system.&lt;/p&gt;&#xA;&lt;p&gt;LLMs.&lt;/p&gt;&#xA;&lt;p&gt;RAG.&lt;/p&gt;&#xA;&lt;p&gt;Agents.&lt;/p&gt;&#xA;&lt;p&gt;MCP.&lt;/p&gt;&#xA;&lt;p&gt;These terms get thrown around like they are interchangeable. They are not. They are different layers in the same architecture.&lt;/p&gt;&#xA;&lt;p&gt;LLMs reason.&lt;/p&gt;&#xA;&lt;p&gt;RAG grounds.&lt;/p&gt;&#xA;&lt;p&gt;Agents execute.&lt;/p&gt;&#xA;&lt;p&gt;MCP integrates.&lt;/p&gt;&#xA;&lt;p&gt;But none of those, by themselves, gives the enterprise what it really needs: governed context that can be trusted, secured, reused, and improved over time.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Social and Community Are Distribution Rails</title>
+      <link>https://carney.wiki/blog/ai-era-social-community-rails/</link>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ai-era-social-community-rails/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/social-and-community-rails.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;In B2B, distribution is usually the constraint.&lt;/p&gt;&#xA;&lt;p&gt;Not ideas. Not “content creation.” Not the number of people who can use Canva without hurting themselves.&lt;/p&gt;&#xA;&lt;p&gt;Distribution.&lt;/p&gt;&#xA;&lt;p&gt;Because you can have a smart point of view, a solid product, real proof, and a category the market genuinely needs — and still be weirdly invisible if your ideas are not traveling where buyers actually learn.&lt;/p&gt;&#xA;&lt;p&gt;That is why social and community matter more now than most teams admit.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Make Yes Safe</title>
+      <link>https://carney.wiki/blog/ai-era-make-yes-safe/</link>
+      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ai-era-make-yes-safe/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/make-yes-safe.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;By the time a B2B deal gets serious, your buyer is not deciding whether they &lt;em&gt;like&lt;/em&gt; you.&lt;/p&gt;&#xA;&lt;p&gt;They are deciding whether they can defend the decision.&lt;/p&gt;&#xA;&lt;p&gt;That is a very different job.&lt;/p&gt;&#xA;&lt;p&gt;It is also the part of marketing a lot of teams still under-build. They do a decent job creating interest, a decent job explaining the product, maybe even a decent job getting the first meeting. Then the deal gets real and suddenly everyone is improvising their way through finance questions, ROI math, implementation concerns, procurement friction, and internal committee politics.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Proof as Inventory</title>
+      <link>https://carney.wiki/blog/ai-era-proof-as-inventory/</link>
+      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ai-era-proof-as-inventory/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/proof-as-inventory.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Most B2B companies have proof.&lt;/p&gt;&#xA;&lt;p&gt;Very few have &lt;strong&gt;Proof Ops&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;That sounds like a small distinction. It is not.&lt;/p&gt;&#xA;&lt;p&gt;A lot of teams have customer quotes floating around in decks, a case study PDF from two years ago, a few screenshots in somebody’s Google Drive, and one heroic salesperson who somehow remembers which customer story works for which objection. That is not a proof system. That is organizational folklore.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Your Website Is a Verification Hub</title>
+      <link>https://carney.wiki/blog/ai-era-website-verification-hub/</link>
+      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ai-era-website-verification-hub/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/website-verification-hub.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;For years, a lot of B2B teams treated the website like a brochure with a form attached.&lt;/p&gt;&#xA;&lt;p&gt;Make it look credible. Explain the product. Add a few logos. Put a “Book a Demo” button somewhere obvious. Then go spend the real budget on campaigns, retargeting, and whatever new platform just convinced half the industry it was destiny.&lt;/p&gt;&#xA;&lt;p&gt;That model is getting old fast.&lt;/p&gt;&#xA;&lt;p&gt;In the AI era, buyers do not come to your site to begin the journey. More often, they come to &lt;strong&gt;verify&lt;/strong&gt; what they already think they know.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>When Your Prospect Knows More Than You</title>
+      <link>https://carney.wiki/blog/when-your-prospect-knows-more-than-you/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 -0400</pubDate>
+      <guid>https://carney.wiki/blog/when-your-prospect-knows-more-than-you/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/customers.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Modern buyers do not wait for marketing to educate them anymore.&lt;/p&gt;&#xA;&lt;p&gt;Before they ever talk to your company, they have already read the docs, compared competitors, watched demos, asked peers, scanned communities, and used AI to do their homework. By the time you meet them, they may know your category, your claims, and your weak spots surprisingly well.&lt;/p&gt;&#xA;&lt;p&gt;That can feel intimidating.&lt;/p&gt;&#xA;&lt;p&gt;It is also a huge opportunity.&lt;/p&gt;&#xA;&lt;p&gt;There is a fitting lesson here from Cinco de Mayo. The holiday commemorates Mexico&amp;rsquo;s 1862 victory at the Battle of Puebla &amp;ndash; a moment often remembered not as a triumph of brute force, but of discipline, positioning, and smart execution against a stronger opponent.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Verification Beats Persuasion</title>
+      <link>https://carney.wiki/blog/ai-era-verification-beats-persuasion/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ai-era-verification-beats-persuasion/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/verification-beats-persuasion.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Most B2B buyers do not buy the way your homepage wishes they did.&lt;/p&gt;&#xA;&lt;p&gt;They do not move politely from awareness to interest to demo to proposal like a nice clean funnel diagram someone made in a keynote ten years ago and refuses to let die.&lt;/p&gt;&#xA;&lt;p&gt;They move in loops.&lt;/p&gt;&#xA;&lt;p&gt;Someone gets excited. Someone else gets skeptical. A champion forms. Security appears. Finance asks for assumptions. Operations asks how this will actually work in the real world, which is usually where a lot of “frictionless” stories go to die.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SEO Is Not Dead. It Just Has Two New Roommates: AEO and GEO</title>
+      <link>https://carney.wiki/blog/seo-aeo-geo/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/seo-aeo-geo/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/roommates.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The SEO industry is facing new challenges.&lt;/p&gt;&#xA;&lt;p&gt;Story of my life.&lt;/p&gt;&#xA;&lt;p&gt;Some of the challenge is not new at all. Google has been pushing organic results farther down the page for years. First it was more ads. Then came featured snippets, People Also Ask, knowledge panels, maps, shopping modules, video carousels, and enough SERP furniture to make the traditional &amp;ldquo;10 blue links&amp;rdquo; feel like a historical artifact.&lt;/p&gt;&#xA;&lt;p&gt;Now we have AI Overviews.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Trust Is the New Growth Channel</title>
+      <link>https://carney.wiki/blog/ai-era-trust-growth-channel/</link>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ai-era-trust-growth-channel/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/trust-is-the-new-growth-channel.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Most deals do not die because the product is bad.&lt;/p&gt;&#xA;&lt;p&gt;They die because the decision feels risky, the path to success feels fuzzy, or the buyer cannot get internal alignment before momentum leaks out of the room.&lt;/p&gt;&#xA;&lt;p&gt;That is why trust is no longer a nice supporting asset. It is part of the growth engine.&lt;/p&gt;&#xA;&lt;p&gt;And that is also why offer design matters a lot more than most marketing teams treat it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Data Governance Isn&#39;t Dead. It&#39;s Becoming AI Readiness.</title>
+      <link>https://carney.wiki/blog/did-governance-just-die/</link>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/did-governance-just-die/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/crow.jpg&#34; alt=&#34;AI governance under pressure&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Data governance is not dead.&lt;/p&gt;&#xA;&lt;p&gt;Governance theater is.&lt;/p&gt;&#xA;&lt;p&gt;If you have ever sat through a data governance council where everyone agreed definitions matter and then immediately went back to shipping whatever, you know the problem.&lt;/p&gt;&#xA;&lt;p&gt;The meeting was not governance.&lt;/p&gt;&#xA;&lt;p&gt;It was a performance about governance.&lt;/p&gt;&#xA;&lt;p&gt;That used to be annoying. In the AI era, it becomes dangerous.&lt;/p&gt;&#xA;&lt;p&gt;Humans can often patch ambiguity with tribal knowledge. They know which dashboard is &amp;ldquo;really&amp;rdquo; used by finance, which field is stale, which Salesforce status is fiction, and which metric definition nobody says out loud.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Your AI Agent Is a Toddler With Root Access</title>
+      <link>https://carney.wiki/blog/your-ai-agent-is-a-toddler-with-root-access/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/your-ai-agent-is-a-toddler-with-root-access/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/toddler.jpg&#34; alt=&#34;Your AI agent is a toddler with root access&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Agentic AI is no longer a demo.&lt;/p&gt;&#xA;&lt;p&gt;It calls APIs.&lt;/p&gt;&#xA;&lt;p&gt;It writes to databases.&lt;/p&gt;&#xA;&lt;p&gt;It triggers workflows that affect customers, revenue, and operations.&lt;/p&gt;&#xA;&lt;p&gt;That is powerful.&lt;/p&gt;&#xA;&lt;p&gt;It is also a fundamental shift in risk.&lt;/p&gt;&#xA;&lt;p&gt;Once an AI system moves from advisory to execution, it becomes part of the control plane. Whether the organization admits that or not is mostly irrelevant. The risk already changed.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prompt Injection Has Left the Chatbot</title>
+      <link>https://carney.wiki/blog/prompt-injection-has-left-the-chatbot/</link>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/prompt-injection-has-left-the-chatbot/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/servicenow.jpg&#34; alt=&#34;Prompt injection and AI agent risk&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Prompt injection did not suddenly become dangerous.&lt;/p&gt;&#xA;&lt;p&gt;We connected it to systems that matter.&lt;/p&gt;&#xA;&lt;p&gt;For years, prompt injection was treated as a curiosity: a way to make a chatbot ignore rules, leak instructions, or say something awkward. Interesting for demos. Annoying in production. Easy to dismiss as a model behavior problem.&lt;/p&gt;&#xA;&lt;p&gt;That framing is obsolete.&lt;/p&gt;&#xA;&lt;p&gt;The recent reporting around ServiceNow AI agent vulnerabilities should make the shift clear. This is not just about a model getting confused. It is about natural-language systems being embedded into trusted enterprise workflows without a new security model around them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI Risk Is a Business Risk, Not Just a Technical One</title>
+      <link>https://carney.wiki/blog/ai-risk-is-a-business-risk-not-just-a-technical-one/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ai-risk-is-a-business-risk-not-just-a-technical-one/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/risk.jpg&#34; alt=&#34;AI risk and business governance&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;AI risk is business risk.&lt;/p&gt;&#xA;&lt;p&gt;That sounds obvious until you look at how most companies still manage it.&lt;/p&gt;&#xA;&lt;p&gt;Too often, AI risk gets pushed into the technical corner. The security team worries about exposure. The data team worries about model performance. Legal gets pulled in late. The board gets a sanitized update after the pilot has already become operational.&lt;/p&gt;&#xA;&lt;p&gt;That is backwards.&lt;/p&gt;&#xA;&lt;p&gt;If an AI system influences customers, employees, financial outcomes, operational decisions, or regulated processes, the risk is not contained inside the model. It lives in the business process around the model.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The CISO&#39;s Guide to Governing Generative AI</title>
+      <link>https://carney.wiki/blog/the-cisos-guide-to-governing-generative-ai/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/the-cisos-guide-to-governing-generative-ai/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/mission.jpg&#34; alt=&#34;Generative AI governance for security leaders&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Generative AI is now part of the enterprise control surface.&lt;/p&gt;&#xA;&lt;p&gt;That is the CISO&amp;rsquo;s problem, whether the CISO asked for it or not.&lt;/p&gt;&#xA;&lt;p&gt;Employees are using AI tools. Vendors are embedding AI features. Engineering teams are experimenting with model APIs. Business teams are building copilots. Data teams are connecting retrieval systems to internal knowledge.&lt;/p&gt;&#xA;&lt;p&gt;Some of this is useful.&lt;/p&gt;&#xA;&lt;p&gt;Some of it is risky.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building AI Guardrails Without Killing Innovation</title>
+      <link>https://carney.wiki/blog/building-ai-guardrails-without-killing-innovation/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/building-ai-guardrails-without-killing-innovation/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/guardrail.jpg&#34; alt=&#34;AI guardrails&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;AI governance should not be a moat around innovation.&lt;/p&gt;&#xA;&lt;p&gt;It should be the road.&lt;/p&gt;&#xA;&lt;p&gt;That distinction matters because a lot of companies are about to overcorrect. They see real AI risk, then respond with broad restrictions, vague policies, and approval processes that make practical teams route around the system.&lt;/p&gt;&#xA;&lt;p&gt;That does not create safety.&lt;/p&gt;&#xA;&lt;p&gt;It creates shadow AI.&lt;/p&gt;&#xA;&lt;p&gt;The better path is guardrails, not gates. Give teams enough structure to move quickly inside known boundaries, and reserve heavier review for use cases that can materially affect customers, employees, money, safety, compliance, or trust.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Don’t Be an Asshole</title>
+      <link>https://carney.wiki/blog/asshole/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/asshole/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/greenlock.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;leadership-isnt-a-spreadsheet-and-being-an-asshole-is-a-terrible-business-strategy&#34;&gt;Leadership Isn’t a Spreadsheet (And Being an Asshole Is a Terrible Business Strategy)&lt;/h1&gt;&#xA;&lt;p&gt;Leadership often gets reduced to spreadsheets, quarterly targets, and org charts that look like subway maps no one understands. But a growing body of evidence from private equity, academia, and real-world companies suggests something radical:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;If you stop being an asshole — and actually treat people like humans — your business performs better.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Not “better vibes.”&#xA;Better &lt;strong&gt;returns&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How Prompt Injection Attacks Actually Work</title>
+      <link>https://carney.wiki/blog/how-prompt-injection-attacks-actually-work/</link>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/how-prompt-injection-attacks-actually-work/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/injection.jpg&#34; alt=&#34;Prompt injection and AI security&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Prompt injection is not a clever chatbot trick anymore.&lt;/p&gt;&#xA;&lt;p&gt;It is one of the core security problems in AI systems.&lt;/p&gt;&#xA;&lt;p&gt;The reason is uncomfortable: large language models do not reliably separate instructions from data. They interpret text. That text may come from a user, a document, a webpage, a support ticket, an email, a retrieved knowledge base article, or another AI system.&lt;/p&gt;&#xA;&lt;p&gt;To a human, some of that text is obviously content.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why AI, Trust, and Buying Networks Demand a New GTM Playbook</title>
+      <link>https://carney.wiki/blog/ai-gtm-playbook/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/ai-gtm-playbook/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/network.gif&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The rules of B2B buying are being rewritten. Not incrementally — structurally. Buyers have never moved through a linear tidy funnel owned by sales and marketing; they navigate a &lt;strong&gt;buying network&lt;/strong&gt; made up of internal stakeholders, external influencers, independent research, and increasingly, AI agents that summarize, shortlist, and recommend on their behalf.&lt;/p&gt;&#xA;&lt;p&gt;If your go-to-market (GTM) playbook still targets a single buyer persona or relies on volume outreach, you’re invisible in the very places buyers now start their journeys.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What Boards Need to Know About AI Risk</title>
+      <link>https://carney.wiki/blog/what-boards-need-to-know-about-ai-risk/</link>
+      <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/what-boards-need-to-know-about-ai-risk/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/enterprise.jpg&#34; alt=&#34;Board-level AI governance&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Boards do not need to understand every AI model.&lt;/p&gt;&#xA;&lt;p&gt;They do need to understand where AI creates business risk.&lt;/p&gt;&#xA;&lt;p&gt;That is the important distinction.&lt;/p&gt;&#xA;&lt;p&gt;AI is moving into customer interactions, employee workflows, software development, analytics, content production, fraud detection, security operations, and decision support. Some systems are low risk. Some can materially affect customers, employees, revenue, compliance, or reputation.&lt;/p&gt;&#xA;&lt;p&gt;Board oversight should focus on the second group.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reinventing Growth for the AI Era - Part 2</title>
+      <link>https://carney.wiki/blog/aitrust/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/aitrust/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/leaves2.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;In an era where B2B buying is increasingly complex, distributed, and AI-assisted, one constant remains: trust is the currency of growth. No longer a “soft” brand attribute, trust now directly accelerates sales velocity and conversion. As Forrester’s Buying Networks: Your Buyers’ New Reality (2025) report highlights, trusted providers gain “shortcuts to consideration,” enabling faster movement through decision cycles and broader endorsement within buyer ecosystems.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-new-reality-buying-networks-not-buying-groups&#34;&gt;The New Reality: Buying Networks, Not Buying Groups&lt;/h2&gt;&#xA;&lt;p&gt;Forrester’s latest research signals a major shift in how organizations purchase technology. What began as a move from individual leads to “buying groups” has evolved into the buying network — a broader ecosystem that includes internal teams, external influencers, analysts, partners, customers, and increasingly, AI agents.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why Most AI Security Failures Start With Data</title>
+      <link>https://carney.wiki/blog/why-most-ai-security-failures-start-with-data/</link>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/why-most-ai-security-failures-start-with-data/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/data.jpg&#34; alt=&#34;AI security starts with governed data&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Most AI security failures do not start with the model.&lt;/p&gt;&#xA;&lt;p&gt;They start with the data.&lt;/p&gt;&#xA;&lt;p&gt;That is not as exciting as a story about a rogue algorithm or a clever jailbreak, but it is usually closer to the truth.&lt;/p&gt;&#xA;&lt;p&gt;If the data feeding an AI system is unclassified, unverified, poorly governed, over-permissioned, or impossible to trace, the model inherits the problem. Then it scales it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reinventing Growth for the AI Era</title>
+      <link>https://carney.wiki/blog/growthai/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/growthai/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/leaves.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;A new pattern is emerging: the teams winning in AI are not the ones copying the old SaaS playbook with fresher branding. They are the ones figuring out where influence, credibility, and trust actually live, then building around that reality instead of around habit.&lt;/p&gt;&#xA;&lt;p&gt;The next generation of marketing leaders in AI will look less like spreadsheet custodians and more like experimenters, operators, and network-builders. They will diagnose first, invent second, and leave a lot of tired template marketing where it belongs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Power of Vulnerability</title>
+      <link>https://carney.wiki/blog/trust/</link>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/trust/</guid>
+      <description>&lt;p&gt;I recently finished two books that struck a chord with me. The first was &lt;em&gt;Getting Naked&lt;/em&gt; by Patrick Lencioni (thanks to Kevin MacKey for the recommendation). The title might raise eyebrows, but the message is simple: to earn trust, we have to strip away the need to appear perfect.&lt;/p&gt;&#xA;&lt;p&gt;The second was &lt;em&gt;Don’t Believe Everything You Think&lt;/em&gt;, which reminded me that so much of our inner dialogue is shaped by fear:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to build real trust</title>
+      <link>https://carney.wiki/blog/build-trust/</link>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/build-trust/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/dog-hand.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;why-trust-matters&#34;&gt;Why Trust Matters&lt;/h1&gt;&#xA;&lt;p&gt;Buyers don’t just buy features. They buy confidence. Trusted brands get on shortlists faster. They close deals faster. They lower acquisition cost.&lt;/p&gt;&#xA;&lt;p&gt;Research shows trust — things like competence, consistency, and dependability — is central to B2B buying decisions.&lt;/p&gt;&#xA;&lt;p&gt;And buyers do their homework before talking to sales. They read content and cross-check sources long before they reach out. That means your brand needs to earn trust before the first call.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Sticky Factor</title>
+      <link>https://carney.wiki/blog/sticky/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/sticky/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/glue.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;marketing-its-not-just-about-sellingits-about-sticking&#34;&gt;Marketing: It’s Not Just About Selling—It’s About Sticking&lt;/h1&gt;&#xA;&lt;p&gt;Let’s be real for a second: marketing isn’t just about converting customers; it’s about &lt;em&gt;haunting&lt;/em&gt; them. You know the drill—you need a solution, and the first brand that pops into your head isn’t necessarily the best one. It’s the one that’s been camping out in your brain rent-free, showing up over and over like your favorite meme.&lt;/p&gt;&#xA;&lt;p&gt;That’s the game. Marketing isn’t just about moving people down a funnel; it’s about making sure you’re the brand they remember when it’s go-time. And the secret sauce to making that happen? &lt;strong&gt;Visibility.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kintsugi &#43; Antifragility &#43; Leadership</title>
+      <link>https://carney.wiki/blog/kintsugi-antifragility/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/kintsugi-antifragility/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/bowl.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;embracing-imperfections-what-kintsugi-and-antifragility-teach-us-about-leadership&#34;&gt;Embracing Imperfections: What Kintsugi and Antifragility Teach Us About Leadership&lt;/h1&gt;&#xA;&lt;p&gt;In the cracks of broken pottery, the Japanese art of &lt;strong&gt;Kintsugi&lt;/strong&gt; finds beauty. Fragments are rejoined with lacquer and dusted with gold, not to mask the damage but to celebrate it. This ancient practice transforms breakage into artistry, symbolizing the resilience of imperfection. Kintsugi reminds us to value what’s broken, embrace its history, and let its scars shine.&lt;/p&gt;&#xA;&lt;p&gt;This philosophy resonates deeply with the modern concept of &lt;strong&gt;antifragility&lt;/strong&gt;, as introduced by Nassim Nicholas Taleb in his groundbreaking work &lt;em&gt;Antifragile: Things That Gain from Disorder&lt;/em&gt;. Where Kintsugi focuses on physical repair and symbolic growth, antifragility thrives on uncertainty, volatility, and challenge. It’s not just about surviving adversity; it’s about becoming stronger because of it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shameful Deception: Exposing the Scandal of Fake Speakers</title>
+      <link>https://carney.wiki/blog/fake-speakers/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/fake-speakers/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/fake-people.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-liars-at-devternity&#34;&gt;The liars at DevTernity&lt;/h2&gt;&#xA;&lt;p&gt;Anna Boyko, touted as a featured speaker at DevTernity, was presented with an impressive profile that left attendees in awe. However, attempts to verify her existence were met with an unsettling silence from Coinbase employees and Ethereum core contributors. The truth emerged: Anna Boyko was a figment of the organizers&amp;rsquo; imagination, a deliberate fabrication.&lt;/p&gt;&#xA;&lt;p&gt;But Boyko wasn&amp;rsquo;t the sole victim of this deceit. Alina Prokhoda, claimed to be a &amp;ldquo;Senior Engineer at WhatsApp, Microsoft MVP,&amp;rdquo; was another product of the organizers&amp;rsquo; deception. The ruse extended to JDKon, another event orchestrated by the same group, where a non-existent Natalie Stadler was introduced as a &amp;ldquo;Software Craftswoman at Coinbase.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unveiling the Unethical: How an AI-Powered SEO Heist Backfired</title>
+      <link>https://carney.wiki/blog/stealing-traffic/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/stealing-traffic/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/stealing-seo.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;In the world of digital marketing, ethical practices are the cornerstone of sustainable success. Unfortunately, some individuals have taken a detour into the unethical, as revealed by a recent confession: &amp;ldquo;We pulled off an SEO heist using AI.&amp;rdquo;&lt;/p&gt;&#xA;&lt;h2 id=&#34;heres-a-breakdown-of-the-operation&#34;&gt;Here&amp;rsquo;s a breakdown of the operation:&lt;/h2&gt;&#xA;&lt;h3 id=&#34;the-scheme&#34;&gt;The Scheme&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Sitemap Pilfering: The culprits exported a competitor&amp;rsquo;s sitemap, a bold move into ethically murky territory.&lt;/li&gt;&#xA;&lt;li&gt;Automated Content Creation: Turning the stolen URLs into article titles, they unleashed the power of AI to generate a staggering 1,800 articles at scale.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;the-outcome&#34;&gt;The Outcome&lt;/h3&gt;&#xA;&lt;p&gt;After 18 months, the illicit operation boasted impressive, yet ill-gotten gains:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why Old Isn&#39;t Always Wrong</title>
+      <link>https://carney.wiki/blog/old-marketing/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/old-marketing/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/time.jpg&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Marketing people love to pretend anything older than six months belongs in a museum. New channel? Amazing. New acronym? Even better. Old tactic with proven economics? Apparently embarrassing unless a consultant rebrands it.&lt;/p&gt;&#xA;&lt;p&gt;That is a mistake. Old does not automatically mean wrong. Sometimes it just means neglected. The real job is not worshipping novelty. It is staying agile enough to know when a forgotten tactic deserves another look.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Content Gating</title>
+      <link>https://carney.wiki/blog/content-gating/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/content-gating/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/gate.png&#34; alt=&#34;stack&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;content-gating-policies&#34;&gt;Content Gating Policies&lt;/h2&gt;&#xA;&lt;p&gt;You seek to exchange personal data for the valuable content meticulously created, all while endeavoring to establish yourselves as thought leaders with authority in your space . Striking a delicate balance between these goals is really crucial, recognizing that trust is the linchpin for success. Without trust from prospects, even the most finely tuned gated content strategy may yield subpar results.&lt;/p&gt;&#xA;&lt;p&gt;All gated content strategies are carefully tailored to engage prospects in the middle to later stages of their buyer&amp;rsquo;s journey. These individuals are delving into their pain points, seeking more profound and specific insights beyond the ungated content they&amp;rsquo;ve already consumed. Aligning the gate strategy with content mapping becomes imperative, focusing on the later stages of the buyer&amp;rsquo;s journey.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

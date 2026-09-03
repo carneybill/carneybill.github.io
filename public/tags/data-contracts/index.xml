@@ -1,6 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Contracts on carney.wiki</title><link>https://carney.wiki/tags/data-contracts/</link><description>Recent content in Data Contracts on carney.wiki</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 04 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/data-contracts/index.xml" rel="self" type="application/rss+xml"/><item><title>How AI Clarifies and Fixes the Modern Data Stack</title><link>https://carney.wiki/blog/from-tool-sprawl-to-an-operational-data-platform/</link><pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/from-tool-sprawl-to-an-operational-data-platform/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/sprawl.jpg" alt="Operational data platform security"&gt;&lt;/p&gt;
-&lt;p&gt;The modern data stack is incredible.&lt;/p&gt;
-&lt;p&gt;It is also exhausting.&lt;/p&gt;
-&lt;p&gt;Cloud elasticity, open table formats, modular tooling, and managed services let small teams do work that used to require a data center and a small army. That is the good news.&lt;/p&gt;
-&lt;p&gt;The bad news is that the same modularity created tool sprawl, half-finished pipelines, unclear ownership, and incident channels that never sleep.&lt;/p&gt;
-&lt;p&gt;Now AI is walking into that environment and asking for access.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Contracts on carney.wiki</title>
+    <link>https://carney.wiki/tags/data-contracts/</link>
+    <description>Recent content in Data Contracts on carney.wiki</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 04 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carney.wiki/tags/data-contracts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How AI Clarifies and Fixes the Modern Data Stack</title>
+      <link>https://carney.wiki/blog/from-tool-sprawl-to-an-operational-data-platform/</link>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://carney.wiki/blog/from-tool-sprawl-to-an-operational-data-platform/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carney.wiki/blog/assets/sprawl.jpg&#34; alt=&#34;Operational data platform security&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The modern data stack is incredible.&lt;/p&gt;&#xA;&lt;p&gt;It is also exhausting.&lt;/p&gt;&#xA;&lt;p&gt;Cloud elasticity, open table formats, modular tooling, and managed services let small teams do work that used to require a data center and a small army. That is the good news.&lt;/p&gt;&#xA;&lt;p&gt;The bad news is that the same modularity created tool sprawl, half-finished pipelines, unclear ownership, and incident channels that never sleep.&lt;/p&gt;&#xA;&lt;p&gt;Now AI is walking into that environment and asking for access.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

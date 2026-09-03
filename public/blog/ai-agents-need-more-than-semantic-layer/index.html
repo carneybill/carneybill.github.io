@@ -1,31 +1,572 @@
-<!doctype html><html lang=en dir=ltr><head><meta charset=UTF-8><meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1"><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta http-equiv=Content-Security-Policy content="default-src 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' https://www.google-analytics.com https://www.googletagmanager.com; connect-src 'self' https://www.google-analytics.com https://www.googletagmanager.com https://www.googleadservices.com https://googleads.g.doubleclick.net https://www.google.com https://td.doubleclick.net; frame-src https://www.googletagmanager.com https://td.doubleclick.net; font-src 'self' data:; object-src 'none'; base-uri 'self'; form-action 'self' https://formspree.io;"><meta name=referrer content="strict-origin-when-cross-origin"><title>AI Agents Need More Than a Semantic Layer | carney.wiki</title><meta name=description content><meta property="og:url" content="https://carney.wiki/blog/ai-agents-need-more-than-semantic-layer/"><meta property="og:site_name" content="carney.wiki"><meta property="og:title" content="AI Agents Need More Than a Semantic Layer"><meta property="og:description" content="A semantic layer is not an AI strategy.
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' https://www.google-analytics.com https://www.googletagmanager.com; connect-src 'self' https://www.google-analytics.com https://www.googletagmanager.com https://www.googleadservices.com https://googleads.g.doubleclick.net https://www.google.com https://td.doubleclick.net; frame-src 'self' https://www.googletagmanager.com https://td.doubleclick.net; font-src 'self' data:; object-src 'none'; base-uri 'self'; form-action 'self' https://formspree.io;">
+  <meta name="referrer" content="strict-origin-when-cross-origin"><title>AI Agents Need More Than a Semantic Layer | carney.wiki</title>
+  <meta name="description" content="A semantic layer helps AI understand business meaning. But useful enterprise agents need more than meaning. They need memory, procedures, governance, tool …">
+  <link rel="canonical" href="https://carney.wiki/blog/ai-agents-need-more-than-semantic-layer/">
+  
+  <meta property="og:url" content="https://carney.wiki/blog/ai-agents-need-more-than-semantic-layer/">
+  <meta property="og:site_name" content="carney.wiki">
+  <meta property="og:title" content="AI Agents Need More Than a Semantic Layer">
+  <meta property="og:description" content="A semantic layer is not an AI strategy.
 It is one important part of one.
 That distinction matters because a lot of companies are still treating AI like a smarter search box. They connect a model to documents, databases, dashboards, SaaS tools, or internal knowledge bases and expect useful work to fall out the other side.
 Sometimes it does.
-More often, the model gives a plausible answer, misses the business logic, forgets the prior context, or takes an action without understanding how the work is actually supposed to get done."><meta property="og:locale" content="en"><meta property="og:type" content="article"><meta property="article:section" content="blog"><meta property="article:published_time" content="2026-06-01T00:00:00+00:00"><meta property="article:modified_time" content="2026-06-01T00:00:00+00:00"><meta property="article:tag" content="AI Agents"><meta property="article:tag" content="Semantic Layer"><meta property="article:tag" content="Cognitive Architecture"><meta property="article:tag" content="MCP"><meta property="article:tag" content="A2A"><meta property="article:tag" content="Agentic AI"><meta property="og:image" content="https://carney.wiki/blog/assets/goldfish.jpg"><meta property="og:see_also" content="https://carney.wiki/blog/ai-critic-found-proof-ops/"><meta property="og:see_also" content="https://carney.wiki/blog/ai-era-abm-without-theatre/"><meta property="og:see_also" content="https://carney.wiki/blog/ai-era-social-community-rails/"><meta property="og:see_also" content="https://carney.wiki/blog/ai-era-make-yes-safe/"><meta property="og:see_also" content="https://carney.wiki/blog/ai-era-proof-as-inventory/"><meta property="og:see_also" content="https://carney.wiki/blog/ai-era-website-verification-hub/"><meta itemprop=name content="AI Agents Need More Than a Semantic Layer"><meta itemprop=description content="A semantic layer is not an AI strategy.
+More often, the model gives a plausible answer, misses the business logic, forgets the prior context, or takes an action without understanding how the work is actually supposed to get done.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="blog">
+    <meta property="article:published_time" content="2026-06-01T00:00:00+00:00">
+    <meta property="article:modified_time" content="2026-06-01T00:00:00+00:00">
+    <meta property="article:tag" content="AI Agents">
+    <meta property="article:tag" content="Semantic Layer">
+    <meta property="article:tag" content="Cognitive Architecture">
+    <meta property="article:tag" content="MCP">
+    <meta property="article:tag" content="A2A">
+    <meta property="article:tag" content="Agentic AI">
+    <meta property="og:image" content="https://carney.wiki/blog/assets/goldfish.jpg">
+      <meta property="og:see_also" content="https://carney.wiki/blog/i-audited-my-own-website-24-out-of-50/">
+      <meta property="og:see_also" content="https://carney.wiki/blog/ai-critic-found-proof-ops/">
+      <meta property="og:see_also" content="https://carney.wiki/blog/ai-era-abm-without-theatre/">
+      <meta property="og:see_also" content="https://carney.wiki/blog/ai-era-social-community-rails/">
+      <meta property="og:see_also" content="https://carney.wiki/blog/ai-era-make-yes-safe/">
+      <meta property="og:see_also" content="https://carney.wiki/blog/ai-era-proof-as-inventory/">
+
+  
+  <meta itemprop="name" content="AI Agents Need More Than a Semantic Layer">
+  <meta itemprop="description" content="A semantic layer is not an AI strategy.
 It is one important part of one.
 That distinction matters because a lot of companies are still treating AI like a smarter search box. They connect a model to documents, databases, dashboards, SaaS tools, or internal knowledge bases and expect useful work to fall out the other side.
 Sometimes it does.
-More often, the model gives a plausible answer, misses the business logic, forgets the prior context, or takes an action without understanding how the work is actually supposed to get done."><meta itemprop=datePublished content="2026-06-01T00:00:00+00:00"><meta itemprop=dateModified content="2026-06-01T00:00:00+00:00"><meta itemprop=wordCount content="3095"><meta itemprop=image content="https://carney.wiki/blog/assets/goldfish.jpg"><meta itemprop=keywords content="AI Agents,Semantic Layer,Cognitive Architecture,MCP,A2A,Agentic AI"><meta name=twitter:card content="summary_large_image"><meta name=twitter:image content="https://carney.wiki/blog/assets/goldfish.jpg"><meta name=twitter:title content="AI Agents Need More Than a Semantic Layer"><meta name=twitter:description content="A semantic layer is not an AI strategy.
+More often, the model gives a plausible answer, misses the business logic, forgets the prior context, or takes an action without understanding how the work is actually supposed to get done.">
+  <meta itemprop="datePublished" content="2026-06-01T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2026-06-01T00:00:00+00:00">
+  <meta itemprop="wordCount" content="3095">
+  <meta itemprop="image" content="https://carney.wiki/blog/assets/goldfish.jpg">
+  <meta itemprop="keywords" content="AI Agents,Semantic Layer,Cognitive Architecture,MCP,A2A,Agentic AI">
+  
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://carney.wiki/blog/assets/goldfish.jpg">
+  <meta name="twitter:title" content="AI Agents Need More Than a Semantic Layer">
+  <meta name="twitter:description" content="A semantic layer is not an AI strategy.
 It is one important part of one.
 That distinction matters because a lot of companies are still treating AI like a smarter search box. They connect a model to documents, databases, dashboards, SaaS tools, or internal knowledge bases and expect useful work to fall out the other side.
 Sometimes it does.
-More often, the model gives a plausible answer, misses the business logic, forgets the prior context, or takes an action without understanding how the work is actually supposed to get done."><script async src="https://www.googletagmanager.com/gtag/js?id=G-861LVY2WMP"></script><script>var doNotTrack=!1,dnt=navigator.doNotTrack||window.doNotTrack||navigator.msDoNotTrack,doNotTrack=dnt=="1"||dnt=="yes";if(!doNotTrack){window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date),gtag("config","G-861LVY2WMP")}</script><script async src="https://www.googletagmanager.com/gtag/js?id=AW-18182076863"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date),gtag("config","AW-18182076863")</script><link rel="shortcut icon" href="/img/favicon.ico?v=0" type=image/x-icon><link rel=icon href="/img/favicon.ico?v=0" type=image/x-icon><link rel=stylesheet href=https://carney.wiki/style.main.min.67c1f4ec92f39d3353c528bf0847fe63f601ac897ea2f562ebeeee43edef6cdf.css integrity="sha256-Z8H07JLznTNTxSi/CEf+Y/YBrIl+ovVi6+7uQ+3vbN8=" media=screen><link rel=stylesheet href=/css/icomoon.css><link rel=stylesheet href=/css/simple-line-icons.css><link rel=stylesheet href=/css/custom.css></head><body><div class="grid-container single-sidebar"><header class=site-header role=banner><div class=site-header-inner><nav class=site-nav role=navigation aria-label="Primary navigation"><a class=site-brand href=https://carney.wiki/ title="Wiki is a Hawaiian word meaning 'quick'" aria-label=carney.wiki><span class=brand-lockup><span>carney</span><span class=brand-dot>.</span><span class=brand-accent>wiki</span></span></a><div class=site-links><a href=/about/ title="About Carney">About</a>
-<a href=/projects/ title="Current Projects">Projects</a>
-<a href=/offers/ title="AI-era marketing offers">Offers</a>
-<a href=/blog/ title=Insights>Insights</a>
-<a href=https://cal.com/bill-carney/60min title="Book a conversation" target=_blank rel="noopener noreferrer" class=nav-cta>Book a conversation</a>
-<button class="site-search-trigger dib v-mid" type=button aria-label="Search the site" aria-haspopup=dialog aria-controls=site-search-dialog aria-expanded=false data-site-search-open>
-<span class=icon-search aria-hidden=true></span></button></div></nav></div><div class=site-search-overlay id=site-search-dialog data-site-search-root data-site-search-index=/index.json hidden><div class=site-search-backdrop data-site-search-close></div><div class=site-search-panel role=dialog aria-modal=true aria-labelledby=site-search-title><div class=site-search-panel-header><span class="site-search-panel-icon icon-search" aria-hidden=true></span><div class=site-search-panel-copy><p class=site-search-title id=site-search-title>Search the site</p><p class=site-search-hint>Search posts, pages, and projects.</p></div><button class=site-search-close type=button aria-label="Close search" data-site-search-close>
-<span class=icon-close aria-hidden=true></span></button></div><label class=clip for=site-search-input>Search the site</label>
-<input class=site-search-input id=site-search-input type=search name=search placeholder="Type to search..." autocomplete=off spellcheck=false data-site-search-input><p class=site-search-status data-site-search-status>Start typing to search.</p><div class=site-search-results data-site-search-results></div></div></div></header><main class=post-main role=main><section class="post-shell post-shell--three-quarter"><article class=post-content><header class=post-header><div class=post-meta-line><a href=/categories/ai-automation/>AI & Automation</a>
-<time datetime=2026-06-01>June 1, 2026</time>
-<span>15 min read</span></div><h1>AI Agents Need More Than a Semantic Layer</h1><p class=post-subtitle>Why enterprise agents need working memory, semantic memory, procedural memory, and episodic memory</p><ul class=tag-list aria-label=Topics><li><a href=/tags/ai-agents/>AI agents</a></li><li><a href=/tags/semantic-layer/>semantic layer</a></li><li><a href=/tags/cognitive-architecture/>cognitive architecture</a></li><li><a href=/tags/mcp/>MCP</a></li><li><a href=/tags/a2a/>A2A</a></li><li><a href=/tags/agentic-ai/>agentic AI</a></li></ul></header><section class=post-body><p><img src=/blog/assets/goldfish.jpg alt="goldfish in an aquarium"></p><p>A semantic layer is not an AI strategy.</p><p>It is one important part of one.</p><p>That distinction matters because a lot of companies are still treating AI like a smarter search box. They connect a model to documents, databases, dashboards, SaaS tools, or internal knowledge bases and expect useful work to fall out the other side.</p><p>Sometimes it does.</p><p>More often, the model gives a plausible answer, misses the business logic, forgets the prior context, or takes an action without understanding how the work is actually supposed to get done.</p><p>That is not just an AI problem.</p><p>It is an architecture problem.</p><p>A recent AtScale post argues that SaaS companies need a semantic layer for AI. I agree with the core point. If AI is going to reason over business data, it needs access to business meaning, not just raw tables, fields, and application objects.</p><p>Metrics need definitions. Entities need relationships. Revenue, pipeline, churn, account health, utilization, inventory, claims, and customer behavior need a shared business vocabulary.</p><p>Without that layer, the AI is forced to guess. And when the model has to guess which definition is authoritative, which field is trusted, or how one business object relates to another, it may still produce a confident answer.</p><p>That is the uncomfortable part.</p><p>The answer can sound reasonable and still be wrong in a way that creates operating risk.</p><p>But here is the thing: meaning is not the same as action.</p><p>A semantic layer can tell an agent what pipeline coverage means. It does not automatically tell the agent what to do when pipeline coverage falls below target in the enterprise segment for two consecutive weeks.</p><p>That requires more than semantics.</p><p>It requires memory, procedures, context, feedback, permissions, and governance.</p><p>Another way to frame it: most agent failures are either goldfish problems or elephant problems.</p><p>The goldfish problem is short memory. The agent cannot hold the current goal, constraint, approval, or recent decision long enough to finish real work.</p><p>The elephant problem is long memory. The agent has no durable record of what the business means, what workflow to follow, what happened before, or what lessons should carry forward.</p><p>Good enterprise agents need both. They need enough goldfish memory to stay coherent in the moment and enough elephant memory to learn from the organization&rsquo;s operating history.</p><h2 id=the-semantic-layer-is-necessary-but-not-sufficient>The semantic layer is necessary, but not sufficient</h2><p>The strongest version of the semantic-layer argument is not really about data engineering.</p><p>It is about business meaning.</p><p>A good semantic layer tells the AI what things mean inside the business. It helps prevent every team, tool, and dashboard from inventing its own definition of the same metric. It gives an agent a better chance of answering questions like:</p><p>What is a qualified opportunity?</p><p>What counts as expansion revenue?</p><p>Which accounts are at risk?</p><p>What does utilization mean here?</p><p>Which activities influenced pipeline versus created pipeline?</p><p>That is valuable. For SaaS companies, it may become part of the product moat. The product is no longer just the workflow. The product is also the encoded business understanding behind the workflow.</p><p>But a semantic layer mostly answers one question:</p><p>What does this mean?</p><p>Enterprise agents need to answer a harder set of questions.</p><p>What am I doing right now?</p><p>What does this concept mean in this domain?</p><p>What workflow should I follow?</p><p>What happened last time?</p><p>What am I allowed to know, remember, share, and do?</p><p>That is a different architecture.</p><h2 id=ai-agents-need-a-memory-architecture>AI agents need a memory architecture</h2><p>The paper &ldquo;Cognitive Architectures for Language Agents&rdquo; offers a useful way to think about this. The authors describe language agents as systems built around memory, action, and decision-making. They distinguish between short-term working memory and several types of long-term memory: semantic, episodic, and procedural.</p><p>That maps cleanly to what enterprise AI systems actually need.</p><p>A useful agent should not be one giant prompt. It should feel more like an operating system for work.</p><p>It needs temporary context for the task at hand. It needs governed business knowledge. It needs reusable skills. It needs a record of what happened before. And it needs a decision process for choosing what to do next.</p><p>That is why the goldfish-and-elephant distinction is useful. Working memory keeps the agent from losing the thread right now. Long-term memory keeps the agent from starting over every time.</p><p>The simple version looks like this:</p><ul><li>Working memory: What am I doing right now?</li><li>Semantic memory: What do these concepts mean in my domain?</li><li>Procedural memory: What skills and workflows am I allowed to perform?</li><li>Episodic memory: What have I experienced before, and what worked?</li></ul><p>The power is not in any one memory type.</p><p>The power is in the combination.</p><h2 id=working-memory-is-the-live-operating-context>Working memory is the live operating context</h2><p>Working memory is the agent&rsquo;s active context.</p><p>It includes the current request, current goal, relevant constraints, recent observations, open decisions, and the state of the task being performed.</p><p>For a marketing agent, working memory might include the campaign being planned, the audience being targeted, the current budget, the product message being tested, the deadline, the open approvals, and the most recent instruction from the human owner.</p><p>Working memory is short-lived, but it is essential. Without it, the agent cannot maintain coherence across a multi-step task. It may answer one question correctly and then lose the plot three steps later.</p><p>That is why context windows alone are not enough.</p><p>A long context window may hold more information. But working memory is about structure, not just volume. The agent needs to know what is active, what is relevant, what has already been decided, and what should be ignored.</p><p>For business AI, this is where the live operating context sits.</p><h2 id=semantic-memory-is-where-meaning-lives>Semantic memory is where meaning lives</h2><p>Semantic memory is where the semantic layer fits.</p><p>This is the agent&rsquo;s structured knowledge about the business: definitions, entities, relationships, metrics, taxonomies, policies, products, customers, roles, segments, and rules.</p><p>For a SaaS company, semantic memory may include the definition of annual recurring revenue, net revenue retention, gross revenue retention, pipeline, churn, expansion, and activation. It may define the relationship between accounts, opportunities, contacts, products, subscriptions, tickets, and usage events.</p><p>It may also include the company&rsquo;s official segmentation model, product hierarchy, approved claim language, data governance rules, and the distinction between a marketing qualified lead, a sales accepted lead, and a sales qualified opportunity.</p><p>This is where the AtScale argument is strongest.</p><p>If AI does not understand the business meaning of the data, it cannot reliably reason over the business. It may retrieve a field called amount without knowing whether that means booked revenue, forecast revenue, invoice amount, contract value, or opportunity value.</p><p>A semantic layer reduces that ambiguity.</p><p>It also reduces one of the common conditions that leads to hallucination: uncertainty disguised as confidence. When business meaning is not explicit, the model may infer meaning from field names, nearby text, or statistical patterns.</p><p>Sometimes that inference is right.</p><p>Sometimes it is dangerously wrong.</p><p>But semantic memory should not be confused with all of memory. It is the &ldquo;what things mean&rdquo; layer. It is not the &ldquo;what should I do,&rdquo; &ldquo;what happened last time,&rdquo; or &ldquo;how do I perform this task&rdquo; layer.</p><h2 id=procedural-memory-is-where-ai-becomes-operational>Procedural memory is where AI becomes operational</h2><p>Procedural memory is the missing layer in many AI strategies.</p><p>This is where skills live.</p><p>A skill is not just a prompt. It is a reusable procedure with defined inputs, steps, tools, checks, outputs, and escalation rules.</p><p>In human terms, procedural memory is the difference between knowing what a campaign is and knowing how to launch one.</p><p>For a marketing operations agent, procedural memory might include skills for building a campaign brief, creating a launch workback plan, reviewing a landing page against claim policy, generating a weekly pipeline gap analysis, preparing a sales follow-up sequence, or checking whether a case study has enough proof to support a claim.</p><p>For a finance agent, it might include invoice reconciliation, anomaly detection, close preparation, or budget variance explanation.</p><p>For a customer success agent, it might include renewal-risk analysis, support-history summarization, QBR preparation, or next-best-action recommendations based on usage and ticket patterns.</p><p>This is where governance becomes critical.</p><p>Some procedures should be read-only. Some should require approval. Some should be allowed to draft but not send. Some should be allowed to recommend but not execute. Some should never be available to the agent at all.</p><p>A semantic layer can tell an agent what churn risk means.</p><p>Procedural memory tells it how to investigate churn risk, what evidence to gather, what playbook to follow, and when to escalate to a human.</p><p>That is the operating difference.</p><h2 id=episodic-memory-is-where-experience-starts-to-compound>Episodic memory is where experience starts to compound</h2><p>Episodic memory stores experience.</p><p>It is the long-term record of prior interactions, decisions, outcomes, campaigns, customer conversations, approvals, mistakes, exceptions, and lessons learned.</p><p>For business AI, episodic memory might include prior campaigns, accepted and rejected recommendations, sales objections, legal approvals, account interactions, renewal cycles, implementation delays, budget exceptions, and performance outcomes.</p><p>This is where AI can start to improve.</p><p>But there is an important caveat: episodic memory does not automatically equal learning.</p><p>It becomes learning only when the agent can store the episode, retrieve the right prior episode at the right moment, reason over what happened, and convert that experience into better future action.</p><p>Otherwise, it is just a log with better branding.</p><p>In marketing terms, episodic memory lets the agent learn that one campaign angle produced meetings but weak opportunities, that legal rejected a certain claim pattern, that enterprise buyers responded better to implementation-risk content than ROI language, or that a particular follow-up sequence improved conversion.</p><p>The agent is no longer starting from a generic playbook.</p><p>It is learning from the organization&rsquo;s actual operating history.</p><h2 id=a-practical-example>A practical example</h2><p>Imagine an AI agent helping a VP of Marketing diagnose a pipeline gap.</p><p>The current request is simple:</p><p>&ldquo;Explain why enterprise pipeline is below target this month and recommend actions before the forecast call.&rdquo;</p><p>Working memory holds the live task: the request, deadline, segment, constraints, open questions, and current state of the analysis.</p><p>Semantic memory defines pipeline, enterprise segment, target accounts, opportunity stages, campaign attribution, source definitions, and what &ldquo;below target&rdquo; means in this business.</p><p>Procedural memory supplies the analysis skill: pull pipeline by segment, compare to target, inspect conversion by stage, check campaign activity, review sales follow-up, generate recommendations, and flag confidence level.</p><p>Episodic memory adds experience: the same pattern happened two quarters ago when webinar follow-up lagged, paid search spend shifted too late, and the enterprise nurture sequence underperformed.</p><p>Now the agent can do more than summarize a dashboard.</p><p>It can reason in context, follow a repeatable procedure, learn from prior episodes, and recommend a next action.</p><p>That is the difference between AI as a reporting layer and AI as an operating layer.</p><h2 id=where-mcp-and-a2a-fit>Where MCP and A2A fit</h2><p>This is where Model Context Protocol (MCP) and Agent2Agent (A2A) enter the conversation.</p><p>They matter.</p><p>But they are not memory types. They are connection and coordination protocols.</p><p>MCP is best understood as an agent-to-tool and agent-to-context connection layer. It helps AI applications connect to external systems, data sources, tools, and workflows. In this framework, MCP supports retrieval and grounding. It lets an agent reach into systems like customer relationship management, project management, analytics, file storage, support, code, or internal databases.</p><p>A2A is different. A2A is an agent-to-agent coordination layer. It helps one agent communicate with another agent, exchange information, and coordinate work across systems.</p><p>The distinction is simple.</p><p>MCP connects agents to systems.</p><p>A2A connects agents to agents.</p><p>Memory makes each agent useful.</p><p>Governance decides what each agent is allowed to know, remember, share, and do.</p><p>Connection is not cognition.</p><p>A badly designed agent with MCP access is just a more dangerous chatbot with better reach. A swarm of agents connected by A2A is not automatically an operating system. Without memory, procedures, permissions, evaluation, and audit trails, it is just distributed improvisation.</p><h2 id=the-second-agent-can-have-memory-too>The second agent can have memory too</h2><p>A2A does not mean one smart agent talks to one dumb service.</p><p>In the better version, the second agent can also be a full cognitive agent with its own working, semantic, procedural, and episodic memory.</p><p>A marketing agent may maintain working memory for the current campaign, semantic memory for funnel definitions and ideal customer profile, procedural memory for campaign execution skills, and episodic memory from prior launches.</p><p>A finance agent may maintain working memory for the current budget request, semantic memory for accounting definitions, procedural memory for approval and variance-analysis workflows, and episodic memory from prior budget cycles.</p><p>A legal agent may maintain working memory for the current claim review, semantic memory for approved language and risk categories, procedural memory for review workflows, and episodic memory from prior rejected claims, exceptions, and approvals.</p><p>A2A is the protocol that lets those agents collaborate. It is not a substitute for memory. It is the coordination layer between memory-bearing agents.</p><p>That creates a product and governance problem.</p><p>Memory does not have to be centralized. In many enterprise systems, it probably should not be.</p><p>A legal agent should not have the same episodic memory as a sales agent. A finance agent should not have the same procedural permissions as a marketing agent. A customer success agent may need account history that a content agent should never see.</p><p>Once agents have their own memories, A2A becomes a trust boundary.</p><p>When one agent asks another for help, the system needs to decide what context can be shared, what should remain private, whether the receiving agent can store the interaction, whether it can use that episode to improve future behavior, whether it can pass the request to a third agent, and whether it can take action or only recommend action.</p><p>Those are not just protocol questions.</p><p>They are governance, security, and product-design questions.</p><h2 id=why-this-matters-for-saas-companies>Why this matters for SaaS companies</h2><p>SaaS companies are under pressure to show that AI is not just a feature wrapper.</p><p>Customers are starting to ask harder questions.</p><p>Does the AI understand our business?</p><p>Can it act safely inside our workflow?</p><p>Can it explain its recommendations?</p><p>Can it improve based on our history?</p><p>Can it use our definitions instead of generic internet definitions?</p><p>Can it coordinate with other agents?</p><p>Can it respect approvals, permissions, and audit requirements?</p><p>A semantic layer helps with business meaning. MCP helps with tool and system access. A2A helps with agent coordination.</p><p>But the bigger strategic question is whether the product has an agent-ready architecture.</p><p>That means the product needs to expose more than data. It needs to expose meaning, skills, memory, coordination, and governance.</p><p>The strategic questions are now:</p><ul><li>What is our semantic layer, what native skills should our product expose, what episodic memory should our AI preserve, and what working memory does the agent need during live work?</li><li>Which actions are allowed, restricted, or approval-gated, and which memories are customer-specific, tenant-specific, role-specific, or global?</li><li>Which memories can the agent write to, which are read-only, and which must be forgotten?</li><li>Which tools are available through MCP, which agents are available through A2A, and what context can agents share with each other?</li><li>What must be logged, reviewed, approved, or explained?</li></ul><p>Those are not purely technical questions anymore.</p><p>They are product strategy questions.</p><h2 id=the-real-moat-is-operational-memory>The real moat is operational memory</h2><p>The semantic layer may become a SaaS superpower.</p><p>But the broader moat is operational memory.</p><p>The best AI systems will know what the business means, how the work gets done, what is happening right now, and what happened before. They will also know which tools they can access, which agents they can coordinate with, and where the governance boundaries sit.</p><p>That is how AI moves from chat to execution.</p><p>For marketing teams, this distinction matters a lot.</p><p>Marketing does not suffer from a lack of content, dashboards, or tools. It suffers from fragmented execution. Work is scattered across calendars, spreadsheets, project boards, documents, analytics tools, customer relationship management fields, Slack threads, and agency updates.</p><p>An AI marketing operator needs all four memory types.</p><p>It needs working memory to manage the current campaign.</p><p>It needs semantic memory to understand the company&rsquo;s ideal customer profile, funnel stages, segments, offers, claims, metrics, and attribution model.</p><p>It needs procedural memory to execute repeatable marketing skills.</p><p>It needs episodic memory to learn from prior launches, approvals, misses, wins, and postmortems.</p><p>It may use MCP to access campaign systems, analytics, project plans, documents, dashboards, and customer data. It may use A2A to coordinate with finance, legal, sales operations, customer success, or analytics agents.</p><p>Without that full architecture, AI becomes another layer of commentary on top of already fragmented work.</p><p>With it, AI can become part of the operating system.</p><h2 id=the-bottom-line>The bottom line</h2><p>The semantic layer matters.</p><p>It gives AI a shared understanding of business meaning. It reduces one of the major causes of hallucination: forcing the model to infer context that should have been explicit.</p><p>But AI agents need more than meaning.</p><p>They need current context, governed knowledge, reusable procedures, lived experience, tool access, agent coordination, and controls.</p><p>The next phase of enterprise AI will not be won by companies that simply connect a large language model to their application.</p><p>It will be won by companies that design memory architectures around how work actually happens.</p><p>Working memory tells the agent what it is doing right now.</p><p>Semantic memory tells the agent what concepts mean in the domain.</p><p>Procedural memory tells the agent what skills and workflows it is allowed to perform.</p><p>Episodic memory tells the agent what it has experienced before and what worked.</p><p>MCP connects agents to tools and systems.</p><p>A2A connects agents to other agents.</p><p>Governance decides what each agent can know, remember, share, and do.</p><p>Put together, those layers turn AI from a clever interface into a system that can operate, learn, coordinate, and improve.</p><p>That is where the real enterprise value will come from.</p><h2 id=sources-and-references>Sources and references</h2><ol><li>Theodore R. Sumers, Shunyu Yao, Karthik Narasimhan, and Thomas L. Griffiths, &ldquo;Cognitive Architectures for Language Agents,&rdquo; Transactions on Machine Learning Research, 2024.</li><li>AtScale, &ldquo;Semantic Layer SaaS AI Strategy,&rdquo; AtScale blog.</li><li>Anthropic, &ldquo;Introducing the Model Context Protocol,&rdquo; 2024.</li><li>Model Context Protocol documentation, &ldquo;What is the Model Context Protocol?&rdquo;</li><li>Google Developers Blog, &ldquo;Announcing the Agent2Agent Protocol,&rdquo; 2025.</li><li>Patrick Lewis et al., &ldquo;Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks,&rdquo; Advances in Neural Information Processing Systems, 2020.</li><li>Shunyu Yao et al., &ldquo;ReAct: Synergizing Reasoning and Acting in Language Models,&rdquo; 2022.</li><li>Noah Shinn et al., &ldquo;Reflexion: Language Agents with Verbal Reinforcement Learning,&rdquo; 2023.</li><li>Joon Sung Park et al., &ldquo;Generative Agents: Interactive Simulacra of Human Behavior,&rdquo; 2023.</li><li>Guanzhi Wang et al., &ldquo;Voyager: An Open-Ended Embodied Agent with Large Language Models,&rdquo; 2023.</li></ol><p>Photo by <a href="https://unsplash.com/@skypeople101?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">shuvrodeep dutta</a> on <a href="https://unsplash.com/photos/a-close-up-of-a-goldfish-in-an-aquarium-XyYXk3wRTT4?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p></section><footer class=post-footer><div class="post-pagination dt w-100 mt4 mb2"><a class="prev dtc pr2 tl v-top fw6" href=https://carney.wiki/blog/ai-era-make-yes-safe/>&larr; Make Yes Safe</a>
-<a class="next dtc pl2 tr v-top fw6" href=https://carney.wiki/blog/ai-era-social-community-rails/>Social and Community Are Distribution Rails &rarr;</a></div></footer></article><aside class=post-sidebar aria-label="Post details"><nav class="post-sidebar-block post-sidebar-toc" aria-label="Table of contents"><p class=post-sidebar-label>On this page</p><nav id=TableOfContents><ul><li><a href=#the-semantic-layer-is-necessary-but-not-sufficient>The semantic layer is necessary, but not sufficient</a></li><li><a href=#ai-agents-need-a-memory-architecture>AI agents need a memory architecture</a></li><li><a href=#working-memory-is-the-live-operating-context>Working memory is the live operating context</a></li><li><a href=#semantic-memory-is-where-meaning-lives>Semantic memory is where meaning lives</a></li><li><a href=#procedural-memory-is-where-ai-becomes-operational>Procedural memory is where AI becomes operational</a></li><li><a href=#episodic-memory-is-where-experience-starts-to-compound>Episodic memory is where experience starts to compound</a></li><li><a href=#a-practical-example>A practical example</a></li><li><a href=#where-mcp-and-a2a-fit>Where MCP and A2A fit</a></li><li><a href=#the-second-agent-can-have-memory-too>The second agent can have memory too</a></li><li><a href=#why-this-matters-for-saas-companies>Why this matters for SaaS companies</a></li><li><a href=#the-real-moat-is-operational-memory>The real moat is operational memory</a></li><li><a href=#the-bottom-line>The bottom line</a></li><li><a href=#sources-and-references>Sources and references</a></li></ul></nav></nav><div class=post-sidebar-block><p class=post-sidebar-label>Posted on:</p><p class=post-sidebar-value><time datetime=2026-06-01>June 1, 2026</time></p></div><div class=post-sidebar-block><p class=post-sidebar-label>Length:</p><p class=post-sidebar-value>15 minute read, 3095 words</p></div><div class=post-sidebar-block><p class=post-sidebar-label>Categories:</p><ul class=post-sidebar-list><li><a href=/categories/ai-automation/>AI & Automation</a></li><li><a href=/categories/data-analytics/>Data & Analytics</a></li><li><a href=/categories/marketing-operations/>Marketing Operations</a></li></ul></div><div class=post-sidebar-block><p class=post-sidebar-label>Tags:</p><ul class=post-sidebar-list><li><a href=/tags/ai-agents/>AI agents</a></li><li><a href=/tags/semantic-layer/>semantic layer</a></li><li><a href=/tags/cognitive-architecture/>cognitive architecture</a></li><li><a href=/tags/mcp/>MCP</a></li><li><a href=/tags/a2a/>A2A</a></li><li><a href=/tags/agentic-ai/>agentic AI</a></li></ul></div><div class="post-sidebar-block post-sidebar-see-also"><p class=post-sidebar-label>See Also:</p><ul class="post-sidebar-list post-sidebar-list--stacked"><li><a href=/blog/enterprise-context-layer-is-an-operating-system/>The Enterprise Context Layer Is an Operating System</a></li></ul></div></aside></section><section class="related-insights related-insights--bottom" aria-label="Related insights"><div class=section-split><div class=section-header><p class=section-eyebrow>Related insights</p><h2>Keep reading.</h2></div><a class=text-link href=/blog/>Visit insights</a></div><div class=insight-grid><article class=insight-card><a class=insight-card-link href=/blog/enterprise-context-layer-is-an-operating-system/ aria-label="Read The Enterprise Context Layer Is an Operating System"><span class=insight-card-media aria-hidden=true><img src=/blog/assets/sprawl.jpg alt loading=lazy></span><div class=insight-card-meta><span>AI & Automation</span>
-<time datetime=2026-07-01>Jul 1, 2026</time></div><h3>The Enterprise Context Layer Is an Operating System</h3><p class=insight-card-subtitle>LLMs reason. RAG grounds. Agents execute. MCP integrates. The context layer governs what the system knows, does, remembers, and improves.</p><p>Most companies are buying LLMs, RAG, agents, and MCP like separate products. They are really four layers of one architecture. The missing enterprise layer is governed context: meaning, skills, security, and recursive learning.</p><span class=card-button>Read insight</span></a></article></div></section></main><footer class=site-footer role=contentinfo><nav class=site-footer-nav aria-label="Footer navigation"><p class=site-copyright>&copy; 2026 Carney, all rights reserved.</p><div class=site-footer-links><a href=https://clients.carney.wiki/ title="Client login">Clients</a>
-<a href=/projects/ title="Current Projects">Projects</a>
-<a href=/blog/ title=Insights>Insights</a>
-<a href=/offers/ title="AI-era marketing offers">Offers</a>
-<a href=https://cal.com/bill-carney/60min title="Book a conversation">Contact</a>
-<a href=/index.xml title="RSS Feed">RSS</a>
-<a href=https://amzn.to/4bKdyte title="Buy my Book">Book</a></div></nav></footer></div><script defer src=/js/site-search.js></script><script defer src=/js/offer-events.js></script></body></html>
+More often, the model gives a plausible answer, misses the business logic, forgets the prior context, or takes an action without understanding how the work is actually supposed to get done.">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Bill Carney"},"dateModified":"2026-06-01T00:00:00Z","datePublished":"2026-06-01T00:00:00Z","description":"A semantic layer helps AI understand business meaning. But useful enterprise agents need more than meaning. They need memory, procedures, governance, tool …","headline":"AI Agents Need More Than a Semantic Layer","image":"https://carney.wiki/blog/assets/goldfish.jpg","name":"AI Agents Need More Than a Semantic Layer","url":"https://carney.wiki/blog/ai-agents-need-more-than-semantic-layer/"}</script>
+  
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-861LVY2WMP"></script>
+      <script>
+        var doNotTrack = false;
+        if ( true ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-861LVY2WMP');
+        }
+      </script>
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-18182076863"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'AW-18182076863');
+  </script>
+  <link rel="shortcut icon" href="/img/favicon.ico?v=0" type="image/x-icon">
+  <link rel="icon" href="/img/favicon.ico?v=0" type="image/x-icon">
+  
+  
+  <link rel="stylesheet" href="https://carney.wiki/style.main.min.67c1f4ec92f39d3353c528bf0847fe63f601ac897ea2f562ebeeee43edef6cdf.css" integrity="sha256-Z8H07JLznTNTxSi/CEf&#43;Y/YBrIl&#43;ovVi6&#43;7uQ&#43;3vbN8=" media="screen">
+  
+   <link rel="stylesheet" href="/css/icomoon.css"> 
+   <link rel="stylesheet" href="/css/simple-line-icons.css">
+   
+    
+  <link rel="stylesheet" href="/css/custom.css?v=20260902-2">
+</head>
+<body>
+      <div class="grid-container single-sidebar"><header class="site-header" role="banner">
+  <div class="site-header-inner">
+    <nav class="site-nav" role="navigation" aria-label="Primary navigation">
+      <a class="site-brand" href="https://carney.wiki/" title="Wiki is a Hawaiian word meaning &#39;quick&#39;" aria-label="carney.wiki">
+        <span class="brand-lockup"><span>carney</span><span class="brand-dot">.</span><span class="brand-accent">wiki</span></span>
+      </a>
+      <div class="site-links">
+        
+        
+        <a href="/about/" title="About Carney">About</a>
+        
+        
+        
+        <a href="/projects/" title="Current Projects">Projects</a>
+        
+        
+        
+        <a href="/offers/" title="AI-era marketing offers">Offers</a>
+        
+        
+        
+        <a href="/verification/carney-wiki/" title="Trust and verification">Verification</a>
+        
+        
+        
+        <a href="/blog/" title="Insights">Insights</a>
+        
+        
+        
+        <a href="https://cal.com/bill-carney/60min" title="Book a conversation" target="_blank" rel="noopener noreferrer" class="nav-cta">Book a conversation</a>
+        
+        
+        <button
+          class="site-search-trigger dib v-mid"
+          type="button"
+          aria-label="Search the site"
+          aria-haspopup="dialog"
+          aria-controls="site-search-dialog"
+          aria-expanded="false"
+          data-site-search-open
+        >
+          <span class="icon-search" aria-hidden="true"></span>
+        </button>
+        
+      </div>
+    </nav>
+  </div>
+  <div
+  class="site-search-overlay"
+  id="site-search-dialog"
+  data-site-search-root
+  data-site-search-index="/index.json"
+  hidden
+>
+  <div class="site-search-backdrop" data-site-search-close></div>
+  <div class="site-search-panel" role="dialog" aria-modal="true" aria-labelledby="site-search-title">
+    <div class="site-search-panel-header">
+      <span class="site-search-panel-icon icon-search" aria-hidden="true"></span>
+      <div class="site-search-panel-copy">
+        <p class="site-search-title" id="site-search-title">Search the site</p>
+        <p class="site-search-hint">Search posts, pages, and projects.</p>
+      </div>
+      <button class="site-search-close" type="button" aria-label="Close search" data-site-search-close>
+        <span class="icon-close" aria-hidden="true"></span>
+      </button>
+    </div>
+    <label class="clip" for="site-search-input">Search the site</label>
+    <input
+      class="site-search-input"
+      id="site-search-input"
+      type="search"
+      name="search"
+      placeholder="Type to search..."
+      autocomplete="off"
+      spellcheck="false"
+      data-site-search-input
+    >
+    <p class="site-search-status" data-site-search-status>Start typing to search.</p>
+    <div class="site-search-results" data-site-search-results></div>
+  </div>
+</div>
+
+</header>
+
+
+
+
+
+
+
+<main class="post-main" role="main">
+  <section class="post-shell post-shell--three-quarter">
+    <article class="post-content">
+      <header class="post-header">
+        <div class="post-meta-line">
+          <a href="/categories/ai-automation/">AI &amp; Automation</a>
+          <time datetime="2026-06-01">June 1, 2026</time>
+          <span>15 min read</span>
+        </div>
+        <h1>AI Agents Need More Than a Semantic Layer</h1>
+        <p class="post-subtitle">Why enterprise agents need working memory, semantic memory, procedural memory, and episodic memory</p>
+        
+<ul class="tag-list" aria-label="Topics">
+  
+  <li><a href="/tags/ai-agents/">AI agents</a></li>
+  
+  <li><a href="/tags/semantic-layer/">semantic layer</a></li>
+  
+  <li><a href="/tags/cognitive-architecture/">cognitive architecture</a></li>
+  
+  <li><a href="/tags/mcp/">MCP</a></li>
+  
+  <li><a href="/tags/a2a/">A2A</a></li>
+  
+  <li><a href="/tags/agentic-ai/">agentic AI</a></li>
+  
+</ul>
+
+
+      </header>
+      <section class="post-body">
+        <p><img src="/blog/assets/goldfish.jpg" alt="goldfish in an aquarium"></p>
+<p>A semantic layer is not an AI strategy.</p>
+<p>It is one important part of one.</p>
+<p>That distinction matters because a lot of companies are still treating AI like a smarter search box. They connect a model to documents, databases, dashboards, SaaS tools, or internal knowledge bases and expect useful work to fall out the other side.</p>
+<p>Sometimes it does.</p>
+<p>More often, the model gives a plausible answer, misses the business logic, forgets the prior context, or takes an action without understanding how the work is actually supposed to get done.</p>
+<p>That is not just an AI problem.</p>
+<p>It is an architecture problem.</p>
+<p>A recent AtScale post argues that SaaS companies need a semantic layer for AI. I agree with the core point. If AI is going to reason over business data, it needs access to business meaning, not just raw tables, fields, and application objects.</p>
+<p>Metrics need definitions. Entities need relationships. Revenue, pipeline, churn, account health, utilization, inventory, claims, and customer behavior need a shared business vocabulary.</p>
+<p>Without that layer, the AI is forced to guess. And when the model has to guess which definition is authoritative, which field is trusted, or how one business object relates to another, it may still produce a confident answer.</p>
+<p>That is the uncomfortable part.</p>
+<p>The answer can sound reasonable and still be wrong in a way that creates operating risk.</p>
+<p>But here is the thing: meaning is not the same as action.</p>
+<p>A semantic layer can tell an agent what pipeline coverage means. It does not automatically tell the agent what to do when pipeline coverage falls below target in the enterprise segment for two consecutive weeks.</p>
+<p>That requires more than semantics.</p>
+<p>It requires memory, procedures, context, feedback, permissions, and governance.</p>
+<p>Another way to frame it: most agent failures are either goldfish problems or elephant problems.</p>
+<p>The goldfish problem is short memory. The agent cannot hold the current goal, constraint, approval, or recent decision long enough to finish real work.</p>
+<p>The elephant problem is long memory. The agent has no durable record of what the business means, what workflow to follow, what happened before, or what lessons should carry forward.</p>
+<p>Good enterprise agents need both. They need enough goldfish memory to stay coherent in the moment and enough elephant memory to learn from the organization&rsquo;s operating history.</p>
+<h2 id="the-semantic-layer-is-necessary-but-not-sufficient">The semantic layer is necessary, but not sufficient</h2>
+<p>The strongest version of the semantic-layer argument is not really about data engineering.</p>
+<p>It is about business meaning.</p>
+<p>A good semantic layer tells the AI what things mean inside the business. It helps prevent every team, tool, and dashboard from inventing its own definition of the same metric. It gives an agent a better chance of answering questions like:</p>
+<p>What is a qualified opportunity?</p>
+<p>What counts as expansion revenue?</p>
+<p>Which accounts are at risk?</p>
+<p>What does utilization mean here?</p>
+<p>Which activities influenced pipeline versus created pipeline?</p>
+<p>That is valuable. For SaaS companies, it may become part of the product moat. The product is no longer just the workflow. The product is also the encoded business understanding behind the workflow.</p>
+<p>But a semantic layer mostly answers one question:</p>
+<p>What does this mean?</p>
+<p>Enterprise agents need to answer a harder set of questions.</p>
+<p>What am I doing right now?</p>
+<p>What does this concept mean in this domain?</p>
+<p>What workflow should I follow?</p>
+<p>What happened last time?</p>
+<p>What am I allowed to know, remember, share, and do?</p>
+<p>That is a different architecture.</p>
+<h2 id="ai-agents-need-a-memory-architecture">AI agents need a memory architecture</h2>
+<p>The paper &ldquo;Cognitive Architectures for Language Agents&rdquo; offers a useful way to think about this. The authors describe language agents as systems built around memory, action, and decision-making. They distinguish between short-term working memory and several types of long-term memory: semantic, episodic, and procedural.</p>
+<p>That maps cleanly to what enterprise AI systems actually need.</p>
+<p>A useful agent should not be one giant prompt. It should feel more like an operating system for work.</p>
+<p>It needs temporary context for the task at hand. It needs governed business knowledge. It needs reusable skills. It needs a record of what happened before. And it needs a decision process for choosing what to do next.</p>
+<p>That is why the goldfish-and-elephant distinction is useful. Working memory keeps the agent from losing the thread right now. Long-term memory keeps the agent from starting over every time.</p>
+<p>The simple version looks like this:</p>
+<ul>
+<li>Working memory: What am I doing right now?</li>
+<li>Semantic memory: What do these concepts mean in my domain?</li>
+<li>Procedural memory: What skills and workflows am I allowed to perform?</li>
+<li>Episodic memory: What have I experienced before, and what worked?</li>
+</ul>
+<p>The power is not in any one memory type.</p>
+<p>The power is in the combination.</p>
+<h2 id="working-memory-is-the-live-operating-context">Working memory is the live operating context</h2>
+<p>Working memory is the agent&rsquo;s active context.</p>
+<p>It includes the current request, current goal, relevant constraints, recent observations, open decisions, and the state of the task being performed.</p>
+<p>For a marketing agent, working memory might include the campaign being planned, the audience being targeted, the current budget, the product message being tested, the deadline, the open approvals, and the most recent instruction from the human owner.</p>
+<p>Working memory is short-lived, but it is essential. Without it, the agent cannot maintain coherence across a multi-step task. It may answer one question correctly and then lose the plot three steps later.</p>
+<p>That is why context windows alone are not enough.</p>
+<p>A long context window may hold more information. But working memory is about structure, not just volume. The agent needs to know what is active, what is relevant, what has already been decided, and what should be ignored.</p>
+<p>For business AI, this is where the live operating context sits.</p>
+<h2 id="semantic-memory-is-where-meaning-lives">Semantic memory is where meaning lives</h2>
+<p>Semantic memory is where the semantic layer fits.</p>
+<p>This is the agent&rsquo;s structured knowledge about the business: definitions, entities, relationships, metrics, taxonomies, policies, products, customers, roles, segments, and rules.</p>
+<p>For a SaaS company, semantic memory may include the definition of annual recurring revenue, net revenue retention, gross revenue retention, pipeline, churn, expansion, and activation. It may define the relationship between accounts, opportunities, contacts, products, subscriptions, tickets, and usage events.</p>
+<p>It may also include the company&rsquo;s official segmentation model, product hierarchy, approved claim language, data governance rules, and the distinction between a marketing qualified lead, a sales accepted lead, and a sales qualified opportunity.</p>
+<p>This is where the AtScale argument is strongest.</p>
+<p>If AI does not understand the business meaning of the data, it cannot reliably reason over the business. It may retrieve a field called amount without knowing whether that means booked revenue, forecast revenue, invoice amount, contract value, or opportunity value.</p>
+<p>A semantic layer reduces that ambiguity.</p>
+<p>It also reduces one of the common conditions that leads to hallucination: uncertainty disguised as confidence. When business meaning is not explicit, the model may infer meaning from field names, nearby text, or statistical patterns.</p>
+<p>Sometimes that inference is right.</p>
+<p>Sometimes it is dangerously wrong.</p>
+<p>But semantic memory should not be confused with all of memory. It is the &ldquo;what things mean&rdquo; layer. It is not the &ldquo;what should I do,&rdquo; &ldquo;what happened last time,&rdquo; or &ldquo;how do I perform this task&rdquo; layer.</p>
+<h2 id="procedural-memory-is-where-ai-becomes-operational">Procedural memory is where AI becomes operational</h2>
+<p>Procedural memory is the missing layer in many AI strategies.</p>
+<p>This is where skills live.</p>
+<p>A skill is not just a prompt. It is a reusable procedure with defined inputs, steps, tools, checks, outputs, and escalation rules.</p>
+<p>In human terms, procedural memory is the difference between knowing what a campaign is and knowing how to launch one.</p>
+<p>For a marketing operations agent, procedural memory might include skills for building a campaign brief, creating a launch workback plan, reviewing a landing page against claim policy, generating a weekly pipeline gap analysis, preparing a sales follow-up sequence, or checking whether a case study has enough proof to support a claim.</p>
+<p>For a finance agent, it might include invoice reconciliation, anomaly detection, close preparation, or budget variance explanation.</p>
+<p>For a customer success agent, it might include renewal-risk analysis, support-history summarization, QBR preparation, or next-best-action recommendations based on usage and ticket patterns.</p>
+<p>This is where governance becomes critical.</p>
+<p>Some procedures should be read-only. Some should require approval. Some should be allowed to draft but not send. Some should be allowed to recommend but not execute. Some should never be available to the agent at all.</p>
+<p>A semantic layer can tell an agent what churn risk means.</p>
+<p>Procedural memory tells it how to investigate churn risk, what evidence to gather, what playbook to follow, and when to escalate to a human.</p>
+<p>That is the operating difference.</p>
+<h2 id="episodic-memory-is-where-experience-starts-to-compound">Episodic memory is where experience starts to compound</h2>
+<p>Episodic memory stores experience.</p>
+<p>It is the long-term record of prior interactions, decisions, outcomes, campaigns, customer conversations, approvals, mistakes, exceptions, and lessons learned.</p>
+<p>For business AI, episodic memory might include prior campaigns, accepted and rejected recommendations, sales objections, legal approvals, account interactions, renewal cycles, implementation delays, budget exceptions, and performance outcomes.</p>
+<p>This is where AI can start to improve.</p>
+<p>But there is an important caveat: episodic memory does not automatically equal learning.</p>
+<p>It becomes learning only when the agent can store the episode, retrieve the right prior episode at the right moment, reason over what happened, and convert that experience into better future action.</p>
+<p>Otherwise, it is just a log with better branding.</p>
+<p>In marketing terms, episodic memory lets the agent learn that one campaign angle produced meetings but weak opportunities, that legal rejected a certain claim pattern, that enterprise buyers responded better to implementation-risk content than ROI language, or that a particular follow-up sequence improved conversion.</p>
+<p>The agent is no longer starting from a generic playbook.</p>
+<p>It is learning from the organization&rsquo;s actual operating history.</p>
+<h2 id="a-practical-example">A practical example</h2>
+<p>Imagine an AI agent helping a VP of Marketing diagnose a pipeline gap.</p>
+<p>The current request is simple:</p>
+<p>&ldquo;Explain why enterprise pipeline is below target this month and recommend actions before the forecast call.&rdquo;</p>
+<p>Working memory holds the live task: the request, deadline, segment, constraints, open questions, and current state of the analysis.</p>
+<p>Semantic memory defines pipeline, enterprise segment, target accounts, opportunity stages, campaign attribution, source definitions, and what &ldquo;below target&rdquo; means in this business.</p>
+<p>Procedural memory supplies the analysis skill: pull pipeline by segment, compare to target, inspect conversion by stage, check campaign activity, review sales follow-up, generate recommendations, and flag confidence level.</p>
+<p>Episodic memory adds experience: the same pattern happened two quarters ago when webinar follow-up lagged, paid search spend shifted too late, and the enterprise nurture sequence underperformed.</p>
+<p>Now the agent can do more than summarize a dashboard.</p>
+<p>It can reason in context, follow a repeatable procedure, learn from prior episodes, and recommend a next action.</p>
+<p>That is the difference between AI as a reporting layer and AI as an operating layer.</p>
+<h2 id="where-mcp-and-a2a-fit">Where MCP and A2A fit</h2>
+<p>This is where Model Context Protocol (MCP) and Agent2Agent (A2A) enter the conversation.</p>
+<p>They matter.</p>
+<p>But they are not memory types. They are connection and coordination protocols.</p>
+<p>MCP is best understood as an agent-to-tool and agent-to-context connection layer. It helps AI applications connect to external systems, data sources, tools, and workflows. In this framework, MCP supports retrieval and grounding. It lets an agent reach into systems like customer relationship management, project management, analytics, file storage, support, code, or internal databases.</p>
+<p>A2A is different. A2A is an agent-to-agent coordination layer. It helps one agent communicate with another agent, exchange information, and coordinate work across systems.</p>
+<p>The distinction is simple.</p>
+<p>MCP connects agents to systems.</p>
+<p>A2A connects agents to agents.</p>
+<p>Memory makes each agent useful.</p>
+<p>Governance decides what each agent is allowed to know, remember, share, and do.</p>
+<p>Connection is not cognition.</p>
+<p>A badly designed agent with MCP access is just a more dangerous chatbot with better reach. A swarm of agents connected by A2A is not automatically an operating system. Without memory, procedures, permissions, evaluation, and audit trails, it is just distributed improvisation.</p>
+<h2 id="the-second-agent-can-have-memory-too">The second agent can have memory too</h2>
+<p>A2A does not mean one smart agent talks to one dumb service.</p>
+<p>In the better version, the second agent can also be a full cognitive agent with its own working, semantic, procedural, and episodic memory.</p>
+<p>A marketing agent may maintain working memory for the current campaign, semantic memory for funnel definitions and ideal customer profile, procedural memory for campaign execution skills, and episodic memory from prior launches.</p>
+<p>A finance agent may maintain working memory for the current budget request, semantic memory for accounting definitions, procedural memory for approval and variance-analysis workflows, and episodic memory from prior budget cycles.</p>
+<p>A legal agent may maintain working memory for the current claim review, semantic memory for approved language and risk categories, procedural memory for review workflows, and episodic memory from prior rejected claims, exceptions, and approvals.</p>
+<p>A2A is the protocol that lets those agents collaborate. It is not a substitute for memory. It is the coordination layer between memory-bearing agents.</p>
+<p>That creates a product and governance problem.</p>
+<p>Memory does not have to be centralized. In many enterprise systems, it probably should not be.</p>
+<p>A legal agent should not have the same episodic memory as a sales agent. A finance agent should not have the same procedural permissions as a marketing agent. A customer success agent may need account history that a content agent should never see.</p>
+<p>Once agents have their own memories, A2A becomes a trust boundary.</p>
+<p>When one agent asks another for help, the system needs to decide what context can be shared, what should remain private, whether the receiving agent can store the interaction, whether it can use that episode to improve future behavior, whether it can pass the request to a third agent, and whether it can take action or only recommend action.</p>
+<p>Those are not just protocol questions.</p>
+<p>They are governance, security, and product-design questions.</p>
+<h2 id="why-this-matters-for-saas-companies">Why this matters for SaaS companies</h2>
+<p>SaaS companies are under pressure to show that AI is not just a feature wrapper.</p>
+<p>Customers are starting to ask harder questions.</p>
+<p>Does the AI understand our business?</p>
+<p>Can it act safely inside our workflow?</p>
+<p>Can it explain its recommendations?</p>
+<p>Can it improve based on our history?</p>
+<p>Can it use our definitions instead of generic internet definitions?</p>
+<p>Can it coordinate with other agents?</p>
+<p>Can it respect approvals, permissions, and audit requirements?</p>
+<p>A semantic layer helps with business meaning. MCP helps with tool and system access. A2A helps with agent coordination.</p>
+<p>But the bigger strategic question is whether the product has an agent-ready architecture.</p>
+<p>That means the product needs to expose more than data. It needs to expose meaning, skills, memory, coordination, and governance.</p>
+<p>The strategic questions are now:</p>
+<ul>
+<li>What is our semantic layer, what native skills should our product expose, what episodic memory should our AI preserve, and what working memory does the agent need during live work?</li>
+<li>Which actions are allowed, restricted, or approval-gated, and which memories are customer-specific, tenant-specific, role-specific, or global?</li>
+<li>Which memories can the agent write to, which are read-only, and which must be forgotten?</li>
+<li>Which tools are available through MCP, which agents are available through A2A, and what context can agents share with each other?</li>
+<li>What must be logged, reviewed, approved, or explained?</li>
+</ul>
+<p>Those are not purely technical questions anymore.</p>
+<p>They are product strategy questions.</p>
+<h2 id="the-real-moat-is-operational-memory">The real moat is operational memory</h2>
+<p>The semantic layer may become a SaaS superpower.</p>
+<p>But the broader moat is operational memory.</p>
+<p>The best AI systems will know what the business means, how the work gets done, what is happening right now, and what happened before. They will also know which tools they can access, which agents they can coordinate with, and where the governance boundaries sit.</p>
+<p>That is how AI moves from chat to execution.</p>
+<p>For marketing teams, this distinction matters a lot.</p>
+<p>Marketing does not suffer from a lack of content, dashboards, or tools. It suffers from fragmented execution. Work is scattered across calendars, spreadsheets, project boards, documents, analytics tools, customer relationship management fields, Slack threads, and agency updates.</p>
+<p>An AI marketing operator needs all four memory types.</p>
+<p>It needs working memory to manage the current campaign.</p>
+<p>It needs semantic memory to understand the company&rsquo;s ideal customer profile, funnel stages, segments, offers, claims, metrics, and attribution model.</p>
+<p>It needs procedural memory to execute repeatable marketing skills.</p>
+<p>It needs episodic memory to learn from prior launches, approvals, misses, wins, and postmortems.</p>
+<p>It may use MCP to access campaign systems, analytics, project plans, documents, dashboards, and customer data. It may use A2A to coordinate with finance, legal, sales operations, customer success, or analytics agents.</p>
+<p>Without that full architecture, AI becomes another layer of commentary on top of already fragmented work.</p>
+<p>With it, AI can become part of the operating system.</p>
+<h2 id="the-bottom-line">The bottom line</h2>
+<p>The semantic layer matters.</p>
+<p>It gives AI a shared understanding of business meaning. It reduces one of the major causes of hallucination: forcing the model to infer context that should have been explicit.</p>
+<p>But AI agents need more than meaning.</p>
+<p>They need current context, governed knowledge, reusable procedures, lived experience, tool access, agent coordination, and controls.</p>
+<p>The next phase of enterprise AI will not be won by companies that simply connect a large language model to their application.</p>
+<p>It will be won by companies that design memory architectures around how work actually happens.</p>
+<p>Working memory tells the agent what it is doing right now.</p>
+<p>Semantic memory tells the agent what concepts mean in the domain.</p>
+<p>Procedural memory tells the agent what skills and workflows it is allowed to perform.</p>
+<p>Episodic memory tells the agent what it has experienced before and what worked.</p>
+<p>MCP connects agents to tools and systems.</p>
+<p>A2A connects agents to other agents.</p>
+<p>Governance decides what each agent can know, remember, share, and do.</p>
+<p>Put together, those layers turn AI from a clever interface into a system that can operate, learn, coordinate, and improve.</p>
+<p>That is where the real enterprise value will come from.</p>
+<h2 id="sources-and-references">Sources and references</h2>
+<ol>
+<li>Theodore R. Sumers, Shunyu Yao, Karthik Narasimhan, and Thomas L. Griffiths, &ldquo;Cognitive Architectures for Language Agents,&rdquo; Transactions on Machine Learning Research, 2024.</li>
+<li>AtScale, &ldquo;Semantic Layer SaaS AI Strategy,&rdquo; AtScale blog.</li>
+<li>Anthropic, &ldquo;Introducing the Model Context Protocol,&rdquo; 2024.</li>
+<li>Model Context Protocol documentation, &ldquo;What is the Model Context Protocol?&rdquo;</li>
+<li>Google Developers Blog, &ldquo;Announcing the Agent2Agent Protocol,&rdquo; 2025.</li>
+<li>Patrick Lewis et al., &ldquo;Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks,&rdquo; Advances in Neural Information Processing Systems, 2020.</li>
+<li>Shunyu Yao et al., &ldquo;ReAct: Synergizing Reasoning and Acting in Language Models,&rdquo; 2022.</li>
+<li>Noah Shinn et al., &ldquo;Reflexion: Language Agents with Verbal Reinforcement Learning,&rdquo; 2023.</li>
+<li>Joon Sung Park et al., &ldquo;Generative Agents: Interactive Simulacra of Human Behavior,&rdquo; 2023.</li>
+<li>Guanzhi Wang et al., &ldquo;Voyager: An Open-Ended Embodied Agent with Large Language Models,&rdquo; 2023.</li>
+</ol>
+<p>Photo by <a href="https://unsplash.com/@skypeople101?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">shuvrodeep dutta</a> on <a href="https://unsplash.com/photos/a-close-up-of-a-goldfish-in-an-aquarium-XyYXk3wRTT4?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+
+      </section>
+      <footer class="post-footer">
+        <div class="post-pagination dt w-100 mt4 mb2">
+  
+    <a class="prev dtc pr2 tl v-top fw6"
+    href="https://carney.wiki/blog/ai-era-make-yes-safe/">&larr; Make Yes Safe</a>
+  
+  
+    <a class="next dtc pl2 tr v-top fw6"
+    href="https://carney.wiki/blog/ai-era-social-community-rails/">Social and Community Are Distribution Rails &rarr;</a>
+  
+</div>
+
+      </footer>
+    </article>
+    <aside class="post-sidebar" aria-label="Post details">
+      
+      <nav class="post-sidebar-block post-sidebar-toc" aria-label="Table of contents">
+        <p class="post-sidebar-label">On this page</p>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#the-semantic-layer-is-necessary-but-not-sufficient">The semantic layer is necessary, but not sufficient</a></li>
+    <li><a href="#ai-agents-need-a-memory-architecture">AI agents need a memory architecture</a></li>
+    <li><a href="#working-memory-is-the-live-operating-context">Working memory is the live operating context</a></li>
+    <li><a href="#semantic-memory-is-where-meaning-lives">Semantic memory is where meaning lives</a></li>
+    <li><a href="#procedural-memory-is-where-ai-becomes-operational">Procedural memory is where AI becomes operational</a></li>
+    <li><a href="#episodic-memory-is-where-experience-starts-to-compound">Episodic memory is where experience starts to compound</a></li>
+    <li><a href="#a-practical-example">A practical example</a></li>
+    <li><a href="#where-mcp-and-a2a-fit">Where MCP and A2A fit</a></li>
+    <li><a href="#the-second-agent-can-have-memory-too">The second agent can have memory too</a></li>
+    <li><a href="#why-this-matters-for-saas-companies">Why this matters for SaaS companies</a></li>
+    <li><a href="#the-real-moat-is-operational-memory">The real moat is operational memory</a></li>
+    <li><a href="#the-bottom-line">The bottom line</a></li>
+    <li><a href="#sources-and-references">Sources and references</a></li>
+  </ul>
+</nav>
+      </nav>
+      
+      <div class="post-sidebar-block">
+        <p class="post-sidebar-label">Posted on:</p>
+        <p class="post-sidebar-value"><time datetime="2026-06-01">June 1, 2026</time></p>
+      </div>
+      <div class="post-sidebar-block">
+        <p class="post-sidebar-label">Length:</p>
+        <p class="post-sidebar-value">15 minute read, 3095 words</p>
+      </div>
+      
+      <div class="post-sidebar-block">
+        <p class="post-sidebar-label">Categories:</p>
+        <ul class="post-sidebar-list">
+          <li><a href="/categories/ai-automation/">AI &amp; Automation</a></li><li><a href="/categories/data-analytics/">Data &amp; Analytics</a></li><li><a href="/categories/marketing-operations/">Marketing Operations</a></li>
+        </ul>
+      </div>
+      
+      
+      <div class="post-sidebar-block">
+        <p class="post-sidebar-label">Tags:</p>
+        <ul class="post-sidebar-list">
+          <li><a href="/tags/ai-agents/">AI agents</a></li><li><a href="/tags/semantic-layer/">semantic layer</a></li><li><a href="/tags/cognitive-architecture/">cognitive architecture</a></li><li><a href="/tags/mcp/">MCP</a></li><li><a href="/tags/a2a/">A2A</a></li><li><a href="/tags/agentic-ai/">agentic AI</a></li>
+        </ul>
+      </div>
+      
+      
+      <div class="post-sidebar-block post-sidebar-see-also">
+        <p class="post-sidebar-label">See Also:</p>
+        <ul class="post-sidebar-list post-sidebar-list--stacked">
+          <li><a href="/blog/enterprise-context-layer-is-an-operating-system/">The Enterprise Context Layer Is an Operating System</a></li>
+        </ul>
+      </div>
+      
+    </aside>
+  </section>
+  
+  <section class="related-insights related-insights--bottom" aria-label="Related insights">
+    <div class="section-split">
+      <div class="section-header">
+        <p class="section-eyebrow">Related insights</p>
+        <h2>Keep reading.</h2>
+      </div>
+      <a class="text-link" href="/blog/">Visit insights</a>
+    </div>
+    <div class="insight-grid">
+      
+        
+
+<article class="insight-card">
+  <a class="insight-card-link" href="/blog/enterprise-context-layer-is-an-operating-system/" aria-label="Read The Enterprise Context Layer Is an Operating System">
+    
+    
+    <span class="insight-card-media" aria-hidden="true">
+      <img src="/blog/assets/sprawl.jpg" alt="" loading="lazy">
+    </span>
+    
+    
+    <div class="insight-card-meta">
+      <span>AI &amp; Automation</span>
+      <time datetime="2026-07-01">Jul 1, 2026</time>
+    </div>
+    <h3>The Enterprise Context Layer Is an Operating System</h3>
+    <p class="insight-card-subtitle">LLMs reason. RAG grounds. Agents execute. MCP integrates. The context layer governs what the system knows, does, remembers, and improves.</p>
+    <p>Most companies are buying LLMs, RAG, agents, and MCP like separate products. They are really four layers of one architecture. The missing enterprise layer is governed context: meaning, skills, security, and recursive learning.</p>
+    <span class="card-button">Read insight</span>
+  </a>
+</article>
+
+      
+    </div>
+  </section>
+  
+  
+</main>
+<footer class="site-footer" role="contentinfo">
+  <nav class="site-footer-nav" aria-label="Footer navigation">
+    <p class="site-copyright">
+      &copy; 2026 Carney, all rights reserved.
+      
+    </p>
+    
+    <div class="site-footer-links">
+      
+      <a href="https://clients.carney.wiki/" title="Client login">Clients</a>
+      
+      <a href="/projects/" title="Current Projects">Projects</a>
+      
+      <a href="/blog/" title="Insights">Insights</a>
+      
+      <a href="/offers/" title="AI-era marketing offers">Offers</a>
+      
+      <a href="/trust/" title="Trust and verification">Trust</a>
+      
+      <a href="/pricing/" title="Public pricing">Pricing</a>
+      
+      <a href="/faq/" title="Frequently asked questions">FAQ</a>
+      
+      <a href="https://cal.com/bill-carney/60min" title="Book a conversation">Contact</a>
+      
+      <a href="/index.xml" title="RSS Feed">RSS</a>
+      
+      <a href="https://amzn.to/4bKdyte" title="Buy my Book">Book</a>
+      
+    </div>
+  </nav>
+</footer>
+
+      </div>
+      <script defer src="/js/site-search.js"></script>
+      <script defer src="/js/offer-events.js"></script>
+    </body>
+</html>
