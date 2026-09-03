@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Agentic AI on carney.wiki</title><link>https://carney.wiki/tags/agentic-ai/</link><description>Recent content in Agentic AI on carney.wiki</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/agentic-ai/index.xml" rel="self" type="application/rss+xml"/><item><title>AI Agents Need More Than a Semantic Layer</title><link>https://carney.wiki/blog/ai-agents-need-more-than-semantic-layer/</link><pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-agents-need-more-than-semantic-layer/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/goldfish.jpg" alt="goldfish in an aquarium"&gt;&lt;/p&gt;
+&lt;p&gt;A semantic layer is not an AI strategy.&lt;/p&gt;
+&lt;p&gt;It is one important part of one.&lt;/p&gt;
+&lt;p&gt;That distinction matters because a lot of companies are still treating AI like a smarter search box. They connect a model to documents, databases, dashboards, SaaS tools, or internal knowledge bases and expect useful work to fall out the other side.&lt;/p&gt;
+&lt;p&gt;Sometimes it does.&lt;/p&gt;
+&lt;p&gt;More often, the model gives a plausible answer, misses the business logic, forgets the prior context, or takes an action without understanding how the work is actually supposed to get done.&lt;/p&gt;</description></item><item><title>Your AI Agent Is a Toddler With Root Access</title><link>https://carney.wiki/blog/your-ai-agent-is-a-toddler-with-root-access/</link><pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/your-ai-agent-is-a-toddler-with-root-access/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/toddler.jpg" alt="Your AI agent is a toddler with root access"&gt;&lt;/p&gt;
+&lt;p&gt;Agentic AI is no longer a demo.&lt;/p&gt;
+&lt;p&gt;It calls APIs.&lt;/p&gt;
+&lt;p&gt;It writes to databases.&lt;/p&gt;
+&lt;p&gt;It triggers workflows that affect customers, revenue, and operations.&lt;/p&gt;
+&lt;p&gt;That is powerful.&lt;/p&gt;
+&lt;p&gt;It is also a fundamental shift in risk.&lt;/p&gt;
+&lt;p&gt;Once an AI system moves from advisory to execution, it becomes part of the control plane. Whether the organization admits that or not is mostly irrelevant. The risk already changed.&lt;/p&gt;</description></item><item><title>How Prompt Injection Attacks Actually Work</title><link>https://carney.wiki/blog/how-prompt-injection-attacks-actually-work/</link><pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/how-prompt-injection-attacks-actually-work/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/injection.jpg" alt="Prompt injection and AI security"&gt;&lt;/p&gt;
+&lt;p&gt;Prompt injection is not a clever chatbot trick anymore.&lt;/p&gt;
+&lt;p&gt;It is one of the core security problems in AI systems.&lt;/p&gt;
+&lt;p&gt;The reason is uncomfortable: large language models do not reliably separate instructions from data. They interpret text. That text may come from a user, a document, a webpage, a support ticket, an email, a retrieved knowledge base article, or another AI system.&lt;/p&gt;
+&lt;p&gt;To a human, some of that text is obviously content.&lt;/p&gt;</description></item></channel></rss>

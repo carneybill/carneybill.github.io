@@ -14,6 +14,23 @@
     }, params));
   }
 
+  function pushDataLayerEvent(name, params) {
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push(Object.assign({
+      event: name,
+      page_location: window.location.href,
+      page_path: window.location.pathname
+    }, params));
+  }
+
+  function getQueryParam(name) {
+    try {
+      return new URLSearchParams(window.location.search).get(name) || "";
+    } catch (error) {
+      return "";
+    }
+  }
+
   function normalizeText(value) {
     return (value || "").replace(/\s+/g, " ").trim().slice(0, 120);
   }
@@ -58,7 +75,46 @@
     }
   }
 
-  document.addEventListener("DOMContentLoaded", trackOfferPageView);
+  function trackStripeCheckoutSuccess() {
+    var path = window.location.pathname.replace(/\/+$/, "");
+
+    if (path !== "/thank-you") {
+      return;
+    }
+
+    var sessionId = getQueryParam("session_id");
+    var sessionNode = document.querySelector("[data-checkout-session]");
+    var sessionWrap = document.querySelector("[data-checkout-session-wrap]");
+
+    if (sessionId && sessionNode) {
+      sessionNode.textContent = sessionId;
+
+      if (sessionWrap) {
+        sessionWrap.hidden = false;
+      }
+    }
+
+    if (!sessionId) {
+      return;
+    }
+
+    pushDataLayerEvent("stripe_checkout_success", {
+      checkout_session_id: sessionId,
+      transaction_id: sessionId,
+      source: "stripe_checkout"
+    });
+
+    sendEvent("stripe_checkout_success", {
+      checkout_session_id: sessionId,
+      transaction_id: sessionId,
+      source: "stripe_checkout"
+    });
+  }
+
+  document.addEventListener("DOMContentLoaded", function () {
+    trackOfferPageView();
+    trackStripeCheckoutSuccess();
+  });
 
   document.addEventListener("click", function (event) {
     var link = event.target && event.target.closest ? event.target.closest("a") : null;

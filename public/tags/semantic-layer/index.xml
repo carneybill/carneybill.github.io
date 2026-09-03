@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Semantic Layer on carney.wiki</title><link>https://carney.wiki/tags/semantic-layer/</link><description>Recent content in Semantic Layer on carney.wiki</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/semantic-layer/index.xml" rel="self" type="application/rss+xml"/><item><title>The Enterprise Context Layer Is an Operating System</title><link>https://carney.wiki/blog/enterprise-context-layer-is-an-operating-system/</link><pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/enterprise-context-layer-is-an-operating-system/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/sprawl.jpg" alt="Enterprise AI architecture and tool sprawl"&gt;&lt;/p&gt;
+&lt;p&gt;Most companies are buying four AI products.&lt;/p&gt;
+&lt;p&gt;They are actually building one system.&lt;/p&gt;
+&lt;p&gt;LLMs.&lt;/p&gt;
+&lt;p&gt;RAG.&lt;/p&gt;
+&lt;p&gt;Agents.&lt;/p&gt;
+&lt;p&gt;MCP.&lt;/p&gt;
+&lt;p&gt;These terms get thrown around like they are interchangeable. They are not. They are different layers in the same architecture.&lt;/p&gt;
+&lt;p&gt;LLMs reason.&lt;/p&gt;
+&lt;p&gt;RAG grounds.&lt;/p&gt;
+&lt;p&gt;Agents execute.&lt;/p&gt;
+&lt;p&gt;MCP integrates.&lt;/p&gt;
+&lt;p&gt;But none of those, by themselves, gives the enterprise what it really needs: governed context that can be trusted, secured, reused, and improved over time.&lt;/p&gt;</description></item><item><title>AI Agents Need More Than a Semantic Layer</title><link>https://carney.wiki/blog/ai-agents-need-more-than-semantic-layer/</link><pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/ai-agents-need-more-than-semantic-layer/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/goldfish.jpg" alt="goldfish in an aquarium"&gt;&lt;/p&gt;
+&lt;p&gt;A semantic layer is not an AI strategy.&lt;/p&gt;
+&lt;p&gt;It is one important part of one.&lt;/p&gt;
+&lt;p&gt;That distinction matters because a lot of companies are still treating AI like a smarter search box. They connect a model to documents, databases, dashboards, SaaS tools, or internal knowledge bases and expect useful work to fall out the other side.&lt;/p&gt;
+&lt;p&gt;Sometimes it does.&lt;/p&gt;
+&lt;p&gt;More often, the model gives a plausible answer, misses the business logic, forgets the prior context, or takes an action without understanding how the work is actually supposed to get done.&lt;/p&gt;</description></item><item><title>Data Governance Isn't Dead. It's Becoming AI Readiness.</title><link>https://carney.wiki/blog/did-governance-just-die/</link><pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/did-governance-just-die/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/crow.jpg" alt="AI governance under pressure"&gt;&lt;/p&gt;
+&lt;p&gt;Data governance is not dead.&lt;/p&gt;
+&lt;p&gt;Governance theater is.&lt;/p&gt;
+&lt;p&gt;If you have ever sat through a data governance council where everyone agreed definitions matter and then immediately went back to shipping whatever, you know the problem.&lt;/p&gt;
+&lt;p&gt;The meeting was not governance.&lt;/p&gt;
+&lt;p&gt;It was a performance about governance.&lt;/p&gt;
+&lt;p&gt;That used to be annoying. In the AI era, it becomes dangerous.&lt;/p&gt;
+&lt;p&gt;Humans can often patch ambiguity with tribal knowledge. They know which dashboard is &amp;ldquo;really&amp;rdquo; used by finance, which field is stale, which Salesforce status is fiction, and which metric definition nobody says out loud.&lt;/p&gt;</description></item></channel></rss>

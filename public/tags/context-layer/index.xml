@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Context Layer on carney.wiki</title><link>https://carney.wiki/tags/context-layer/</link><description>Recent content in Context Layer on carney.wiki</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://carney.wiki/tags/context-layer/index.xml" rel="self" type="application/rss+xml"/><item><title>The Enterprise Context Layer Is an Operating System</title><link>https://carney.wiki/blog/enterprise-context-layer-is-an-operating-system/</link><pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate><guid>https://carney.wiki/blog/enterprise-context-layer-is-an-operating-system/</guid><description>&lt;p&gt;&lt;img src="https://carney.wiki/blog/assets/sprawl.jpg" alt="Enterprise AI architecture and tool sprawl"&gt;&lt;/p&gt;
+&lt;p&gt;Most companies are buying four AI products.&lt;/p&gt;
+&lt;p&gt;They are actually building one system.&lt;/p&gt;
+&lt;p&gt;LLMs.&lt;/p&gt;
+&lt;p&gt;RAG.&lt;/p&gt;
+&lt;p&gt;Agents.&lt;/p&gt;
+&lt;p&gt;MCP.&lt;/p&gt;
+&lt;p&gt;These terms get thrown around like they are interchangeable. They are not. They are different layers in the same architecture.&lt;/p&gt;
+&lt;p&gt;LLMs reason.&lt;/p&gt;
+&lt;p&gt;RAG grounds.&lt;/p&gt;
+&lt;p&gt;Agents execute.&lt;/p&gt;
+&lt;p&gt;MCP integrates.&lt;/p&gt;
+&lt;p&gt;But none of those, by themselves, gives the enterprise what it really needs: governed context that can be trusted, secured, reused, and improved over time.&lt;/p&gt;</description></item></channel></rss>
