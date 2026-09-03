@@ -31,7 +31,8 @@ The source screenshot shows the `Read insight` CTA as a white rectangle with unr
 
 1. P1 found: featured-card hover set the CTA background to `--bc-ink` while a later `!important` rule also set its text to `--bc-ink`, producing white-on-white text.
 2. Fix applied: parent-card hover and focus-within now use `--bc-accent` for the background, `--bc-accent-light` for the border, and `--bc-ink` for text.
-3. Post-fix evidence: `/tmp/carney-blog-hover-fixed.png`; computed hover colors confirm blue background and readable near-white text whether the pointer is on the CTA or elsewhere in the card.
+3. Post-fix local evidence: `/tmp/carney-blog-hover-fixed.png`; computed hover colors confirm blue background and readable near-white text whether the pointer is on the CTA or elsewhere in the card.
+4. The first public check still loaded the cached `custom.css?v=20260902-2` asset and reproduced the white-on-white state. The stylesheet URL was bumped to `custom.css?v=20260903-1` so returning browsers receive the corrected CSS.
 
 ## Implementation checklist
 
