@@ -3802,9 +3802,11 @@ form [type=submit]:hover {
 .offer-buy:hover,
 .offer-buy:focus,
 .card-button:hover,
-.card-button:focus-visible {
+.card-button:focus-visible,
+.insight-card:hover .card-button,
+.insight-card:focus-within .card-button {
   background: var(--bc-accent) !important;
-  border-color: var(--bc-accent) !important;
+  border-color: var(--bc-accent-light) !important;
   color: var(--bc-ink) !important;
 }
 
